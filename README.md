@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Malik Bilal</h1>
 <h3 align="center"> Harnessing the Potential of Software Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/4Zh-1cRCrRkAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikbilalakbar125&label=Profile%20views&color=0e75b6&style=flat" alt="malikbilalakbar125" /> </p>
 
