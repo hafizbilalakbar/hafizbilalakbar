@@ -1,4 +1,5 @@
-[![MasterHead](https://wallpaperboat.com/wp-content/uploads/2019/10/programming-14.jpg)
+![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/228448693/original/4fe7fcdf9484ab9dcdb0046b5ad12b0607c26dc0/made-attractive-design-banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Malik Bilal</h1>
 <h3 align="center"> Harnessing the Potential of Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/4Zh-1cRCrRkAAAAC/coding.gif">
