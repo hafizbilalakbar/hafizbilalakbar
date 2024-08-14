@@ -36,22 +36,35 @@
 ## Experience
 
 ### [Hexon Digital](https://hexondigital.com/)
-<img src="https://media.licdn.com/dms/image/C4D0BAQEEIA4CHBFqYA/company-logo_200_200/0/1630516840533/hexon_digital_logo?e=2147483647&v=beta&t=mSunUiQ-pDK_4FYnG8teTOTazbIBFrXjh6RmFM_YQAI" alt="Hexon Digital Logo" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin-bottom: 10px;">
-*Web Developer*  
-Faisalabad District, Punjab, Pakistan (On-site)  
-**Sep 2023 - Aug 2024 (1 yr)**
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="https://media.licdn.com/dms/image/C4D0BAQEEIA4CHBFqYA/company-logo_200_200/0/1630516840533/hexon_digital_logo?e=2147483647&v=beta&t=mSunUiQ-pDK_4FYnG8teTOTazbIBFrXjh6RmFM_YQAI" alt="Hexon Digital Logo" style="width: 60px; height: 60px; border-radius: 50%; margin-right: 15px;">
+  <div>
+    <strong>Web Developer</strong>  
+    <p>Faisalabad District, Punjab, Pakistan (On-site)</p>
+    <p><strong>Sep 2023 - Aug 2024 (1 yr)</strong></p>
+  </div>
+</div>
 
 ### [VNS | Software Agency - Shopify Plus Partner](https://vnstudios.com/)
-<img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" alt="VNS Logo" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin-bottom: 10px;">
-*Web App Developer*  
-Buenos Aires Province, Argentina (Remote)  
-**Feb 2021 - Aug 2023 (2 yrs 7 mos)**
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" alt="VNS Logo" style="width: 60px; height: 60px; border-radius: 50%; margin-right: 15px;">
+  <div>
+    <strong>Web App Developer</strong>  
+    <p>Buenos Aires Province, Argentina (Remote)</p>
+    <p><strong>Feb 2021 - Aug 2023 (2 yrs 7 mos)</strong></p>
+  </div>
+</div>
 
 ### [Fiverr](https://www.fiverr.com/)
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" alt="Fiverr Logo" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin-bottom: 10px;">
-*Web Application Developer*  
-Faisalabad, Punjab, Pakistan (Remote)  
-**Feb 2020 - Mar 2021 (1 yr 2 mos)**
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" alt="Fiverr Logo" style="width: 60px; height: 60px; border-radius: 50%; margin-right: 15px;">
+  <div>
+    <strong>Web Application Developer</strong>  
+    <p>Faisalabad, Punjab, Pakistan (Remote)</p>
+    <p><strong>Feb 2020 - Mar 2021 (1 yr 2 mos)</strong></p>
+  </div>
+</div>
+
 
 ---
 
