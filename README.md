@@ -35,13 +35,13 @@
 
 ## Experience
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
+<div style="display: flex; flex-direction: row; gap: 20px; flex-wrap: wrap;">
   <!-- Hexon Digital -->
-  <div style="display: flex; align-items: center; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-    <a href="https://hexondigital.com/" target="_blank" style="flex-shrink: 0;">
+  <div style="flex: 1 1 300px; margin: 10px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <a href="https://hexondigital.com/" target="_blank" style="display: block; width: 100%; height: 60px; background: #f4f4f4; display: flex; justify-content: center; align-items: center; overflow: hidden;">
       <img src="https://media.licdn.com/dms/image/C4D0BAQEEIA4CHBFqYA/company-logo_200_200/0/1630516840533/hexon_digital_logo?e=2147483647&v=beta&t=mSunUiQ-pDK_4FYnG8teTOTazbIBFrXjh6RmFM_YQAI" alt="Hexon Digital Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;">
     </a>
-    <div style="margin-left: 15px;">
+    <div style="padding: 15px;">
       <strong>Web Developer</strong>  
       <p>Faisalabad District, Punjab, Pakistan (On-site)</p>
       <p><strong>Sep 2023 - Aug 2024 (1 yr)</strong></p>
@@ -49,11 +49,11 @@
   </div>
 
   <!-- VNS | Software Agency -->
-  <div style="display: flex; align-items: center; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-    <a href="https://vnstudios.com/" target="_blank" style="flex-shrink: 0;">
+  <div style="flex: 1 1 300px; margin: 10px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <a href="https://vnstudios.com/" target="_blank" style="display: block; width: 100%; height: 60px; background: #f4f4f4; display: flex; justify-content: center; align-items: center; overflow: hidden;">
       <img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" alt="VNS Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;">
     </a>
-    <div style="margin-left: 15px;">
+    <div style="padding: 15px;">
       <strong>Web App Developer</strong>  
       <p>Buenos Aires Province, Argentina (Remote)</p>
       <p><strong>Feb 2021 - Aug 2023 (2 yrs 7 mos)</strong></p>
@@ -61,17 +61,25 @@
   </div>
 
   <!-- Fiverr -->
-  <div style="display: flex; align-items: center; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-    <a href="https://www.fiverr.com/" target="_blank" style="flex-shrink: 0;">
+  <div style="flex: 1 1 300px; margin: 10px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <a href="https://www.fiverr.com/" target="_blank" style="display: block; width: 100%; height: 60px; background: #f4f4f4; display: flex; justify-content: center; align-items: center; overflow: hidden;">
       <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" alt="Fiverr Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;">
     </a>
-    <div style="margin-left: 15px;">
+    <div style="padding: 15px;">
       <strong>Web Application Developer</strong>  
       <p>Faisalabad, Punjab, Pakistan (Remote)</p>
       <p><strong>Feb 2020 - Mar 2021 (1 yr 2 mos)</strong></p>
     </div>
   </div>
 </div>
+
+<style>
+/* CSS for hover effect */
+div > div:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+</style>
 
 
 ---
