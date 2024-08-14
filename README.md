@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Beginners Developer**
 
-- 👨‍💻 👨‍💻 Check out my work and connect with me on <a href="https://www.linkedin.com/in/malikbilalakbar125" target="_blank" rel="noreferrer">Linkedin</a>
+- 👨‍💻 👨‍💻 Check out my work and connect with me on [LinkedIn](https://www.linkedin.com/in/malikbilalakbar125)
 
 - 📫 How to reach me **dailylifemalikbilal@gmail.com**
 
