@@ -33,22 +33,25 @@
 </a>
 </p>
 
-### Experience:
+## Experience
 
-#### Hexon Digital
-**Web Developer**  
-*Faisalabad District, Punjab, Pakistan (On-site)*  
-*Sep 2023 - Aug 2024 (1 yr)*
+### [Hexon Digital](https://hexondigital.com/)
+<img src="https://media.licdn.com/dms/image/C4D0BAQEEIA4CHBFqYA/company-logo_200_200/0/1630516840533/hexon_digital_logo?e=2147483647&v=beta&t=mSunUiQ-pDK_4FYnG8teTOTazbIBFrXjh6RmFM_YQAI" alt="Hexon Digital Logo" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin-bottom: 10px;">
+*Web Developer*  
+Faisalabad District, Punjab, Pakistan (On-site)  
+**Sep 2023 - Aug 2024 (1 yr)**
 
-#### VNS | Software Agency - Shopify Plus Partner
-**Web App Developer**  
-*Buenos Aires Province, Argentina (Remote)*  
-*Feb 2021 - Aug 2023 (2 yrs 7 mos)*
+### [VNS | Software Agency - Shopify Plus Partner](https://vnstudios.com/)
+<img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" alt="VNS Logo" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin-bottom: 10px;">
+*Web App Developer*  
+Buenos Aires Province, Argentina (Remote)  
+**Feb 2021 - Aug 2023 (2 yrs 7 mos)**
 
-#### Fiverr
-**Web Application Developer**  
-*Faisalabad, Punjab, Pakistan (Remote)*  
-*Feb 2020 - Mar 2021 (1 yr 2 mos)*
+### [Fiverr](https://www.fiverr.com/)
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" alt="Fiverr Logo" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin-bottom: 10px;">
+*Web Application Developer*  
+Faisalabad, Punjab, Pakistan (Remote)  
+**Feb 2020 - Mar 2021 (1 yr 2 mos)**
 
 ---
 
