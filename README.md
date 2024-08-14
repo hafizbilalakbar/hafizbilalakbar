@@ -25,13 +25,15 @@
 
 <h3 align="left">CMS Development:</h3>
 <p align="left">
-<a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" width="40" height="40"/>
-</a>
-<a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/303503/shopify-logo.svg" alt="Shopify" width="40" height="40"/>
-</a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303503/shopify-logo.svg" alt="Shopify" width="40" height="40"/>
+  </a>
 </p>
+
 
 ## Experience
 
