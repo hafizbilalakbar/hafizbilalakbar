@@ -1,27 +1,26 @@
 ![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/228448693/original/4fe7fcdf9484ab9dcdb0046b5ad12b0607c26dc0/made-attractive-design-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Hafiz Bilal Akbar</h1>
-<h3 align="center"> Harnessing the Potential of Software Engineering</h3>
+<h3 align="center"> Turning Your Ideas into Advanced Digital Solutions with Expert Programming</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikbilalakbar125&label=Profile%20views&color=0e75b6&style=flat" alt="malikbilalakbar125" /> </p>
 
 <p align="left"> <a href="https://twitter.com/quranvideoview" target="blank"><img src="https://img.shields.io/twitter/follow/quranvideoview?logo=twitter&style=for-the-badge" alt="quranvideoview" /></a> </p>
 
-- 🌱 I’m currently learning **React.js & Angular.js etc..**
+- 🌱 I’m currently working on **Shopify, WordPress, React.js and Vue.js**.
 
 - 👯 I’m looking to collaborate on **Website Development**
 
 - 🤝 I’m looking for help with **Beginners Developer**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/malikbilalakbar125](https://www.linkedin.com/in/malikbilalakbar125)
-
-- 💬 Ask me about **Web App Developer | HTML5 | CSS3 | JavaScript | jQuery | Php | MySQL | React.js | Vue.js | Liquid & JSON | Tailwind CSS & Bootstrap | WordPress Development | Shopify Theme Customization | E-commerce Specialist**
+- 👨‍💻 👨‍💻 Check out my work and connect with me on LinkedIn. [https://www.linkedin.com/in/malikbilalakbar125](https://www.linkedin.com/in/malikbilalakbar125)
 
 - 📫 How to reach me **dailylifemalikbilal@gmail.com**
 
 - ⚡ Fun fact **I'm not lazy, I'm just on my Energy-Saving Mode.**
 
+- 💬 Ask me about **Web App Developer | HTML5 | CSS3 | JavaScript | jQuery | Php | MySQL | React.js | Vue.js | Liquid & JSON | Tailwind CSS & Bootstrap | WordPress Development | Shopify Theme Customization | E-commerce Specialist**
 ---
 
 <h3 align="left">CMS Development:</h3>
