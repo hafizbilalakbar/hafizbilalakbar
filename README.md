@@ -1,44 +1,76 @@
-![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/228448693/original/4fe7fcdf9484ab9dcdb0046b5ad12b0607c26dc0/made-attractive-design-banner.jpg)
+# Hafiz Bilal Akbar - Web Developer
 
-<h1 align="center">Hi 👋, I'm Hafiz Bilal Akbar</h1>
-<h3 align="center"> Harnessing the Potential of Software Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+Welcome to my GitHub profile! I am a highly skilled Web Developer with extensive experience in CMS development, e-commerce solutions, and web technologies. Below is a comprehensive overview of my skills, experience, and the tools I use to create exceptional web experiences.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malikbilalakbar125&label=Profile%20views&color=0e75b6&style=flat" alt="malikbilalakbar125" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/quranvideoview" target="blank"><img src="https://img.shields.io/twitter/follow/quranvideoview?logo=twitter&style=for-the-badge" alt="quranvideoview" /></a> </p>
+## 🚀 CMS Development
 
-- 🌱 I’m currently learning **React.js & Angular.js etc..**
+![WordPress](https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg) 
+![Shopify](https://www.svgrepo.com/show/303503/shopify-logo.svg)
 
-- 👯 I’m looking to collaborate on **Frontend Developer**
+I specialize in **WordPress** and **Shopify** development, focusing on:
 
-- 🤝 I’m looking for help with **Beginners Developer**
+- **Theme Development**: Crafting custom themes that are both responsive and visually appealing.
+- **Plugin Development**: Building and customizing plugins to enhance functionality.
+- **Customizations**: Tailoring solutions to meet unique business needs, ensuring seamless user experiences.
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/malikbilalakbar125](https://www.linkedin.com/in/malikbilalakbar125)
+---
 
-- 💬 Ask me about **Web Developer | JavaScript, React & Angular | HTML5, CSS3 | Tailwind CSS & Bootstrap**
+## 🛒 E-commerce Development
 
-- 📫 How to reach me **dailylifemalikbilal@gmail.com**
+![E-commerce](https://img.freepik.com/free-vector/flat-design-online-shopping-landing-page-template_23-2148532676.jpg?t=st=1723634387~exp=1723637987~hmac=910e5b27b04cce10ed3e39de53b140b085e4c0340b366f49f66837079c29009e&w=1380)
 
-- ⚡ Fun fact **I'm not lazy, I'm just on my Energy-Saving Mode.**
+With a strong focus on e-commerce, I help businesses establish and grow their online presence through:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/quranvideoview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quranvideoview" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/malikbilalakbar125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malikbilalakbar125" height="30" width="40" /></a>
-<a href="https://fb.com/malikbilalakbar125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malikbilalakbar125" height="30" width="40" /></a>
-<a href="https://instagram.com/qurantranslationvideo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qurantranslationvideo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/qurantranslationvideo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qurantranslationvideo" height="30" width="40" /></a>
-</p>
+- **Shopify Apps Integration**: Implementing and customizing apps to extend store functionality.
+- **WordPress Plugins**: Developing tailored plugins for a seamless shopping experience.
+- **Performance Optimization**: Enhancing speed and efficiency to improve user satisfaction.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/malikbilalakbar125"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="malikbilalakbar125" /></a></p><br><br>
+## 📂 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikbilalakbar125&show_icons=true&locale=en&layout=compact" alt="malikbilalakbar125" /></p>
+Here are some of the e-commerce stores I have worked on:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikbilalakbar125&show_icons=true&locale=en" alt="malikbilalakbar125" /></p>
+![Store 1](https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1687908860/catalog/1673836551244148736/pehp6lthvahqimy7jy5l.jpg)
+![Store 2](https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1693566294/catalog/1697557568132345856/l45zbgup5pxtqu7jcufb.jpg)
+![Store 3](https://www.zohowebstatic.com/sites/zweb/images/commerce/prebuilt-left.jpg)
+![Store 4](https://www.rankbyfocus.com/wp-content/uploads/2020/07/ecommerce-website.jpg)
+![Store 5](https://brightpixel.in/wp-content/uploads/2023/04/E-Commerce-Website.png)
+![Store 6](https://aspiredigitalsolutions.com/wp-content/uploads/2022/07/chouchou.jpg)
+![Store 7](https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1693627878/catalog/1697823488015060992/gyi0petfw9ddqhzfdabq.jpg)
+![Store 8](https://img.freepik.com/premium-photo/website-that-has-website-website_98005-3632.jpg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikbilalakbar125&" alt="malikbilalakbar125" /></p>
+---
+
+## 🔧 Languages and Tools
+
+![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg) 
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+
+I utilize a range of modern web technologies and tools, including:
+
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, React
+- **Backend**: Node.js, PHP
+- **Version Control**: Git, GitHub
+- **CMS**: WordPress, Shopify
+- **API Development**: RESTful APIs, Google Developer Console
+- **Build Tools**: Webpack, Gulp, Grunt
+
+---
+
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-malikbilalakbar125-black?style=for-the-badge&logo=github)](https://github.com/malikbilalakbar125)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-malikbilalakbar125-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/malikbilalakbar125)
+[![YouTube](https://img.shields.io/badge/YouTube-quranvideoview-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC8n6HnSot8J0cxf-6Kjcq1g)
+[![YouTube](https://img.shields.io/badge/YouTube-qurantranslationvideo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCFu0g-YefKClJj9f1FE5nLg)
+
+Thank you for visiting my profile. I look forward to collaborating on exciting projects and contributing to innovative solutions.
