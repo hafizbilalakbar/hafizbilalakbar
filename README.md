@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/quranvideoview" target="blank"><img src="https://img.shields.io/twitter/follow/quranvideoview?logo=twitter&style=for-the-badge" alt="quranvideoview" /></a> </p>
 
-- 🌱 I’m currently working on **Shopify, WordPress, React.js and Vue.js**.
+- 💻 I’m currently working on **Shopify, WordPress, React.js and Vue.js**.
 
 - 👯 I’m looking to collaborate on **Website Development**
 
 - 🤝 I’m looking for help with **Beginners Developer**
 
-- 👨‍💻 👨‍💻 Check out my work and connect with me on [LinkedIn](https://www.linkedin.com/in/malikbilalakbar125)
+- 👨‍💻 Check out my work and connect with me on [LinkedIn](https://www.linkedin.com/in/malikbilalakbar125)
 
 - 📫 How to reach me **dailylifemalikbilal@gmail.com**
 
@@ -35,8 +35,20 @@
 
 ### Experience:
 
-- **WordPress**: Extensive experience in theme development, plugin development, and site customizations.
-- **Shopify**: Proficient in developing custom Shopify themes, app integrations, and e-commerce store customizations.
+#### Hexon Digital
+**Web Developer**  
+*Faisalabad District, Punjab, Pakistan (On-site)*  
+*Sep 2023 - Aug 2024 (1 yr)*
+
+#### VNS | Software Agency - Shopify Plus Partner
+**Web App Developer**  
+*Buenos Aires Province, Argentina (Remote)*  
+*Feb 2021 - Aug 2023 (2 yrs 7 mos)*
+
+#### Fiverr
+**Web Application Developer**  
+*Faisalabad, Punjab, Pakistan (Remote)*  
+*Feb 2020 - Mar 2021 (1 yr 2 mos)*
 
 ---
 
