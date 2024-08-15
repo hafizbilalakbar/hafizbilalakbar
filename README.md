@@ -122,7 +122,7 @@
     <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" style="width: 40px; height: 40px; border-radius: 50%;"/>
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDB" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
 </div>
 
