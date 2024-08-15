@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikbilalakbar125&label=Profile%20views&color=0e75b6&style=flat" alt="malikbilalakbar125" /> </p>
 
-<p align="left"> <a href="https://twitter.com/quranvideoview" target="blank"><img src="https://img.shields.io/twitter/follow/quranvideoview?logo=twitter&style=for-the-badge" alt="quranvideoview" /></a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/malikbilalakbar125" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="Hafiz Bilal Akbar LinkedIn" />
+  </a>
+</p>
 
 - 💻 I’m currently working on **Shopify, WordPress, React.js and Vue.js**.
 
