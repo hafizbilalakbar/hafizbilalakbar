@@ -93,7 +93,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" style="width: 40px; height: 40px; border-radius: 50%;"/>
+    <img src="https://a0.anyrgb.com/pngimg/326/1324/jquery-ui-radio-button-front-and-back-ends-jquery-javascript-plugin-html-wordpress-web-development-emblem.png" alt="jQuery" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" style="width: 40px; height: 40px; border-radius: 50%;"/>
@@ -119,7 +119,7 @@
 ### Database Management
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/MySQL_logo.svg" alt="MySQL" style="width: 40px; height: 40px; border-radius: 50%;"/>
+    <img src="https://p1.hiclipart.com/preview/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clipart.jpg" alt="MySQL" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" style="width: 40px; height: 40px; border-radius: 50%;"/>
