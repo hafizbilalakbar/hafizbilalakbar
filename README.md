@@ -239,7 +239,7 @@
 <!-- Contribution Graph -->
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HafizBilalAkbar&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HafizBilalAkbar&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Contribution Graph" style="border-radius: 15px;">
 </div>
 
 ---
@@ -248,6 +248,6 @@
 <h2 align="center">🌟 Thought of the Day 🌟</h2>
 
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=If%20I%20cannot%20do%20great%20things.%20I%20can%20do%20small%20things%20in%20a%20great%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=If%20I%20cannot%20do%20great%20things.%20I%20can%20do%20small%20things%20in%20a%20great%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Thought of the Day">
 </p>
 
