@@ -114,18 +114,16 @@
   </a>
 </div>
 
----
-
-<h3 align="left">CMS Development:</h3>
-<p align="left">
+### CMS Development
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Wordpress_logo_8.png" alt="WordPress" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Wordpress_logo_8.png" alt="WordPress" style="width: 40px; height: 40px; border-radius: 50%;"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303503/shopify-logo.svg" alt="Shopify" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/303503/shopify-logo.svg" alt="Shopify" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
-</p>
+</div>
+
 
 ---
 
