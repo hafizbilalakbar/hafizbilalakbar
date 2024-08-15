@@ -224,45 +224,42 @@
 </p>
 
 
-
-
----
+<!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
     <a href="https://linkedin.com/in/malikbilalakbar125/" target="_blank" style="margin-right: 10px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malikbilalakbar125" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malikbilalakbar125" height="50" width="50" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.facebook.com/malikbilalakbar125/" target="_blank" style="margin-right: 10px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malikbilalakbar125" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malikbilalakbar125" height="50" width="50" />
     </a>
     &nbsp;&nbsp;
     <a href="https://instagram.com/qurantranslationvideo/" target="_blank" style="margin-right: 10px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qurantranslationvideo" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qurantranslationvideo" height="50" width="50" />
     </a>
     &nbsp;&nbsp;
     <a href="https://web.whatsapp.com/send?phone=923103180385" target="_blank" style="margin-right: 10px;">
-        <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/whatsapp-business-icon.png" alt="WhatsApp" height="30" width="30" />
+        <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/whatsapp-business-icon.png" alt="WhatsApp" height="50" width="50" />
     </a>
     &nbsp;&nbsp;
     <a href="https://twitter.com/quranvideoview/" target="_blank" style="margin-right: 10px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quranvideoview" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quranvideoview" height="50" width="50" />
     </a>
     &nbsp;&nbsp;
     <a href="https://replit.com/@malikbilalcode/" target="_blank" style="margin-right: 10px;">
-        <img align="center" src="https://seeklogo.com/images/R/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="malikbilalcode" height="30" width="30" />
+        <img align="center" src="https://seeklogo.com/images/R/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="malikbilalcode" height="50" width="50" />
     </a>
     &nbsp;&nbsp;
     <a href="mailto:malikbilalakbar1@gmail.com" target="_blank" style="margin-right: 10px;">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="30" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.youtube.com/@qurantranslationvideo/" target="_blank" style="margin-right: 10px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qurantranslationvideo" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qurantranslationvideo" height="50" width="50" />
     </a>
 </div>
-
 
 <!--Footer--> 
 <p align="center">
