@@ -54,6 +54,10 @@
         <img align="center" src="https://seeklogo.com/images/R/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="malikbilalcode" height="30" width="30" />
     </a>
     &nbsp;&nbsp;
+    <a href="mailto:malikbilalakbar1@gmail.com" target="_blank" style="margin-right: 10px;">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="30" />
+    </a>
+    &nbsp;&nbsp;
     <a href="https://www.youtube.com/@qurantranslationvideo/" target="_blank" style="margin-right: 10px;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qurantranslationvideo" height="30" width="30" />
     </a>
