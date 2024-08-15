@@ -76,31 +76,31 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 40px; height: 40px; border-radius: 50%;"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width: 40px; height: 40px; border-radius: 50%;"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" style="width: 40px; height: 40px; border-radius: 50%;"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" style="width: 40px; height: 40px; border-radius: 50%;"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px; border-radius: 50%;"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="width: 40px; height: 40px; border-radius: 50%;"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://a0.anyrgb.com/pngimg/326/1324/jquery-ui-radio-button-front-and-back-ends-jquery-javascript-plugin-html-wordpress-web-development-emblem.png" alt="jQuery" style="width: 40px; height: 40px; border-radius: 50%;"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" style="width: 40px; height: 40px; border-radius: 50%;"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://shopify.dev/docs/api/liquid" target="_blank" rel="noreferrer">
     <img src="https://sissel.gallerycdn.vsassets.io/extensions/sissel/shopify-liquid/4.0.1/1699358936199/Microsoft.VisualStudio.Services.Icons.Default" alt="Liquid" style="width: 40px; height: 40px; border-radius: 50%;"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
@@ -110,7 +110,7 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" style="width: 40px; height: 40px; border-radius: 50%;"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
@@ -119,12 +119,13 @@
 ### Database Management
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://p1.hiclipart.com/preview/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clipart.jpg" alt="MySQL" style="width: 40px; height: 40px; border-radius: 50%;"/>
-  </a>
+    <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" style="width: 40px; height: 40px; border-radius: 50%;"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
 </div>
+
 
 ---
 
