@@ -219,8 +219,8 @@
 
 ---
 
-## 📬 Connect with Me
-<p align="center">
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
     <a href="https://linkedin.com/in/malikbilalakbar125/" target="_blank" style="margin-right: 10px;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malikbilalakbar125" height="30" width="30" />
     </a>
@@ -252,6 +252,6 @@
     <a href="https://www.youtube.com/@qurantranslationvideo/" target="_blank" style="margin-right: 10px;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qurantranslationvideo" height="30" width="30" />
     </a>
-</p>
+</div>
 
 
