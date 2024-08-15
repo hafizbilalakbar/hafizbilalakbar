@@ -4,7 +4,8 @@
 <h3 align="center"> Turning Your Ideas into Advanced Digital Solutions with Expert Programming</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malikbilalakbar125&label=Profile%20views&color=0e75b6&style=flat" alt="malikbilalakbar125" /> </p>
+<!--Profile Count Badge-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malikbilalakbar125&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="malikbilalakbar125" /> </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/malikbilalakbar125" target="blank">
