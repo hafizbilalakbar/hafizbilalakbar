@@ -107,7 +107,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.manektech.com/storage/developer/1646733543.webp" alt="Express.js" style="width: 40px; height: 40px; border-radius: 50%;"/>
+    <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express.js" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
 </div>
 
