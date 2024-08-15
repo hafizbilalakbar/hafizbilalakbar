@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Hafiz Bilal Akbar</h1>
 <h3 align="center"> Turning Your Ideas into Advanced Digital Solutions with Expert Programming</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 <!--Profile Count Badge-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikbilalakbar125&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="malikbilalakbar125" /> </p>
