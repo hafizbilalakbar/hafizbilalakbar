@@ -193,41 +193,43 @@
 
 ---
 
-<h3 align="left">🌟 Developer Insights: Performance at a Glance 🌟</h3>
+<h3 align="left">🌟 GitHub Stats 🌟</h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; background-color: #000000; padding: 20px; border-radius: 10px;">
 
-  <!-- Total Stars & Commits -->
-  <div style="flex: 1 1 45%; margin-bottom: 20px;">
+  <!-- Total Stars -->
+  <div style="flex: 1 1 30%; margin: 10px; text-align: center; background-color: #333333; padding: 15px; border-radius: 10px;">
     <a href="https://github.com/malikbilalakbar125">
-      <img src="https://github-readme-stats.vercel.app/api?username=malikbilalakbar125&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true&hide=issues&custom_title=Total Stars & Commits" alt="Total Stars & Commits" style="width: 100%; border-radius: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=malikbilalakbar125&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&include_all_commits=true&count_private=true&hide=issues&custom_title=Total Stars" alt="Total Stars" style="width: 100%; border-radius: 10px;">
     </a>
-    <p style="color: #c56a90; font-size: 14px; text-align: center; margin-top: 10px;">⭐ Average Rating: 4.8/5</p>
+    <p style="color: #c56a90; font-size: 14px; margin-top: 10px;">⭐ Total Stars</p>
+  </div>
+
+  <!-- Total Commits -->
+  <div style="flex: 1 1 30%; margin: 10px; text-align: center; background-color: #333333; padding: 15px; border-radius: 10px;">
+    <a href="https://github.com/malikbilalakbar125">
+      <img src="https://github-readme-stats.vercel.app/api?username=malikbilalakbar125&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&include_all_commits=true&count_private=true&hide=issues&custom_title=Total Commits" alt="Total Commits" style="width: 100%; border-radius: 10px;">
+    </a>
+    <p style="color: #c56a90; font-size: 14px; margin-top: 10px;">📈 Total Commits</p>
   </div>
 
   <!-- Top Languages -->
-  <div style="flex: 1 1 45%; margin-bottom: 20px;">
+  <div style="flex: 1 1 30%; margin: 10px; text-align: center; background-color: #333333; padding: 15px; border-radius: 10px;">
     <a href="https://github.com/malikbilalakbar125">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbilalakbar125&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages" style="width: 100%; border-radius: 10px;">
     </a>
-    <p style="color: #c56a90; font-size: 14px; text-align: center; margin-top: 10px;">💬 Languages Reviewed: 20+</p>
+    <p style="color: #c56a90; font-size: 14px; margin-top: 10px;">💬 Top Languages</p>
   </div>
 
   <!-- GitHub Streak -->
-  <div style="flex: 1 1 100%; margin-bottom: 20px;">
+  <div style="flex: 1 1 30%; margin: 10px; text-align: center; background-color: #333333; padding: 15px; border-radius: 10px;">
     <a href="https://github.com/malikbilalakbar125">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=malikbilalakbar125&theme=nightowl&background=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Streak" style="width: 100%; border-radius: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikbilalakbar125&theme=nightowl&background=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Streak" style="width: 100%; border-radius: 10px;">
     </a>
-    <p style="color: #c56a90; font-size: 14px; text-align: center; margin-top: 10px;">🔄 Consistency is Key: 100+ Days Streak!</p>
-  </div>
-
-  <!-- Additional Grades/Reviews -->
-  <div style="flex: 1 1 100%; margin-top: 20px; text-align: center;">
-    <p style="color: #ffffff; font-size: 16px;">💼 Project Grades: <span style="color: #4caf50;">A++</span></p>
-    <p style="color: #ffffff; font-size: 16px;">📝 Reviewer Feedback: "Impressive work with attention to detail!"</p>
-    <p style="color: #ffffff; font-size: 16px;">🌍 Global Contributions: 50+ Open Source Projects</p>
+    <p style="color: #c56a90; font-size: 14px; margin-top: 10px;">🔄 GitHub Streak</p>
   </div>
 
 </div>
+
 
 
