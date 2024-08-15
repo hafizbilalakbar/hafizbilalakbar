@@ -119,7 +119,7 @@
 <h3 align="left">CMS Development:</h3>
 <p align="left">
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.pixabay.com/photo/2016/11/09/08/58/wordpress-1810632_640.jpg" alt="WordPress" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Wordpress_logo_8.png" alt="WordPress" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
