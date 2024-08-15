@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hafiz Bilal Akbar</h1>
 <h3 align="center"> Turning Your Ideas into Advanced Digital Solutions with Expert Programming</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
+
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -30,7 +30,6 @@
 - ⚡ Fun fact **I'm not lazy, I'm just on my Energy-Saving Mode.**
 
 - 💬 Ask me about **Web App Developer | HTML5 | CSS3 | JavaScript | jQuery | Php | MySQL | React.js | Vue.js | Liquid & JSON | Tailwind CSS & Bootstrap | WordPress Development | Shopify Theme Customization | E-commerce Specialist**
-
 
 ---
 
@@ -69,6 +68,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
 </div>
+
+<img align="right" alt="Coding" width="40%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ### Backend Development
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
