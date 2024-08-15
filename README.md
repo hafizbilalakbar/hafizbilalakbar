@@ -69,11 +69,11 @@
   </a>
 </div>
 
+
 <!--Coding Gif -->
 <div>
-<img align="right" alt="Coding" width="40%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="35%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </div>
-
 
 ### Backend Development
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
@@ -155,7 +155,7 @@
 
 ---
 
-<h3 align="left">Project Demos:</h3>
+<h3 align="left">Recient Project </h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1687908860/catalog/1673836551244148736/pehp6lthvahqimy7jy5l.jpg" alt="Project 1" width="200"/>
   <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1693566294/catalog/1697557568132345856/l45zbgup5pxtqu7jcufb.jpg" alt="Project 2" width="200"/>
@@ -191,8 +191,8 @@
  <td width="50%">
   <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
   <p align="center">
-    <a href="https://github.com/malikbilalakbar125/Frontend-amazon-clone">
-      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=malikbilalakbar125&repo=Frontend-amazon-clone&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Frontend-amazon-clone" />
+    <a href="https://github.com/malikbilalakbar125/">
+      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbilalakbar125&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Frontend-amazon-clone" />
     </a>
   </p>
   </td>
