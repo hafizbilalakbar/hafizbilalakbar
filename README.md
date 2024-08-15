@@ -189,10 +189,10 @@
   </tr>
   <tr>
  <td width="50%">
-  <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+  <h3 align="center"><strong>Wᴇʙ Fᴏᴜɴᴅᴀᴛɪᴏɴs</strong></h3>
   <p align="center">
     <a href="https://github.com/malikbilalakbar125/">
-      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbilalakbar125&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Frontend-amazon-clone" />
+      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbilalakbar125&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Web Foundations" />
     </a>
   </p>
   </td>
