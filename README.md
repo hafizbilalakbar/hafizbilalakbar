@@ -70,7 +70,7 @@
 
 ---
 
-## Languages and Tools
+## Development Skills & Technical Expertise
 
 ### Frontend Development
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
