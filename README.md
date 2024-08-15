@@ -1,4 +1,7 @@
-![MasterHead](https://i.postimg.cc/WpHbxQRf/1710254772768.jpg)
+<!-- Banner Image -->
+<div align="center">
+  <img src="https://i.postimg.cc/WpHbxQRf/1710254772768.jpg" alt="MasterHead" style="width: 100%; max-width: 100%;" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Hafiz Bilal Akbar</h1>
 <h3 align="center"> Turning Your Ideas into Advanced Digital Solutions with Expert Programming</h3>
