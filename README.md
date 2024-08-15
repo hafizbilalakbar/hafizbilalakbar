@@ -44,14 +44,14 @@
 <a href="https://www.facebook.com/malikbilalakbar125/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malikbilalakbar125" height="30" width="40" />
 </a>
+<a href="https://instagram.com/qurantranslationvideo/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qurantranslationvideo" height="30" width="40" />
+</a>
 <a href="https://twitter.com/quranvideoview/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quranvideoview" height="30" width="40" />
 </a>
 <a href="https://replit.com/@malikbilalcode/" target="_blank">
 <img align="center" src="https://seeklogo.com/images/R/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="malikbilalcode" height="30" width="30" />
-</a>
-<a href="https://instagram.com/qurantranslationvideo/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qurantranslationvideo" height="30" width="40" />
 </a>
 <a href="https://www.youtube.com/qurantranslationvideo/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qurantranslationvideo" height="30" width="40" />
