@@ -69,6 +69,12 @@
   </a>
 </div>
 
+<!--Coding Gif -->
+<div align="right" >
+<img alt="Coding" width="40%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
+
+
 ### Backend Development
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
@@ -80,11 +86,6 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express.js" style="width: 50px; height: 35px; border-radius: 50%;"/>
   </a>
-</div>
-
-<!--Coding Gif -->
-<div>
-<img align="right" alt="Coding" width="40%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </div>
 
 ### Database Management
