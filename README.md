@@ -44,6 +44,9 @@
 <a href="https://www.facebook.com/malikbilalakbar125/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malikbilalakbar125" height="30" width="40" />
 </a>
+<a href="https://web.whatsapp.com/send?phone=923103180385" target="_blank">
+<img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/whatsapp-business-icon.png" alt="WhatsApp" height="30" width="40" />
+</a>
 <a href="https://instagram.com/qurantranslationvideo/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qurantranslationvideo" height="30" width="40" />
 </a>
