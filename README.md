@@ -105,8 +105,12 @@
   </a>&nbsp;&nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width: 40px; height: 40px; border-radius: 50%;"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
 </div>
+
 
 ### Database Management
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
