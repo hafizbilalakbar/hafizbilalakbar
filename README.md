@@ -1,4 +1,4 @@
-![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/228448693/original/4fe7fcdf9484ab9dcdb0046b5ad12b0607c26dc0/made-attractive-design-banner.jpg)
+![MasterHead](https://i.postimg.cc/WpHbxQRf/1710254772768.jpg)
 
 <h1 align="center">Hi 👋, I'm Hafiz Bilal Akbar</h1>
 <h3 align="center"> Turning Your Ideas into Advanced Digital Solutions with Expert Programming</h3>
