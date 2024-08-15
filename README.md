@@ -45,7 +45,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malikbilalakbar125" height="30" width="40" />
 </a>
 <a href="https://replit.com/@malikbilalcode" target="_blank">
-<img align="center" src="[https://images.saasworthy.com/tr:w-160,h-0,c-at_max,e-sharpen-1/replit_6832_logo_1698327844_1kfuj.jpg](https://seeklogo.com/images/R/replit-icon-logo-A666709FE9-seeklogo.com.png)" alt="malikbilalakbar125" height="30" width="40" />
+<img align="center" src="https://seeklogo.com/images/R/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="malikbilalakbar125" height="30" width="40" />
 </a>
 <a href="https://fb.com/malikbilalakbar125" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malikbilalakbar125" height="30" width="40" />
