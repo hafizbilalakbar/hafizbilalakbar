@@ -193,43 +193,22 @@
 
 ---
 
-<h3 align="left">🌟 GitHub Stats 🌟</h3>
+## GitHub Stats 📊
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; background-color: #000000; padding: 20px; border-radius: 10px;">
+### GitHub Stats
 
-  <!-- Total Stars -->
-  <div style="flex: 1 1 30%; margin: 10px; text-align: center; background-color: #333333; padding: 15px; border-radius: 10px;">
-    <a href="https://github.com/malikbilalakbar125">
-      <img src="https://github-readme-stats.vercel.app/api?username=malikbilalakbar125&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&include_all_commits=true&count_private=true&hide=issues&custom_title=Total Stars" alt="Total Stars" style="width: 100%; border-radius: 10px;">
-    </a>
-    <p style="color: #c56a90; font-size: 14px; margin-top: 10px;">⭐ Total Stars</p>
-  </div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage)
 
-  <!-- Total Commits -->
-  <div style="flex: 1 1 30%; margin: 10px; text-align: center; background-color: #333333; padding: 15px; border-radius: 10px;">
-    <a href="https://github.com/malikbilalakbar125">
-      <img src="https://github-readme-stats.vercel.app/api?username=malikbilalakbar125&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&include_all_commits=true&count_private=true&hide=issues&custom_title=Total Commits" alt="Total Commits" style="width: 100%; border-radius: 10px;">
-    </a>
-    <p style="color: #c56a90; font-size: 14px; margin-top: 10px;">📈 Total Commits</p>
-  </div>
+### Streak Stats
 
-  <!-- Top Languages -->
-  <div style="flex: 1 1 30%; margin: 10px; text-align: center; background-color: #333333; padding: 15px; border-radius: 10px;">
-    <a href="https://github.com/malikbilalakbar125">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbilalakbar125&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages" style="width: 100%; border-radius: 10px;">
-    </a>
-    <p style="color: #c56a90; font-size: 14px; margin-top: 10px;">💬 Top Languages</p>
-  </div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kiran1689&theme=nightowl&background=0,000000,441350&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)
 
-  <!-- GitHub Streak -->
-  <div style="flex: 1 1 30%; margin: 10px; text-align: center; background-color: #333333; padding: 15px; border-radius: 10px;">
-    <a href="https://github.com/malikbilalakbar125">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikbilalakbar125&theme=nightowl&background=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Streak" style="width: 100%; border-radius: 10px;">
-    </a>
-    <p style="color: #c56a90; font-size: 14px; margin-top: 10px;">🔄 GitHub Streak</p>
-  </div>
+### Latest Project
 
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=Awesome-Dev-Portfolios&theme=nightowl)](https://github.com/Kiran1689/Awesome-Dev-Portfolios)
 
+### Top Contributions
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran1689&langs_count=3&theme=nightowl&layout=compact)](https://github.com/Kiran1689/github-readme-stats)
 
 
