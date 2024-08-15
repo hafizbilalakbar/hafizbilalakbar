@@ -70,8 +70,8 @@
 </div>
 
 <!--Coding Gif -->
-<div align="right" >
-<img alt="Coding" width="40%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<div>
+<img align="right" alt="Coding" width="40%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </div>
 
 
