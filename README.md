@@ -95,8 +95,11 @@
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
-  <a href="https://shopify.dev/docs/themes/liquid" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/liquid.svg" alt="Liquid" style="width: 40px; height: 40px; border-radius: 50%;"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" style="width: 40px; height: 40px; border-radius: 50%;"/>
+  </a>
+  <a href="https://shopify.dev/docs/api/liquid" target="_blank" rel="noreferrer">
+    <img src="https://sissel.gallerycdn.vsassets.io/extensions/sissel/shopify-liquid/4.0.1/1699358936199/Microsoft.VisualStudio.Services.Icons.Default" alt="Liquid" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" style="width: 40px; height: 40px; border-radius: 50%;"/>
