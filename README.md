@@ -73,56 +73,55 @@
 ## Languages and Tools
 
 ### Frontend Development
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://shopify.dev/docs/themes/liquid" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/liquid.svg" alt="Liquid" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/liquid.svg" alt="Liquid" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
 </div>
 
 ### Backend Development
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
 </div>
 
 ### Database Management
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/MySQL_logo.svg" alt="MySQL" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/MySQL_logo.svg" alt="MySQL" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" style="width: 30px; height: 30px; border-radius: 50%;"/>
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" style="width: 40px; height: 40px; border-radius: 50%;"/>
   </a>
 </div>
-
 
 ---
 
