@@ -69,8 +69,6 @@
   </a>
 </div>
 
-<img align="right" alt="Coding" width="40%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
 ### Backend Development
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
@@ -84,6 +82,10 @@
   </a>
 </div>
 
+<!--Coding Gif -->
+<div>
+<img align="right" alt="Coding" width="40%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
 
 ### Database Management
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
