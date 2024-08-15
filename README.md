@@ -216,14 +216,14 @@
     </td>
   </tr>
   <tr>
-  <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/malikbilalakbar125/Frontend-amazon-clone">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
+ <td width="50%">
+  <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+  <p align="center">
+    <a href="https://github.com/malikbilalakbar125/Frontend-amazon-clone">
+      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=malikbilalakbar125&repo=Frontend-amazon-clone&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Frontend-amazon-clone" />
+    </a>
+  </p>
+  </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
