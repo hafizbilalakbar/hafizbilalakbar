@@ -44,6 +44,9 @@
 <a href="https://linkedin.com/in/malikbilalakbar125" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malikbilalakbar125" height="30" width="40" />
 </a>
+<a href="https://linkedin.com/in/malikbilalakbar125" target="blank">
+<img align="center" src="https://images.saasworthy.com/tr:w-160,h-0,c-at_max,e-sharpen-1/replit_6832_logo_1698327844_1kfuj.jpg" alt="malikbilalakbar125" height="30" width="40" />
+</a>
 <a href="https://fb.com/malikbilalakbar125" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malikbilalakbar125" height="30" width="40" />
 </a>
