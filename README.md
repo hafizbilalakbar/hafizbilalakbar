@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-<img src="https://i.postimg.cc/WpHbxQRf/1710254772768.jpg" alt="MasterHead" style="width: 100%; max-width: 100%;" />
+<img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/linkedin%20cover.png" alt="MasterHead" style="width: 100%; max-width: 100%;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Hafiz Bilal Akbar</h1>
