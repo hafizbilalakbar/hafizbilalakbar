@@ -167,31 +167,37 @@
 ---
 <!--Recient Project-->
 
-<h3 align="left">Recient Project </h3>
-<!-- Recent Projects -->
-<h3 align="left">Recent Projects</h3>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://your-project-url-1.com" target="_blank" style="flex: 1 1 30%; box-sizing: border-box; text-align: center;">
-    <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_300/v1687908860/catalog/1673836551244148736/pehp6lthvahqimy7jy5l.jpg" alt="Project 1" style="width: 100%; height: auto;"/>
-    <p style="margin: 5px 0;">Project 1</p>
-  </a>
-  
-  <a href="https://your-project-url-2.com" target="_blank" style="flex: 1 1 30%; box-sizing: border-box; text-align: center;">
-    <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_300/v1693566294/catalog/1697557568132345856/l45zbgup5pxtqu7jcufb.jpg" alt="Project 2" style="width: 100%; height: auto;"/>
-    <p style="margin: 5px 0;">Project 2</p>
-  </a>
-  
-  <a href="https://your-project-url-3.com" target="_blank" style="flex: 1 1 30%; box-sizing: border-box; text-align: center;">
-    <img src="https://www.zohowebstatic.com/sites/zweb/images/commerce/prebuilt-left.jpg" alt="Project 3" style="width: 100%; height: auto;"/>
-    <p style="margin: 5px 0;">Project 3</p>
-  </a>
-  
-  <a href="https://your-project-url-4.com" target="_blank" style="flex: 1 1 30%; box-sizing: border-box; text-align: center;">
-    <img src="https://www.rankbyfocus.com/wp-content/uploads/2020/07/ecommerce-website.jpg" alt="Project 4" style="width: 100%; height: auto;"/>
-    <p style="margin: 5px 0;">Project 4</p>
-  </a>
-</div>
+<table style="width: 100%; border-spacing: 10px;">
+  <tr>
+    <td style="width: 33%; text-align: center;">
+      <a href="https://your-project-url-1.com" target="_blank">
+        <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_200/v1687908860/catalog/1673836551244148736/pehp6lthvahqimy7jy5l.jpg" alt="Project 1" style="width: 100%; height: auto;"/>
+      </a>
+      <p>Project 1</p>
+    </td>
+    <td style="width: 33%; text-align: center;">
+      <a href="https://your-project-url-2.com" target="_blank">
+        <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_200/v1693566294/catalog/1697557568132345856/l45zbgup5pxtqu7jcufb.jpg" alt="Project 2" style="width: 100%; height: auto;"/>
+      </a>
+      <p>Project 2</p>
+    </td>
+    <td style="width: 33%; text-align: center;">
+      <a href="https://your-project-url-3.com" target="_blank">
+        <img src="https://www.zohowebstatic.com/sites/zweb/images/commerce/prebuilt-left.jpg" alt="Project 3" style="width: 100%; height: auto;"/>
+      </a>
+      <p>Project 3</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 33%; text-align: center;">
+      <a href="https://your-project-url-4.com" target="_blank">
+        <img src="https://www.rankbyfocus.com/wp-content/uploads/2020/07/ecommerce-website.jpg" alt="Project 4" style="width: 100%; height: auto;"/>
+      </a>
+      <p>Project 4</p>
+    </td>
+    <!-- Add more projects as needed -->
+  </tr>
+</table>
 
 
 ---
