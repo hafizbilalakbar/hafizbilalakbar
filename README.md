@@ -192,10 +192,10 @@
   </tr>
   <tr>
     <td style="width: 33%; text-align: center;">
-      <a href="https://your-project-url-4.com" target="_blank">
-        <img src="https://www.rankbyfocus.com/wp-content/uploads/2020/07/ecommerce-website.jpg" alt="Project 4" style="width: 100%; height: 150px; object-fit: cover;"/>
+      <a href="https://tuffstreeters.com.au/" target="_blank">
+        <img src="https://drive.google.com/uc?export=view&id=1JVnSxidswdukGLw8Hd5WcGENvpBbcoEW" alt="Tuff Streeters" style="width: 100%; height: 150px; object-fit: cover;"/>
       </a>
-      <p><strong>Project 4</strong></p>
+      <p><strong>Tuff Streeters</strong></p>
     </td>
     <!-- Add more projects as needed -->
   </tr>
