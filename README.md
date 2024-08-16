@@ -151,7 +151,7 @@
   <tr style="border: 1px solid #ddd; border-radius: 5px; margin-bottom: 15px;">
     <td style="width: 30%; text-align: center; padding: 15px;">
       <a href="https://www.fiverr.com" target="_blank">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" style="width: 80px; height: 80px; border-radius: 50%;" alt="Fiverr Logo">
+        <img src="https://seeklogo.com/images/F/fiverr-new-2020-logo-354E8A08FD-seeklogo.com.png" style="width: 80px; height: 80px; border-radius: 50%;" alt="Fiverr Logo">
       </a>
     </td>
     <td style="width: 70%; padding: 15px;">
