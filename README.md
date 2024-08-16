@@ -168,25 +168,25 @@
 <!--Recient Project-->
 
 <h3 align="left">Recient Project </h3>
-<div style="display: flex; flex-direction: column; gap: 20px;">
-  <a href="https://your-project-url-1.com" target="_blank">
-    <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1687908860/catalog/1673836551244148736/pehp6lthvahqimy7jy5l.jpg" alt="Project 1" style="width: 100%; height: auto;"/>
-    <p style="text-align: center;">Project 1&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Description of Project 1</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://your-project-url-1.com" target="_blank" style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box;">
+    <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_500/v1687908860/catalog/1673836551244148736/pehp6lthvahqimy7jy5l.jpg" alt="Project 1" style="width: 100%; height: auto;"/>
+    <p style="text-align: center; margin: 5px 0;">Project 1</p>
   </a>
   
-  <a href="https://your-project-url-2.com" target="_blank">
-    <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1693566294/catalog/1697557568132345856/l45zbgup5pxtqu7jcufb.jpg" alt="Project 2" style="width: 100%; height: auto;"/>
-    <p style="text-align: center;">Project 2&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Description of Project 2</p>
+  <a href="https://your-project-url-2.com" target="_blank" style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box;">
+    <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_500/v1693566294/catalog/1697557568132345856/l45zbgup5pxtqu7jcufb.jpg" alt="Project 2" style="width: 100%; height: auto;"/>
+    <p style="text-align: center; margin: 5px 0;">Project 2</p>
   </a>
   
-  <a href="https://your-project-url-3.com" target="_blank">
+  <a href="https://your-project-url-3.com" target="_blank" style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box;">
     <img src="https://www.zohowebstatic.com/sites/zweb/images/commerce/prebuilt-left.jpg" alt="Project 3" style="width: 100%; height: auto;"/>
-    <p style="text-align: center;">Project 3&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Description of Project 3</p>
+    <p style="text-align: center; margin: 5px 0;">Project 3</p>
   </a>
   
-  <a href="https://your-project-url-4.com" target="_blank">
+  <a href="https://your-project-url-4.com" target="_blank" style="flex: 1 1 calc(33.33% - 20px); box-sizing: border-box;">
     <img src="https://www.rankbyfocus.com/wp-content/uploads/2020/07/ecommerce-website.jpg" alt="Project 4" style="width: 100%; height: auto;"/>
-    <p style="text-align: center;">Project 4&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Description of Project 4</p>
+    <p style="text-align: center; margin: 5px 0;">Project 4</p>
   </a>
 </div>
 
