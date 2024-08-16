@@ -120,8 +120,8 @@
   <!-- Job 1 -->
   <tr style="border: 1px solid #ddd; border-radius: 5px; margin-bottom: 15px;">
     <td style="width: 30%; text-align: center; padding: 15px;">
-       <a href="https://www.vnstudios.com" target="_blank">
-        <img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" style="width: 80px; height: 80px; border-radius: 50%;" alt="VN Studios Logo">
+       <a href="https://www.hexondigital.com" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdlemYZJ711ZfctIxtXa_BDKzMmbSMY3inDA&s" style="width: 80px; height: 80px; border-radius: 50%;" alt="VN Studios Logo">
       </a>
     </td>
     <td style="width: 70%; padding: 15px;">
