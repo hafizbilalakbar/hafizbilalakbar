@@ -116,38 +116,7 @@
 
 ## Experience
 
-<div style="text-align: center; padding: 15px; max-width: 600px; margin: auto;">
-  <!-- Job 1 -->
-  <div style="margin-bottom: 30px;">
-    <img src="https://media.licdn.com/dms/image/C4D0BAQEEIA4CHBFqYA/company-logo_200_200/0/1630516840533/hexon_digital_logo?e=2147483647&v=beta&t=mSunUiQ-pDK_4FYnG8teTOTazbIBFrXjh6RmFM_YQAI" width="80" height="80" style="border-radius: 50%;"><br>
-    <strong>Web Developer</strong><br>
-    <em>Hexon Digital</em><br>
-    Faisalabad District, Punjab, Pakistan (On-site)<br>
-    <span style="font-size: 0.9em; color: #555;">Sep 2023 - Aug 2024 (1 yr)</span><br>
-    <p style="margin: 10px 0; color: #666;">Developed and optimized various web applications using modern technologies to enhance user experience and functionality.</p>
-  </div>
-  
-  <!-- Job 2 -->
-  <div style="margin-bottom: 30px;">
-    <img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" width="80" height="80" style="border-radius: 50%;"><br>
-    <strong>Web App Developer</strong><br>
-    <em>VN Studios</em><br>
-    Buenos Aires Province, Argentina (Remote)<br>
-    <span style="font-size: 0.9em; color: #555;">Feb 2021 - Aug 2023 (2 yrs 7 mos)</span><br>
-    <p style="margin: 10px 0; color: #666;">Led the development of web applications with a focus on performance and scalability, collaborating with international teams.</p>
-  </div>
-  
-  <!-- Job 3 -->
-  <div>
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" width="80" height="80" style="border-radius: 50%;"><br>
-    <strong>Web Application Developer</strong><br>
-    <em>Fiverr</em><br>
-    Faisalabad, Punjab, Pakistan (Remote)<br>
-    <span style="font-size: 0.9em; color: #555;">Feb 2020 - Mar 2021 (1 yr 2 mos)</span><br>
-    <p style="margin: 10px 0; color: #666;">Developed custom web applications and provided ongoing support to ensure high performance and client satisfaction.</p>
-  </div>
-</div>
-
+Experience
 
 
 ---
