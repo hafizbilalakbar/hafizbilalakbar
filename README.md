@@ -166,7 +166,8 @@
 
 ---
 <!-- Recent Projects -->
-<h3 align="left">Recent Projects</h3>
+
+### Recent Projects
 
 <table style="width: 100%; border-spacing: 10px;">
   <tr>
@@ -174,19 +175,19 @@
       <a href="https://your-project-url-1.com" target="_blank">
         <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_200/v1687908860/catalog/1673836551244148736/pehp6lthvahqimy7jy5l.jpg" alt="Project 1" style="width: 100%; height: 150px; object-fit: cover;"/>
       </a>
-      <p>Project 1</p>
+      <p><strong>Project 1</strong></p>
     </td>
     <td style="width: 33%; text-align: center;">
       <a href="https://your-project-url-2.com" target="_blank">
         <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_200/v1693566294/catalog/1697557568132345856/l45zbgup5pxtqu7jcufb.jpg" alt="Project 2" style="width: 100%; height: 150px; object-fit: cover;"/>
       </a>
-      <p>Project 2</p>
+      <p><strong>Project 2</strong></p>
     </td>
     <td style="width: 33%; text-align: center;">
       <a href="https://your-project-url-3.com" target="_blank">
         <img src="https://www.zohowebstatic.com/sites/zweb/images/commerce/prebuilt-left.jpg" alt="Project 3" style="width: 100%; height: 150px; object-fit: cover;"/>
       </a>
-      <p>Project 3</p>
+      <p><strong>Project 3</strong></p>
     </td>
   </tr>
   <tr>
@@ -194,12 +195,11 @@
       <a href="https://your-project-url-4.com" target="_blank">
         <img src="https://www.rankbyfocus.com/wp-content/uploads/2020/07/ecommerce-website.jpg" alt="Project 4" style="width: 100%; height: 150px; object-fit: cover;"/>
       </a>
-      <p>Project 4</p>
+      <p><strong>Project 4</strong></p>
     </td>
     <!-- Add more projects as needed -->
   </tr>
 </table>
-
 
 ---
 
