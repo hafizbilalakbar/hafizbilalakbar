@@ -193,7 +193,7 @@
   <tr>
     <td style="width: 33%; text-align: center;">
       <a href="https://tuffstreeters.com.au/" target="_blank">
-        <img src="https://drive.google.com/uc?export=view&id=1JVnSxidswdukGLw8Hd5WcGENvpBbcoEW" alt="Tuff Streeters" style="width: 100%; height: 150px; object-fit: cover;"/>
+        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Tuffstreaters.jpg" alt="Tuff Streeters" style="width: 100%; height: 150px; object-fit: cover;"/>
       </a>
       <p><strong>Tuff Streeters</strong></p>
     </td>
