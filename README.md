@@ -118,41 +118,36 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-right: 20px;">
       <a href="https://hexondigital.com/" target="_blank">
-        <img src="https://media.licdn.com/dms/image/C4D0BAQEEIA4CHBFqYA/company-logo_200_200/0/1630516840533/hexon_digital_logo?e=2147483647&v=beta&t=mSunUiQ-pDK_4FYnG8teTOTazbIBFrXjh6RmFM_YQAI" alt="Hexon Digital Logo" width="60" height="60" style="border-radius:50%;">
+        <img src="https://media.licdn.com/dms/image/C4D0BAQEEIA4CHBFqYA/company-logo_200_200/0/1630516840533/hexon_digital_logo?e=2147483647&v=beta&t=mSunUiQ-pDK_4FYnG8teTOTazbIBFrXjh6RmFM_YQAI" alt="Hexon Digital Logo" width="60" height="60" style="border-radius: 50%;">
       </a>
-      <div>
-        <strong>Web Developer</strong><br>
-        Faisalabad District, Punjab, Pakistan (On-site)<br>
-        <strong>Sep 2023 - Aug 2024 (1 yr)</strong>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://vnstudios.com/" target="_blank">
-        <img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" alt="VNS | Software Agency Logo" width="60" height="60" style="border-radius: 50%;">
-      </a>
-      <div>
-        <strong>Web App Developer</strong><br>
-        Buenos Aires Province, Argentina (Remote)<br>
-        <strong>Feb 2021 - Aug 2023 (2 yrs 7 mos)</strong>
-      </div>
+      <span style="display: inline-block; padding-left: 10px;">
+        <strong>Web Developer</strong> | Faisalabad District, Punjab, Pakistan (On-site) | <strong>Sep 2023 - Aug 2024 (1 yr)</strong>
+      </span>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-right: 20px;">
+      <a href="https://vnstudios.com/" target="_blank">
+        <img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" alt="VNS | Software Agency Logo" width="60" height="60" style="border-radius: 50%;">
+      </a>
+      <span style="display: inline-block; padding-left: 10px;">
+        <strong>Web App Developer</strong> | Buenos Aires Province, Argentina (Remote) | <strong>Feb 2021 - Aug 2023 (2 yrs 7 mos)</strong>
+      </span>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding-right: 20px;">
       <a href="https://www.fiverr.com/" target="_blank">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" alt="Fiverr Logo" width="60" height="60" style="border-radius: 50%;">
       </a>
-      <div>
-        <strong>Web Application Developer</strong><br>
-        Faisalabad, Punjab, Pakistan (Remote)<br>
-        <strong>Feb 2020 - Mar 2021 (1 yr 2 mos)</strong>
-      </div>
+      <span style="display: inline-block; padding-left: 10px;">
+        <strong>Web Application Developer</strong> | Faisalabad, Punjab, Pakistan (Remote) | <strong>Feb 2020 - Mar 2021 (1 yr 2 mos)</strong>
+      </span>
     </td>
   </tr>
 </table>
-
 
 ---
 
