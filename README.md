@@ -119,12 +119,12 @@
 <table style="width: 100%; border-collapse: collapse; max-width: 800px; margin: auto; padding: 15px;">
   <!-- Job 1 -->
   <tr style="border: 1px solid #ddd; border-radius: 5px; margin-bottom: 15px;">
-    <td style="width: 33%; text-align: center; padding: 15px;">
+    <td style="width: 30%; text-align: center; padding: 15px;">
       <a href="https://www.hexondigital.com" target="_blank">
-        <img src="https://media.licdn.com/dms/image/C4D0BAQEEIA4CHBFqYA/company-logo_200_200/0/1630516840533/hexon_digital_logo?e=2147483647&v=beta&t=mSunUiQ-pDK_4FYnG8teTOTazbIBFrXjh6RmFM_YQAI" width="80" height="80" style="border-radius: 50%;" alt="Hexon Digital Logo">
+        <img src="https://media.licdn.com/dms/image/C4D0BAQEEIA4CHBFqYA/company-logo_200_200/0/1630516840533/hexon_digital_logo?e=2147483647&v=beta&t=mSunUiQ-pDK_4FYnG8teTOTazbIBFrXjh6RmFM_YQAI" style="width: 60%; height: auto; border-radius: 50%;" alt="Hexon Digital Logo">
       </a>
     </td>
-    <td style="width: 67%; padding: 15px;">
+    <td style="width: 70%; padding: 15px;">
       <strong>Web Developer</strong><br>
       Faisalabad District, Punjab, Pakistan (On-site)<br>
       <span style="font-size: 0.9em; color: #555;">Sep 2023 - Aug 2024 (1 yr)</span><br>
@@ -134,12 +134,12 @@
   
   <!-- Job 2 -->
   <tr style="border: 1px solid #ddd; border-radius: 5px; margin-bottom: 15px;">
-    <td style="width: 33%; text-align: center; padding: 15px;">
+    <td style="width: 30%; text-align: center; padding: 15px;">
       <a href="https://www.vnstudios.com" target="_blank">
-        <img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" width="80" height="80" style="border-radius: 50%;" alt="VN Studios Logo">
+        <img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" style="width: 60%; height: auto; border-radius: 50%;" alt="VN Studios Logo">
       </a>
     </td>
-    <td style="width: 67%; padding: 15px;">
+    <td style="width: 70%; padding: 15px;">
       <strong>Web App Developer</strong><br>
       Buenos Aires Province, Argentina (Remote)<br>
       <span style="font-size: 0.9em; color: #555;">Feb 2021 - Aug 2023 (2 yrs 7 mos)</span><br>
@@ -149,12 +149,12 @@
   
   <!-- Job 3 -->
   <tr style="border: 1px solid #ddd; border-radius: 5px; margin-bottom: 15px;">
-    <td style="width: 33%; text-align: center; padding: 15px;">
+    <td style="width: 30%; text-align: center; padding: 15px;">
       <a href="https://www.fiverr.com" target="_blank">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" width="80" height="80" style="border-radius: 50%;" alt="Fiverr Logo">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" style="width: 60%; height: auto; border-radius: 50%;" alt="Fiverr Logo">
       </a>
     </td>
-    <td style="width: 67%; padding: 15px;">
+    <td style="width: 70%; padding: 15px;">
       <strong>Web Application Developer</strong><br>
       Faisalabad, Punjab, Pakistan (Remote)<br>
       <span style="font-size: 0.9em; color: #555;">Feb 2020 - Mar 2021 (1 yr 2 mos)</span><br>
