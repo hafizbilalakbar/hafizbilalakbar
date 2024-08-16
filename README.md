@@ -116,47 +116,37 @@
 
 ## Experience
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-
-  <!-- Hexon Digital -->
-  <div style="flex: 0 1 48%; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s, box-shadow 0.3s; overflow: hidden;">
-    <a href="https://hexondigital.com/" target="_blank" style="display: block; width: 100%; height: 60px; background: #f4f4f4; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-      <img src="https://media.licdn.com/dms/image/C4D0BAQEEIA4CHBFqYA/company-logo_200_200/0/1630516840533/hexon_digital_logo?e=2147483647&v=beta&t=mSunUiQ-pDK_4FYnG8teTOTazbIBFrXjh6RmFM_YQAI" alt="Hexon Digital Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;">
-    </a>
-    <div style="padding: 15px;">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://hexondigital.com/" target="_blank">
+        <img src="https://media.licdn.com/dms/image/C4D0BAQEEIA4CHBFqYA/company-logo_200_200/0/1630516840533/hexon_digital_logo?e=2147483647&v=beta&t=mSunUiQ-pDK_4FYnG8teTOTazbIBFrXjh6RmFM_YQAI" alt="Hexon Digital Logo" width="60" height="60" style="border-radius: 50%;">
+      </a>
       <strong>Web Developer</strong>
       <p>Faisalabad District, Punjab, Pakistan (On-site)</p>
       <p><strong>Sep 2023 - Aug 2024 (1 yr)</strong></p>
-    </div>
-  </div>
-
-  <!-- VNS | Software Agency -->
-  <div style="flex: 0 1 48%; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s, box-shadow 0.3s; overflow: hidden;">
-    <a href="https://vnstudios.com/" target="_blank" style="display: block; width: 100%; height: 60px; background: #f4f4f4; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-      <img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" alt="VNS | Software Agency Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;">
-    </a>
-    <div style="padding: 15px;">
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://vnstudios.com/" target="_blank">
+        <img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" alt="VNS | Software Agency Logo" width="60" height="60" style="border-radius: 50%;">
+      </a>
       <strong>Web App Developer</strong>
       <p>Buenos Aires Province, Argentina (Remote)</p>
       <p><strong>Feb 2021 - Aug 2023 (2 yrs 7 mos)</strong></p>
-    </div>
-  </div>
-
-</div>
-
-<!-- Fiverr -->
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <div style="flex: 0 1 48%; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s, box-shadow 0.3s; overflow: hidden;">
-    <a href="https://www.fiverr.com/" target="_blank" style="display: block; width: 100%; height: 60px; background: #f4f4f4; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" alt="Fiverr Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;">
-    </a>
-    <div style="padding: 15px;">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://www.fiverr.com/" target="_blank">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" alt="Fiverr Logo" width="60" height="60" style="border-radius: 50%;">
+      </a>
       <strong>Web Application Developer</strong>
       <p>Faisalabad, Punjab, Pakistan (Remote)</p>
       <p><strong>Feb 2020 - Mar 2021 (1 yr 2 mos)</strong></p>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
+
 
 ---
 <!--Recient Project-->
