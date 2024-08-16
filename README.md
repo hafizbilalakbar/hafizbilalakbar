@@ -116,9 +116,9 @@
 
 ## Experience
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="45%" valign="top" style="padding: 10px;">
       <a href="https://hexondigital.com/" target="_blank">
         <img src="https://media.licdn.com/dms/image/C4D0BAQEEIA4CHBFqYA/company-logo_200_200/0/1630516840533/hexon_digital_logo?e=2147483647&v=beta&t=mSunUiQ-pDK_4FYnG8teTOTazbIBFrXjh6RmFM_YQAI" alt="Hexon Digital Logo" width="60" height="60" style="border-radius: 50%;">
       </a>
@@ -126,7 +126,7 @@
       <p>Faisalabad District, Punjab, Pakistan (On-site)</p>
       <p><strong>Sep 2023 - Aug 2024 (1 yr)</strong></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="45%" valign="top" style="padding: 10px;">
       <a href="https://vnstudios.com/" target="_blank">
         <img src="https://media.licdn.com/dms/image/D4D0BAQFh_FVI2v5cYw/company-logo_200_200/0/1718741762859/vn_studios_logo?e=2147483647&v=beta&t=DbJaB_sSWr1Qn559AtGTVRitJBYaUR_E990OUZd7NvY" alt="VNS | Software Agency Logo" width="60" height="60" style="border-radius: 50%;">
       </a>
@@ -136,7 +136,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td colspan="2" align="center" valign="top" style="padding: 20px 0;">
       <a href="https://www.fiverr.com/" target="_blank">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" alt="Fiverr Logo" width="60" height="60" style="border-radius: 50%;">
       </a>
