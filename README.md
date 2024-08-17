@@ -178,10 +178,10 @@
       <p><strong>Project 1</strong></p>
     </td>
     <td style="width: 33%; text-align: center;">
-      <a href="https://your-project-url-2.com" target="_blank">
-        <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_200/v1693566294/catalog/1697557568132345856/l45zbgup5pxtqu7jcufb.jpg" alt="Project 2" style="width: 100%; height: 150px; object-fit: cover;"/>
+      <a href="https://ipanemabody.com/" target="_blank">
+        <img src="https://github.com/malikbilalakbar125/malikbilalakbar125/blob/main/Recient%20Projects/Ipanema%20Body.jpg?raw=true" alt="Ipanema Body" style="width: 100%; height: 150px; object-fit: cover;"/>
       </a>
-      <p><strong>Project 2</strong></p>
+      <p><strong>Ipanema Body</strong></p>
     </td>
     <td style="width: 33%; text-align: center;">
       <a href="https://www.cookitworld.com/" target="_blank">
