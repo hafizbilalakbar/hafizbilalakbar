@@ -37,7 +37,7 @@
 
 ---
 
-## Development Skills & Technical Expertise
+## Development Skills
 
 ### Frontend Development
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
@@ -168,7 +168,7 @@
 ---
 <!-- Recent Projects -->
 
-### Recent Projects
+## Recent Projects
 
 <table style="width: 100%;">
   <tr>
