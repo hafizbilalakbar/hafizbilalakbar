@@ -3,14 +3,7 @@
 <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/linkedin%20cover.png" alt="MasterHead" style="width: 100%; max-width: 100%;" />
 </div>
 
-<h1 align="center">
-  Hi 👋, Welcome to my GitHub! 
-  <a href="https://github.com/your-username">
-    <svg width="32" height="32" viewBox="0 0 16 16" class="bi bi-github" fill="white" xmlns="http://www.w3.org/2000/svg">
-      <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.5 7.59.4.074.547-.173.547-.385v-1.487c-2.237.488-2.707-1.074-2.707-1.074-.364-.924-.889-1.17-.889-1.17-.728-.498.055-.488.055-.488.807.056 1.23.831 1.23.831.716 1.22 1.88.87 2.336.665.072-.519.28-.87.51-1.069-1.785-.203-3.66-.892-3.66-3.964 0-.876.313-1.593.83-2.158-.084-.204-.36-1.027.078-2.14 0 0 .677-.217 2.22.828.645-.179 1.333-.268 2.018-.27.687.002 1.374.091 2.018.27 1.543-1.045 2.22-.828 2.22-.828.438 1.113.163 1.936.08 2.14.516.565.83 1.282.83 2.158 0 3.078-1.884 3.763-3.683 3.958.287.248.54.735.54 1.48v2.19c0 .212.147.46.548.384C13.71 14.533 16 11.537 16 8c0-4.42-3.58-8-8-8z"/>
-    </svg>
-  </a>
-</h1>
+<h1 align="center" style="font-size: 2em; margin: 0;">Hi 👋, Welcome to my GitHub!</h1>
 
 <h3 align="center"> Transforming Your Dream Ideas into High-Performance E-Commerce Solutions</h3>
 
