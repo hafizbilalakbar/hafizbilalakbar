@@ -277,7 +277,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qurantranslationvideo" height="50" width="50" />
 </a>
 &nbsp;&nbsp;
-<a href="https://web.whatsapp.com/send?phone=923103180385" target="_blank" style="margin-right: 10px;">
+<a href="https://wa.me/923103180385" target="_blank" style="margin-right: 10px;">
 <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/whatsapp-business-icon.png" alt="WhatsApp" height="50" width="50" />
 </a>
 &nbsp;&nbsp;
