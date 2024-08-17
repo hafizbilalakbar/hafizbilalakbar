@@ -31,9 +31,9 @@
 
 - 🤝 Explore my work and let's connect me on [**LinkedIn**](https://www.linkedin.com/in/malikbilalakbar125) 
 
-- 🥰 So excited to join your team and work on **Creative Projects**.
+- 🥰 So excited to join your team and working on **Creative Projects**.
 
-- 🌱 I’m currently learning many things, I believe that everyday is a **learning opportunity**.
+- 🌱 I see every day is a chance to learn and improve.
 
 - 💬 Ask me about **Web App Development | HTML5 | CSS3 | JavaScript | jQuery | Php | MySQL | React.js | Vue.js | Liquid & JSON | Tailwind CSS & Bootstrap | WordPress Development | Shopify Theme Customization | E-commerce Specialist**
 
