@@ -178,6 +178,9 @@
       <p style="font-size: 13px; text-align: center;"><strong>Pansn Wares</strong></p>
       <p>&nbsp;</p>
     </td>
+    &nbsp;
+    &nbsp;
+    &nbsp;
     <td style="width: 50%; text-align: center;">
       <a href="https://ipanemabody.com/" target="_blank">
         <img src="https://github.com/malikbilalakbar125/malikbilalakbar125/blob/main/Recient%20Projects/Ipanema%20Body.jpg?raw=true" alt="Ipanema Body" style="width: 100%; height: 200px; object-fit: cover;"/>
