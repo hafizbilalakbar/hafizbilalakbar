@@ -31,7 +31,7 @@
 
 - 🤝 Explore my work and let's connect me on [**LinkedIn**](https://www.linkedin.com/in/malikbilalakbar125) 
 
-- 🥰 So excited to join your team and working on **Creative Projects**.
+- 🥰 So excited to join your team and work **creatively together**.
 
 - 🌱 I see every day is a chance to learn and improve.
 
