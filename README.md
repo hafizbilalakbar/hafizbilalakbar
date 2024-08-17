@@ -172,10 +172,10 @@
 <table style="width: 100%; border-spacing: 10px;">
   <tr>
     <td style="width: 33%; text-align: center;">
-      <a href="https://your-project-url-1.com" target="_blank">
-        <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_200/v1687908860/catalog/1673836551244148736/pehp6lthvahqimy7jy5l.jpg" alt="Project 1" style="width: 100%; height: 150px; object-fit: cover;"/>
+      <a href="https://pansnwares.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Pansn%20Wares.jpg" alt="Project 1" style="width: 100%; height: 150px; object-fit: cover;"/>
       </a>
-      <p><strong>Project 1</strong></p>
+      <p><strong>Ipanema Body</strong></p>
     </td>
     <td style="width: 33%; text-align: center;">
       <a href="https://ipanemabody.com/" target="_blank">
