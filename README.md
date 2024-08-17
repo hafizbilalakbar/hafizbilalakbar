@@ -286,7 +286,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://replit.com/@malikbilalcode/" target="_blank">
-<img align="center" src="https://seeklogo.com/images/R/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="malikbilalcode" height="50" width="50" />
+<img align="center" src="https://seeklogo.com/images/R/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="malikbilalcode" height="40" width="40" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:malikbilalakbar1@gmail.com" target="_blank">
