@@ -169,7 +169,7 @@
 
 ### Recent Projects
 
-<table style="width: 100%; border-spacing: 10px;">
+<table style="width: 100%; border-spacing: 10px; text-align: center;">
   <tr>
     <td style="width: 49%; text-align: center;">
       <a href="https://pansnwares.com/" target="_blank">
@@ -177,7 +177,7 @@
       </a>
       <p style="font-size: 13px; text-align: center;"><strong>Pansn Wares</strong></p>
     </td>
-    <td style="width: 2%;"></td> <!-- Empty cell to add space -->
+    <td style="width: 1%;"></td> <!-- Empty cell to add space -->
     <td style="width: 49%; text-align: center;">
       <a href="https://ipanemabody.com/" target="_blank">
         <img src="https://github.com/malikbilalakbar125/malikbilalakbar125/blob/main/Recient%20Projects/Ipanema%20Body.jpg?raw=true" alt="Ipanema Body" style="width: 100%; height: 200px; object-fit: cover;"/>
@@ -192,7 +192,7 @@
       </a>
       <p style="font-size: 13px; text-align: center;"><strong>CookitWorld</strong></p>
     </td>
-    <td style="width: 2%;"></td> <!-- Empty cell to add space -->
+    <td style="width: 1%;"></td> <!-- Empty cell to add space -->
     <td style="width: 49%; text-align: center;">
       <a href="https://tuffstreeters.com.au/" target="_blank">
         <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Tuffstreaters.jpg" alt="Tuff Streeters" style="width: 100%; height: 200px; object-fit: cover;"/>
