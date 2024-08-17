@@ -6,9 +6,10 @@
 <h1 align="center">
   Hi 👋, Welcome to my GitHub! 
   <a href="https://github.com/your-username">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="32" height="32"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="32" height="32"/>
   </a>
 </h1>
+
 <h3 align="center"> Transforming Your Dream Ideas into High-Performance E-Commerce Solutions</h3>
 
 <!--Night Owl image-->
