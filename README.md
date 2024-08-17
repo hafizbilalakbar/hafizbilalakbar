@@ -27,15 +27,15 @@
   
 - 💻 Currently working on **Shopify, WordPress, React.js & Vue.js**.
 
-- 👯 I'm excited to join your team and achieve great results on **Creative Projects**.
-
 - 👯 Collaborating with developers on **Client projects** 
 
-- 🤝 Explore my work and let's connect on [**LinkedIn**](https://www.linkedin.com/in/malikbilalakbar125)
+- 🤝 Explore my work and let's connect me on [**LinkedIn**](https://www.linkedin.com/in/malikbilalakbar125)
 
 - 💌 How to reach me: **[Gmail](mailto:dailylifemalikbilal@gmail.com)**
 
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🥰 So excited to join your team and achieve great results on **Creative Projects**.
+
+- 🌱 I’m currently learning many things, I believe that everyday is a **learning opportunity**.
 
 - 💬 Ask me about **Web App Development | HTML5 | CSS3 | JavaScript | jQuery | Php | MySQL | React.js | Vue.js | Liquid & JSON | Tailwind CSS & Bootstrap | WordPress Development | Shopify Theme Customization | E-commerce Specialist**
 
