@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/linkedin%20cover.png" alt="MasterHead" style="width: 100%; max-width: 100%;" />
 </div>
 
-<h1 align="center">Hi 👋, Welcome to my GitHub! [GitHub Logo](https://github.com/about)</h1>
+<h1 align="center">Hi 👋, Welcome to my GitHub! <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="30" height="30" /></h1>
 <h3 align="center"> Transforming Your Dream Ideas into High-Performance E-Commerce Solutions</h3>
 
 <!--Night Owl image-->
