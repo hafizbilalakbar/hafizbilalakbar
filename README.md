@@ -171,7 +171,7 @@
 
 <table style="width: 100%; border-spacing: 0;">
   <tr>
-    <td style="width: 50%; text-align: center;">
+    <td style="width: 50%; align="center">
       <a href="https://pansnwares.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Pansn%20Wares.jpg" alt="Pansn Wares" style="width: 100%; height: 200px; object-fit: cover;"/>
       </a>
