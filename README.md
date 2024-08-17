@@ -177,6 +177,8 @@
       </a>
       <p style="font-size: 13px; text-align: center;"><strong>Pansn Wares</strong></p>
     </td>
+    &nbsp;
+    &nbsp;
     <td style="width: 50%; text-align: center;">
       <a href="https://ipanemabody.com/" target="_blank">
         <img src="https://github.com/malikbilalakbar125/malikbilalakbar125/blob/main/Recient%20Projects/Ipanema%20Body.jpg?raw=true" alt="Ipanema Body" style="width: 100%; height: 200px; object-fit: cover;"/>
@@ -191,6 +193,8 @@
       </a>
       <p style="font-size: 13px; text-align: center;"><strong>CookitWorld</strong></p>
     </td>
+    &nbsp;
+    &nbsp;
     <td style="width: 50%; text-align: center;">
       <a href="https://tuffstreeters.com.au/" target="_blank">
         <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Tuffstreaters.jpg" alt="Tuff Streeters" style="width: 100%; height: 200px; object-fit: cover;"/>
