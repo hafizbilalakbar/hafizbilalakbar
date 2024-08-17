@@ -29,11 +29,9 @@
 
 - 👯 Collaborating with developers on **Client projects** 
 
-- 🤝 Explore my work and let's connect me on [**LinkedIn**](https://www.linkedin.com/in/malikbilalakbar125)
+- 🤝 Explore my work and let's connect me on [**LinkedIn**](https://www.linkedin.com/in/malikbilalakbar125) 
 
-- 💌 How to reach me: **[Gmail](mailto:dailylifemalikbilal@gmail.com)**
-
-- 🥰 So excited to join your team and achieve great results on **Creative Projects**.
+- 🥰 So excited to join your team and work on **Creative Projects**.
 
 - 🌱 I’m currently learning many things, I believe that everyday is a **learning opportunity**.
 
