@@ -24,6 +24,8 @@
 - ✨ Student of life :)
 
 - ❤ Contributing to **Open Source**.
+
+- 🌱 I see every day is a chance to learn and improve.
   
 - 💻 Currently working on **Shopify, WordPress, React.js & Vue.js**.
 
@@ -32,8 +34,6 @@
 - 🤝 Explore my work and let's connect me on [**LinkedIn**](https://www.linkedin.com/in/malikbilalakbar125) 
 
 - 🥰 So excited to join your team and work **creatively together**.
-
-- 🌱 I see every day is a chance to learn and improve.
 
 - 💬 Ask me about **Web App Development | HTML5 | CSS3 | JavaScript | jQuery | Php | MySQL | React.js | Vue.js | Liquid & JSON | Tailwind CSS & Bootstrap | WordPress Development | Shopify Theme Customization | E-commerce Specialist**
 
