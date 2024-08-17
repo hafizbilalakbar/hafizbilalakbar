@@ -184,8 +184,8 @@
       <p><strong>Project 2</strong></p>
     </td>
     <td style="width: 33%; text-align: center;">
-      <a href="https://your-project-url-3.com" target="_blank">
-        <img src="https://www.zohowebstatic.com/sites/zweb/images/commerce/prebuilt-left.jpg" alt="Project 3" style="width: 100%; height: 150px; object-fit: cover;"/>
+      <a href="https://www.cookitworld.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/CookitWorld.png" alt="CookitWorld" style="width: 100%; height: 150px; object-fit: cover;"/>
       </a>
       <p><strong>Project 3</strong></p>
     </td>
