@@ -171,35 +171,35 @@
 
 <table style="width: 100%; border-spacing: 10px;">
   <tr>
-    <td style="width: 33%; text-align: center;">
+    <td style="width: 50%; text-align: center;">
       <a href="https://pansnwares.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Pansn%20Wares.jpg" alt="Pansn Wares" style="width: 100%; height: 150px; object-fit: cover;"/>
+        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Pansn%20Wares.jpg" alt="Pansn Wares" style="width: 100%; height: 200px; object-fit: cover;"/>
       </a>
-      <p><strong>Pansn Wares</strong></p>
+      <p style="font-size: 13px; text-align: center;"><strong>Pansn Wares</strong></p>
     </td>
-    <td style="width: 33%; text-align: center;">
+    <td style="width: 50%; text-align: center;">
       <a href="https://ipanemabody.com/" target="_blank">
-        <img src="https://github.com/malikbilalakbar125/malikbilalakbar125/blob/main/Recient%20Projects/Ipanema%20Body.jpg?raw=true" alt="Ipanema Body" style="width: 100%; height: 150px; object-fit: cover;"/>
+        <img src="https://github.com/malikbilalakbar125/malikbilalakbar125/blob/main/Recient%20Projects/Ipanema%20Body.jpg?raw=true" alt="Ipanema Body" style="width: 100%; height: 200px; object-fit: cover;"/>
       </a>
-      <p><strong>Ipanema Body</strong></p>
-    </td>
-    <td style="width: 33%; text-align: center;">
-      <a href="https://www.cookitworld.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/CookitWorld.jpg" alt="CookitWorld" style="width: 100%; height: 150px; object-fit: cover;"/>
-      </a>
-      <p><strong>CookitWorld</strong></p>
+      <p style="font-size: 13px; text-align: center;"><strong>Ipanema Body</strong></p>
     </td>
   </tr>
   <tr>
-    <td style="width: 33%; text-align: center;">
-      <a href="https://tuffstreeters.com.au/" target="_blank">
-        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Tuffstreaters.jpg" alt="Tuff Streeters" style="width: 100%; height: 150px; object-fit: cover;"/>
+    <td style="width: 50%; text-align: center;">
+      <a href="https://www.cookitworld.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/CookitWorld.jpg" alt="CookitWorld" style="width: 100%; height: 200px; object-fit: cover;"/>
       </a>
-      <p><strong>Tuff Streeters</strong></p>
+      <p style="font-size: 13px; text-align: center;"><strong>CookitWorld</strong></p>
     </td>
-    <!-- Add more projects as needed -->
+    <td style="width: 50%; text-align: center;">
+      <a href="https://tuffstreeters.com.au/" target="_blank">
+        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Tuffstreaters.jpg" alt="Tuff Streeters" style="width: 100%; height: 200px; object-fit: cover;"/>
+      </a>
+      <p style="font-size: 13px; text-align: center;"><strong>Tuff Streeters</strong></p>
+    </td>
   </tr>
 </table>
+
 
 ---
 
