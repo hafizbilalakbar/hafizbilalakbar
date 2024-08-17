@@ -173,9 +173,9 @@
   <tr>
     <td style="width: 33%; text-align: center;">
       <a href="https://pansnwares.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Pansn%20Wares.jpg" alt="Project 1" style="width: 100%; height: 150px; object-fit: cover;"/>
+        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Pansn%20Wares.jpg" alt="Pansn Wares" style="width: 100%; height: 150px; object-fit: cover;"/>
       </a>
-      <p><strong>Ipanema Body</strong></p>
+      <p><strong>Pansn Wares</strong></p>
     </td>
     <td style="width: 33%; text-align: center;">
       <a href="https://ipanemabody.com/" target="_blank">
