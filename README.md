@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/linkedin%20cover.png" alt="MasterHead" style="width: 100%; max-width: 100%;" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Hafiz Bilal Akbar</h1>
-<h3 align="center"> Turning Your Ideas into Advanced Digital Solutions with Expert Programming</h3>
+<h1 align="center">Hi 👋, Welcome to my GitHub! [GitHub Logo](https://github.com/about)</h1>
+<h3 align="center"> Transforming Your Dream Ideas into High-Performance E-Commerce Solutions</h3>
 
 <!--Night Owl image-->
 <div>
