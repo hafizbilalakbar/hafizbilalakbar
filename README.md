@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/linkedin%20cover.png" alt="MasterHead" style="width: 100%; max-width: 100%;" />
 </div>
 
-<h1 align="center" style="font-size: 2em; margin: 0;">Hi 👋, Welcome to my GitHub!</h1>
+<h1 align="center" style="font-size: 2em; margin: 0;">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, Welcome to my GitHub!</h1>
 
 <h3 align="center"> Transforming Your Dream Ideas into High-Performance E-Commerce Solutions</h3>
 
@@ -21,19 +21,23 @@
 </a>
 </p>
 
-- 💻 I’m currently working on **Shopify, WordPress, React.js and Vue.js**.
+- ✨ Student of life :)
 
-- 👯 I’m looking to collaborate on **Website Development**
+- ❤ Contributing to **Open Source**.
+  
+- 💻 Currently working on **Shopify, WordPress, React.js & Vue.js**.
 
-- 🤝 I’m looking for help with **Beginners Developer**
+- 👯 I'm excited to join your team and achieve great results on **Creative Projects**.
+
+- 👯 Collaborating with developers on **Client projects** 
 
 - 🤝 Explore my work and let's connect on [**LinkedIn**](https://www.linkedin.com/in/malikbilalakbar125)
 
 - 💌 How to reach me: **[Gmail](mailto:dailylifemalikbilal@gmail.com)**
 
-- ⚡ Fun fact **I'm not lazy, I'm just on my Energy-Saving Mode.**
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 
-- 💬 Ask me about **Web App Developer | HTML5 | CSS3 | JavaScript | jQuery | Php | MySQL | React.js | Vue.js | Liquid & JSON | Tailwind CSS & Bootstrap | WordPress Development | Shopify Theme Customization | E-commerce Specialist**
+- 💬 Ask me about **Web App Development | HTML5 | CSS3 | JavaScript | jQuery | Php | MySQL | React.js | Vue.js | Liquid & JSON | Tailwind CSS & Bootstrap | WordPress Development | Shopify Theme Customization | E-commerce Specialist**
 
 ---
 
