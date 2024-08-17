@@ -26,9 +26,9 @@
 
 - 🤝 I’m looking for help with **Beginners Developer**
 
-- 👨‍💻 Check out my work and connect with me on [LinkedIn](https://www.linkedin.com/in/malikbilalakbar125)
+- 🤝 Explore my work and let's connect on [**LinkedIn**](https://www.linkedin.com/in/malikbilalakbar125)
 
-- 📫 How to reach me **dailylifemalikbilal@gmail.com**
+- 💌 How to reach me: **[Gmail](mailto:dailylifemalikbilal@gmail.com)**
 
 - ⚡ Fun fact **I'm not lazy, I'm just on my Energy-Saving Mode.**
 
