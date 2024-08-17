@@ -187,7 +187,7 @@
       <a href="https://www.cookitworld.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/CookitWorld.png" alt="CookitWorld" style="width: 100%; height: 150px; object-fit: cover;"/>
       </a>
-      <p><strong>Project 3</strong></p>
+      <p><strong>CookitWorld</strong></p>
     </td>
   </tr>
   <tr>
