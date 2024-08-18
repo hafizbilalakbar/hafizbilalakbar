@@ -1,7 +1,7 @@
 name: Update Quote
 
 on:
-  workflow_dispatch:  #Manually trigger the workflow
+  workflow_dispatch:  # Manually trigger the workflow
   schedule:
     - cron: '30 7 * * *'  # Schedule daily at 12:30 PM Pakistan Time (PKT)
 
