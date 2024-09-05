@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/hafizbilalakbar/hafizbilalakbar/main/Recient%20Projects/linkedin%20cover.png" alt="MasterHead" style="width: 100%; max-width: 100%;" />
+<img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/linkedin%20cover.png" alt="MasterHead" style="width: 100%; max-width: 100%;" />
 </div>
 
 <h1 align="center" style="font-size: 2em; margin: 0;">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, Welcome to my GitHub!</h1>
@@ -13,10 +13,10 @@
 </div>
 
 <!--Profile Count Badge-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizbilalakbar&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="hafizbilalakbar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malikbilalakbar125&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="malikbilalakbar125" /> </p>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hafizbilalakbar" target="blank">
+<a href="https://www.linkedin.com/in/malikbilalakbar125" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="Hafiz Bilal Akbar LinkedIn" />
 </a>
 </p>
@@ -31,7 +31,7 @@
 
 - 👯 Collaborating with developers on **Client projects** 
 
-- 🤝 Explore my work and let's connect me on [**LinkedIn**](https://www.linkedin.com/in/hafizbilalakbar) 
+- 🤝 Explore my work and let's connect me on [**LinkedIn**](https://www.linkedin.com/in/malikbilalakbar125) 
 
 - 🥰 So excited to join your team and work **creatively together**.
 
@@ -176,13 +176,13 @@
   <tr>
     <td style="width: 50%;">
       <a href="https://pansnwares.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/hafizbilalakbar/hafizbilalakbar/main/Recient%20Projects/Pansn%20Wares.jpg" alt="Pansn Wares" style="width: 100%; height: 200px; object-fit: cover;"/>
+        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Pansn%20Wares.jpg" alt="Pansn Wares" style="width: 100%; height: 200px; object-fit: cover;"/>
       </a>
       <p style="font-size: 12px;"><strong>Pansn Wares</strong></p>
     </td>
     <td style="width: 50%;">
       <a href="https://ipanemabody.com/" target="_blank">
-        <img src="https://github.com/hafizbilalakbar/hafizbilalakbar/blob/main/Recient%20Projects/Ipanema%20Body.jpg?raw=true" alt="Ipanema Body" style="width: 100%; height: 200px; object-fit: cover;"/>
+        <img src="https://github.com/malikbilalakbar125/malikbilalakbar125/blob/main/Recient%20Projects/Ipanema%20Body.jpg?raw=true" alt="Ipanema Body" style="width: 100%; height: 200px; object-fit: cover;"/>
       </a>
       <p style="font-size: 12px;"><strong>Ipanema Body</strong></p>
     </td>
@@ -190,13 +190,13 @@
   <tr>
     <td style="width: 50%;">
       <a href="https://www.cookitworld.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/hafizbilalakbar/hafizbilalakbar/main/Recient%20Projects/CookitWorld.jpg" alt="CookitWorld" style="width: 100%; height: 200px; object-fit: cover;"/>
+        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/CookitWorld.jpg" alt="CookitWorld" style="width: 100%; height: 200px; object-fit: cover;"/>
       </a>
       <p style="font-size: 12px;"><strong>CookitWorld</strong></p>
     </td>
     <td style="width: 50%;">
       <a href="https://tuffstreeters.com.au/" target="_blank">
-        <img src="https://raw.githubusercontent.com/hafizbilalakbar/hafizbilalakbar/main/Recient%20Projects/Tuffstreaters.jpg" alt="Tuff Streeters" style="width: 100%; height: 200px; object-fit: cover;"/>
+        <img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/Tuffstreaters.jpg" alt="Tuff Streeters" style="width: 100%; height: 200px; object-fit: cover;"/>
       </a>
       <p style="font-size: 12px;"><strong>Tuff Streeters</strong></p>
     </td>
@@ -213,16 +213,16 @@
 <td width="50%">
 <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
 <p align="center">
-<a href="https://github.com/hafizbilalakbar">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizbilalakbar&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+<a href="https://github.com/malikbilalakbar125">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikbilalakbar125&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
 </a>
 </p>
 </td>
 <td width="50%">
 <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
 <p align="center">
-<a href="https://github.com/hafizbilalakbar">
-<img align="center" src="https://streak-stats.demolab.com?user=hafizbilalakbar&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+<a href="https://github.com/malikbilalakbar125">
+<img align="center" src="https://streak-stats.demolab.com?user=malikbilalakbar125&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
 </a>
 </p>
 </td>
@@ -231,16 +231,16 @@
 <td width="50%">
 <h3 align="center"><strong>Wᴇʙ Fᴏᴜɴᴅᴀᴛɪᴏɴs</strong></h3>
 <p align="center">
-<a href="https://github.com/hafizbilalakbar/">
-<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizbilalakbar&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Web Foundations" />
+<a href="https://github.com/malikbilalakbar125/">
+<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbilalakbar125&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Web Foundations" />
 </a>
 </p>
 </td>
 <td width="50%">
 <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
 <p align="center">
-<a href="https://github.com/hafizbilalakbar">
-<img align="center" src="https://github-contributor-stats.vercel.app/api?username=hafizbilalakbar&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+<a href="https://github.com/malikbilalakbar125">
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=malikbilalakbar125&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
 </a>
 </p>
 </td>
@@ -251,7 +251,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizbilalakbar&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malikbilalakbar125&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -271,12 +271,12 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-<a href="https://linkedin.com/in/hafizbilalakbar/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafizbilalakbar" height="50" width="50" />
+<a href="https://linkedin.com/in/malikbilalakbar125/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malikbilalakbar125" height="50" width="50" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.facebook.com/hafizbilalakbar/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafizbilalakbar" height="50" width="50" />
+<a href="https://www.facebook.com/malikbilalakbar125/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malikbilalakbar125" height="50" width="50" />
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/qurantranslationvideo/" target="_blank">
