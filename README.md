@@ -275,12 +275,12 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafizbilalakbar" height="50" width="50" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.facebook.com/malikbilalakbar125/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malikbilalakbar125" height="50" width="50" />
+<a href="https://www.facebook.com/hafizbilalakbr/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafizbilalakbr" height="50" width="50" />
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/malikbilalakbar125/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malikbilalakbar125" height="50" width="50" />
+<a href="https://instagram.com/hafizbilalakbr/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafizbilalakbr" height="50" width="50" />
 </a>
 &nbsp;&nbsp;
 <a href="https://wa.me/923103180385" target="_blank">
