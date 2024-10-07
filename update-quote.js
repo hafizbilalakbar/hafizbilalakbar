@@ -26,16 +26,19 @@ async function updateQuote() {
     let readmeContent = fs.readFileSync(readmePath, 'utf-8');
 
     // Replace the old quote card with the new one
-    readmeContent = readmeContent.replace(
+    const newReadmeContent = readmeContent.replace(
       /<!--STARTS_HERE_QUOTE_CARD-->(.|\n)*<!--ENDS_HERE_QUOTE_CARD-->/,
       cardDesign
     );
 
     // Write the updated content back to README.md
-    fs.writeFileSync(readmePath, readmeContent);
+    fs.writeFileSync(readmePath, newReadmeContent);
+    
+    console.log("README.md updated successfully with new quote!");
   } catch (error) {
     // Log any errors that occur
     console.error('Error updating quote:', error);
+    process.exit(1);  // Exit with a non-zero code if there is an error
   }
 }
 
