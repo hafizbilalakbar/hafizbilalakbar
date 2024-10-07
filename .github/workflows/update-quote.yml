@@ -3,7 +3,7 @@ name: Update Quote
 on:
   workflow_dispatch:  # Manually trigger the workflow
   schedule:
-    - cron: '*/1 * * * *'  # Schedule to run every 5 minutes
+    - cron: '*/5 * * * *'  # Schedule to run every 5 minutes for testing
 
 jobs:
   update-readme:
