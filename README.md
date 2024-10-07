@@ -260,11 +260,13 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Your%20time%20is%20limited%2C%20so%20don't%20waste%20it%20living%20someone%20else's%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=If%20you%20don't%20like%20something%20change%20it%3B%20if%20you%20can't%20change%20it%2C%20change%20the%20way%20you%20think%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
