@@ -3,7 +3,7 @@ name: Update Quote
 on:
   workflow_dispatch:  # Manually trigger the workflow
   schedule:
-    - cron: '30 7 * * *'  # Schedule daily at 12:00 PM Pakistan Time (PKT)
+    - cron: '*/1 * * * *'  # Run every 1 minute for testing
 
 jobs:
   update-readme:
