@@ -31,10 +31,16 @@ async function updateQuote() {
       cardDesign
     );
 
+    // Check if the README.md actually needs an update
+    if (readmeContent === newReadmeContent) {
+      console.log("No update needed. The quote is already up-to-date.");
+      return;
+    }
+
     // Write the updated content back to README.md
     fs.writeFileSync(readmePath, newReadmeContent);
     
-    console.log("README.md updated successfully with new quote!");
+    console.log("README.md updated successfully with a new quote!");
   } catch (error) {
     // Log any errors that occur
     console.error('Error updating quote:', error);
