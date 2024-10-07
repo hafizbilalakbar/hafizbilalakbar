@@ -26,10 +26,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.email "malikbilalakbar1@gmail.com"
-          git config --global user.name "hafizbilalakbar"
-          git add README.md
-          git commit -m "Update README with daily quote"
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/hafizbilalakbar/REPO_NAME.git HEAD:main
+- name: Commit and push changes
+  run: |
+    git config --global user.email "malikbilalakbar1@gmail.com"
+    git config --global user.name "hafizbilalakbar"
+    git add README.md
+    git commit -m "Update README with daily quote"
+    git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/hafizbilalakbar/hafizbilalakbar.git HEAD:main
+
