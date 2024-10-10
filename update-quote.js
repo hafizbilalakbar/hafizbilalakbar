@@ -5,7 +5,7 @@ async function updateQuote() {
   try {
     // Load quotes from JSON file
     const quotes = require('./quotes.json');
-    
+
     // Select a random quote
     const randomIndex = Math.floor(Math.random() * quotes.length);
     const { quote, author } = quotes[randomIndex];
@@ -21,7 +21,7 @@ async function updateQuote() {
 
     // Path to the README.md file
     const readmePath = './README.md';
-    
+
     // Read the content of README.md
     let readmeContent = fs.readFileSync(readmePath, 'utf-8');
 
@@ -39,11 +39,11 @@ async function updateQuote() {
 
     // Write the updated content back to README.md
     fs.writeFileSync(readmePath, newReadmeContent);
-    
+
     console.log("README.md updated successfully with a new quote!");
   } catch (error) {
     // Log any errors that occur
-    console.error('Error updating quote:', error);
+    console.error('Error updating quote:', error.message, error.stack);
     process.exit(1);  // Exit with a non-zero code if there is an error
   }
 }
