@@ -3,7 +3,7 @@ name: Update Quote
 on:
   workflow_dispatch:  # Manually trigger the workflow
   schedule:
-    - cron: '*/1 * * * *'  # Schedule to run every 1 minutes
+    - cron: '*/1 * * * *'  # Schedule to run every minute
 
 jobs:
   update-readme:
@@ -29,5 +29,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add README.md
-          git -c user.name='hafizbilalakbar' -c user.email='malikbilalakbar1@gmail.com' commit -m "Update README with daily quote" -a
+          git -c user.name='hafizbilalakbar' -c user.email='malikbilalakbar1@gmail.com' commit -m "Update README with random quote" -a
           git push
