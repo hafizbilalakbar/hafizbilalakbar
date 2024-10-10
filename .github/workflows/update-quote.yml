@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # Updated to v3
+        uses: actions/checkout@v4  # Update to v4
 
       - name: Set up Node.js
         uses: actions/setup-node@v4  # This is already correct
