@@ -2,7 +2,7 @@ const fs = require('fs');
 
 async function updateQuote() {
   try {
-    const quotes = require('./quotes.json');
+    const quotes = require('./quotes.json');  // Ensure the path is correct
     const randomIndex = Math.floor(Math.random() * quotes.length);
     const { quote, author } = quotes[randomIndex];
 
