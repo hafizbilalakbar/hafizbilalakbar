@@ -1,10 +1,12 @@
 const fs = require('fs');
+const path = require('path');
 
 // Function to update the quote in the README.md file
 async function updateQuote() {
   try {
     // Load quotes from JSON file
-    const quotes = require('./quotes.json');
+    const quotesPath = path.join(__dirname, 'quotes.json');
+    const quotes = JSON.parse(fs.readFileSync(quotesPath, 'utf-8'));
 
     // Select a random quote
     const randomIndex = Math.floor(Math.random() * quotes.length);
