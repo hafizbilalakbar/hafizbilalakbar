@@ -3,7 +3,7 @@ name: Update Quote
 on:
   workflow_dispatch:  # Manually trigger the workflow
   schedule:
-    - cron: '* * * * *'  # Run every minute for testing
+     - cron: '* * * * *'  # Run every minute for testing
 
 jobs:
   update-readme:
@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # Update this to v3
+        uses: actions/checkout@v2
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'  # Ensure you're using Node.js 20 or newer
+          node-version: 14
 
       - name: Install dependencies
         run: npm install
@@ -28,8 +28,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.email "malikbilalakbar1@gmail.com"
-          git config --global user.name "hafizbilalakbar"
           git add README.md
-          git commit -m "Update README with daily quote"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/hafizbilalakbar/hafizbilalakbar.git HEAD:main
+          git -c user.name='hafizbilalakbar' -c user.email='malikbilalakbar1@gmail.com' commit -m "Update README with daily quote" -a
+          git push
