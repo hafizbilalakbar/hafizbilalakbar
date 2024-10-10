@@ -317,11 +317,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=A.A.%20Anas&quote=You're%20braver%20than%20you%20believe%2C%20and%20stronger%20than%20you%20seem%2C%20and%20smarter%20than%20you%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=A.A.%20Bilal&quote=You%20can't%20stay%20in%20your%20corner%20of%20the%20Forest%20waiting%20for%20others%20to%20come%20to%20you.%20You%20have%20to%20go%20to%20them%20sometimes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
