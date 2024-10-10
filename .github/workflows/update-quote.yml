@@ -3,7 +3,7 @@ name: Update Quote
 on:
   workflow_dispatch:  # Manually trigger the workflow
   schedule:
-    - cron: '*/1 * * * *'  # Schedule to run every minute
+    - cron: '*/1 * * * *'  # Schedule to run every 1 minute
 
 jobs:
   update-readme:
@@ -16,7 +16,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 14
+          node-version: '14'
 
       - name: Install dependencies
         run: npm install
