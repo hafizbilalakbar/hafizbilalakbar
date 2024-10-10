@@ -6,6 +6,13 @@ async function updateQuote() {
   try {
     // Load quotes from JSON file
     const quotesPath = path.join(__dirname, 'quotes.json');
+    
+    // Check if the quotes.json file exists
+    if (!fs.existsSync(quotesPath)) {
+      console.error('Quotes file not found:', quotesPath);
+      process.exit(1);
+    }
+
     const quotes = JSON.parse(fs.readFileSync(quotesPath, 'utf-8'));
 
     // Select a random quote
@@ -45,7 +52,8 @@ async function updateQuote() {
     console.log("README.md updated successfully with a new quote!");
   } catch (error) {
     // Log any errors that occur
-    console.error('Error updating quote:', error.message, error.stack);
+    console.error('Error updating quote:', error.message);
+    console.error('Stack trace:', error.stack);
     process.exit(1);  // Exit with a non-zero code if there is an error
   }
 }
