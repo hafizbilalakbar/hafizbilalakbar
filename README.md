@@ -824,11 +824,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Nothing%20in%20this%20world%20is%20worth%20having%20or%20worth%20doing%20unless%20it%20means%20effort%2C%20pain%2C%20difficulty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=The%20secret%20of%20happiness%20is%20not%20in%20doing%20what%20you%20like%20but%20in%20liking%20what%20you%20have%20to%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
