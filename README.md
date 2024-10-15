@@ -801,11 +801,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=Work%20for%20something%20because%20it%20is%20good%2C%20not%20just%20because%20it%20stands%20a%20chance%20to%20succeed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Believe%20in%20yourself!%20Have%20faith%20in%20your%20abilities!%20Without%20a%20humble%20but%20reasonable%20confidence%20in%20your%20own%20powers%20you%20cannot%20be%20successful%20or%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
