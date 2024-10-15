@@ -850,11 +850,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=When%20we%20allow%20negative%20messages%20to%20fester%20in%20our%20head%2C%20they%20take%20on%20a%20life%20of%20their%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeffrey%20Gitomer&quote=Obstacles%20can't%20stop%20you.%20Problems%20can't%20stop%20you.%20Most%20of%20all%2C%20other%20people%20can't%20stop%20you.%20Only%20you%20can%20stop%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
