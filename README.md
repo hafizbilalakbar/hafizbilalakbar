@@ -913,11 +913,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=People%20who%20are%20unable%20to%20motivate%20themselves%20must%20be%20content%20with%20mediocrity%2C%20no%20matter%20how%20impressive%20their%20other%20talents.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Work%20as%20though%20you%20would%20live%20forever%2C%20and%20live%20as%20though%20you%20would%20die%20today.%20Go%20another%20mile.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
