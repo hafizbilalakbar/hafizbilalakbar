@@ -937,11 +937,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=Today%20you%20are%20you%2C%20that%20is%20truer%20than%20true.%20There%20is%20no%20one%20alive%20who%20is%20you-er%20than%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=In%20order%20to%20control%20myself%20I%20must%20first%20accept%20myself%20by%20going%20with%20and%20not%20against%20my%20nature.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
