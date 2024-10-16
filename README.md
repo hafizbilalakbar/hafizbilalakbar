@@ -892,11 +892,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Washington&quote=It%20is%20better%20to%20offer%20no%20excuse%20than%20a%20bad%20one.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=One%20of%20the%20really%20tough%20things%20is%20figuring%20out%20what%20questions%20to%20ask.%20Once%20you%20figure%20out%20the%20question%2C%20then%20the%20answer%20is%20relatively%20easy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
