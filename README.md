@@ -1084,11 +1084,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=You%20do%20not%20read%20a%20book%20for%20the%20book's%20sake%2C%20but%20for%20your%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Whether%20you%20think%20you%20can%20or%20think%20you%20can't%20%E2%80%93%20you%20are%20right.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
