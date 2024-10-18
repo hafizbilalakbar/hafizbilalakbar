@@ -1154,11 +1154,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Patience%20expands%20your%20options.%20If%20you%20insist%20on%20immediate%20gratification%2C%20your%20choices%20are%20severely%20limited.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=It%20is%20better%20to%20light%20a%20single%20candle%20than%20to%20curse%20the%20darkness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
