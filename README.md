@@ -1103,11 +1103,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=That%20some%20achieve%20great%20success%20is%20proof%20to%20all%20that%20others%20can%20achieve%20it%20as%20well.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=We%20must%20not%20cease%20from%20exploration.%20And%20the%20end%20of%20all%20our%20exploring%20will%20be%20to%20arrive%20where%20we%20began%20and%20to%20know%20the%20place%20for%20the%20first%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
