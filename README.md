@@ -1155,11 +1155,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=It%20is%20better%20to%20light%20a%20single%20candle%20than%20to%20curse%20the%20darkness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=It%20isn't%20what%20you%20have%20or%20who%20you%20are%20or%20where%20you%20are%20or%20what%20you%20are%20doing%20that%20makes%20you%20happy%20or%20unhappy.%20It%20is%20what%20you%20think%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
