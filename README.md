@@ -1236,11 +1236,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20A.%20Cohen&quote=When%20we%20think%20about%20our%20strengths%2C%20we%20are%20strong.%20When%20we%20think%20about%20our%20weaknesses%2C%20we%20are%20weak.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Every%20defeat%2C%20every%20heartbreak%20every%20loss%2C%20contains%20its%20own%20seed%2C%20its%20own%20lesson%20on%20how%20to%20improve%20your%20performance%20the%20next%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
