@@ -1280,11 +1280,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=All%20you%20need%20is%20the%20plan%2C%20the%20road%20map%2C%20and%20the%20courage%20to%20press%20on%20to%20your%20destination.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=If%20you%20haven't%20the%20strength%20to%20impose%20your%20own%20terms%20upon%20life%2C%20then%20you%20must%20accept%20the%20terms%20it%20offers%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
