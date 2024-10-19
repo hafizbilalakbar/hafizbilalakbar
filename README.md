@@ -1288,11 +1288,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=There%20is%20no%20medicine%20like%20hope%2C%20no%20incentive%20so%20great%2C%20and%20no%20tonic%20so%20powerful%20as%20expectation%20of%20something%20tomorrow.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=The%20things%20I%20carry%20are%20my%20thoughts.%20That's%20it.%20They%20are%20the%20only%20weight.%20My%20thoughts%20determine%20whether%20I%20am%20free%20and%20light%20or%20burdened.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
