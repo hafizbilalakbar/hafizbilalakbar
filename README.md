@@ -1279,11 +1279,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=We%20have%20no%20more%20right%20to%20consume%20happiness%20without%20producing%20it%20than%20to%20consume%20wealth%20without%20producing%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=All%20you%20need%20is%20the%20plan%2C%20the%20road%20map%2C%20and%20the%20courage%20to%20press%20on%20to%20your%20destination.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
