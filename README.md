@@ -1340,11 +1340,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=To%20live%20is%20to%20be%20willing%20to%20die%20over%20and%20over%20again.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Have%20a%20heart%20that%20never%20hardens%2C%20and%20a%20temper%20that%20never%20tires%2C%20and%20a%20touch%20that%20never%20hurts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
