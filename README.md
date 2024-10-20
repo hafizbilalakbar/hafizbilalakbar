@@ -1362,11 +1362,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Help%20others%20for%20all%20the%20times%20that%20you%20have%20been%20ignored.%20Be%20kind%20to%20others%2C%20for%20all%20the%20times%20that%20you%20have%20been%20scorned.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Failure%20is%20a%20great%20teacher.%20If%20you're%20open%20to%20it%20every%20mistake%20has%20a%20lesson%20to%20offer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
