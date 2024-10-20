@@ -1326,11 +1326,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=Our%20greatest%20weakness%20lies%20in%20giving%20up.%20The%20most%20certain%20way%20to%20succeed%20is%20always%20to%20try%20just%20one%20more%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=It%20is%20not%20that%20we%20have%20too%20little%20time%20to%20do%20all%20the%20things%20we%20need%20to%20do%20%2C%20it%20is%20that%20we%20feel%20the%20need%20to%20do%20too%20many%20things%20in%20the%20time%20we%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
