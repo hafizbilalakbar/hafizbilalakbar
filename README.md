@@ -1363,11 +1363,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Failure%20is%20a%20great%20teacher.%20If%20you're%20open%20to%20it%20every%20mistake%20has%20a%20lesson%20to%20offer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Getting%20lost%20along%20your%20path%20is%20a%20part%20of%20finding%20the%20path%20you%20are%20meant%20to%20be%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
