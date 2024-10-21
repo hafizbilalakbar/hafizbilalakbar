@@ -1445,11 +1445,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Edgar%20Allan%20Poe&quote=Every%20poem%20should%20remind%20the%20reader%20that%20they%20are%20going%20to%20die.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=Others%20have%20seen%20what%20is%20and%20asked%20why.%20I%20have%20seen%20what%20could%20be%20and%20asked%20why%20not&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
