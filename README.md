@@ -1520,11 +1520,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=There%20is%20no%20limit%20to%20the%20amount%20of%20good%20you%20can%20do%20if%20you%20don't%20care%20who%20gets%20the%20credit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Show%20kindness%20but%20never%20expect%20it.%20Show%20authenticity%20but%20never%20expect%20it.%20Only%20the%20wise%20are%20indifferent%20to%20things%20they%20can't%20control.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
