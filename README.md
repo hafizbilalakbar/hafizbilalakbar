@@ -1472,11 +1472,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=Continuous%20effort%20-%20not%20strength%20or%20intelligence%20-%20is%20the%20key%20to%20unlocking%20our%20potential.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seungsahn&quote=If%20you%20throw%20away%20all%20thoughts%20of%20attainment%2C%20you%20will%20then%20come%20to%20see%20the%20real%20purpose%20of%20your%20quest.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
