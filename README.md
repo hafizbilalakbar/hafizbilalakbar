@@ -1516,11 +1516,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=Our%20joy%20does%20not%20have%20to%20be%20based%20on%20our%20circumstances.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=To%20bear%20trials%20with%20a%20calm%20mind%20robs%20misfortune%20of%20its%20strength%20and%20burden.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
