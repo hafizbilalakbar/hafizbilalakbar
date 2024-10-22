@@ -1544,11 +1544,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=We%20can%20know%20only%20that%20we%20know%20nothing.%20And%20that%20is%20the%20highest%20degree%20of%20human%20wisdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=Throughout%20this%20life%2C%20you%20can%20never%20be%20certain%20of%20living%20long%20enough%20to%20take%20another%20breath.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
