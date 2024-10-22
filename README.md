@@ -1540,11 +1540,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=It%20is%20the%20nature%20of%20the%20wise%20to%20resist%20pleasures%2C%20but%20the%20foolish%20to%20be%20a%20slave%20to%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=When%20you%20know%20what%20you%20want%2C%20and%20want%20it%20bad%20enough%2C%20you%20will%20find%20a%20way%20to%20get%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
