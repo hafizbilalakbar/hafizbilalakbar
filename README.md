@@ -1669,11 +1669,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Outstanding%20people%20have%20one%20thing%20in%20common%3A%20an%20absolute%20sense%20of%20mission.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=The%20greatest%20work%20that%20kindness%20does%20to%20others%20is%20that%20it%20makes%20them%20kind%20themselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
