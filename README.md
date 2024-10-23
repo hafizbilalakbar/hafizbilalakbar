@@ -1659,11 +1659,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=For%20the%20things%20we%20have%20to%20learn%20before%20we%20can%20do%20them%2C%20we%20learn%20by%20doing%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=You%20Create%20Your%20Own%20Present%20By%20What%20You%20Give%20Your%20Attention%20To%20Today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
