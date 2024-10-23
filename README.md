@@ -1731,11 +1731,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Reeve&quote=A%20Hero%20is%20an%20ordinary%20individual%20who%20finds%20the%20strength%20to%20persevere%20and%20endure%20in%20spite%20of%20overwhelming%20obstacles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Shoot%20for%20the%20moon%2C%20because%20even%20if%20you%20miss%2C%20you'll%20land%20among%20the%20stars.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
