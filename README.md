@@ -1681,11 +1681,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20Law%20of%20Concentration%20states%20that%20whatever%20you%20dwell%20upon%20grows.%20The%20more%20you%20think%20about%20something%2C%20the%20more%20it%20becomes%20part%20of%20your%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=There%20are%20few%20reasons%20for%20telling%20the%20truth%2C%20but%20for%20lying%20the%20number%20is%20infinite.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
