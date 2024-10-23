@@ -1688,11 +1688,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=Strategy%20without%20tactics%20is%20the%20slowest%20route%20to%20victory.%20Tactics%20without%20strategy%20is%20the%20noise%20before%20defeat.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Life%20is%20a%20constant%20series%20of%20opportunities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
