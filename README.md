@@ -1752,11 +1752,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seungsahn&quote=When%20reading%2C%20only%20read.%20When%20eating%2C%20only%20eat.%20When%20thinking%2C%20only%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Values%20are%20like%20fingerprints.%20Nobody's%20are%20the%20same%2C%20but%20you%20leave%20'em%20all%20over%20everything%20you%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
