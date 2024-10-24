@@ -1767,11 +1767,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Remain%20calm%2C%20serene%2C%20always%20in%20command%20of%20yourself.%20You%20will%20then%20find%20out%20how%20easy%20it%20is%20to%20get%20along.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=Work%20for%20something%20because%20it%20is%20good%2C%20not%20just%20because%20it%20stands%20a%20chance%20to%20succeed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
