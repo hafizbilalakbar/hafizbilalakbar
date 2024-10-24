@@ -1827,11 +1827,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rita%20Mae%20Brown&quote=One%20of%20the%20keys%20to%20happiness%20is%20a%20bad%20memory.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Don't%20let%20what%20you%20cannot%20do%20interfere%20with%20what%20you%20can%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
