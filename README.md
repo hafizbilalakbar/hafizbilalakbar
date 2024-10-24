@@ -1796,11 +1796,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Fool%20me%20once%2C%20shame%20on%20you%3B%20fool%20me%20twice%2C%20shame%20on%20me.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Have%20the%20courage%20to%20follow%20your%20heart%20and%20intuition.%20They%20somehow%20know%20what%20you%20truly%20want%20to%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
