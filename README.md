@@ -1910,11 +1910,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Having%20an%20open%20mind%20is%20one%20of%20the%20most%20important%20qualities%20we%20can%20possess.%20Once%20our%20minds%20close%2C%20we%20stop%20evolving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=It%20is%20difficult%20to%20free%20fools%20from%20the%20chains%20they%20revere.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
