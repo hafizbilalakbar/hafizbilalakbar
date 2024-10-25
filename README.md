@@ -1900,11 +1900,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Disney&quote=When%20you're%20curious%2C%20you%20find%20lots%20of%20interesting%20things%20to%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=Our%20greatest%20weakness%20lies%20in%20giving%20up.%20The%20most%20certain%20way%20to%20succeed%20is%20always%20to%20try%20just%20one%20more%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
