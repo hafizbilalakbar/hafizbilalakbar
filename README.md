@@ -1908,11 +1908,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Every%20person%2C%20all%20the%20events%20of%20your%20life%20are%20there%20because%20you%20have%20drawn%20them%20there.%20What%20you%20choose%20to%20do%20with%20them%20is%20up%20to%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=You%20have%20power%20over%20your%20mind%20-%20not%20outside%20events.%20Realize%20this%2C%20and%20you%20will%20find%20strength.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
