@@ -1903,11 +1903,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=A%20gentleman%20accepts%20the%20responsibility%20of%20his%20actions%20and%20bears%20the%20burden%20of%20their%20consequences.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=The%20spirit%20is%20beyond%20destruction.%20No%20one%20can%20bring%20an%20end%20to%20spirit%20which%20is%20everlasting.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
