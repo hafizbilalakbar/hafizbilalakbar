@@ -1893,11 +1893,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=Don't%20be%20afraid%20to%20see%20what%20you%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Too%20many%20of%20us%20are%20not%20living%20our%20dreams%20because%20we%20are%20living%20our%20fears.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
