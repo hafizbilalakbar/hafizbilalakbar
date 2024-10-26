@@ -2052,11 +2052,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Yesterday%20is%20the%20past%2C%20tomorrow%20is%20the%20future%2C%20today%20is%20a%20gift%20-%20that's%20why%20it's%20called%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=The%20most%20difficult%20thing%20is%20the%20decision%20to%20act%2C%20the%20rest%20is%20merely%20tenacity.%20The%20fears%20are%20paper%20tigers.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
