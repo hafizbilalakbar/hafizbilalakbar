@@ -2000,11 +2000,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Fear%20does%20not%20have%20any%20special%20power%20unless%20you%20empower%20it%20by%20submitting%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=A%20life%20spent%20making%20mistakes%20is%20not%20only%20more%20honorable%20but%20more%20useful%20than%20a%20life%20spent%20doing%20nothing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
