@@ -2007,11 +2007,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=St.%20Jerome&quote=Begin%20now%20to%20be%20what%20you%20will%20be%20hereafter.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Washington&quote=Be%20courteous%20to%20all%2C%20but%20intimate%20with%20few%2C%20and%20let%20those%20few%20be%20well%20tried%20before%20you%20give%20them%20your%20confidence.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
