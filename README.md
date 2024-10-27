@@ -2077,11 +2077,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=Do%20not%20look%20for%20approval%20except%20for%20the%20consciousness%20of%20doing%20your%20best.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Grudges%20are%20for%20those%20who%20insist%20that%20they%20are%20owed%20something%3B%20forgiveness%2C%20however%2C%20is%20for%20those%20who%20are%20substantial%20enough%20to%20move%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
