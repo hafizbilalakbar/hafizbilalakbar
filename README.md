@@ -2098,11 +2098,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=To%20forget%20the%20whole%20world%20is%20easy%3B%20to%20make%20the%20whole%20world%20forget%20you%20is%20hard.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seungsahn&quote=When%20reading%2C%20only%20read.%20When%20eating%2C%20only%20eat.%20When%20thinking%2C%20only%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
