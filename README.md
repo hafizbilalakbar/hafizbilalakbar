@@ -2076,11 +2076,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=When%20you%20get%20up%20in%20the%20morning%2C%20you%20have%20two%20choices%20-%20either%20to%20be%20happy%20or%20to%20be%20unhappy.%20Just%20choose%20to%20be%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=Do%20not%20look%20for%20approval%20except%20for%20the%20consciousness%20of%20doing%20your%20best.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
