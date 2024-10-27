@@ -2122,11 +2122,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Feelings%20come%20and%20go%20like%20clouds%20in%20a%20windy%20sky.%20Conscious%20breathing%20is%20my%20anchor.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Happiness%20comes%20when%20you%20believe%20in%20what%20you%20are%20doing%2C%20know%20what%20you%20are%20doing%2C%20and%20love%20what%20you%20are%20doing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
