@@ -2106,11 +2106,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=He%20is%20a%20wise%20man%20who%20does%20not%20grieve%20for%20the%20things%20which%20he%20has%20not%2C%20but%20rejoices%20for%20those%20which%20he%20has.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Don't%20let%20the%20silly%20little%20dramas%20of%20each%20day%20get%20you%20down.%20For%20you%20are%20here%20to%20do%20great%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
