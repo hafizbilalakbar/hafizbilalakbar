@@ -2156,11 +2156,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Learning%20is%20a%20weightless%20treasure%20you%20can%20always%20carry%20easily.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Frost&quote=Two%20roads%20diverged%20in%20a%20wood%2C%20and%20I%20took%20the%20one%20less%20traveled%20by%2C%20and%20that%20has%20made%20all%20the%20difference.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
