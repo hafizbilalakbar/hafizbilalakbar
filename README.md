@@ -2194,11 +2194,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=Being%20In%20The%20Present%20Means%20Tuning%20Out%20Distractions%20And%20Paying%20Attention%20To%20What%20Is%20Important%2C%20Now.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Surround%20yourself%20with%20people%20who%20take%20their%20work%20seriously%2C%20but%20not%20themselves%2C%20those%20who%20work%20hard%20and%20play%20hard.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
