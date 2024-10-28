@@ -2272,11 +2272,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=One%20of%20the%20oldest%20human%20needs%20is%20having%20someone%20to%20wonder%20where%20you%20are%20when%20you%20don't%20come%20home%20at%20night.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Your%20world%20is%20a%20living%20expression%20of%20how%20you%20are%20using%20and%20have%20used%20your%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
