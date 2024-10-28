@@ -2250,11 +2250,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Old%20age%20is%20like%20everything%20else.%20To%20make%20a%20success%20of%20it%2C%20you've%20got%20to%20start%20young.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristophanes&quote=By%20words%20the%20mind%20is%20winged.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
