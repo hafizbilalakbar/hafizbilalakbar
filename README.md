@@ -2347,11 +2347,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=The%20true%20soldier%20fights%20not%20because%20he%20hates%20what%20is%20in%20front%20of%20him%2C%20but%20because%20he%20loves%20what%20is%20behind%20him.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Be%20truthful%20about%20your%20emotions%2C%20and%20use%20your%20mind%20and%20emotions%20in%20your%20favor%2C%20not%20against%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
