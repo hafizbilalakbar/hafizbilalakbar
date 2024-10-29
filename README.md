@@ -2357,11 +2357,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Sometimes%20your%20joy%20is%20the%20source%20of%20your%20smile%2C%20but%20sometimes%20your%20smile%20can%20be%20the%20source%20of%20your%20joy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=A%20gentleman%20accepts%20the%20responsibility%20of%20his%20actions%20and%20bears%20the%20burden%20of%20their%20consequences.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
