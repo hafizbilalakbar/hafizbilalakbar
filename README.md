@@ -2477,11 +2477,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=The%20greatest%20of%20all%20mistakes%20is%20to%20do%20nothing%20because%20you%20think%20you%20can%20only%20do%20a%20little.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=In%20the%20midst%20of%20movement%20and%20chaos%2C%20keep%20stillness%20inside%20of%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
