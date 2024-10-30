@@ -2409,11 +2409,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=To%20live%20is%20to%20be%20willing%20to%20die%20over%20and%20over%20again.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=There%20are%20no%20secrets%20to%20success.%20It%20is%20the%20result%20of%20preparation%2C%20hard%20work%2C%20learning%20from%20failure.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
