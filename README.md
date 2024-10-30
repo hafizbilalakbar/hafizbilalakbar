@@ -2472,11 +2472,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=When%20a%20man%20is%20penalized%20for%20honesty%20he%20learns%20to%20lie.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20does%20not%20do%20to%20dwell%20on%20dreams%20and%20forget%20to%20live%2C%20remember%20that.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
