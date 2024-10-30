@@ -2425,11 +2425,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Life%20needs%20to%20be%20more%20than%20just%20solving%20problems%20every%20day.%20You%20need%20to%20wake%20up%20and%20be%20excited%20about%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=Living%20a%20life%20that%20has%20a%20greater%20purpose%20and%20living%20up%20to%20it%20is%20the%20ultimate%20degree%20that%20we%20should%20strive%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
