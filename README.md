@@ -2458,11 +2458,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristophanes&quote=Youth%20ages%2C%20immaturity%20is%20outgrown%2C%20ignorance%20can%20be%20educated%2C%20and%20drunkenness%20sobered%2C%20but%20stupid%20lasts%20forever.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=Happiness%20can%20be%20found%2C%20even%20in%20the%20darkest%20of%20times%2C%20if%20one%20only%20remembers%20to%20turn%20on%20the%20light.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
