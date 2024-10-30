@@ -2440,11 +2440,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=Any%20fool%20can%20paint%20a%20picture%2C%20but%20it%20takes%20a%20wise%20man%20to%20be%20able%20to%20sell%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=The%20more%20knowledge%20you%20have%2C%20the%20more%20you're%20free%20to%20rely%20on%20your%20instincts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
