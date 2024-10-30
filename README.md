@@ -2424,11 +2424,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=We%20would%20accomplish%20many%20more%20things%20if%20we%20did%20not%20think%20of%20them%20as%20impossible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Life%20needs%20to%20be%20more%20than%20just%20solving%20problems%20every%20day.%20You%20need%20to%20wake%20up%20and%20be%20excited%20about%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
