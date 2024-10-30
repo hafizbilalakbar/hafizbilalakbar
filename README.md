@@ -2457,11 +2457,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=The%20four%20P's%20to%20success%20are%20pressure%2C%20persistence%2C%20perseverance%2C%20and%20prayer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristophanes&quote=Youth%20ages%2C%20immaturity%20is%20outgrown%2C%20ignorance%20can%20be%20educated%2C%20and%20drunkenness%20sobered%2C%20but%20stupid%20lasts%20forever.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
