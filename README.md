@@ -2403,11 +2403,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Judy%20Garland&quote=If%20you%20have%20to%20be%20in%20a%20soap%20opera%20try%20not%20to%20be%20cast%20in%20the%20worst%20role.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kenneth%20Branagh&quote=Truth%20is%20like%20most%20opinions%20-%20best%20unexpressed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
