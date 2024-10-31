@@ -2548,11 +2548,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=Reversing%20your%20treatment%20of%20the%20man%20you%20have%20wronged%20is%20better%20than%20asking%20his%20forgiveness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Would%20you%20rather%20learn%20to%20deal%20with%20the%20truth%20now%20than%20be%20forced%20to%20do%20so%20later%20on%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
