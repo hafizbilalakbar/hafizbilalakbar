@@ -2583,11 +2583,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=Go%20for%20it%20now.%20The%20future%20is%20promised%20to%20no%20one.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20only%20time%20you%20run%20out%20of%20chances%20is%20when%20you%20stop%20taking%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
