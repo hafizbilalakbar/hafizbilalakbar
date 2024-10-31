@@ -2483,11 +2483,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=We%20never%20know%20how%20high%20we%20are%20till%20we%20are%20called%20to%20rise.%20Then%20if%20we%20are%20true%20to%20form%20our%20statures%20touch%20the%20skies.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=Trust%20your%20instincts%3A%20my%20first%20reaction%20is%20almost%20invariably%20the%20right%20one.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
