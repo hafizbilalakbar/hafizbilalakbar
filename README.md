@@ -2577,11 +2577,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20the%20reason%20someone%20smiles.%20Be%20the%20reason%20someone%20feels%20loved%20and%20believes%20in%20the%20goodness%20in%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rita%20Mae%20Brown&quote=Good%20judgment%20comes%20from%20experience%2C%20and%20experience%20comes%20from%20bad%20judgment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
