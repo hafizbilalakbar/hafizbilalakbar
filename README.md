@@ -2655,11 +2655,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Winners%20are%20not%20afraid%20of%20losing.%20But%20losers%20are.%20Failure%20is%20part%20of%20the%20process%20of%20success.%20People%20who%20avoid%20failure%20also%20avoid%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=The%20purpose%20of%20life%20is%20to%20contribute%20in%20some%20way%20to%20making%20things%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
