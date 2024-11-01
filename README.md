@@ -2649,11 +2649,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gabor%20Mate&quote=The%20attempt%20to%20escape%20from%20pain%2C%20is%20what%20creates%20more%20pain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=When%20you%20can't%20make%20them%20see%20the%20light%2C%20make%20them%20feel%20the%20heat.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
