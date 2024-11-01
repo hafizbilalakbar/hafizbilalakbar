@@ -2676,11 +2676,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Every%20day%20is%20lost%20in%20which%20we%20do%20not%20learn%20something%20useful.%20Man%20has%20no%20nobler%20or%20more%20valuable%20possession%20than%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Faults%20are%20yours%20to%20fix%2C%20not%20to%20curse.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
