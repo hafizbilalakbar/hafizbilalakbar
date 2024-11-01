@@ -2607,11 +2607,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=It%20is%20our%20experiences%20that%20mold%20us%20into%20who%20we%20are...during%20times%20of%20adversity%20our%20true%20character%20will%20show.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seungsahn&quote=If%20you%20want%20something%20then%20you%20lose%20everything.%20If%20you%20don't%20want%20anything%20then%20you%20already%20have%20everything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
