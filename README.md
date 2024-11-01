@@ -2596,11 +2596,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Instead%20of%20worrying%20about%20what%20you%20cannot%20control%2C%20shift%20your%20energy%20to%20what%20you%20can%20create.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=Like%20it%20or%20not%2C%20this%20moment%20is%20all%20we%20really%20have%20to%20work%20with.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
