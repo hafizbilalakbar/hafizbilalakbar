@@ -2696,11 +2696,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Never%20feel%20shame%20for%20trying%20and%20failing%2C%20for%20he%20who%20has%20never%20failed%20is%20he%20who%20has%20never%20tried.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=You%20have%20the%20freedom%20to%20be%20yourself%2C%20your%20true%20self%2C%20here%20and%20now%2C%20and%20nothing%20can%20stand%20in%20your%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
