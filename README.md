@@ -2761,11 +2761,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Successful%20people%20are%20always%20looking%20for%20opportunities%20to%20help%20others.%20Unsuccessful%20people%20are%20always%20asking%2C%20'What's%20in%20it%20for%20me%3F'&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=You%20can't%20make%20someone%20feel%20good%20about%20themselves%20until%20you%20feel%20good%20about%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
