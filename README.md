@@ -2744,11 +2744,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Do%20you%20want%20to%20know%20who%20you%20are%3F%20Don't%20ask.%20Act!%20Action%20will%20delineate%20and%20define%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Success%20is%20not%20the%20result%20of%20making%20money%3B%20making%20money%20is%20the%20result%20of%20success%20-%20and%20success%20is%20in%20direct%20proportion%20to%20our%20service.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
