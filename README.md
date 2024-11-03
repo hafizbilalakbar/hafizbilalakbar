@@ -2830,11 +2830,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=I%20think%20it's%20very%20important%20to%20have%20a%20feedback%20loop%2C%20where%20you're%20constantly%20thinking%20about%20what%20you've%20done%20and%20how%20you%20could%20be%20doing%20it%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=The%20measure%20of%20wisdom%20is%20how%20calm%20you%20are%20when%20facing%20any%20given%20situation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
