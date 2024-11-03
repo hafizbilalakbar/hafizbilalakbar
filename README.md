@@ -2877,11 +2877,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=If%20you%20are%20lucky%20enough%20to%20find%20love%2C%20remember%20it%20is%20there%20and%20don't%20throw%20it%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=No%20matter%20how%20much%20preparation%20we%20do%2C%20in%20the%20real%20tests%20of%20our%20lives%2C%20we'll%20be%20in%20unfamiliar%20terrain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
