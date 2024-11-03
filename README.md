@@ -2911,11 +2911,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Doug%20Ivester&quote=Never%20let%20your%20memories%20be%20greater%20than%20your%20dreams.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=Empty%20your%20mind%2C%20be%20formless%2C%20shapeless%2C%20like%20water.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
