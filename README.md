@@ -2873,11 +2873,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=C.%20Sean%20McGee&quote=Respect%20is%20earned%20by%20effort%20not%20age%2C%20all%20things%20age%20without%20effort.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=You%20have%20within%20you%20right%20now%2C%20everything%20you%20need%20to%20deal%20with%20whatever%20the%20world%20can%20throw%20at%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
