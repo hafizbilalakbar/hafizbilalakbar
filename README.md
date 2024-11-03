@@ -2805,11 +2805,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Trying%20to%20predict%20the%20future%20is%20like%20trying%20to%20drive%20down%20a%20country%20road%20at%20night%20with%20no%20lights%20while%20looking%20out%20the%20back%20window.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=Don't%20wait%20for%20extraordinary%20opportunities.%20Seize%20common%20occasions%20and%20make%20them%20great.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
