@@ -2923,11 +2923,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.%20Clement%20Stone&quote=Truth%20will%20always%20be%20truth%2C%20regardless%20of%20lack%20of%20understanding%2C%20disbelief%20or%20ignorance.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=It%20takes%20a%20very%20long%20time%20to%20become%20young.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
