@@ -2929,11 +2929,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Mays&quote=Whatever%20you%20do%2Cstrive%20to%20do%20it%20so%20well%20that%20no%20man%20living%20and%20no%20man%20dead%20and%20no%20man%20yet%20to%20be%20born%20could%20do%20it%20any%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=We%20are%20shaped%20and%20fashioned%20by%20what%20we%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
