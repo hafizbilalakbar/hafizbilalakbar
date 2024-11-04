@@ -2964,11 +2964,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Disney&quote=The%20more%20you%20like%20yourself%2C%20the%20less%20you%20are%20like%20anyone%20else%2C%20which%20makes%20you%20unique.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=Strategy%20without%20tactics%20is%20the%20slowest%20route%20to%20victory.%20Tactics%20without%20strategy%20is%20the%20noise%20before%20defeat.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
