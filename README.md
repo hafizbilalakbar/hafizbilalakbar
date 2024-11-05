@@ -3057,11 +3057,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20D.%20Rockefeller&quote=Singleness%20of%20purpose%20is%20one%20of%20the%20chief%20essentials%20for%20success%20in%20life%2C%20no%20matter%20what%20may%20be%20one's%20aim.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=It%20is%20those%20who%20concentrate%20on%20but%20one%20thing%20at%20a%20time%20who%20advance%20in%20this%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
