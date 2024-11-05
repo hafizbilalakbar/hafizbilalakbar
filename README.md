@@ -3119,11 +3119,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=As%20soon%20as%20you%20trust%20yourself%2C%20you%20will%20know%20how%20to%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=Lying%20can%20never%20save%20us%20from%20another%20lie.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
