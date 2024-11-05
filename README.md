@@ -3108,11 +3108,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=The%20spirit%20is%20beyond%20destruction.%20No%20one%20can%20bring%20an%20end%20to%20spirit%20which%20is%20everlasting.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=The%20wisest%20men%20follow%20their%20own%20direction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
