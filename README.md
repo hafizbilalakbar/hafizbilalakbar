@@ -3160,11 +3160,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=We%20never%20know%20how%20high%20we%20are%20till%20we%20are%20called%20to%20rise.%20Then%20if%20we%20are%20true%20to%20form%20our%20statures%20touch%20the%20skies.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Most%20people%20fail%20in%20life%20not%20because%20they%20aim%20too%20high%20and%20miss%2C%20but%20because%20they%20aim%20too%20low%20and%20hit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
