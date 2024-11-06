@@ -3155,11 +3155,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=I%20pay%20attention%20to%20every%20minute%20of%20the%20day.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=Never%20doubt%20that%20a%20small%20group%20of%20thoughtful%2C%20committed%20citizens%20can%20change%20the%20world%3B%20indeed%2C%20it's%20the%20only%20thing%20that%20ever%20has.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
