@@ -3193,11 +3193,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=If%20you%20pick%20up%20a%20starving%20dog%20and%20make%20him%20prosperous%20he%20will%20not%20bite%20you.%20This%20is%20the%20principal%20difference%20between%20a%20dog%20and%20man.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=The%20primary%20point%20of%20this%20existence%20is%20to%20live%2C%20and%20all%20living%20things%20move%20and%20grow.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
