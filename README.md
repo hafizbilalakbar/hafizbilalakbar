@@ -3269,11 +3269,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Knowing%20others%20is%20wisdom%2C%20knowing%20yourself%20is%20enlightenment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=You%20can%20only%20lose%20something%20that%20you%20have%2C%20but%20you%20cannot%20lose%20something%20that%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
