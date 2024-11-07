@@ -3281,11 +3281,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morgan%20Wootten&quote=The%20big%20thing%20is%20to%20make%20a%20winning%20effort.%20I'm%20not%20obsessed%20with%20wins.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Shunryu%20Suzuki&quote=Where%20ever%20you%20are%2C%20you%20are%20one%20with%20the%20clouds%20and%20one%20with%20the%20sun%20and%20the%20stars%20you%20see.%20You%20are%20one%20with%20everything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
