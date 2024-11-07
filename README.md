@@ -3284,11 +3284,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=One%20must%20be%20deeply%20aware%20of%20the%20impermanence%20of%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=If%20you%20cling%20to%20a%20certain%20thought%20with%20dynamic%20will%20power%2C%20it%20finally%20assumes%20a%20tangible%20outward%20form.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
