@@ -3389,11 +3389,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Woody%20Allen&quote=Eighty%20percent%20of%20success%20is%20showing%20up.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Insanity%3A%20doing%20the%20same%20thing%20over%20and%20over%20again%20and%20expecting%20different%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
