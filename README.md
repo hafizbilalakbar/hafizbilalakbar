@@ -3440,11 +3440,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Don't%20measure%20yourself%20by%20what%20you%20have%20accomplished%2C%20but%20by%20what%20you%20should%20have%20accomplished%20with%20your%20ability.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=How%20much%20pain%20they%20have%20cost%20us%2C%20the%20evils%20which%20have%20never%20happened.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
