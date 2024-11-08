@@ -3430,11 +3430,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Genghis%20Khan&quote=Even%20when%20a%20friend%20does%20something%20you%20do%20not%20like%2C%20he%20continues%20to%20be%20your%20friend.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=While%20we%20may%20not%20be%20able%20to%20control%20all%20that%20happens%20to%20us%2C%20we%20can%20control%20what%20happens%20inside%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
