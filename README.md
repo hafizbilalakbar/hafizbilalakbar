@@ -3561,11 +3561,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=Perfection%20is%20not%20attainable%2C%20but%20if%20we%20chase%20perfection%20we%20can%20catch%20excellence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Never%20take%20your%20position%20for%20granted%20and%20never%20let%20any%20favors%20you%20receive%20go%20to%20your%20head.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
