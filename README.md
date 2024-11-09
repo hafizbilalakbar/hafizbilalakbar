@@ -3524,11 +3524,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Always%20do%20what%20is%20right.%20It%20will%20gratify%20half%20of%20mankind%20and%20astound%20the%20other.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Love%20yourself%20with%20the%20same%20intensity%20you%20would%20use%20to%20pull%20yourself%20up%20if%20you%20were%20hanging%20off%20a%20cliff.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
