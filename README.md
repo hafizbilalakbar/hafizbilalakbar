@@ -3628,11 +3628,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=C.%20Sean%20McGee&quote=What's%20the%20point%20in%20being%20smart%20enough%20to%20read%2C%20if%20everything%20you%20read%20makes%20you%20dumb%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Life%20has%20no%20limitations%20except%20the%20ones%20you%20make.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
