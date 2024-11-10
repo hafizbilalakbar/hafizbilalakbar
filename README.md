@@ -3686,11 +3686,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Formal%20education%20will%20make%20you%20a%20living%2C%20self-education%20will%20make%20you%20a%20fortune.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=From%20a%20certain%20point%20onward%20there%20is%20no%20longer%20any%20turning%20back.%20That%20is%20the%20point%20that%20must%20be%20reached.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
