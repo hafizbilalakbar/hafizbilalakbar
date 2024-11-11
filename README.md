@@ -3701,11 +3701,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Never%20argue%20with%20stupid%20people%2C%20they%20will%20drag%20you%20down%20to%20their%20level%20and%20then%20beat%20you%20with%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carol%20Burnett&quote=Words%2C%20once%20they%20are%20printed%2C%20have%20a%20life%20of%20their%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
