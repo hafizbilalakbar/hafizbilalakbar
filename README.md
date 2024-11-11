@@ -3770,11 +3770,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=If%20we%20have%20no%20peace%2C%20it%20is%20because%20we%20have%20forgotten%20that%20we%20belong%20to%20each%20other.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=The%20first%20rule%20of%20handling%20conflict%20is%20don't%20hang%20around%20people%20who%20are%20constantly%20engaging%20in%20conflict.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
