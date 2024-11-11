@@ -3731,11 +3731,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=Everything%20that%20irritates%20us%20about%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Laws%20are%20like%20cobwebs%2C%20which%20may%20catch%20small%20flies%2C%20but%20let%20wasps%20and%20hornets%20break%20through.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
