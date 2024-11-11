@@ -3790,11 +3790,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=You%20don't%20have%20to%20control%20your%20thoughts%3B%20you%20just%20have%20to%20stop%20letting%20them%20control%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=If%20you%20focus%20on%20results%20and%20finding%20shortcuts%2C%20you'll%20get%20impatient.%20If%20you%20focus%20on%20the%20process%20and%20doing%20the%20right%20thing%2C%20you'll%20be%20unstoppable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
