@@ -3803,11 +3803,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Frank&quote=In%20the%20long%20run%2C%20the%20sharpest%20weapon%20of%20all%20is%20a%20kind%20and%20gentle%20spirit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20McCandless&quote=When%20you%20want%20something%20in%20life%2C%20you%20just%20gotta%20reach%20out%20and%20grab%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
