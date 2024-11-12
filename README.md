@@ -3835,11 +3835,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=We%20run%20to%20win%2C%20not%20just%20to%20be%20in%20the%20race.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=Waste%20not%20fresh%20tears%20over%20old%20griefs.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
