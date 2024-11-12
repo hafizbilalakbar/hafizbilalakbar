@@ -3886,11 +3886,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=The%20whole%20of%20life%2C%20from%20the%20moment%20you%20are%20born%20to%20the%20moment%20you%20die%2C%20is%20a%20process%20of%20learning.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Helen%20Keller&quote=Although%20the%20world%20is%20full%20of%20suffering%2C%20it%20is%20also%20full%20of%20the%20overcoming%20of%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
