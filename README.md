@@ -3913,11 +3913,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=I%20take%20the%20position%20that%20I'm%20always%20to%20some%20degree%20wrong%2C%20and%20the%20aspiration%20is%20to%20be%20less%20wrong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Be%20as%20fluid%20as%20water%2C%20do%20not%20give%20your%20enemies%20anything%20solid%20to%20attack.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
