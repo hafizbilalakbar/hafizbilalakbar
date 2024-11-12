@@ -3882,11 +3882,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Confidence%20comes%20not%20from%20always%20being%20right%20but%20not%20fearing%20to%20be%20wrong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Don't%20be%20pushed%20around%20by%20the%20fears%20in%20your%20mind.%20Be%20led%20by%20the%20dreams%20in%20your%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
