@@ -3811,11 +3811,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=It%20always%20seems%20impossible%20until%20it's%20done.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=Wealth%20consists%20not%20in%20having%20great%20possessions%2C%20but%20in%20having%20few%20wants.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
