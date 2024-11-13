@@ -3947,11 +3947,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=If%20you%20are%20unable%20to%20find%20the%20truth%20right%20where%20you%20are%2C%20where%20else%20do%20you%20expect%20to%20find%20it%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=There%20is%20always%20risk%2C%20so%20learn%20to%20manage%20risk%20instead%20of%20avoiding%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
