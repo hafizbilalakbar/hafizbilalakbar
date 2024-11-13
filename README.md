@@ -3927,11 +3927,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lin%20Yutang&quote=Sometimes%20it%20is%20more%20important%20to%20discover%20what%20one%20cannot%20do%2C%20than%20what%20one%20can%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=A%20person%20without%20a%20sense%20of%20humor%20is%20like%20a%20wagon%20without%20springs%2C%20jolted%20by%20every%20pebble%20in%20the%20road.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
