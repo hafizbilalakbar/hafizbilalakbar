@@ -4111,11 +4111,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=The%20meaning%20of%20life%20is%20just%20to%20be%20alive.%20It%20is%20so%20plain%20and%20so%20obvious%20and%20so%20simple.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=Life%20is%20like%20a%20beautiful%20melody%2C%20only%20the%20lyrics%20are%20messed%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
