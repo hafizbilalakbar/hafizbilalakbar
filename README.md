@@ -4129,11 +4129,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=Charms%20strike%20the%20sight%2C%20but%20merit%20wins%20the%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Will%20Rogers&quote=Even%20though%20you%20are%20on%20the%20right%20track%20-%20you%20will%20get%20run%20over%20if%20you%20just%20sit%20there.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
