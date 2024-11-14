@@ -4065,11 +4065,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Helen%20Keller&quote=The%20only%20thing%20worse%20than%20being%20blind%20is%20having%20sight%20but%20no%20vision.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lin%20Yutang&quote=Sometimes%20it%20is%20more%20important%20to%20discover%20what%20one%20cannot%20do%2C%20than%20what%20one%20can%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
