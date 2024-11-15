@@ -4216,11 +4216,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=C.%20Sean%20McGee&quote=If%20you%20are%20ever%20the%20smartest%20person%20in%20the%20room%2C%20you%20are%20in%20the%20wrong%20room.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Don't%20be%20afraid%20that%20you%20do%20not%20know%20something.%20Be%20afraid%20of%20not%20learning%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
