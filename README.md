@@ -4186,11 +4186,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seungsahn&quote=When%20reading%2C%20only%20read.%20When%20eating%2C%20only%20eat.%20When%20thinking%2C%20only%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=Don't%20think%20money%20does%20everything%20or%20you%20are%20going%20to%20end%20up%20doing%20everything%20for%20money.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
