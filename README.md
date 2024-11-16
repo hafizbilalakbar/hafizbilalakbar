@@ -4263,11 +4263,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Judy%20Garland&quote=Always%20be%20a%20first-rate%20version%20of%20yourself%2C%20instead%20of%20a%20second-rate%20version%20of%20someone%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=The%20soul%20without%20imagination%20is%20what%20an%20observatory%20would%20be%20without%20a%20telescope.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
