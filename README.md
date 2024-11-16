@@ -4264,11 +4264,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=The%20soul%20without%20imagination%20is%20what%20an%20observatory%20would%20be%20without%20a%20telescope.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Hope%20is%20important%20because%20it%20can%20make%20the%20present%20moment%20less%20difficult%20to%20bear.%20If%20we%20believe%20that%20tomorrow%20will%20be%20better%2C%20we%20can%20bear%20a%20hardship%20today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
