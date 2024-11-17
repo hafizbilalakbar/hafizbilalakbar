@@ -4388,11 +4388,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Life%20is%20love%20and%20love%20is%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=It%20is%20passion%20that%20makes%20man%20live%3B%20wisdom%20makes%20one%20only%20last.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
