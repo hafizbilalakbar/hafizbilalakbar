@@ -4437,11 +4437,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Forgive%20those%20who%20have%20hurt%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=Faith%20is%20taking%20the%20first%20step%20even%20when%20you%20don't%20see%20the%20whole%20staircase.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
