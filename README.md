@@ -4502,11 +4502,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=There%20is%20only%20one%20thing%20in%20the%20world%20worse%20than%20being%20talked%20about%2C%20and%20that%20is%20not%20being%20talked%20about.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=On%20the%20other%20side%20of%20the%20clouds%20is%20a%20bright%20blue%20sky.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
