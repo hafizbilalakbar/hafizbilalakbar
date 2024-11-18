@@ -4514,11 +4514,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Spurgeon&quote=Our%20anxiety%20does%20not%20empty%20tomorrow%20of%20its%20sorrows%2C%20but%20only%20empties%20today%20of%20its%20strengths.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=From%20error%20to%20error%20one%20discovers%20the%20entire%20truth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
