@@ -4560,11 +4560,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=Do%20not%20use%20life%20to%20give%20life%20to%20death.%20Do%20not%20use%20death%20to%20bring%20death%20to%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=If%20ever%20you%20feel%20like%20an%20animal%20among%20men%2C%20be%20a%20lion.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
