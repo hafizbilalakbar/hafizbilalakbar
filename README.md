@@ -4557,11 +4557,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Pain%20doesn't%20last.%20And%20when%20it's%20gone%2C%20we%20have%20something%20to%20show%20for%20it.%20Growth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=The%20highest%20form%20of%20ignorance%20is%20when%20you%20reject%20something%20you%20don't%20know%20anything%20about.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
