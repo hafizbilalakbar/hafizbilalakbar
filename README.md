@@ -4620,11 +4620,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=A%20wise%20man%20can%20learn%20more%20from%20a%20foolish%20question%20than%20a%20fool%20can%20learn%20from%20a%20wise%20answer.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=You%20can't%20make%20someone%20feel%20good%20about%20themselves%20until%20you%20feel%20good%20about%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
