@@ -4717,11 +4717,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=Thoughts%20become%20things.%20If%20you%20see%20it%20in%20your%20mind%2C%20you%20will%20hold%20it%20in%20your%20hand.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=The%20most%20important%20thing%20in%20communication%20is%20to%20hear%20what%20isn't%20being%20said.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
