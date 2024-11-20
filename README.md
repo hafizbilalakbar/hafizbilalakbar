@@ -4659,11 +4659,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Laurence%20J.%20Peter&quote=An%20intelligence%20test%20sometimes%20shows%20a%20man%20how%20smart%20he%20would%20have%20been%20not%20to%20have%20taken%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=Experience%20is%20simply%20the%20name%20we%20give%20our%20mistakes.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
