@@ -4701,11 +4701,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=If%20you%20don't%20like%20something%20change%20it%3B%20if%20you%20can't%20change%20it%2C%20change%20the%20way%20you%20think%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=One%20is%20never%20afraid%20of%20the%20unknown%3B%20one%20is%20afraid%20of%20the%20known%20coming%20to%20an%20end.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
