@@ -4720,11 +4720,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=This%20is%20the%20most%20simple%20and%20basic%20component%20of%20life%3A%20our%20struggles%20determine%20our%20successes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=A%20real%20decision%20is%20measured%20by%20the%20fact%20that%20you've%20taken%20a%20new%20action.%20If%20there's%20no%20action%2C%20you%20haven't%20truly%20decided.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
