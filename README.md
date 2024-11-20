@@ -4713,11 +4713,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=To%20be%20truly%20positive%20in%20the%20eyes%20of%20some%2C%20you%20have%20to%20risk%20appearing%20negative%20in%20the%20eyes%20of%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Swindoll&quote=We%20are%20all%20faced%20with%20a%20series%20of%20great%20opportunities%20brilliantly%20disguised%20as%20impossible%20situations.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
