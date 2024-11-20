@@ -4658,11 +4658,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=Life%20is%20to%20be%20fortified%20by%20many%20friendships.%20To%20love%2C%20and%20to%20be%20loved%2C%20is%20the%20greatest%20happiness%20of%20existence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Laurence%20J.%20Peter&quote=An%20intelligence%20test%20sometimes%20shows%20a%20man%20how%20smart%20he%20would%20have%20been%20not%20to%20have%20taken%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
