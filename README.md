@@ -4742,11 +4742,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=I%20never%20dwell%20on%20what%20happened.%20You%20can't%20change%20it.%20Move%20forward.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=We%20will%20outstretch%20the%20hand%20if%20you%20unclench%20your%20fist.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
