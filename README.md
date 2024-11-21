@@ -4824,11 +4824,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=Knowing%20your%20own%20darkness%20is%20the%20best%20method%20for%20dealing%20with%20the%20darknesses%20of%20other%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Don't%20concern%20yourself%20with%20the%20money.%20Be%20of%20service.%20Build.%20Work.%20Dream.%20Create.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
