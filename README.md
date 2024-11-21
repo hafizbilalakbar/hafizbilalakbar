@@ -4801,11 +4801,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Take%20into%20account%20that%20great%20love%20and%20great%20achievements%20involve%20great%20risk.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=Till%20it%20has%20loved%2C%20no%20man%20or%20woman%20can%20become%20itself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
