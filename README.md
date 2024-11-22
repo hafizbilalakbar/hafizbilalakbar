@@ -4895,11 +4895,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=A%20scientific%20man%20ought%20to%20have%20no%20wishes%2C%20no%20affections%2C%20-%20a%20mere%20heart%20of%20stone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charlie%20Chaplin&quote=Nothing%20is%20permanent%20in%20this%20wicked%20world%20-%20not%20even%20our%20troubles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
