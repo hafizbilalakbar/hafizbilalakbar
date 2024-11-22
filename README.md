@@ -4892,11 +4892,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leonardo%20da%20Vinci&quote=All%20our%20knowledge%20has%20its%20origins%20in%20our%20perceptions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=No%20one%20can%20compete%20with%20you%20on%20being%20you.%20Most%20of%20life%20is%20a%20search%20for%20who%20and%20what%20needs%20you%20the%20most.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
