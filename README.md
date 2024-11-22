@@ -4931,11 +4931,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Life%20is%20growth.%20If%20we%20stop%20growing%2C%20technically%20and%20spiritually%2C%20we%20are%20as%20good%20as%20dead.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gustave%20Flaubert&quote=Life%20must%20be%20a%20constant%20education%3B%20one%20must%20learn%20everything%2C%20from%20speaking%20to%20dying.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
