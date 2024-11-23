@@ -4963,11 +4963,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=When%20meditation%20is%20mastered%2C%20the%20mind%20is%20unwavering%20like%20the%20flame%20of%20a%20lamp%20in%20a%20windless%20place.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=It%20is%20indeed%20a%20radical%20act%20of%20love%20just%20to%20sit%20down%20and%20be%20quiet%20for%20a%20time%20by%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
