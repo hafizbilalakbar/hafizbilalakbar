@@ -5041,11 +5041,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=Being%20wrong%20opens%20us%20up%20to%20the%20possibility%20of%20change.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=It's%20very%20important%20to%20like%20the%20people%20you%20work%20with%2C%20otherwise%20life%20and%20your%20job%20is%20gonna%20be%20quite%20miserable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
