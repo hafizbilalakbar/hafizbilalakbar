@@ -5081,11 +5081,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=Life%20without%20love%20is%20like%20a%20tree%20without%20blossoms%20or%20fruit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=I%20am%20always%20doing%20what%20I%20cannot%20do%20yet%2C%20in%20order%20to%20learn%20how%20to%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
