@@ -5106,11 +5106,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=The%20successful%20warrior%20is%20the%20average%20man%2C%20with%20laser-like%20focus.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Be%20the%20silent%20watcher%20of%20your%20thoughts%20and%20behavior.%20You%20are%20beneath%20the%20thinker.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
