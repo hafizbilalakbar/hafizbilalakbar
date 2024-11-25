@@ -5164,11 +5164,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=In%20the%20midst%20of%20movement%20and%20chaos%2C%20keep%20stillness%20inside%20of%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=F.%20Scott%20Fitzgerald&quote=Never%20confuse%20a%20single%20defeat%20with%20a%20final%20defeat.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
