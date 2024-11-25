@@ -5234,11 +5234,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=Growing%20up%20is%20losing%20some%20illusions%2C%20in%20order%20to%20acquire%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=Dreams%20have%20only%20one%20owner%20at%20a%20time.%20That's%20why%20dreamers%20are%20lonely.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
