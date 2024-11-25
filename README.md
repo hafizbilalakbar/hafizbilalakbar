@@ -5246,11 +5246,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=The%20true%20soldier%20fights%20not%20because%20he%20hates%20what%20is%20in%20front%20of%20him%2C%20but%20because%20he%20loves%20what%20is%20behind%20him.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=The%20highest%20level%20of%20wisdom%20is%20when%20you%20not%20only%20accept%20but%20love%20adversity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
