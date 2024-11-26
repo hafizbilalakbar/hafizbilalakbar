@@ -5304,11 +5304,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=People%20often%20say%20that%20motivation%20doesn't%20last.%20Well%2C%20neither%20does%20bathing%20-%20that's%20why%20we%20recommend%20it%20daily.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=There%20is%20nothing%20like%20looking%20if%20you%20want%20to%20find%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
