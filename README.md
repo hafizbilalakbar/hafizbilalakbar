@@ -5280,11 +5280,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Being%20a%20good%20example%20is%20the%20best%20form%20of%20service.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Wherever%20there%20is%20danger%2C%20there%20lurks%20opportunity%3B%20wherever%20there%20is%20opportunity%2C%20there%20lurks%20danger.%20The%20two%20are%20inseparable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
