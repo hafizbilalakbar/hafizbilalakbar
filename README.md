@@ -5369,11 +5369,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Instead%20of%20thinking%20outside%20the%20box%2C%20get%20rid%20of%20the%20box.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=The%20man%20who%20moved%20the%20mountain%20was%20the%20one%20who%20began%20carrying%20away%20the%20smallest%20stones.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
