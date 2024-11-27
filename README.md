@@ -5447,11 +5447,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Winners%20are%20not%20afraid%20of%20losing.%20But%20losers%20are.%20Failure%20is%20part%20of%20the%20process%20of%20success.%20People%20who%20avoid%20failure%20also%20avoid%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=It%20is%20not%20the%20knowing%20that%20is%20difficult%2C%20but%20the%20doing.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
