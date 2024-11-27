@@ -5359,11 +5359,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=The%20beautiful%20journey%20of%20today%20can%20only%20begin%20when%20we%20learn%20to%20let%20go%20of%20yesterday.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Shunryu%20Suzuki&quote=Life%20is%20like%20stepping%20onto%20a%20boat%20which%20is%20about%20to%20sail%20out%20to%20sea%20and%20sink.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
