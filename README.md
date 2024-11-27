@@ -5431,11 +5431,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Never%20close%20your%20lips%20to%20those%20whom%20you%20have%20already%20opened%20your%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=The%20real%20art%20in%20learning%20takes%20place%20as%20we%20move%20beyond%20proficiency%2C%20when%20our%20work%20becomes%20an%20expression%20of%20our%20essence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
