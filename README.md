@@ -5385,11 +5385,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Because%20of%20your%20smile%2C%20you%20make%20life%20more%20beautiful.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=The%20most%20virtuous%20are%20those%20who%20content%20themselves%20with%20being%20virtuous%20without%20seeking%20to%20appear%20so.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
