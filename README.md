@@ -5465,11 +5465,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=My%20instinct%20is%20always%20to%20seek%20out%20challenges%20as%20opposed%20to%20avoiding%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=The%20only%20way%20to%20make%20sense%20out%20of%20change%20is%20to%20plunge%20into%20it%2C%20move%20with%20it%2C%20and%20join%20the%20dance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
