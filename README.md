@@ -5597,11 +5597,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=A%20real%20friend%20is%20one%20who%20walks%20in%20when%20the%20rest%20of%20the%20world%20walks%20out.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=You%20can%20suffer%20the%20pain%20of%20change%20or%20suffer%20remaining%20the%20way%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
