@@ -5604,11 +5604,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=Don't%20waste%20your%20energy%20on%20being%20angry%20at%20something%20that%20somebody%20did%20six%20months%20ago%20or%20a%20year%20ago.%20It's%20over.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=Live%20in%20each%20season%20as%20it%20passes%3B%20breathe%20the%20air%2C%20drink%20the%20drink%2C%20taste%20the%20fruit%2C%20and%20resign%20yourself%20to%20the%20influence%20of%20the%20earth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
