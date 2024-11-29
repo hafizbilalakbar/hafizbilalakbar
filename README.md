@@ -5635,11 +5635,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gustave%20Flaubert&quote=Anything%20becomes%20interesting%20if%20you%20look%20at%20it%20long%20enough..&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepam%20Chaterjee&quote=What%20have%20you%20done%20today%20to%20make%20someone%20else%20happy%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
