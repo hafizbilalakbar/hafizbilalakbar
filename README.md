@@ -5578,11 +5578,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=Life%20and%20death%20are%20of%20supreme%20importance.%20Time%20swiftly%20passes%20by%20and%20opportunity%20is%20lost.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Fear%20does%20not%20have%20any%20special%20power%20unless%20you%20empower%20it%20by%20submitting%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
