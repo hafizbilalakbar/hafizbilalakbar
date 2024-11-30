@@ -5744,11 +5744,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maya%20Angelou&quote=Success%20is%20liking%20yourself%2C%20liking%20what%20you%20do%2C%20and%20liking%20how%20you%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Billie%20Jean%20King&quote=Don't%20let%20anyone%20define%20you.%20You%20define%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
