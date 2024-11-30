@@ -5690,11 +5690,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=It%20is%20the%20mark%20of%20an%20educated%20mind%20to%20be%20able%20to%20entertain%20a%20thought%20without%20accepting%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=St.%20Jerome&quote=Good%2C%20better%2C%20best.%20Never%20let%20it%20rest.%20'Til%20your%20good%20is%20better%20and%20your%20better%20is%20best.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
