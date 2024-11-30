@@ -5730,11 +5730,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=The%20destiny%20of%20man%20is%20in%20his%20own%20soul.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=C.%20Sean%20McGee&quote=Respect%20is%20earned%20by%20effort%20not%20age%2C%20all%20things%20age%20without%20effort.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
