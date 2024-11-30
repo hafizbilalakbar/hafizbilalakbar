@@ -5712,11 +5712,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Do%20not%20fight%20with%20pigs%20-%20you%20will%20be%20smeared%20in%20mud%20but%20the%20pig%20will%20like%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=It%20only%20takes%20a%20split%20second%20to%20smile%20and%20forget%2C%20yet%20to%20someone%20that%20needed%20it%2C%20it%20can%20last%20a%20lifetime.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
