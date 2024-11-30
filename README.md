@@ -5679,11 +5679,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=You%20are%20free%2C%20and%20that%20is%20why%20you%20are%20lost.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=One%20small%20positive%20thought%20can%20change%20your%20whole%20day.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
