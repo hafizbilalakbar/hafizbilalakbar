@@ -5682,11 +5682,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Spend%20eighty%20percent%20of%20your%20time%20focusing%20on%20the%20opportunities%20of%20tomorrow%20rather%20than%20the%20problems%20of%20yesterday.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=Men%20are%20anxious%20to%20improve%20their%20circumstances%20but%20are%20unwilling%20to%20improve%20themselves%3B%20they%20therefore%20remain%20bound.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
