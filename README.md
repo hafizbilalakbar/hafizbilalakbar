@@ -5727,11 +5727,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=The%20more%20you%20praise%20and%20celebrate%20your%20life%2C%20the%20more%20there%20is%20in%20life%20to%20celebrate.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=If%20you%20are%20lucky%20enough%20to%20find%20love%2C%20remember%20it%20is%20there%20and%20don't%20throw%20it%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
