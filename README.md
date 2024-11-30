@@ -5724,11 +5724,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Real%20growth%20comes%20through%20intense%2C%20difficult%2C%20and%20challenging%20situations.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Quality%20means%20doing%20it%20right%20when%20no%20one%20is%20looking.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
