@@ -5776,11 +5776,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=The%20only%20lost%20cause%20is%20one%20we%20give%20up%20on%20before%20we%20enter%20the%20struggle.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=Darkness%20cannot%20drive%20out%20darkness%3B%20only%20light%20can%20do%20that.%20Hate%20cannot%20drive%20out%20hate%3B%20only%20love%20can%20do%20that.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
