@@ -5775,11 +5775,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=Just%20living%20is%20not%20enough...%20one%20must%20have%20sunshine%2C%20freedom%2C%20and%20a%20little%20flower.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=The%20only%20lost%20cause%20is%20one%20we%20give%20up%20on%20before%20we%20enter%20the%20struggle.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
