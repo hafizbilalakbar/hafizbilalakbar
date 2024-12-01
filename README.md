@@ -5813,11 +5813,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=The%20path%20is%20difficult%20to%20ensure%20worthiness.%20The%20lazy%20look%20elsewhere%2C%20The%20persevering%20find%20riches.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=If%20a%20man%20knows%20not%20to%20which%20port%20he%20sails%2C%20no%20wind%20is%20favorable.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
