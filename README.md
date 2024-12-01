@@ -5781,11 +5781,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=Words%20used%20to%20attract%20the%20dull%20of%20wit%20are%20not%20to%20be%20relied%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=Wise%20men%20speak%20because%20they%20have%20something%20to%20say%3B%20Fools%20because%20they%20have%20to%20say%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
