@@ -5848,11 +5848,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Helen%20Keller&quote=Avoiding%20danger%20is%20no%20safer%20in%20the%20long%20run%20than%20exposure.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Every%20moment%20you%20get%20is%20a%20gift.%20Spend%20it%20on%20things%20that%20matter.%20Don't%20spend%20it%20by%20dwelling%20on%20unhappy%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
