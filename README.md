@@ -5759,11 +5759,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Miguel%20de%20Cervantes&quote=In%20order%20to%20attain%20the%20impossible%2C%20one%20must%20attempt%20the%20absurd.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=The%20greatest%20mistake%20you%20can%20make%20in%20life%20is%20to%20be%20continually%20fearing%20you%20will%20make%20one.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
