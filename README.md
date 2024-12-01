@@ -5817,11 +5817,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Power%20is%20not%20what%20we%20do%20but%20what%20we%20do%20not%20-%20hasty%20and%20unwise%20actions%20that%20we%20repeat%20every%20day%20and%20which%20ultimately%20bring%20us%20into%20trouble.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Nothing%20can%20survive%20without%20food.%20Everything%20we%20consume%20acts%20either%20to%20heal%20us%20or%20to%20poison%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
