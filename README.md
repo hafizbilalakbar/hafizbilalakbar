@@ -5753,11 +5753,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=If%20you%20want%20to%20be%20sad%2C%20no%20one%20in%20the%20world%20can%20make%20you%20happy.%20But%20if%20you%20make%20up%20your%20mind%20to%20be%20happy%2C%20no%20one%20and%20nothing%20on%20earth%20can%20take%20that%20happiness%20from%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=The%20future%20belongs%20to%20those%20who%20learn%20more%20skills%20and%20combine%20them%20in%20creative%20ways.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
