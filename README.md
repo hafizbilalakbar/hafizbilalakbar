@@ -5808,11 +5808,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Don't%20worry%20about%20being%20successful%2C%20but%20work%20toward%20being%20significant%20and%20the%20success%20will%20naturally%20follow.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=When%20you%20consider%20things%20like%20the%20stars%2C%20our%20affairs%20don't%20seem%20to%20matter%20very%20much%2C%20do%20they%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
