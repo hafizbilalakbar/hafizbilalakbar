@@ -5833,11 +5833,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Happiness%20is%20an%20effect%20of%20doing%20what%20you%20love%2C%20not%20an%20end%20goal%20to%20be%20achieved.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=One%20must%20be%20deeply%20aware%20of%20the%20impermanence%20of%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
