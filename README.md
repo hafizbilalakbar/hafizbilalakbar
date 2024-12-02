@@ -5924,11 +5924,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=The%20most%20important%20thing%20in%20life%20is%20to%20stop%20saying%20'I%20wish'%20and%20start%20saying%20'I%20will'.%20Consider%20nothing%20impossible%2C%20then%20treat%20possibilities%20as%20probabilities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=The%20first%20rule%20of%20business%3B%20treat%20others%20like%20they%20want%20to%20treat%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
