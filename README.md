@@ -5936,11 +5936,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=Your%20visions%20will%20become%20clear%20only%20when%20you%20can%20look%20into%20your%20own%20heart.%20Who%20looks%20outside%2C%20dreams%3B%20who%20looks%20inside%2C%20awakes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=I%20am%20thankful%20to%20all%20who%20said%20no%20to%20me.%20It%20is%20because%20of%20them%20that%20I'm%20doing%20it%20myself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
