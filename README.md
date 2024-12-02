@@ -5917,11 +5917,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Your%20mind%20will%20make%20you%20rich%20or%20poor%2C%20depending%20on%20the%20use%20you%20put%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20Brave%20and%20Take%20Risks%3A%20You%20need%20to%20have%20faith%20in%20yourself.%20Be%20brave%20and%20take%20risks.%20You%20don't%20have%20to%20have%20it%20all%20figured%20out%20to%20move%20forward.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
