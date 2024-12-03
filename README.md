@@ -6019,11 +6019,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Anyone%20who%20dreams%20of%20an%20uncommon%20life%20eventually%20discovers%20there%20is%20no%20choice%20but%20to%20seek%20an%20uncommon%20approach%20to%20living%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Death%20and%20life%20have%20their%20determined%20appointments%3B%20riches%20and%20honors%20depend%20upon%20heaven.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
