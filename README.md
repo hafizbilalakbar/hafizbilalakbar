@@ -5952,11 +5952,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=The%20quality%20of%20your%20life%20is%20the%20quality%20of%20your%20relationships.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=Opportunity%20is%20missed%20by%20most%20people%20because%20it%20is%20dressed%20in%20overalls%20and%20looks%20like%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
