@@ -6018,11 +6018,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=It%20is%20amazing%20what%20you%20can%20accomplish%20if%20you%20do%20not%20care%20who%20gets%20the%20credit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Anyone%20who%20dreams%20of%20an%20uncommon%20life%20eventually%20discovers%20there%20is%20no%20choice%20but%20to%20seek%20an%20uncommon%20approach%20to%20living%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
