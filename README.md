@@ -5977,11 +5977,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=In%20a%20world%20of%20change%2C%20the%20learners%20shall%20inherit%20the%20earth%2C%20while%20the%20learned%20shall%20find%20themselves%20perfectly%20suited%20for%20a%20world%20that%20no%20longer%20exists.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Consider%20the%20rights%20of%20others%20before%20your%20own%20feelings%2C%20and%20the%20feelings%20of%20others%20before%20your%20own%20rights.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
