@@ -6069,11 +6069,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Williams&quote=You're%20only%20given%20a%20little%20spark%20of%20madness.%20You%20mustn't%20lose%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=We%20are%20like%20islands%20in%20the%20sea%2C%20separate%20on%20the%20surface%20but%20connected%20in%20the%20deep.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
