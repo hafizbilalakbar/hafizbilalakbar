@@ -6145,11 +6145,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=You%20may%20be%20one%20person%20in%20this%20world%2C%20but%20to%20one%20person%20you%20may%20mean%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=An%20empty%20head%20is%20not%20really%20empty%3B%20it%20is%20stuffed%20with%20rubbish.%20Hence%20the%20difficulty%20of%20forcing%20anything%20into%20an%20empty%20head.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
