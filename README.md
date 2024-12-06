@@ -6292,11 +6292,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=Courage%20is%20fear%20that%20has%20said%20its%20prayers%20and%20decided%20to%20go%20forward%20anyway.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=In%20the%20practice%20of%20tolerance%2C%20one's%20enemy%20is%20the%20best%20teacher.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
