@@ -6236,11 +6236,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=The%20things%20I%20carry%20are%20my%20thoughts.%20That's%20it.%20They%20are%20the%20only%20weight.%20My%20thoughts%20determine%20whether%20I%20am%20free%20and%20light%20or%20burdened.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=The%20path%20is%20difficult%20to%20ensure%20worthiness.%20The%20lazy%20look%20elsewhere%2C%20The%20persevering%20find%20riches.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
