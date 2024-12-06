@@ -6242,11 +6242,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Superstars%20think%20like%20superstars%20long%20before%20the%20fans%20or%20the%20press%20anoint%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=If%20the%20grass%20is%20greener%20on%20the%20other%20side%2C%20maybe%20that's%20because%20you're%20not%20taking%20good%20care%20of%20your%20grass.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
