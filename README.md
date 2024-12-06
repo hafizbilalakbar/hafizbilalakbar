@@ -6274,11 +6274,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=Working%20hard%20for%20something%20we%20don't%20care%20about%20is%20called%20stress%3A%20Working%20hard%20for%20something%20we%20love%20is%20called%20passion.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=If%20life%20is%20a%20video%20game%2C%20the%20graphics%20are%20great%2C%20but%20the%20plot%20is%20confusing%20and%20the%20tutorial%20is%20way%20too%20long.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
