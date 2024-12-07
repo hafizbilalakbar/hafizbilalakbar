@@ -6376,11 +6376,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herman%20Melville&quote=I%20know%20not%20all%20that%20may%20be%20coming%2C%20but%20be%20it%20what%20it%20will%2C%20I'll%20go%20to%20it%20laughing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=The%20person%20who%20never%20made%20a%20mistake%20never%20tried%20anything%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
