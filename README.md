@@ -6367,11 +6367,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=We%20need%20never%20be%20ashamed%20of%20our%20tears.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Take%20into%20account%20that%20great%20love%20and%20great%20achievements%20involve%20great%20risk.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
