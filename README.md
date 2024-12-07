@@ -6412,11 +6412,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Remember%20that%20the%20best%20relationship%20is%20one%20in%20which%20your%20love%20for%20each%20other%20exceeds%20your%20need%20for%20each%20other.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=One%20of%20the%20most%20difficult%20things%20is%20not%20to%20change%20society%20-%20but%20to%20change%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
