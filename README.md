@@ -6406,11 +6406,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=Every%20man's%20work%2C%20whether%20it%20be%20literature%20or%20music%20or%20pictures%20or%20architecture%20or%20anything%20else%2C%20is%20always%20a%20portrait%20of%20himself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=The%20price%20of%20inaction%20is%20far%20greater%20than%20the%20cost%20of%20making%20a%20mistake.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
