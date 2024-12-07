@@ -6428,11 +6428,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Only%20those%20who%20do%20nothing%20at%20all%20make%20no%20mistakes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Don't%20ever%20be%20afraid%20to%20put%20yourself%20in%20a%20lesser%20position%20so%20that%20you%20can%20learn%20something%20from%20someone%20who%20knows%20more.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
