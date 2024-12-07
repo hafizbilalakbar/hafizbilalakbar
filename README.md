@@ -6388,11 +6388,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Everything%20begins%20with%20an%20idea.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Woody%20Allen&quote=Men%20learn%20to%20love%20the%20woman%20they%20are%20attracted%20to.%20Women%20learn%20to%20become%20attracted%20to%20the%20man%20they%20fall%20in%20love%20with.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
