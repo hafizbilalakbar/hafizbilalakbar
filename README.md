@@ -6423,11 +6423,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Every%20traveler%20has%20a%20home%20of%20his%20own%2C%20and%20he%20learns%20to%20appreciate%20it%20the%20more%20from%20his%20wandering.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Even%20if%20our%20home%20burns%20down%20we%20can%20rebuild%20it.%20But%20the%20things%20that%20we%20got%20for%20nothing%2C%20we%20can%20never%20replace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
