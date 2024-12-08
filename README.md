@@ -6492,11 +6492,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Either%20you%20run%20the%20day%20or%20the%20day%20runs%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lin%20Yutang&quote=The%20wisdom%20of%20life%20consists%20in%20the%20elimination%20of%20the%20nonessentials.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
