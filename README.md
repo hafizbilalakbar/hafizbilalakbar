@@ -6599,11 +6599,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=Darkness%20must%20pass.%20A%20new%20day%20will%20come.%20And%20when%20the%20sun%20shines%2C%20it%20will%20shine%20out%20the%20clearer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=The%20first%20half%20of%20life%20is%20devoted%20to%20forming%20a%20healthy%20ego%2C%20the%20second%20half%20is%20going%20inward%20and%20letting%20go%20of%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
