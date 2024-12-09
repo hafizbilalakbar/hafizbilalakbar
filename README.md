@@ -6590,11 +6590,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=We%20don't%20stop%20playing%20because%20we%20grow%20old%3B%20we%20grow%20old%20because%20we%20stop%20playing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Kerouac&quote=The%20best%20teacher%20is%20experience%20and%20not%20through%20someone's%20distorted%20point%20of%20view.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
