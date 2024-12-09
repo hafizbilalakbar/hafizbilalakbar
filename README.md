@@ -6581,11 +6581,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepam%20Chaterjee&quote=What%20have%20you%20done%20today%20to%20make%20someone%20else%20happy%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=You%20are%20not%20what%20you%20think%20you%20are%2C%20You%20are%20not%20what%20others%20think%20you%20are%2C%20You%20are%20what%20you%20think%20others%20think%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
