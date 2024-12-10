@@ -6627,11 +6627,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=You%20have%20a%20brain%20and%20mind%20of%20your%20own.%20Use%20it%2C%20and%20reach%20your%20own%20decisions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=From%20a%20certain%20point%20onward%20there%20is%20no%20longer%20any%20turning%20back.%20That%20is%20the%20point%20that%20must%20be%20reached.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
