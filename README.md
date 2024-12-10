@@ -6698,11 +6698,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=David%20Brinkley&quote=People%20have%20the%20illusion%20that%20all%20over%20the%20world%2C%20all%20the%20time%2C%20all%20kinds%20of%20fantastic%20things%20are%20happening.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=A%20strong%20man%20overcomes%20an%20obstacle%2C%20a%20wise%20man%20goes%20the%20whole%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
