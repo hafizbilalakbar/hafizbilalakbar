@@ -6702,11 +6702,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20takes%20a%20great%20deal%20of%20bravery%20to%20stand%20up%20to%20our%20enemies%2C%20but%20just%20as%20much%20to%20stand%20up%20to%20our%20friends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=The%20reward%20of%20suffering%20is%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
