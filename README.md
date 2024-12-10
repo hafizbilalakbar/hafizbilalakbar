@@ -6682,11 +6682,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Believe%20that%20life%20is%20worth%20living%20and%20your%20belief%20will%20help%20create%20the%20fact.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=It's%20not%20the%20size%20of%20the%20dog%20in%20the%20fight%2C%20it's%20the%20size%20of%20the%20fight%20in%20the%20dog.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
