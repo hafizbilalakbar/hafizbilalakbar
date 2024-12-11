@@ -6779,11 +6779,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Happiness%20is%20not%20a%20goal...it's%20a%20by-product%20of%20a%20life%20well%20lived.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=It%20isn't%20that%20they%20can't%20see%20the%20solution.%20It%20is%20that%20they%20can't%20see%20the%20problem.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
