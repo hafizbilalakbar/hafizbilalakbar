@@ -6777,11 +6777,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.P.%20Kinsella&quote=Any%20game%20becomes%20important%20when%20you%20know%20and%20love%20the%20players.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Even%20if%20our%20home%20burns%20down%20we%20can%20rebuild%20it.%20But%20the%20things%20that%20we%20got%20for%20nothing%2C%20we%20can%20never%20replace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
