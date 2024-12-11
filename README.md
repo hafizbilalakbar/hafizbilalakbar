@@ -6802,11 +6802,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=The%20mind%20can%20calculate%2C%20but%20the%20spirit%20yearns%2C%20and%20the%20heart%20wants%20what%20the%20heart%20wants.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=We%20run%20to%20win%2C%20not%20just%20to%20be%20in%20the%20race.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
