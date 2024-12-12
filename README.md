@@ -6868,11 +6868,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=Observe%20things%20as%20they%20are%20and%20don't%20pay%20attention%20to%20other%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther&quote=Everything%20that%20is%20done%20in%20the%20world%20is%20done%20by%20hope.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
