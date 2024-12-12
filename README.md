@@ -6891,11 +6891,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Eliot&quote=It%20will%20never%20rain%20roses%3A%20when%20we%20want%20to%20have%20more%20roses%2C%20we%20must%20plant%20more%20roses.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=Associate%20with%20people%20who%20are%20likely%20to%20improve%20you.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
