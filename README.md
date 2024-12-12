@@ -6860,11 +6860,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=Men%20are%20anxious%20to%20improve%20their%20circumstances%20but%20are%20unwilling%20to%20improve%20themselves%3B%20they%20therefore%20remain%20bound.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Do%20not%20look%20upon%20this%20world%20with%20fear%20and%20loathing.%20Bravely%20face%20whatever%20the%20gods%20offer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
