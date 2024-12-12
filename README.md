@@ -6861,11 +6861,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Do%20not%20look%20upon%20this%20world%20with%20fear%20and%20loathing.%20Bravely%20face%20whatever%20the%20gods%20offer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=Never%20give%20up%20work.%20Work%20gives%20you%20meaning%20and%20purpose%20and%20life%20is%20empty%20without%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
