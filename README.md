@@ -6922,11 +6922,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=When%20the%20mind%20is%20calm%2C%20how%20quickly%2C%20how%20smoothly%2C%20how%20beautifully%20you%20will%20perceive%20everything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Happiness%20is%20the%20meaning%20and%20the%20purpose%20of%20life%2C%20the%20whole%20aim%20and%20end%20of%20human%20existence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
