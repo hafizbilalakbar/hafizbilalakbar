@@ -6994,11 +6994,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Passion%20is%20energy.%20Feel%20the%20power%20that%20comes%20from%20focusing%20on%20what%20excites%20you.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=No%20one%20is%20useless%20in%20this%20world%20who%20lightens%20the%20burdens%20of%20another.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
