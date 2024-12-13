@@ -6923,11 +6923,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Happiness%20is%20the%20meaning%20and%20the%20purpose%20of%20life%2C%20the%20whole%20aim%20and%20end%20of%20human%20existence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Everyone%20faces%20challenges%20in%20life.%20It's%20a%20matter%20of%20how%20you%20learn%20to%20overcome%20them%20and%20using%20them%20to%20your%20advantage.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
