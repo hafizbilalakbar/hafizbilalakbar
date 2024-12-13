@@ -6946,11 +6946,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=Unless%20someone%20truly%20has%20the%20power%20to%20say%20no%2C%20they%20never%20truly%20have%20the%20power%20to%20say%20yes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=They%20say%20love%20is%20the%20best%20investment%3B%20the%20more%20you%20give%2C%20the%20more%20you%20get%20in%20return.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
