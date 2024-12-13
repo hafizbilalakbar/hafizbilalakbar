@@ -6948,11 +6948,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=Life%20is%20the%20art%20of%20drawing%20sufficient%20conclusions%20from%20insufficient%20premises.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kenneth%20Branagh&quote=It's%20very%20strange%20that%20the%20people%20you%20love%20are%20often%20the%20people%20you're%20most%20cruel%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
