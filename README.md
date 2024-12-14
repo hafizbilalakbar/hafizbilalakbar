@@ -7033,11 +7033,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=Failure%20is%20acceptable.%20Not%20trying%20is%20a%20whole%20different%20ball%20park.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=All%20life%20is%20a%20manifestation%20of%20the%20spirit%2C%20the%20manifestation%20of%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
