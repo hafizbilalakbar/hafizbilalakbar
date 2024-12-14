@@ -7010,11 +7010,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=The%20chief%20cause%20of%20failure%20and%20unhappiness%20is%20trading%20what%20you%20want%20most%20for%20what%20you%20want%20right%20now.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Isaac%20Newton&quote=The%20best%20way%20to%20understanding%20is%20a%20few%20good%20examples.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
