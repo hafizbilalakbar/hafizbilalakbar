@@ -7090,11 +7090,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=We%20will%20now%20discuss%20in%20a%20little%20more%20detail%20the%20Struggle%20for%20Existence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Decide%20upon%20your%20major%20definite%20purpose%20in%20life%20and%20then%20organize%20all%20your%20activities%20around%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
