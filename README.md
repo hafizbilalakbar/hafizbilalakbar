@@ -7055,11 +7055,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=You%20have%20the%20freedom%20to%20be%20yourself%2C%20your%20true%20self%2C%20here%20and%20now%2C%20and%20nothing%20can%20stand%20in%20your%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=There%20is%20only%20one%20way%20to%20happiness%20and%20that%20is%20to%20cease%20worrying%20about%20things%20which%20are%20beyond%20the%20power%20or%20our%20will.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
