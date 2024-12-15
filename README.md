@@ -7160,11 +7160,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=If%20you%20change%20the%20way%20you%20look%20at%20things%2C%20the%20things%20you%20look%20at%20change.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=There%20are%20no%20constraints%20on%20the%20human%20mind%2C%20no%20walls%20around%20the%20human%20spirit%2C%20no%20barriers%20to%20our%20progress%20except%20those%20we%20ourselves%20erect.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
