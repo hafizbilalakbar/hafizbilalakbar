@@ -7179,11 +7179,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=The%20secret%20of%20happiness%2C%20you%20see%2C%20is%20not%20found%20in%20seeking%20more%2C%20but%20in%20developing%20the%20capacity%20to%20enjoy%20less.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20only%20time%20you%20run%20out%20of%20chances%20is%20when%20you%20stop%20taking%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
