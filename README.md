@@ -7199,11 +7199,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20more%20tranquil%20a%20man%20becomes%2C%20the%20greater%20is%20his%20success%2C%20his%20influence%2C%20his%20power%20for%20good.%20Calmness%20of%20mind%20is%20one%20of%20the%20beautiful%20jewels%20of%20wisdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Grace%20Coddington&quote=Always%20keep%20your%20eyes%20open.%20Keep%20watching.%20Because%20whatever%20you%20see%20can%20inspire%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
