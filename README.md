@@ -7174,11 +7174,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=The%20man%20who%20asks%20a%20question%20is%20a%20fool%20for%20a%20minute%2C%20the%20man%20who%20does%20not%20ask%20is%20a%20fool%20for%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Do%20what%20you%20can%2C%20with%20what%20you%20have%2C%20where%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
