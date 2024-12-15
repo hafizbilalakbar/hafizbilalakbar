@@ -7152,11 +7152,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=A%20liar%20knows%20that%20he%20is%20a%20liar%2C%20but%20one%20who%20speaks%20mere%20portions%20of%20truth%20in%20order%20to%20deceive%20is%20a%20craftsman%20of%20destruction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Rest%20when%20you're%20weary.%20Refresh%20and%20renew%20yourself%2C%20your%20body%2C%20your%20mind%2C%20your%20spirit.%20Then%20get%20back%20to%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
