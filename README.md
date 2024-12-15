@@ -7164,11 +7164,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=Note%20that%20this%20journey%20is%20uniquely%20yours%2C%20no%20one%20elses.%20So%20the%20path%20has%20to%20be%20your%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=Trust%20your%20instincts%3A%20my%20first%20reaction%20is%20almost%20invariably%20the%20right%20one.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
