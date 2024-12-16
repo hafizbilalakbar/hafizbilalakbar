@@ -7221,11 +7221,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=To%20the%20mind%20that%20is%20still%2C%20the%20whole%20universe%20surrenders.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=If%20you%20build%20the%20guts%20to%20do%20something%2C%20anything%2C%20then%20you%20better%20save%20enough%20to%20face%20the%20consequences.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
