@@ -7382,11 +7382,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=If%20you%20want%20peace%2C%20accept.%20If%20you%20want%20suffering%2C%20expect.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=The%20more%20I%20want%20to%20get%20something%20done%2C%20the%20less%20I%20call%20it%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
