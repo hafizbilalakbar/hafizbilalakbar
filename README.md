@@ -7349,11 +7349,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=To%20think%20is%20easy.%20To%20act%20is%20hard.%20But%20the%20hardest%20thing%20in%20the%20world%20is%20to%20act%20in%20accordance%20with%20your%20thinking.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=Genius%20is%20one%20percent%20inspiration%20and%20ninety-nine%20percent%20perspiration.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
