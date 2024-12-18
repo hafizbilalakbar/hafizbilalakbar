@@ -7432,11 +7432,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=It%20still%20holds%20true%20that%20man%20is%20most%20uniquely%20human%20when%20he%20turns%20obstacles%20into%20opportunities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=If%20you%20see%20a%20get%20rich%20quick%20scheme%2C%20that's%20someone%20else%20trying%20to%20get%20rich%20off%20of%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
