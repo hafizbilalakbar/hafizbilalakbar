@@ -7406,11 +7406,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Never%20regret%20your%20past.%20Rather%2C%20embrace%20it%20as%20the%20teacher%20that%20it%20is.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yoko%20Ono&quote=A%20dream%20you%20dream%20alone%20is%20only%20a%20dream.%20A%20dream%20you%20dream%20together%20is%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
