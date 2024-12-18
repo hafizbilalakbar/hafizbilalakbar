@@ -7466,11 +7466,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Sad%20thing%20is%2C%20you%20can%20still%20love%20someone%20and%20be%20wrong%20for%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Fear%20is%20what%20stops%20you.%20Courage%20is%20what%20keeps%20you%20going.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
