@@ -7423,11 +7423,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=The%20energy%20of%20the%20mind%20is%20the%20essence%20of%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=One%20reason%20so%20few%20of%20us%20achieve%20what%20we%20truly%20want%20is%20that%20we%20never%20direct%20our%20focus%3B%20we%20never%20concentrate%20our%20power.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
