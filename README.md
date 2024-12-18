@@ -7485,11 +7485,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=Pleasure%20can%20be%20supported%20by%20an%20illusion%3B%20but%20happiness%20rests%20upon%20truth.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Faults%20are%20yours%20to%20fix%2C%20not%20to%20curse.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
