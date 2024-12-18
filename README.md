@@ -7496,11 +7496,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=If%20you%20get%20up%20one%20more%20time%20than%20you%20fall%2C%20you%20will%20make%20it%20through.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=The%20fear%20of%20death%20follows%20from%20the%20fear%20of%20life.%20A%20man%20who%20lives%20fully%20is%20prepared%20to%20die%20at%20any%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
