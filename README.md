@@ -7453,11 +7453,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=To%20judge%20a%20man%20by%20his%20weakest%20link%20or%20deed%20is%20like%20judging%20the%20power%20of%20the%20ocean%20by%20one%20wave.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=The%20future%20belongs%20to%20those%20who%20learn%20more%20skills%20and%20combine%20them%20in%20creative%20ways.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
