@@ -7509,11 +7509,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Never%20feel%20shame%20for%20trying%20and%20failing%2C%20for%20he%20who%20has%20never%20failed%20is%20he%20who%20has%20never%20tried.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=It's%20your%20road%2C%20and%20yours%20alone%2C%20others%20may%20walk%20it%20with%20you%2C%20but%20no%20one%20can%20walk%20it%20for%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
