@@ -7543,11 +7543,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=You%20Create%20Your%20Own%20Present%20By%20What%20You%20Give%20Your%20Attention%20To%20Today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=It%20is%20easy%20to%20love%20your%20friend%2C%20but%20sometimes%20the%20hardest%20lesson%20to%20learn%20is%20to%20love%20your%20enemy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
