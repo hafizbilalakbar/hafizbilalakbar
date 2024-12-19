@@ -7599,11 +7599,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ray%20Bradbury&quote=Stuff%20your%20eyes%20with%20wonder...%20live%20as%20if%20you'd%20drop%20dead%20in%20ten%20seconds.%20See%20the%20world.%20It's%20more%20fantastic%20than%20any%20dream%20made%20or%20paid%20for%20in%20factories.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Dylan&quote=When%20you've%20got%20nothing%2C%20you've%20got%20nothing%20to%20lose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
