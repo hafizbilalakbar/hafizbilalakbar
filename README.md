@@ -7576,11 +7576,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=What%20a%20liberation%20to%20realize%20that%20'the%20voice%20in%20my%20head'%20is%20not%20who%20I%20am.%20Who%20am%20I%20then%3F%20The%20one%20who%20sees%20that.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mae%20West&quote=He%20who%20hesitates%20is%20a%20damned%20fool.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
