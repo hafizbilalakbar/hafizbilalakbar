@@ -7518,11 +7518,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=All%20men%20who%20have%20achieved%20great%20things%20have%20been%20great%20dreamers.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=When%20you%20reach%20the%20top%20of%20the%20mountain%2C%20keep%20climbing.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
