@@ -7605,11 +7605,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20greatest%20gift%20that%20you%20can%20give%20to%20others%20is%20the%20gift%20of%20unconditional%20love%20and%20acceptance.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Soren%20Kierkegaard&quote=Life%20is%20not%20a%20problem%20to%20be%20solved%2C%20but%20a%20reality%20to%20be%20experienced.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
