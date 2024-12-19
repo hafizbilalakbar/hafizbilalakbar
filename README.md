@@ -7597,11 +7597,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=Great%20ones%20are%20willing%20to%20get%20burned%20time%20and%20again%20as%20they%20sharpen%20their%20swords%20in%20the%20fire.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=Everyone%20you%20admire%20was%20once%20a%20beginner.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
