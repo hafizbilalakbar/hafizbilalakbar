@@ -7614,11 +7614,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Swindoll&quote=The%20swift%20wind%20of%20compromise%20is%20a%20lot%20more%20devastating%20than%20the%20sudden%20jolt%20of%20misfortune.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=Peace%20is%20not%20something%20you%20wish%20for%3B%20It's%20something%20you%20make%2C%20something%20you%20do%2C%20something%20you%20are%2C%20and%20something%20you%20give%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
