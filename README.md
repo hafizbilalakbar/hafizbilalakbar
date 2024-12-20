@@ -7688,11 +7688,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=Humans%20and%20prosperity%20never%20endure%20side%20by%20side%20for%20long.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dudley%20Field%20Malone&quote=I%20have%20never%20in%20my%20life%20learned%20anything%20from%20any%20man%20who%20agreed%20with%20me.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
