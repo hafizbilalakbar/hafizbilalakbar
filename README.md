@@ -7718,11 +7718,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Trying%20to%20define%20yourself%20is%20like%20trying%20to%20bite%20your%20own%20teeth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=If%20you're%20walking%20down%20the%20right%20path%20and%20you're%20willing%20to%20keep%20walking%2C%20eventually%20you'll%20make%20progress.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
