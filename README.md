@@ -7740,11 +7740,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=Life%20is%20like%20playing%20the%20violin%20in%20public%20and%20learning%20the%20instrument%20as%20one%20goes%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Locke&quote=New%20opinions%20are%20always%20suspected%2C%20and%20usually%20opposed%2C%20without%20any%20other%20reason%20but%20because%20they%20are%20not%20common.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
