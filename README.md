@@ -7820,11 +7820,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=It%20takes%20a%20minute%20to%20have%20a%20crush%20on%20someone%2C%20an%20hour%20to%20like%20someone%2C%20and%20a%20day%20to%20love%20someone...%20but%20it%20takes%20a%20lifetime%20to%20forget%20someone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Unless%20a%20man%20is%20master%20of%20his%20soul%2C%20all%20other%20kinds%20of%20mastery%20amount%20to%20little.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
