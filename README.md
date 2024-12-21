@@ -7798,11 +7798,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yoko%20Ono&quote=Every%20drop%20in%20the%20ocean%20counts.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Disney&quote=When%20you're%20curious%2C%20you%20find%20lots%20of%20interesting%20things%20to%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
