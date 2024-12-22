@@ -7873,11 +7873,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=If%20you%20do%20not%20push%20the%20boundaries%2C%20you%20will%20never%20know%20where%20they%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=To%20bear%20trials%20with%20a%20calm%20mind%20robs%20misfortune%20of%20its%20strength%20and%20burden.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
