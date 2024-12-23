@@ -8019,11 +8019,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Wherever%20you%20are%2C%20and%20whatever%20you%20do%2C%20be%20in%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=If%20you're%20walking%20down%20the%20right%20path%20and%20you're%20willing%20to%20keep%20walking%2C%20eventually%20you'll%20make%20progress.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
