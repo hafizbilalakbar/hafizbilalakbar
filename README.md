@@ -8040,11 +8040,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=You%20have%20to%20accept%20whatever%20comes%2C%20and%20the%20only%20important%20thing%20is%20that%20you%20meet%20it%20with%20the%20best%20you%20have%20to%20give.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=The%20majority%20of%20what%20you%20want%20will%20come%20from%20the%20minority%20of%20what%20you%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
