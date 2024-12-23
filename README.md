@@ -8042,11 +8042,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=Empty%20your%20mind%2C%20be%20formless%2C%20shapeless%2C%20like%20water.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=It%20isn't%20what%20you%20have%20or%20who%20you%20are%20or%20where%20you%20are%20or%20what%20you%20are%20doing%20that%20makes%20you%20happy%20or%20unhappy.%20It%20is%20what%20you%20think%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
