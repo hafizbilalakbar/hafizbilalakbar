@@ -8001,11 +8001,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Your%20friends%20will%20know%20you%20better%20in%20the%20first%20minute%20you%20meet%20than%20your%20acquaintances%20will%20know%20you%20in%20a%20thousand%20years.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=The%20danger%20of%20an%20adventure%20is%20worth%20a%20thousand%20days%20of%20ease%20and%20comfort.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
