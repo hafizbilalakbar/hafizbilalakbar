@@ -8047,11 +8047,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Shahir%20Zag&quote=A%20tiger%20doesn't%20lose%20sleep%20over%20the%20opinion%20of%20sheep.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Follow%20your%20heart%2C%20listen%20to%20your%20inner%20voice%2C%20stop%20caring%20about%20what%20others%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
