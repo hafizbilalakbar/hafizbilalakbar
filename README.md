@@ -8099,11 +8099,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=I%20have%20not%20failed.%20I've%20just%20found%2010%2C000%20ways%20that%20won't%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=You%20don't%20need%20anybody%20to%20tell%20you%20who%20you%20are%20or%20what%20you%20are.%20You%20are%20what%20you%20are!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
