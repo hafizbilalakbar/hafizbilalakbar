@@ -8151,11 +8151,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=The%20difference%20between%20treason%20and%20patriotism%20is%20only%20a%20matter%20of%20dates.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Kerouac&quote=The%20best%20teacher%20is%20experience%20and%20not%20through%20someone's%20distorted%20point%20of%20view.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
