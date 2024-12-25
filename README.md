@@ -8217,11 +8217,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=It's%20always%20to%20soon%20to%20quit!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=People%20with%20clear%2C%20written%20goals%2C%20accomplish%20far%20more%20in%20a%20shorter%20period%20of%20time%20than%20people%20without%20them%20could%20ever%20imagine.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
