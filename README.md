@@ -8193,11 +8193,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Life%20is%20about%20choice.%20You%20can%20choose%20to%20be%20a%20victim%20or%20anything%20else%20you%20like%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=A%20flower%20falls%2C%20even%20though%20we%20love%20it%3B%20and%20a%20weed%20grows%2C%20even%20though%20we%20do%20not%20love%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
