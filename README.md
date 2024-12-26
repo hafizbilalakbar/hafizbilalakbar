@@ -8362,11 +8362,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=If%20you%20do%20not%20change%20direction%2C%20you%20may%20end%20up%20where%20you%20are%20heading.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=Our%20virtues%20and%20our%20failings%20are%20inseparable%2C%20like%20force%20and%20matter.%20When%20they%20separate%2C%20man%20is%20no%20more.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
