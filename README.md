@@ -8349,11 +8349,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Anger%2C%20ego%2C%20jealousy%20are%20the%20biggest%20diseases%2CKeep%20yourself%20aloof%20from%20these%20three%20diseases.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=There%20is%20an%20essence%20of%20when%20you%20are%20fearless%2C%20you%20become%20more%20creative.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
