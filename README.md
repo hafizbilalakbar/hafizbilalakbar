@@ -8366,11 +8366,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Shunryu%20Suzuki&quote=Life%20is%20like%20stepping%20onto%20a%20boat%20which%20is%20about%20to%20sail%20out%20to%20sea%20and%20sink.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Until%20we%20can%20manage%20time%2C%20we%20can%20manage%20nothing%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
