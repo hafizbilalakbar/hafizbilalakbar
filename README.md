@@ -8516,11 +8516,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=Mistakes%20are%20always%20forgivable%2C%20if%20one%20has%20the%20courage%20to%20admit%20them.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=A%20creative%20man%20is%20motivated%20by%20the%20desire%20to%20achieve%2C%20not%20by%20the%20desire%20to%20beat%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
