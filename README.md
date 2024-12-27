@@ -8489,11 +8489,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=Why%20change%3F%20Everyone%20has%20his%20own%20style.%20When%20you%20have%20found%20it%2C%20you%20should%20stick%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristophanes&quote=Wise%20people%2C%20even%20though%20all%20laws%20were%20abolished%2C%20would%20still%20lead%20the%20same%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
