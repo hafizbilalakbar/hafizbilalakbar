@@ -8447,11 +8447,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=Great%20deeds%20are%20usually%20wrought%20at%20great%20risks.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=Reality%20is%20the%20leading%20cause%20of%20stress%20among%20those%20in%20touch%20with%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
