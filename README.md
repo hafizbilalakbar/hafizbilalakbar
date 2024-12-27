@@ -8457,11 +8457,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=The%20purpose%20of%20life%20is%20to%20contribute%20in%20some%20way%20to%20making%20things%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=Whatever%20you%20decide%20to%20do%2C%20make%20sure%20it%20makes%20you%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
