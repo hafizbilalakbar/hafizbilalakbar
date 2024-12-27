@@ -8488,11 +8488,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20D.%20Rockefeller&quote=I%20can%20think%20of%20nothing%20less%20pleasurable%20than%20a%20life%20devoted%20to%20pleasure.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=Why%20change%3F%20Everyone%20has%20his%20own%20style.%20When%20you%20have%20found%20it%2C%20you%20should%20stick%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
