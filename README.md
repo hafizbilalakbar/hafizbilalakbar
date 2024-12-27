@@ -8438,11 +8438,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Death%20and%20life%20have%20their%20determined%20appointments%3B%20riches%20and%20honors%20depend%20upon%20heaven.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Don't%20seek%2C%20don't%20avoid%2C%20don't%20expect.%20Take%20what%20comes%20and%20be%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
