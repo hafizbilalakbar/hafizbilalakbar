@@ -8475,11 +8475,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20Brave%20and%20Take%20Risks%3A%20You%20need%20to%20have%20faith%20in%20yourself.%20Be%20brave%20and%20take%20risks.%20You%20don't%20have%20to%20have%20it%20all%20figured%20out%20to%20move%20forward.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=Never%20say%20never%2C%20because%20limits%2C%20like%20fears%2C%20are%20often%20just%20an%20illusion.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
