@@ -8421,11 +8421,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=To%20improve%20is%20to%20change%2C%20so%20to%20be%20perfect%20is%20to%20change%20often.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Words%20without%20actions%20are%20the%20assassins%20of%20idealism.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
