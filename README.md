@@ -8575,11 +8575,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Listening%20well%20is%20as%20powerful%20as%20talking%20well%2C%20and%20is%20also%20as%20essential%20to%20true%20conversation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=To%20create%20more%20positive%20results%20in%20your%20life%2C%20replace%20'if%20only'%20with%20'next%20time'.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
