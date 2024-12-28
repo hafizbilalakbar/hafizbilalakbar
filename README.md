@@ -8627,11 +8627,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mae%20West&quote=An%20ounce%20of%20performance%20is%20worth%20pounds%20of%20promises.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=People%20who%20have%20goals%20succeed%20because%20they%20know%20where%20they're%20going.%20It's%20that%20simple.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
