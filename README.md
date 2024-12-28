@@ -8574,11 +8574,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Today%20will%20never%20happen%20again.%20Don't%20waste%20it%20with%20a%20false%20start%20or%20no%20start%20at%20all.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Listening%20well%20is%20as%20powerful%20as%20talking%20well%2C%20and%20is%20also%20as%20essential%20to%20true%20conversation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
