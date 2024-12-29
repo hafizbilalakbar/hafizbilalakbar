@@ -8689,11 +8689,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Life%20is%20what%20you%20make%20it.%20Always%20has%20been%2C%20always%20will%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Help%20others%20for%20all%20the%20times%20that%20you%20have%20been%20ignored.%20Be%20kind%20to%20others%2C%20for%20all%20the%20times%20that%20you%20have%20been%20scorned.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
