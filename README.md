@@ -8720,11 +8720,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=The%20major%20difference%20between%20the%20big%20shot%20and%20the%20little%20shot%20is%20the%20big%20shot%20is%20just%20a%20little%20shot%20who%20kept%20on%20shooting.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Shoot%20for%20the%20moon%2C%20because%20even%20if%20you%20miss%2C%20you'll%20land%20among%20the%20stars.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
