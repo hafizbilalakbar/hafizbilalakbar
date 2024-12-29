@@ -8684,11 +8684,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franklin%20D.%20Roosevelt&quote=The%20only%20thing%20we%20have%20to%20fear%20is%20fear%20itself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=The%20traveler%20sees%20what%20he%20sees.%20The%20tourist%20sees%20what%20he%20has%20come%20to%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
