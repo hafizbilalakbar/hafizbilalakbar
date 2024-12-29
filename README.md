@@ -8652,11 +8652,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=The%20most%20important%20thing%20in%20life%20is%20to%20stop%20saying%20'I%20wish'%20and%20start%20saying%20'I%20will'.%20Consider%20nothing%20impossible%2C%20then%20treat%20possibilities%20as%20probabilities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=The%20older%20you%20get%20the%20stronger%20the%20wind%20gets%20-%20and%20it's%20always%20in%20your%20face.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
