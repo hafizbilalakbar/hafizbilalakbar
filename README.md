@@ -8745,11 +8745,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=He%20who%20is%20not%20contented%20with%20what%20he%20has%2C%20would%20not%20be%20contented%20with%20what%20he%20would%20like%20to%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=The%20river%20that%20flows%20in%20you%20also%20flows%20in%20me.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
