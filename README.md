@@ -8762,11 +8762,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charlie%20Chaplin&quote=Simplicity%20is%20a%20difficult%20thing%20to%20achieve.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=The%20search%20for%20happiness%20is%20one%20of%20the%20chief%20sources%20of%20unhappiness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
