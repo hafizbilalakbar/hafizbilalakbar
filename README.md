@@ -8660,11 +8660,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Only%20when%20I%20fall%20do%20I%20get%20up%20again.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=I%20discovered%20a%20long%20time%20ago%20that%20if%20I%20helped%20enough%20people%20get%20what%20they%20wanted%2C%20I%20would%20always%20get%20what%20I%20wanted%20and%20I%20would%20never%20have%20to%20worry.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
