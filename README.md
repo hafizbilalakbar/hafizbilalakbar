@@ -8856,11 +8856,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=The%20truth%20is%20not%20for%20all%20men%2C%20but%20for%20those%20who%20seek%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Don't%20be%20pushed%20around%20by%20the%20fears%20in%20your%20mind.%20Be%20led%20by%20the%20dreams%20in%20your%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
