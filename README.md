@@ -8857,11 +8857,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Don't%20be%20pushed%20around%20by%20the%20fears%20in%20your%20mind.%20Be%20led%20by%20the%20dreams%20in%20your%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=You%20purchase%20pain%20with%20all%20that%20joy%20can%20give%20and%20die%20of%20nothing%20but%20a%20rage%20to%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
