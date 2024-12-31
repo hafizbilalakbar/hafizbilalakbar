@@ -8925,11 +8925,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=Write%20to%20help%20yourself%2C%20publish%20to%20help%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=It%20is%20in%20the%20darkness%20that%20one%20finds%20the%20light.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
