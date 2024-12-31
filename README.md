@@ -8950,11 +8950,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20law%20of%20harvest%20is%20to%20reap%20more%20than%20you%20sow.%20Sow%20an%20act%2C%20and%20you%20reap%20a%20habit.%20Sow%20a%20habit%20and%20you%20reap%20a%20character.%20Sow%20a%20character%20and%20you%20reap%20a%20destiny.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=Inspire%20yourself%20to%20be%20great.%20Being%20good%20isn't%20good%20enough.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
