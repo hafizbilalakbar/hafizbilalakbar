@@ -8914,11 +8914,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=A%20comfort%20zone%20is%20a%20beautiful%20place%2C%20but%20nothing%20ever%20grows%20there.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=If%20you're%20walking%20down%20the%20right%20path%20and%20you're%20willing%20to%20keep%20walking%2C%20eventually%20you'll%20make%20progress.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
