@@ -8906,11 +8906,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=Remember%20to%20look%20up%20at%20the%20stars%20and%20not%20down%20at%20your%20feet.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=Every%20man's%20work%2C%20whether%20it%20be%20literature%20or%20music%20or%20pictures%20or%20architecture%20or%20anything%20else%2C%20is%20always%20a%20portrait%20of%20himself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
