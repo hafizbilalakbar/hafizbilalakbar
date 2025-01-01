@@ -9011,11 +9011,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=You%20may%20be%20one%20person%20in%20this%20world%2C%20but%20to%20one%20person%20you%20may%20mean%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=You%20must%20either%20modify%20your%20dreams%20or%20magnify%20your%20skills.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
