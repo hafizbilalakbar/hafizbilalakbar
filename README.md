@@ -9039,11 +9039,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Don't%20waste%20your%20time%20in%20anger%2C%20regrets%2C%20worries%2C%20and%20grudges.%20Life%20is%20too%20short%20to%20be%20unhappy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Confidence%20is%20not%20a%20guarantee%20of%20success%2C%20but%20a%20pattern%20of%20thinking%20that%20will%20improve%20your%20likelihood%20of%20success%2C%20a%20tenacious%20search%20for%20ways%20to%20make%20things%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
