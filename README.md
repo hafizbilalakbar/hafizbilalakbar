@@ -9093,11 +9093,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=If%20you%20can't%20feed%20a%20hundred%20people%2C%20then%20feed%20just%20one.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=There%20is%20no%20medicine%20like%20hope%2C%20no%20incentive%20so%20great%2C%20and%20no%20tonic%20so%20powerful%20as%20expectation%20of%20something%20tomorrow.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
