@@ -9099,11 +9099,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Before%20enlightenment%3B%20chop%20wood%2C%20carry%20water.%20After%20enlightenment%3B%20chop%20wood%2C%20carry%20water.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Frank&quote=Laziness%20may%20appear%20attractive%2C%20but%20work%20gives%20satisfaction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
