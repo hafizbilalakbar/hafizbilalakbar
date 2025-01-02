@@ -9136,11 +9136,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=Don't%20be%20afraid%20of%20missing%20opportunities.%20Behind%20every%20failure%20is%20an%20opportunity%20somebody%20wishes%20they%20had%20missed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Surround%20yourself%20only%20with%20people%20who%20are%20going%20to%20take%20you%20higher.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
