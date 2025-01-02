@@ -9162,11 +9162,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=People%20don't%20realize%20that%20now%20is%20all%20there%20ever%20is%3B%20there%20is%20no%20past%20or%20future%20except%20as%20memory%20or%20anticipation%20in%20your%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Will%20Rogers&quote=Even%20though%20you%20are%20on%20the%20right%20track%20-%20you%20will%20get%20run%20over%20if%20you%20just%20sit%20there.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
