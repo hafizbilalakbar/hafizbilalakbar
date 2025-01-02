@@ -9184,11 +9184,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kenji%20Miyazawa&quote=She%20who%20loves%20roses%20must%20be%20patient%20and%20not%20cry%20out%20when%20she%20is%20pierced%20by%20thorns.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=You%20have%20brains%20in%20your%20head.%20You%20have%20feet%20in%20your%20shoes.%20You%20can%20steer%20yourself%20any%20direction%20you%20choose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
