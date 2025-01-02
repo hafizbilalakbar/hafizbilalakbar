@@ -9203,11 +9203,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Osho&quote=The%20less%20people%20know%2C%20the%20more%20stubbornly%20they%20know%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Success%20and%20failure%20come%20and%20go%2C%20but%20don't%20let%20them%20define%20you.%20It's%20who%20you%20are%20that%20matters.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
