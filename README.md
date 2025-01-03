@@ -9325,11 +9325,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Family%20not%20only%20needs%20to%20consist%20of%20merely%20those%20whom%20we%20share%20blood%2C%20but%20also%20of%20those%20whom%20we'd%20give%20blood.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Don't%20be%20pushed%20around%20by%20the%20fears%20in%20your%20mind.%20Be%20led%20by%20the%20dreams%20in%20your%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
