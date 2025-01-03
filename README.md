@@ -9226,11 +9226,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Coco%20Chanel&quote=Don't%20spend%20time%20beating%20on%20a%20wall%2C%20hoping%20to%20transform%20it%20into%20a%20door.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=The%20only%20real%20security%20that%20a%20man%20can%20have%20in%20this%20world%20is%20a%20reserve%20of%20knowledge%2C%20experience%20and%20ability.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
