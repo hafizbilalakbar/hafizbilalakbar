@@ -9393,11 +9393,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=Faith%20is%20taking%20the%20first%20step%20even%20when%20you%20don't%20see%20the%20whole%20staircase.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Each%20of%20us%20is%20a%20unique%20strand%20in%20the%20intricate%20web%20of%20life%20and%20here%20to%20make%20a%20contribution.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
