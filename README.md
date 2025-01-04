@@ -9450,11 +9450,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=The%20more%20often%20a%20stupidity%20is%20repeated%2C%20the%20more%20it%20gets%20the%20appearance%20of%20wisdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=A%20poet%20should%20be%20so%20crafty%20with%20words%20that%20he%20is%20envied%20even%20for%20his%20pains.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
