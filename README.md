@@ -9481,11 +9481,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=I%20find%20the%20best%20way%20to%20love%20someone%20is%20not%20to%20change%20them%2C%20but%20instead%2C%20help%20them%20reveal%20the%20greatest%20version%20of%20themselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=It's%20not%20what%20you%20say%20out%20of%20your%20mouth%20that%20determines%20your%20life%2C%20it's%20what%20you%20whisper%20to%20yourself%20that%20has%20the%20most%20power!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
