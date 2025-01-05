@@ -9567,11 +9567,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=Success%20is%20stumbling%20from%20failure%20to%20failure%20with%20no%20loss%20of%20enthusiasm.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=A%20real%20decision%20is%20measured%20by%20the%20fact%20that%20you've%20taken%20a%20new%20action.%20If%20there's%20no%20action%2C%20you%20haven't%20truly%20decided.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
