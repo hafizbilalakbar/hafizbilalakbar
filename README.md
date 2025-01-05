@@ -9525,11 +9525,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Wit%20is%20educated%20insolence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=I%20am%20not%20absentminded.%20It%20is%20the%20presence%20of%20mind%20that%20makes%20me%20unaware%20of%20everything%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
