@@ -9539,11 +9539,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Have%20a%20heart%20that%20never%20hardens%2C%20and%20a%20temper%20that%20never%20tires%2C%20and%20a%20touch%20that%20never%20hurts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=The%20less%20you%20respond%20to%20negative%20people%2C%20the%20more%20positive%20your%20life%20will%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
