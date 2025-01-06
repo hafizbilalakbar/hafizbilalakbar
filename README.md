@@ -9594,11 +9594,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.P.%20Kinsella&quote=Any%20game%20becomes%20important%20when%20you%20know%20and%20love%20the%20players.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=To%20a%20mind%20that%20is%20still%2C%20the%20entire%20universe%20surrenders.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
