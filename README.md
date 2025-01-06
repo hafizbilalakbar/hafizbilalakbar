@@ -9615,11 +9615,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=A%20real%20decision%20is%20measured%20by%20the%20fact%20that%20you've%20taken%20a%20new%20action.%20If%20there's%20no%20action%2C%20you%20haven't%20truly%20decided.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Winners%20are%20not%20afraid%20of%20losing.%20But%20losers%20are.%20Failure%20is%20part%20of%20the%20process%20of%20success.%20People%20who%20avoid%20failure%20also%20avoid%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
