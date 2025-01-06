@@ -9638,11 +9638,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=Follow%20the%20man%20who%20seeks%20the%20truth%3B%20run%20from%20the%20man%20who%20has%20found%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Bard&quote=Though%20no%20one%20can%20go%20back%20and%20make%20a%20brand%20new%20start%2C%20anyone%20can%20start%20from%20now%20and%20make%20a%20brand%20new%20ending.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
