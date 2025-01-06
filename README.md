@@ -9623,11 +9623,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=The%20meaning%20of%20life%20is%20just%20to%20be%20alive.%20It%20is%20so%20plain%20and%20so%20obvious%20and%20so%20simple.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Every%20day%20is%20an%20opportunity%20to%20a%20make%20a%20new%20happy%20ending.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
