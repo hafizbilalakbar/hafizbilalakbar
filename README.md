@@ -9737,11 +9737,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Washington&quote=Human%20happiness%20and%20moral%20duty%20are%20inseparably%20connected.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carol%20Burnett&quote=Only%20I%20can%20change%20my%20life.%20No%20one%20can%20do%20it%20for%20me.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
