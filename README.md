@@ -9734,11 +9734,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Your%20mind%20will%20make%20you%20rich%20or%20poor%2C%20depending%20on%20the%20use%20you%20put%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=Contemplation%20often%20makes%20life%20miserable.%20%20We%20should%20act%20more%2C%20think%20less%2C%20and%20stop%20watching%20ourselves%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
