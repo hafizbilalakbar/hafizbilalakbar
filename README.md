@@ -9791,11 +9791,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=It's%20not%20the%20size%20of%20the%20dog%20in%20the%20fight%2C%20it's%20the%20size%20of%20the%20fight%20in%20the%20dog.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=The%20divine%20is%20not%20something%20high%20above%20us.%20It%20is%20in%20heaven%2C%20it%20is%20in%20earth%2C%20it%20is%20inside%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
