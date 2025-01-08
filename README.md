@@ -9840,11 +9840,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=There%20is%20no%20right%20or%20wrong%2C%20only%20a%20series%20of%20possibilities%20that%20shift%20with%20each%20thought%2C%20feeling%2C%20and%20action%20that%20you%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=The%20present%20moment%20dies%20every%20moment%20to%20become%20the%20past%20%2C%20is%20reborn%20every%20moment%20into%20the%20future.%20All%20experience%20is%20now.%20Now%20never%20ends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
