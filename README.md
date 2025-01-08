@@ -9790,11 +9790,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=Work%20joyfully%20and%20peacefully%2C%20knowing%20that%20right%20thoughts%20and%20right%20efforts%20inevitably%20bring%20about%20right%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=It's%20not%20the%20size%20of%20the%20dog%20in%20the%20fight%2C%20it's%20the%20size%20of%20the%20fight%20in%20the%20dog.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
