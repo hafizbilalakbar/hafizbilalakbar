@@ -9890,11 +9890,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=All%20human%20beings%20can%20alter%20their%20lives%20by%20altering%20their%20attitudes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=No%20matter%20how%20much%20preparation%20we%20do%2C%20in%20the%20real%20tests%20of%20our%20lives%2C%20we'll%20be%20in%20unfamiliar%20terrain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
