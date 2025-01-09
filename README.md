@@ -9960,11 +9960,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Cameron&quote=Curiosity%20is%20the%20most%20powerful%20thing%20you%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=To%20injure%20an%20opponent%20is%20to%20injure%20yourself.%20To%20control%20aggression%20without%20inflicting%20injury%20is%20the%20Art%20of%20Peace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
