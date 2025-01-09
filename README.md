@@ -9988,11 +9988,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=As%20you%20grow%20older%20you%20will%20discover%20that%20you%20have%20two%20hands.%20One%20for%20helping%20yourself%2C%20the%20other%20for%20helping%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lin%20Yutang&quote=The%20wisdom%20of%20life%20consists%20in%20the%20elimination%20of%20the%20nonessentials.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
