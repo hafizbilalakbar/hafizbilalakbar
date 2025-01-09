@@ -9886,11 +9886,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=There%20are%20no%20accidents...%20there%20is%20only%20some%20purpose%20that%20we%20haven't%20yet%20understood.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=If%20what%20you're%20doing%20is%20not%20your%20passion%2C%20you%20have%20nothing%20to%20lose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
