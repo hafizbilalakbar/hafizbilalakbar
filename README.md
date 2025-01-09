@@ -9939,11 +9939,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sonia%20Ricotti&quote=We%20can%20choose%20to%20look%20at%20whatever%20we%20want.%20%20We%20can%20look%20at%20what's%20wrong%20in%20our%20life%20or%20we%20can%20look%20at%20what's%20right.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=Mistakes%20are%20painful%20when%20they%20happen%2C%20but%20years%20later%20a%20collection%20of%20mistakes%20is%20what%20is%20called%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
