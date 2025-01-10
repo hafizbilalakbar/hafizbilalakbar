@@ -10089,11 +10089,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=The%20mind%20can%20calculate%2C%20but%20the%20spirit%20yearns%2C%20and%20the%20heart%20wants%20what%20the%20heart%20wants.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Anger%20is%20an%20acid%20that%20can%20do%20more%20harm%20to%20the%20vessel%20in%20which%20it%20is%20stored%20than%20to%20anything%20on%20which%20it%20is%20poured.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
