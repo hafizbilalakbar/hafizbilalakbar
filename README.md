@@ -10013,11 +10013,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=Character%20is%20the%20result%20of%20two%20things%3A%20mental%20attitude%20and%20the%20way%20we%20spend%20our%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Fear%20is%20what%20stops%20you.%20Courage%20is%20what%20keeps%20you%20going.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
