@@ -10016,11 +10016,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=What%20you%20do%20today%20can%20improve%20all%20your%20tomorrows.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Osho&quote=A%20fear-oriented%20man%20is%20always%20calculating%2C%20planning%2C%20arranging%2C%20safeguarding.%20His%20whole%20life%20is%20lost%20in%20this%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
