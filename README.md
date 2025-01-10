@@ -10087,11 +10087,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Life%20is%20growth.%20If%20we%20stop%20growing%2C%20technically%20and%20spiritually%2C%20we%20are%20as%20good%20as%20dead.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Things%20cannot%20forever%20go%20downward.%20There%20are%20limits%20to%20everything%E2%80%94even%20the%20cold%2C%20and%20the%20darkness%2C%20and%20the%20wind%2C%20and%20the%20dying.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
