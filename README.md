@@ -10080,11 +10080,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=He%20who%20can%20no%20longer%20pause%20to%20wonder%20and%20stand%20rapt%20in%20awe%2C%20is%20as%20good%20as%20dead%3B%20his%20eyes%20are%20closed.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=If%20you%20only%20knew%20the%20magnificence%20of%20the%203%2C%206%2C%20and%209%2C%20then%20you%20would%20have%20a%20key%20to%20the%20universe.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
