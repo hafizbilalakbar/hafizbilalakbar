@@ -10084,11 +10084,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=Projecting%20your%20mind%20into%20a%20successful%20situation%20is%20the%20most%20powerful%20means%20to%20achieve%20goals.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=Success%20is%20like%20reaching%20an%20important%20birthday%20and%20finding%20you're%20exactly%20the%20same.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
