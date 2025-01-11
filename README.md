@@ -10156,11 +10156,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=By%20the%20practice%20of%20meditation%2C%20you%20will%20find%20that%20you%20are%20carrying%20within%20your%20heart%20a%20portable%20paradise.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=Give%20me%20six%20hours%20to%20chop%20down%20a%20tree%20and%20I%20will%20spend%20the%20first%20four%20sharpening%20the%20axe.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
