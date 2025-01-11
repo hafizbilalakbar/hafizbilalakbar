@@ -10194,11 +10194,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Even%20if%20you're%20sure%20you%20can%20win%2C%20be%20careful%20that%20you%20can%20live%20with%20what%20you%20lose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=You%20are%20today%20where%20your%20thoughts%20have%20brought%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
