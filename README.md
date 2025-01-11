@@ -10141,11 +10141,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=A%20man%20sees%20in%20the%20world%20what%20he%20carries%20in%20his%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Remember%20that%20sometimes%20not%20getting%20what%20you%20want%20is%20a%20wonderful%20stroke%20of%20luck.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
