@@ -10252,11 +10252,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=If%20you%20do%20not%20get%20the%20chills%20when%20you%20set%20your%20goal%20you're%20not%20setting%20big%20enough%20goals.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=The%20more%20you%20praise%20and%20celebrate%20your%20life%2C%20the%20more%20there%20is%20in%20life%20to%20celebrate.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
