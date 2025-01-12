@@ -10319,11 +10319,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.%20Clement%20Stone&quote=Be%20careful%20the%20environment%20you%20choose%20for%20it%20will%20shape%20you%3B%20be%20careful%20the%20friends%20you%20choose%20for%20you%20will%20become%20like%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=If%20you%20want%20to%20see%20things%20just%20as%20they%20are%2C%20then%20you%20yourself%20must%20practice%20just%20as%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
