@@ -10288,11 +10288,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=It%20is%20not%20that%20we%20have%20too%20little%20time%20to%20do%20all%20the%20things%20we%20need%20to%20do%20%2C%20it%20is%20that%20we%20feel%20the%20need%20to%20do%20too%20many%20things%20in%20the%20time%20we%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=If%20you%20try%20to%20get%20rid%20of%20fear%20and%20anger%20without%20knowing%20their%20meaning%2C%20they%20will%20grow%20stronger%20and%20return.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
