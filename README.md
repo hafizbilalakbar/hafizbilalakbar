@@ -10232,11 +10232,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=People%20don't%20realize%20that%20now%20is%20all%20there%20ever%20is%3B%20there%20is%20no%20past%20or%20future%20except%20as%20memory%20or%20anticipation%20in%20your%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=If%20we%20did%20all%20the%20things%20we%20are%20capable%20of%2C%20we%20would%20literally%20astound%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
