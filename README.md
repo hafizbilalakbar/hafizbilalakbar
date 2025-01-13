@@ -10424,11 +10424,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=In%20a%20world%20that%20is%20constantly%20changing%2C%20it%20is%20to%20our%20advantage%20to%20learn%20how%20to%20adapt%20and%20enjoy%20something%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Lack%20of%20direction%2C%20not%20lack%20of%20time%2C%20is%20the%20problem.%20We%20all%20have%20twenty-four%20hour%20days.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
