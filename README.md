@@ -10422,11 +10422,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=The%20mind%20that%20turns%20ever%20outward%20Will%20have%20no%20end%20to%20craving.%20Only%20the%20mind%20turned%20inward%20Will%20find%20a%20still-point%20of%20peace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=If%20you%20want%20to%20turn%20a%20vision%20into%20reality%2C%20you%20have%20to%20give%20100%25%20and%20never%20stop%20believing%20in%20your%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
