@@ -10371,11 +10371,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Work%20as%20though%20you%20would%20live%20forever%2C%20and%20live%20as%20though%20you%20would%20die%20today.%20Go%20another%20mile.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20thankful%20for%20everything%20that%20happens%20in%20your%20life%3B%20it's%20all%20an%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
