@@ -10432,11 +10432,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=If%20the%20grass%20is%20greener%20on%20the%20other%20side%2C%20maybe%20that's%20because%20you're%20not%20taking%20good%20care%20of%20your%20grass.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Getting%20lost%20along%20your%20path%20is%20a%20part%20of%20finding%20the%20path%20you%20are%20meant%20to%20be%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
