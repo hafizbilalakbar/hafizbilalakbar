@@ -10426,11 +10426,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=Because%20a%20thing%20seems%20difficult%20for%20you%2C%20do%20not%20think%20it%20impossible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=The%20longer%20we%20dwell%20on%20our%20misfortunes%2C%20the%20greater%20is%20their%20power%20to%20harm%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
