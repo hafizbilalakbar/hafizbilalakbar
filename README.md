@@ -10352,11 +10352,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20McCandless&quote=When%20you%20want%20something%20in%20life%2C%20you%20just%20gotta%20reach%20out%20and%20grab%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Our%20greatest%20glory%20is%20not%20in%20never%20falling%2C%20but%20in%20rising%20every%20time%20we%20fall.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
