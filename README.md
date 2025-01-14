@@ -10505,11 +10505,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mae%20West&quote=It%20is%20better%20to%20be%20looked%20over%20than%20overlooked.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=It%20is%20safer%20to%20search%20in%20the%20maze%20than%20to%20remain%20in%20a%20cheeseless%20situation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
