@@ -10491,11 +10491,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Life%20can%20be%20the%20scariest%20and%20most%20beautiful%20thing%20simultaneously.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Learn%20from%20the%20mistakes%20of%20others.%20You%20can't%20live%20long%20enough%20to%20make%20them%20all%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
