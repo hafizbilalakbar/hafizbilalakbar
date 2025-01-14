@@ -10459,11 +10459,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=Words%20are%20like%20Leaves%3B%20and%20where%20they%20most%20abound%2C%20Much%20Fruit%20of%20Sense%20beneath%20is%20rarely%20found.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=Life%20is%20a%20journey%2C%20not%20a%20destination.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
