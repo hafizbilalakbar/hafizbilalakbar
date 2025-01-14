@@ -10545,11 +10545,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Take%20care%20of%20your%20body.%20It's%20the%20only%20place%20you%20have%20to%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franklin%20D.%20Roosevelt&quote=People%20acting%20together%20as%20a%20group%20can%20accomplish%20things%20which%20no%20individual%20acting%20alone%20could%20ever%20hope%20to%20bring%20about.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
