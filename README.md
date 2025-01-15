@@ -10637,11 +10637,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=To%20belittle%2C%20you%20have%20to%20be%20little.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=The%20positive%20thinker%20sees%20the%20invisible%2C%20feels%20the%20intangible%2C%20and%20achieves%20the%20impossible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
