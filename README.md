@@ -10604,11 +10604,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Better%20the%20cottage%20where%20one%20is%20merry%20than%20the%20palace%20where%20one%20weeps.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=There%20is%20no%20right%20or%20wrong%2C%20only%20a%20series%20of%20possibilities%20that%20shift%20with%20each%20thought%2C%20feeling%2C%20and%20action%20that%20you%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
