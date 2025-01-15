@@ -10582,11 +10582,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=Winners%20never%20quit%20and%20quitters%20never%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=What's%20obvious%20to%20you%20isn't%20obvious%20to%20most%20people.%20Operate%20from%20this%20perspective%20and%20you'll%20help%20more%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
