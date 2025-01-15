@@ -10632,11 +10632,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=Knowing%20your%20own%20darkness%20is%20the%20best%20method%20for%20dealing%20with%20the%20darknesses%20of%20other%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=To%20raise%20your%20consciousness%2C%20surround%20yourself%20with%20people%20of%20higher%20consciousness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
