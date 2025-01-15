@@ -10614,11 +10614,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=Wrong%20does%20not%20cease%20to%20be%20wrong%20because%20the%20majority%20share%20in%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Leaders%20spend%205%25%20of%20their%20time%20on%20the%20problem%20%26%2095%25%20of%20their%20time%20on%20the%20solution.%20Get%20over%20it%20%26%20crush%20it!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
