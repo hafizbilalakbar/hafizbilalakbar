@@ -10570,11 +10570,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=It%20isn't%20that%20they%20can't%20see%20the%20solution.%20It%20is%20that%20they%20can't%20see%20the%20problem.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Reeve&quote=A%20Hero%20is%20an%20ordinary%20individual%20who%20finds%20the%20strength%20to%20persevere%20and%20endure%20in%20spite%20of%20overwhelming%20obstacles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
