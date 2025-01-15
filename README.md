@@ -10563,11 +10563,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=It%20is%20the%20greatest%20of%20all%20mistakes%20to%20do%20nothing%20because%20you%20can%20only%20do%20little%3B%20do%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=A%20man%20sooner%20or%20later%20discovers%20that%20he%20is%20the%20master-gardener%20of%20his%20soul%2C%20the%20director%20of%20his%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
