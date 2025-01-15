@@ -10666,11 +10666,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=It's%20easy%20to%20wish%20for%20health%20when%20you're%20sick.%20%20When%20you're%20doing%20well%2C%20you%20need%20just%20as%20much%20vigilance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=It%20is%20startling%20to%20realize%20how%20much%20unbelief%20is%20necessary%20to%20make%20belief%20possible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
