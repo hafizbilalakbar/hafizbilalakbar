@@ -10707,11 +10707,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Honore%20de%20Balzac&quote=There%20is%20no%20such%20thing%20as%20a%20great%20talent%20without%20great%20willpower.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=You%20have%20within%20you%20right%20now%2C%20everything%20you%20need%20to%20deal%20with%20whatever%20the%20world%20can%20throw%20at%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
