@@ -10683,11 +10683,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Honore%20de%20Balzac&quote=Life%20is%20simply%20what%20our%20feelings%20do%20to%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=It%20is%20not%20enough%20to%20win%20a%20war%3B%20it%20is%20more%20important%20to%20organize%20the%20peace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
