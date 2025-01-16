@@ -10713,11 +10713,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=The%20best%20mind-altering%20drug%20is%20the%20truth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=The%20real%20art%20in%20learning%20takes%20place%20as%20we%20move%20beyond%20proficiency%2C%20when%20our%20work%20becomes%20an%20expression%20of%20our%20essence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
