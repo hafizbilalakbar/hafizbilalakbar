@@ -10896,11 +10896,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Whenever%20you%20do%20a%20thing%2C%20act%20as%20if%20all%20the%20world%20were%20watching.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=This%20is%20such%20a%20short%20and%20precious%20life%20that%20it's%20really%20important%20that%20you%20don't%20spend%20it%20being%20unhappy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
