@@ -10797,11 +10797,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Success%20on%20the%20outside%20means%20nothing%20unless%20you%20also%20have%20success%20within.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Freedom%20is%20the%20open%20window%20through%20which%20pours%20the%20sunlight%20of%20the%20human%20spirit%20and%20human%20dignity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
