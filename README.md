@@ -10830,11 +10830,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Coming%20together%20is%20a%20beginning%2C%20staying%20together%20is%20progress%2C%20and%20working%20together%20is%20success.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=A%20random%20act%20of%20kindness%2C%20no%20matter%20how%20small%2C%20can%20make%20a%20tremendous%20impact%20on%20someone%20else's%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
