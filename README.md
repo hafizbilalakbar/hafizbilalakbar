@@ -10854,11 +10854,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=If%20you%20want%20something%20new%2C%20you%20have%20to%20stop%20doing%20something%20old.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Isaac%20Newton&quote=To%20arrive%20at%20the%20simplest%20truth%20requires%20years%20of%20contemplation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
