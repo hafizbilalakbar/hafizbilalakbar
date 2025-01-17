@@ -10818,11 +10818,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=You%20will%20not%20do%20incredible%20things%20without%20an%20incredible%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=It%20is%20up%20to%20each%20of%20us%20to%20sing%20as%20we%20feel%20moved%20by%20the%20overall%20song%20of%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
