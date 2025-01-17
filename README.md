@@ -10803,11 +10803,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=The%20big%20secret%20in%20life%20is%20that%20there%20is%20no%20big%20secret.%20Whatever%20your%20goal%2C%20you%20can%20get%20there%20if%20you're%20willing%20to%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Don't%20be%20afraid%20to%20go%20slowly.%20Be%20afraid%20of%20stopping.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
