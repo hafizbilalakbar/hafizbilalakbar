@@ -10949,11 +10949,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=Freedom%20is%20the%20only%20worthy%20goal%20in%20life.%20It%20is%20won%20by%20disregarding%20things%20that%20lie%20beyond%20our%20control.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20key%20to%20success%20is%20to%20focus%20our%20conscious%20mind%20on%20things%20we%20desire%20not%20things%20we%20fear.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
