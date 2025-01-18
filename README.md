@@ -10947,11 +10947,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=You%20need%20to%20be%20doing%20fewer%20things%20for%20more%20effect%20instead%20of%20doing%20more%20things%20with%20side%20effects.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=All%20animals%20except%20man%20know%20that%20the%20principal%20business%20of%20life%20is%20to%20enjoy%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
