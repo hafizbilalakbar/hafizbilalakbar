@@ -11004,11 +11004,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yoko%20Ono&quote=You%20may%20think%20I'm%20small%2C%20but%20I%20have%20a%20universe%20inside%20my%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=An%20empty%20head%20is%20not%20really%20empty%3B%20it%20is%20stuffed%20with%20rubbish.%20Hence%20the%20difficulty%20of%20forcing%20anything%20into%20an%20empty%20head.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
