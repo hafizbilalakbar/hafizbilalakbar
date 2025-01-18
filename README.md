@@ -10971,11 +10971,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=One%20is%20never%20afraid%20of%20the%20unknown%3B%20one%20is%20afraid%20of%20the%20known%20coming%20to%20an%20end.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=No%20matter%20what%20happens%20in%20life%2C%20never%20lose%20sight%20of%20who%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
