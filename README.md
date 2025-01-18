@@ -10934,11 +10934,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=In%20matters%20of%20style%2C%20swim%20with%20the%20current%3B%20in%20matters%20of%20principle%2C%20stand%20like%20a%20rock.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Billie%20Jean%20King&quote=Champions%20keep%20playing%20until%20they%20get%20it%20right.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
