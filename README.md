@@ -11082,11 +11082,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=It's%20necessary%20to%20get%20the%20losers%20out%20of%20your%20life%20if%20you%20want%20to%20live%20your%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=It%20doesn't%20matter%20how%20much%20you%20want.%20What%20really%20matters%20is%20how%20much%20you%20want%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
