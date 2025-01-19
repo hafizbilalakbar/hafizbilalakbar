@@ -11035,11 +11035,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=I%20am%20always%20doing%20what%20I%20cannot%20do%20yet%2C%20in%20order%20to%20learn%20how%20to%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Instead%20of%20thinking%20outside%20the%20box%2C%20get%20rid%20of%20the%20box.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
