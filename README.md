@@ -11057,11 +11057,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gabor%20Mate&quote=We%20may%20not%20be%20responsible%20for%20the%20world%20that%20created%20our%20minds%2C%20but%20we%20can%20take%20responsibility%20for%20the%20mind%20with%20which%20we%20create%20our%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=Heal%20the%20past%2C%20live%20the%20present%2C%20dream%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
