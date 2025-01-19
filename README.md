@@ -11112,11 +11112,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=It%20is%20the%20greatest%20of%20all%20mistakes%20to%20do%20nothing%20because%20you%20can%20only%20do%20little%3B%20do%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Your%20friends%20will%20know%20you%20better%20in%20the%20first%20minute%20you%20meet%20than%20your%20acquaintances%20will%20know%20you%20in%20a%20thousand%20years.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
