@@ -11107,11 +11107,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=To%20be%20heroic%20is%20to%20be%20courageous%20enough%20to%20die%20for%20something%3B%20to%20be%20inspirational%20is%20to%20be%20crazy%20enough%20to%20live%20a%20little.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=The%20most%20virtuous%20are%20those%20who%20content%20themselves%20with%20being%20virtuous%20without%20seeking%20to%20appear%20so.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
