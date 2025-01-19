@@ -11122,11 +11122,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=Whatever%20is%20begun%20in%20anger%2C%20ends%20in%20shame.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Take%20time%20like%20the%20river%20that%20never%20grows%20stale.%20Keep%20going%20and%20steady.%20No%20hurry%2C%20no%20rush.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
