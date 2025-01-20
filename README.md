@@ -11201,11 +11201,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristophanes&quote=Wise%20people%2C%20even%20though%20all%20laws%20were%20abolished%2C%20would%20still%20lead%20the%20same%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=We%20will%20now%20discuss%20in%20a%20little%20more%20detail%20the%20Struggle%20for%20Existence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
