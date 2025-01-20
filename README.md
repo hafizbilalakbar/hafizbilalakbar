@@ -11265,11 +11265,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=No%20valid%20plans%20for%20the%20future%20can%20be%20made%20by%20those%20who%20have%20no%20capacity%20for%20living%20now.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=A%20clever%20person%20turns%20great%20troubles%20into%20little%20ones%2C%20and%20little%20ones%20into%20none%20at%20all.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
