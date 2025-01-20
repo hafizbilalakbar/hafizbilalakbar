@@ -11270,11 +11270,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=The%20man%20who%20asks%20a%20question%20is%20a%20fool%20for%20a%20minute%2C%20the%20man%20who%20does%20not%20ask%20is%20a%20fool%20for%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=My%20mind%20seems%20to%20have%20become%20a%20kind%20of%20machine%20for%20grinding%20general%20laws%20out%20of%20large%20collections%20of%20facts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
