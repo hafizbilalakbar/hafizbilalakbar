@@ -11232,11 +11232,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Betty%20White&quote=Don't%20take%20yourself%20too%20seriously%2C%20pretty%20soon%20you%20can%20find%20the%20humor%20in%20our%20everyday%20lives.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=Integrity%20is%20telling%20myself%20the%20truth.%20And%20honesty%20is%20telling%20the%20truth%20to%20other%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
