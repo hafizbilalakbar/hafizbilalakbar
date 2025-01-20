@@ -11268,11 +11268,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marilyn%20Monroe&quote=Keep%20smiling%2C%20because%20life%20is%20a%20beautiful%20thing%20and%20there's%20so%20much%20to%20smile%20about.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=To%20live%20is%20the%20rarest%20thing%20in%20the%20world.%20Most%20people%20exist%2C%20that%20is%20all.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
