@@ -11166,11 +11166,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=To%20be%20heroic%20is%20to%20be%20courageous%20enough%20to%20die%20for%20something%3B%20to%20be%20inspirational%20is%20to%20be%20crazy%20enough%20to%20live%20a%20little.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=Have%20a%20vision%2C%20trust%20yourself%2C%20break%20some%20rules%2C%20ignore%20the%20naysayers%2C%20don't%20be%20afraid%20to%20fail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
