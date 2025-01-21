@@ -11364,11 +11364,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maya%20Angelou&quote=If%20you%20don't%20like%20something%20change%20it.%20If%20you%20can't%20change%20it%2C%20change%20your%20attitude%20about%20it.%20Don't%20complain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=The%20foolish%20reject%20what%20they%20see%2C%20not%20what%20they%20think%3B%20the%20wise%20reject%20what%20they%20think%2C%20not%20what%20they%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
