@@ -11275,11 +11275,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=To%20live%20is%20the%20rarest%20thing%20in%20the%20world.%20Most%20people%20exist%2C%20that%20is%20all.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Learn%20from%20the%20mistakes%20of%20others.%20You%20can't%20live%20long%20enough%20to%20make%20them%20all%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
