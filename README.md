@@ -11365,11 +11365,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=The%20foolish%20reject%20what%20they%20see%2C%20not%20what%20they%20think%3B%20the%20wise%20reject%20what%20they%20think%2C%20not%20what%20they%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=He%20who%20cheats%20the%20earth%20will%20be%20cheated%20by%20the%20earth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
