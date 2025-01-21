@@ -11344,11 +11344,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Billie%20Jean%20King&quote=I%20think%20self-awareness%20is%20probably%20the%20most%20important%20thing%20towards%20being%20a%20champion.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20outer%20conditions%20of%20a%20person's%20life%20will%20always%20be%20found%20to%20reflect%20their%20inner%20beliefs.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
