@@ -11286,11 +11286,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=A%20dead%20thing%20can%20go%20with%20the%20stream%2C%20but%20only%20a%20living%20thing%20can%20go%20against%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Graham%20Bell&quote=Leave%20the%20beaten%20track%20behind%20occasionally%20and%20dive%20into%20the%20woods.%20Every%20time%20you%20do%20you%20will%20be%20certain%20to%20find%20something%20you%20have%20never%20seen%20before.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
