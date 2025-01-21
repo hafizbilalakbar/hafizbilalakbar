@@ -11285,11 +11285,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=The%20mind%20can%20calculate%2C%20but%20the%20spirit%20yearns%2C%20and%20the%20heart%20wants%20what%20the%20heart%20wants.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=A%20dead%20thing%20can%20go%20with%20the%20stream%2C%20but%20only%20a%20living%20thing%20can%20go%20against%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
