@@ -11418,11 +11418,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=It%20is%20passion%20that%20makes%20man%20live%3B%20wisdom%20makes%20one%20only%20last.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Remember%20where%20you%20came%20from%2C%20where%20you're%20going%2C%20and%20why%20you%20created%20this%20mess%20you%20got%20yourself%20into%20in%20the%20first%20place.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
