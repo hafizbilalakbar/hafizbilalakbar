@@ -11495,11 +11495,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=A%20person%20is%20only%20by%20the%20thoughts%20that%20he%20chooses.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Intelligence%2C%20imagination%2C%20and%20knowledge%20are%20essential%20resources%2C%20but%20only%20effectiveness%20converts%20them%20into%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
