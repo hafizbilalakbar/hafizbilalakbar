@@ -11442,11 +11442,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=It's%20not%20whether%20you%20get%20knocked%20down%2C%20its%20whether%20you%20get%20back%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Art%20is%20to%20console%20those%20who%20are%20broken%20by%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
