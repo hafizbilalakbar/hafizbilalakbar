@@ -11444,11 +11444,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=You%20must%20conceive%20it%20in%20your%20heart%20and%20mind%20before%20you%20can%20receive%20it.%20If%20you%20believe%20then%20all%20things%20are%20possible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Your%20dream%20has%20to%20be%20bigger%20than%20your%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
