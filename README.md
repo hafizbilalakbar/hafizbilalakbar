@@ -11388,11 +11388,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=To%20think%20is%20easy.%20To%20act%20is%20hard.%20But%20the%20hardest%20thing%20in%20the%20world%20is%20to%20act%20in%20accordance%20with%20your%20thinking.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Sometimes%20adversity%20is%20what%20you%20need%20to%20face%20in%20order%20to%20become%20successful.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
