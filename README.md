@@ -11477,11 +11477,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=How%20you%20think%20when%20you%20lose%20determines%20how%20long%20it%20will%20be%20until%20you%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sonia%20Ricotti&quote=When%20you%20say%20yes%20to%20change%2C%20you%20are%20choosing%20to%20navigate%20that%20path%20peacefully%20and%20happily%20and%20see%20where%20it%20takes%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
