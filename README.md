@@ -11605,11 +11605,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=Amateurs%20sit%20and%20wait%20for%20inspiration%2C%20the%20rest%20of%20us%20just%20get%20up%20and%20got%20to%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=All%20we%20have%20to%20decide%20is%20what%20to%20do%20with%20the%20time%20that%20is%20given%20to%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
