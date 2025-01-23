@@ -11527,11 +11527,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=We%20cannot%20change%20anything%20unless%20we%20accept%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=The%20unthankful%20heart%20discovers%20no%20mercies%3B%20but%20the%20thankful%20heart%20will%20find%2C%20in%20every%20hour%2C%20some%20heavenly%20blessings.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
