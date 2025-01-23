@@ -11534,11 +11534,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=We%20may%20not%20be%20able%20to%20stop%20evil%20in%20the%20world%2C%20but%20how%20we%20treat%20one%20another%20is%20entirely%20up%20to%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=Quiet%20people%20have%20the%20loudest%20minds.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
