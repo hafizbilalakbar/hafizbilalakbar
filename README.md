@@ -11726,11 +11726,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=The%20most%20efficient%20way%20of%20rendering%20the%20poor%20harmless%20is%20to%20teach%20them%20to%20want%20to%20imitate%20the%20rich.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=When%20you%20judge%20others%2C%20you%20do%20not%20define%20them%2C%20you%20define%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
