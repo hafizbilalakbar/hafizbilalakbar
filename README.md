@@ -11618,11 +11618,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=David%20Brinkley&quote=People%20have%20the%20illusion%20that%20all%20over%20the%20world%2C%20all%20the%20time%2C%20all%20kinds%20of%20fantastic%20things%20are%20happening.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kenneth%20Branagh&quote=Friendship%20is%20one%20of%20the%20most%20tangible%20things%20in%20a%20world%20which%20offers%20fewer%20and%20fewer%20supports.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
