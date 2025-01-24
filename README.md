@@ -11676,11 +11676,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=Never%20do%20things%20others%20can%20do%20and%20will%20do%20if%20there%20are%20things%20others%20cannot%20do%20or%20will%20not%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=C.%20Sean%20McGee&quote=If%20you%20are%20ever%20the%20smartest%20person%20in%20the%20room%2C%20you%20are%20in%20the%20wrong%20room.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
