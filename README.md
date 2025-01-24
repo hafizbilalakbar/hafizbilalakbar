@@ -11674,11 +11674,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Bard&quote=Though%20no%20one%20can%20go%20back%20and%20make%20a%20brand%20new%20start%2C%20anyone%20can%20start%20from%20now%20and%20make%20a%20brand%20new%20ending.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=A%20loving%20heart%20is%20the%20truest%20wisdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
