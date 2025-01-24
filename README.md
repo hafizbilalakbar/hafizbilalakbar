@@ -11614,11 +11614,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=Never%20let%20the%20things%20you%20can't%20do%20stop%20you%20from%20doing%20what%20you%20can.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=It%20is%20easy%20to%20love%20your%20friend%2C%20but%20sometimes%20the%20hardest%20lesson%20to%20learn%20is%20to%20love%20your%20enemy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
