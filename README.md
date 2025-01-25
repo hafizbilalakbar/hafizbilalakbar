@@ -11845,11 +11845,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Play%20your%20part%20in%20life%2C%20but%20never%20forget%20that%20it%20is%20only%20a%20role.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=The%20real%20art%20in%20learning%20takes%20place%20as%20we%20move%20beyond%20proficiency%2C%20when%20our%20work%20becomes%20an%20expression%20of%20our%20essence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
