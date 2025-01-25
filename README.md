@@ -11793,11 +11793,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Soyen%20Shaku&quote=Do%20not%20regret%20the%20past.%20Look%20to%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Beverly%20Sills&quote=Anger%20begins%20with%20folly%2C%20and%20ends%20with%20repentance.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
