@@ -11768,11 +11768,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Being%20a%20good%20example%20is%20the%20best%20form%20of%20service.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=If%20I%20can%20stop%20one%20heart%20from%20breaking%2C%20I%20shall%20not%20live%20in%20vain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
