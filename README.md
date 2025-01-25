@@ -11822,11 +11822,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=Those%20who%20seek%20the%20easy%20way%20do%20not%20seek%20the%20true%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Edgar%20Allan%20Poe&quote=All%20that%20we%20see%20or%20seem%20is%20but%20a%20dream%20within%20a%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
