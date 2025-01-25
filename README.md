@@ -11785,11 +11785,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Heraclitus&quote=Life%20has%20the%20name%20of%20life%2C%20but%20in%20reality%20it%20is%20death.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=People%20don't%20care%20how%20much%20you%20know%20until%20they%20know%20how%20much%20you%20care.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
