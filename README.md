@@ -11789,11 +11789,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=Study%20logic%20and%20math%2C%20because%20once%20you've%20mastered%20them%2C%20you%20won't%20fear%20any%20book.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=It's%20just%20a%20bad%20day%2C%20not%20a%20bad%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
