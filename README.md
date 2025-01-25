@@ -11811,11 +11811,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=It's%20easier%20to%20go%20down%20a%20hill%20than%20up%20it%20but%20the%20view%20is%20much%20better%20at%20the%20top.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=Dark%20times%20lie%20ahead%20of%20us%20and%20there%20will%20be%20a%20time%20when%20we%20must%20choose%20between%20what%20is%20easy%20and%20what%20is%20right.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
