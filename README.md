@@ -11884,11 +11884,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=Don't%20think%20money%20does%20everything%20or%20you%20are%20going%20to%20end%20up%20doing%20everything%20for%20money.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=We%20crave%20for%20new%20sensations%20but%20soon%20become%20indifferent%20to%20them.%20The%20wonders%20of%20yesterday%20are%20today%20common%20occurrences%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
