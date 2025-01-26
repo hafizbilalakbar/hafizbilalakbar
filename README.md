@@ -11891,11 +11891,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Wilson%20Schaef&quote=Life%20is%20a%20process.%20We%20are%20a%20process.%20The%20universe%20is%20a%20process.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=The%20fear%20of%20death%20follows%20from%20the%20fear%20of%20life.%20A%20man%20who%20lives%20fully%20is%20prepared%20to%20die%20at%20any%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
