@@ -11862,11 +11862,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=Your%20visions%20will%20become%20clear%20only%20when%20you%20can%20look%20into%20your%20own%20heart.%20Who%20looks%20outside%2C%20dreams%3B%20who%20looks%20inside%2C%20awakes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=As%20long%20as%20a%20human%20being%20worries%20about%20when%20he%20will%20die%2C%20and%20what%20he%20has%20that%20is%20his%2C%20all%20of%20his%20works%20are%20zero.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
