@@ -11965,11 +11965,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Take%20care%20of%20your%20body.%20It's%20the%20only%20place%20you%20have%20to%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=FEAR%20has%20two%20meanings%3A%20'Forget%20Everything%20And%20Run'%20or%20'Face%20Everything%20And%20Rise.'%20The%20choice%20is%20yours.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
