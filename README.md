@@ -12014,11 +12014,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=Let%20not%20your%20mind%20run%20on%20what%20you%20lack%20as%20much%20as%20on%20what%20you%20have%20already.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=Falling%20down%20is%20not%20failure.%20Failure%20comes%20when%20you%20stay%20where%20you%20have%20fallen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
