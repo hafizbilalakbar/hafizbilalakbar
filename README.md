@@ -11981,11 +11981,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Time%20doesn't%20heal%20emotional%20pain%2C%20you%20need%20to%20learn%20how%20to%20let%20go.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=To%20bear%20trials%20with%20a%20calm%20mind%20robs%20misfortune%20of%20its%20strength%20and%20burden.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
