@@ -12140,11 +12140,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Be%20patient%20and%20calm%3B%20no%20one%20can%20catch%20fish%20in%20anger.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Things%20cannot%20forever%20go%20downward.%20There%20are%20limits%20to%20everything%E2%80%94even%20the%20cold%2C%20and%20the%20darkness%2C%20and%20the%20wind%2C%20and%20the%20dying.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
