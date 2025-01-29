@@ -12320,11 +12320,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=Everyone%20has%20oceans%20to%20fly%2C%20if%20they%20have%20the%20heart%20to%20do%20it.%20Is%20it%20reckless%3F%20Maybe.%20But%20what%20do%20dreams%20know%20of%20boundaries.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=You%20cannot%20always%20control%20what%20goes%20on%20outside.%20But%20you%20can%20always%20control%20what%20goes%20on%20inside.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
