@@ -12424,11 +12424,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=I%20can%20never%20decide%20whether%20my%20dreams%20are%20the%20result%20of%20my%20thoughts%20or%20my%20thoughts%20the%20result%20of%20my%20dreams.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Soyen%20Shaku&quote=Watch%20what%20you%20say%2C%20and%20whatever%20you%20say%2C%20practice%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
