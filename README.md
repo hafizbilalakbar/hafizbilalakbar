@@ -12361,11 +12361,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=There%20is%20nothing%20more%20frightful%20than%20ignorance%20in%20action.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=My%20favorite%20things%20in%20life%20don't%20cost%20any%20money.%20It's%20really%20clear%20that%20the%20most%20precious%20resource%20we%20all%20have%20is%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
