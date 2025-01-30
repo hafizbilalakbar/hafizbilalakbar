@@ -12401,11 +12401,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Dylan&quote=You%20don't%20need%20a%20weatherman%20to%20know%20which%20way%20the%20wind%20blows.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Shunryu%20Suzuki&quote=Nothing%20we%20see%20or%20hear%20is%20perfect.%20But%20right%20there%20in%20the%20imperfection%20is%20perfect%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
