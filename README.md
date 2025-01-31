@@ -12542,11 +12542,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=He%20who%20can%20no%20longer%20pause%20to%20wonder%20and%20stand%20rapt%20in%20awe%2C%20is%20as%20good%20as%20dead%3B%20his%20eyes%20are%20closed.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=I%20am%20not%20absentminded.%20It%20is%20the%20presence%20of%20mind%20that%20makes%20me%20unaware%20of%20everything%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
