@@ -12547,11 +12547,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=There%20are%20only%20two%20ways%20to%20live%20your%20life.%20One%20is%20as%20if%20nothing%20is%20a%20miracle.%20The%20other%20is%20as%20if%20everything%20is%20a%20miracle.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=It%20is%20hard%20to%20fail%2C%20but%20it%20is%20worse%20never%20to%20have%20tried%20to%20succeed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
