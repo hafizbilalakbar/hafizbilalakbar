@@ -12458,11 +12458,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Remain%20calm%2C%20serene%2C%20always%20in%20command%20of%20yourself.%20You%20will%20then%20find%20out%20how%20easy%20it%20is%20to%20get%20along.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=If%20you%20want%20peace%2C%20accept.%20If%20you%20want%20suffering%2C%20expect.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
