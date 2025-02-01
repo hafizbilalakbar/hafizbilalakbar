@@ -12619,11 +12619,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=Wisdom%20is%20doing%20now%20what%20you%20are%20going%20to%20be%20happy%20with%20later%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=People%20become%20attached%20to%20their%20burdens%20sometimes%20more%20than%20the%20burdens%20are%20attached%20to%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
