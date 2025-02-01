@@ -12635,11 +12635,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Some%20of%20the%20greater%20things%20in%20life%20are%20unseen%3B%20that's%20why%20you%20close%20your%20eyes%20when%20you%20kiss%2C%20cry%2C%20or%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=Sometimes%20you%20will%20never%20know%20the%20value%20of%20something%2C%20until%20it%20becomes%20a%20memory.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
