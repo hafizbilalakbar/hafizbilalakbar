@@ -12586,11 +12586,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.%20Clement%20Stone&quote=Be%20careful%20the%20environment%20you%20choose%20for%20it%20will%20shape%20you%3B%20be%20careful%20the%20friends%20you%20choose%20for%20you%20will%20become%20like%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Maybe%20you%20are%20searching%20among%20the%20branches%2C%20for%20what%20only%20appears%20in%20the%20roots.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
