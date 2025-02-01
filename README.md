@@ -12600,11 +12600,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=The%20opportunity%20of%20defeating%20the%20enemy%20is%20provided%20by%20the%20enemy%20himself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Most%20people%20fail%20in%20life%20because%20they%20major%20in%20minor%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
