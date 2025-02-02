@@ -12766,11 +12766,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=The%20more%20often%20a%20stupidity%20is%20repeated%2C%20the%20more%20it%20gets%20the%20appearance%20of%20wisdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=Any%20fool%20can%20turn%20a%20blind%20eye%20but%20who%20knows%20what%20the%20ostrich%20sees%20in%20the%20sand.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
