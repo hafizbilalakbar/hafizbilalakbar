@@ -12684,11 +12684,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=It's%20your%20road%2C%20and%20yours%20alone%2C%20others%20may%20walk%20it%20with%20you%2C%20but%20no%20one%20can%20walk%20it%20for%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Nothing%20gives%20one%20person%20so%20much%20advantage%20over%20another%20as%20to%20remain%20always%20cool%20and%20unruffled%20under%20all%20circumstances.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
