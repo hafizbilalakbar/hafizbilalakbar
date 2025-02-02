@@ -12701,11 +12701,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Osho&quote=Truth%20is%20not%20something%20outside%20to%20be%20discovered%2C%20it%20is%20something%20inside%20to%20be%20realized.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Babe%20Ruth&quote=Never%20let%20the%20fear%20of%20striking%20out%20keep%20you%20from%20playing%20the%20game.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
