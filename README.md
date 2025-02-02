@@ -12694,11 +12694,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=All%20know%20that%20the%20drop%20merges%20into%20the%20ocean%2C%20but%20few%20know%20that%20the%20ocean%20merges%20into%20the%20drop.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franklin%20D.%20Roosevelt&quote=There%20are%20as%20many%20opinions%20as%20there%20are%20experts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
