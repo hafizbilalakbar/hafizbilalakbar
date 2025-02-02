@@ -12773,11 +12773,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=What%20do%20we%20live%20for%20if%20not%20to%20make%20life%20less%20difficult%20for%20each%20other%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=The%20more%20perfect%20a%20person%20is%20on%20the%20outside%2C%20the%20more%20demons%20they%20have%20on%20the%20inside.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
