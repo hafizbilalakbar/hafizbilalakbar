@@ -12682,11 +12682,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Take%20interest%20and%20even%20delight%20in%20doing%20the%20small%20things%20well.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=There%20can%20be%20no%20greater%20gift%20than%20that%20of%20giving%20one's%20time%20and%20energy%20to%20help%20others%20without%20expecting%20anything%20in%20return.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
