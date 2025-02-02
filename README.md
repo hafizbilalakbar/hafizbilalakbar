@@ -12779,11 +12779,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Never%20give%20up%20on%20a%20dream%20just%20because%20of%20the%20time%20it%20will%20take%20to%20accomplish%20it.%20The%20time%20will%20pass%20anyway.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=If%20you're%20not%20making%20mistakes%2C%20then%20you're%20not%20doing%20anything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
