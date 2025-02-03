@@ -12912,11 +12912,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=I%20am%20always%20doing%20that%20which%20I%20can%20not%20do%2C%20in%20order%20that%20I%20may%20learn%20how%20to%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Values%20are%20like%20fingerprints.%20Nobody's%20are%20the%20same%2C%20but%20you%20leave%20'em%20all%20over%20everything%20you%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
