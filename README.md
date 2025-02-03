@@ -12893,11 +12893,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeffrey%20Gitomer&quote=In%20order%20for%20you%20to%20be%20the%20BEST%20you%20can%20be%20for%20others%2C%20first%20you%20must%20be%20BEST%20for%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=He%20who%20laughs%20at%20himself%20never%20runs%20out%20of%20things%20to%20laugh%20at.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
