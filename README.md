@@ -12826,11 +12826,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=The%20more%20we%20value%20things%2C%20the%20less%20we%20value%20ourselves.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=I%20have%20lost%20friends%2C%20some%20by%20death...others%20by%20sheer%20inability%20to%20cross%20the%20street.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
