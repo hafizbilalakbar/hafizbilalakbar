@@ -12974,11 +12974,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=Unexpressed%20emotions%20will%20never%20die.%20They%20are%20buried%20alive%20and%20will%20come%20forth%20later%20in%20uglier%20ways.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=The%20saddest%20aspect%20of%20life%20is%20that%20there%20is%20no%20one%20on%20earth%20whose%20happiness%20is%20such%20that%20he%20won't%20sometimes%20wish%20he%20were%20dead%20rather%20than%20alive.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
