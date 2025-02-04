@@ -12934,11 +12934,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20London&quote=As%20one%20grows%20weaker%20one%20is%20less%20susceptible%20to%20suffering.%20There%20is%20less%20hurt%20because%20there%20is%20less%20to%20hurt.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=You%20are%20what%20you%20believe%20in.%20You%20become%20that%20which%20you%20believe%20you%20can%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
