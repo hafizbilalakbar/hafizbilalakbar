@@ -12932,11 +12932,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=Prefer%20to%20be%20defeated%20in%20the%20presence%20of%20the%20wise%20than%20to%20excel%20among%20fools.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Take%20time%20like%20the%20river%20that%20never%20grows%20stale.%20Keep%20going%20and%20steady.%20No%20hurry%2C%20no%20rush.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
