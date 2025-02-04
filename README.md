@@ -12953,11 +12953,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Shunryu%20Suzuki&quote=If%20your%20mind%20is%20empty%2C%20it%20is%20always%20ready%20for%20anything%2C%20it%20is%20open%20to%20everything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=The%20road%20to%20success%20is%20always%20under%20construction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
