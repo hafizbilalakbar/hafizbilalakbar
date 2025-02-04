@@ -12937,11 +12937,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=If%20your%20happiness%20depends%20on%20what%20somebody%20else%20does%2C%20I%20guess%20you%20do%20have%20a%20problem.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Tomorrow%20is%20only%20found%20in%20the%20calendar%20of%20fools.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
