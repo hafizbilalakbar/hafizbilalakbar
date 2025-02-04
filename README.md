@@ -13012,11 +13012,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charlie%20Chaplin&quote=Life%20can%20be%20wonderful%20if%20you're%20not%20afraid%20of%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=We%20are%20always%20complaining%20that%20our%20days%20are%20few%2C%20and%20acting%20as%20though%20there%20would%20be%20no%20end%20of%20them.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
