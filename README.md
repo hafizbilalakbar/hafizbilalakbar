@@ -13071,11 +13071,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=If%20you%20want%20to%20feel%20happy%2C%20do%20something%20for%20yourself.%20If%20you%20want%20to%20feel%20fulfilled%2C%20do%20something%20for%20someone%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=To%20understand%20the%20heart%20and%20mind%20of%20a%20person%2C%20look%20not%20at%20what%20he%20has%20already%20achieved%2C%20but%20at%20what%20he%20aspires%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
