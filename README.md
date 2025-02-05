@@ -13122,11 +13122,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20A.%20Cohen&quote=When%20we%20think%20about%20our%20strengths%2C%20we%20are%20strong.%20When%20we%20think%20about%20our%20weaknesses%2C%20we%20are%20weak.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Failure%20means%20you've%20now%20learned%20another%20valuable%20lesson%20that%20pushes%20you%20one%20step%20closer%20to%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
