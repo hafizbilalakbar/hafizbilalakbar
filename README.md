@@ -13072,11 +13072,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=To%20understand%20the%20heart%20and%20mind%20of%20a%20person%2C%20look%20not%20at%20what%20he%20has%20already%20achieved%2C%20but%20at%20what%20he%20aspires%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Patience%20is%20bitter%2C%20but%20its%20fruit%20is%20sweet.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
