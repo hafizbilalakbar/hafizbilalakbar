@@ -13175,11 +13175,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=The%20only%20lost%20cause%20is%20one%20we%20give%20up%20on%20before%20we%20enter%20the%20struggle.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=I%20didn't%20get%20there%20by%20wishing%20for%20it%20or%20hoping%20for%20it%2C%20but%20by%20working%20for%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
