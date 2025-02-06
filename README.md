@@ -13208,11 +13208,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=The%20energy%20of%20the%20mind%20is%20the%20essence%20of%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=Every%20artist%20dips%20his%20brush%20in%20his%20own%20soul%2C%20and%20paints%20his%20own%20nature%20into%20his%20pictures.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
