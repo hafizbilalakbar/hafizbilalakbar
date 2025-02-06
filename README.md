@@ -13209,11 +13209,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=Every%20artist%20dips%20his%20brush%20in%20his%20own%20soul%2C%20and%20paints%20his%20own%20nature%20into%20his%20pictures.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=Begin%20at%20once%20to%20live%2C%20and%20count%20each%20separate%20day%20as%20a%20separate%20life.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
