@@ -13345,11 +13345,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Success%20comes%20from%20knowing%20that%20you%20did%20your%20best%20to%20become%20the%20best%20that%20you%20are%20capable%20of%20becoming.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=You're%20on%20earth.%20There's%20no%20cure%20for%20that.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
