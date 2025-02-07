@@ -13293,11 +13293,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=Blessed%20is%20he%20who%20expects%20nothing%2C%20for%20he%20shall%20never%20be%20disappointed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Every%20man%20desires%20to%20live%20long%2C%20but%20no%20man%20wishes%20to%20be%20old.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
