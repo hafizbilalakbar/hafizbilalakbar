@@ -13263,11 +13263,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Don't%20gain%20the%20world%20and%20lose%20your%20soul.%20Wisdom%20is%20better%20than%20silver%20and%20gold.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=If%20I%20cannot%20do%20great%20things.%20I%20can%20do%20small%20things%20in%20a%20great%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
