@@ -13385,11 +13385,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Be%20as%20simple%20as%20you%20can%20be%3B%20you%20will%20be%20astonished%20to%20see%20how%20uncomplicated%20and%20happy%20your%20life%20can%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=Have%20a%20vision%2C%20trust%20yourself%2C%20break%20some%20rules%2C%20ignore%20the%20naysayers%2C%20don't%20be%20afraid%20to%20fail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
