@@ -13405,11 +13405,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=Logic%20is%20like%20the%20sword%20-%20those%20who%20appeal%20to%20it%20shall%20perish%20by%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=If%20you%20run%20you%20stand%20a%20chance%20of%20losing%2C%20but%20if%20you%20don't%20run%20you've%20already%20lost.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
