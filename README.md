@@ -13429,11 +13429,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.%20Clement%20Stone&quote=Be%20careful%20the%20environment%20you%20choose%20for%20it%20will%20shape%20you%3B%20be%20careful%20the%20friends%20you%20choose%20for%20you%20will%20become%20like%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20London&quote=As%20one%20grows%20weaker%20one%20is%20less%20susceptible%20to%20suffering.%20There%20is%20less%20hurt%20because%20there%20is%20less%20to%20hurt.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
