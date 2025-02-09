@@ -13596,11 +13596,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=A%20man%20is%20not%20called%20wise%20because%20he%20talks%20and%20talks%20again%3B%20but%20if%20he%20is%20peaceful%2C%20loving%20and%20fearless%20then%20he%20is%20in%20truth%20called%20wise.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=Often%20we%20pass%20beside%20happiness%20without%20seeing%20it%2C%20without%20looking%20at%20it%2C%20or%20even%20if%20we%20have%20seen%20and%20looked%20at%20it%2C%20without%20recognizing%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
