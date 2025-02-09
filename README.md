@@ -13502,11 +13502,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Heraclitus&quote=Wisdom%20is%20the%20oneness%20of%20mind%20that%20guides%20and%20permeates%20all%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Dylan&quote=People%20seldom%20do%20what%20they%20believe%20in.%20They%20do%20what%20is%20convenient%2C%20then%20repent.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
