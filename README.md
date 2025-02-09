@@ -13496,11 +13496,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Your%20friends%20will%20know%20you%20better%20in%20the%20first%20minute%20you%20meet%20than%20your%20acquaintances%20will%20know%20you%20in%20a%20thousand%20years.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=When%20you%20view%20failure%20as%20feedback%2C%20you%20get%20more%20done.%20When%20you%20view%20failure%20as%20a%20finality%2C%20you%20get%20nothing%20done.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
