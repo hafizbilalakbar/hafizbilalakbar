@@ -13607,11 +13607,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=When%20you%20have%20to%20make%20a%20choice%20and%20don't%20make%20it%2C%20that%20is%20in%20itself%20a%20choice.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=The%20biggest%20challenge%20after%20success%20is%20shutting%20up%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
