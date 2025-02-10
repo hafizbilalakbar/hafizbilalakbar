@@ -13709,11 +13709,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=When%20you%20judge%20another%2C%20you%20do%20not%20define%20them%2C%20you%20define%20yourself&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maya%20Angelou&quote=There%20is%20nothing%20quite%20so%20tragic%20as%20a%20young%20cynic.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
