@@ -13702,11 +13702,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Your%20conscience%20is%20the%20measure%20of%20the%20honesty%20of%20your%20selfishness.%20Listen%20to%20it%20carefully.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=If%20you%20let%20your%20head%20get%20too%20big%2C%20it'll%20break%20your%20neck.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
