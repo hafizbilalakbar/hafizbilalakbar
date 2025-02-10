@@ -13685,11 +13685,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=If%20we%20are%20honest%20with%20ourselves%2C%20most%20of%20us%20will%20have%20to%20admit%20that%20we%20live%20out%20our%20lives%20in%20an%20ocean%20of%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=The%20primary%20point%20of%20this%20existence%20is%20to%20live%2C%20and%20all%20living%20things%20move%20and%20grow.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
