@@ -13810,11 +13810,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=See%20what%20you're%20doing%20wrong%2C%20laugh%20at%20it%2C%20change%20and%20do%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=If%20you%20find%20you%20are%20not%20valued%20and%20appreciated%2C%20then%20shift%20your%20attention%20to%20places%20where%20you%20will%20be%20valued%20and%20appreciated.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
