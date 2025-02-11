@@ -13758,11 +13758,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Whitman&quote=I%20no%20doubt%20deserved%20my%20enemies%2C%20but%20I%20don't%20believe%20I%20deserved%20my%20friends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Don't%20put%20off%20living%20to%20next%20week%2C%20next%20month%2C%20next%20year%20or%20next%20decade.%20The%20only%20time%20you're%20ever%20living%20is%20in%20this%20moment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
