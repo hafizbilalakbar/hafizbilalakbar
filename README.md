@@ -13824,11 +13824,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Matthew%20Barrie&quote=The%20moment%20you%20doubt%20whether%20you%20can%20fly%2C%20you%20cease%20for%20ever%20to%20be%20able%20to%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Laurence%20J.%20Peter&quote=If%20you%20don't%20know%20where%20you're%20going%2C%20you%20will%20probably%20end%20up%20somewhere%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
