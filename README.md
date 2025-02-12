@@ -13915,11 +13915,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Betty%20White&quote=You're%20never%20too%20old%20for%20anything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=A%20vital%20part%20of%20the%20happiness%20formula%20is%20self-discipline.%20Whoever%20conquers%20himself%20knows%20deep%20happiness%20that%20fills%20the%20heart%20with%20joy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
