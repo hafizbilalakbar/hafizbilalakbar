@@ -13861,11 +13861,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Waldo%20Emerson&quote=Do%20not%20go%20where%20the%20path%20may%20lead%2C%20go%20instead%20where%20there%20is%20no%20path%20and%20leave%20a%20trail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=David%20Brinkley&quote=People%20have%20the%20illusion%20that%20all%20over%20the%20world%2C%20all%20the%20time%2C%20all%20kinds%20of%20fantastic%20things%20are%20happening.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
