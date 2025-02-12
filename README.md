@@ -13918,11 +13918,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=Everyone%20thinks%20of%20changing%20the%20world%2C%20but%20no%20one%20thinks%20of%20changing%20himself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=C.%20Sean%20McGee&quote=Respect%20is%20earned%20by%20effort%20not%20age%2C%20all%20things%20age%20without%20effort.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
