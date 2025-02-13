@@ -14022,11 +14022,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Some%20of%20us%20learn%20from%20other%20people's%20mistakes%20and%20the%20rest%20of%20us%20have%20to%20be%20other%20people.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=Meditate.%20It%20won't%20be%20fun%20but%20it%20will%20surface%20what%20you%20need%20to%20deal%20with.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
