@@ -14046,11 +14046,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Wilson%20Schaef&quote=Life%20is%20a%20process.%20We%20are%20a%20process.%20The%20universe%20is%20a%20process.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Stop%20wasting%20time%20looking%20at%20someone%20else's%20reality%20while%20doing%20nothing%20about%20yours.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
