@@ -13941,11 +13941,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Even%20when%20you%20think%20you%20have%20your%20life%20all%20mapped%20out%2C%20things%20happen%20that%20shape%20your%20destiny%20in%20ways%20you%20might%20never%20have%20imagined.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Why%20do%20you%20stay%20in%20prison%20when%20the%20door%20is%20so%20wide%20open%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
