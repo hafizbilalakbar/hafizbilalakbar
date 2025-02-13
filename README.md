@@ -13940,11 +13940,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Whatever%20you%20think%20the%20world%20is%20withholding%20from%20you%2C%20you%20are%20withholding%20from%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Even%20when%20you%20think%20you%20have%20your%20life%20all%20mapped%20out%2C%20things%20happen%20that%20shape%20your%20destiny%20in%20ways%20you%20might%20never%20have%20imagined.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
