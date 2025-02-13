@@ -13948,11 +13948,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Success%20is%20about%20doing%20the%20right%20thing%2C%20not%20about%20doing%20everything%20right.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=I%20skate%20to%20where%20the%20puck%20is%20going%20to%20be%2C%20not%20where%20it%20has%20been.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
