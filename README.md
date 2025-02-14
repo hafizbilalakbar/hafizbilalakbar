@@ -14104,11 +14104,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=The%20only%20real%20mistake%20is%20the%20one%20from%20which%20we%20learn%20nothing.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Ancient%20Rule%20of%20Twenty-one%3A%20if%20you%20do%20anything%20for%20twenty-one%20days%20in%20a%20row%2C%20it%20will%20be%20installed%20as%20a%20habit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
