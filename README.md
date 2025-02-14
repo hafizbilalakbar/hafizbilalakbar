@@ -14157,11 +14157,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=All%20religions%2C%20arts%20and%20sciences%20are%20branches%20of%20the%20same%20tree.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Mays&quote=Whatever%20you%20do%2Cstrive%20to%20do%20it%20so%20well%20that%20no%20man%20living%20and%20no%20man%20dead%20and%20no%20man%20yet%20to%20be%20born%20could%20do%20it%20any%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
