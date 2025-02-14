@@ -14067,11 +14067,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gustave%20Flaubert&quote=Anything%20becomes%20interesting%20if%20you%20look%20at%20it%20long%20enough..&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=When%20you%20love%20someone%2C%20you%20love%20the%20person%20as%20they%20are%2C%20and%20not%20as%20you'd%20like%20them%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
