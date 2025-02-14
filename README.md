@@ -14065,11 +14065,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=We%20have%20to%20live%20life%20with%20a%20sense%20of%20urgency%20so%20not%20a%20minute%20is%20wasted.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=Wise%20men%20speak%20because%20they%20have%20something%20to%20say%3B%20Fools%20because%20they%20have%20to%20say%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
