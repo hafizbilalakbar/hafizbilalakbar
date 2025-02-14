@@ -14109,11 +14109,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=If%20you%20can%20handle%20rejection%2C%20you'll%20learn%20to%20get%20everything%20you%20want.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=If%20it%20is%20not%20right%2C%20do%20not%20do%20it%2C%20if%20it%20is%20not%20true%2C%20do%20not%20say%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
