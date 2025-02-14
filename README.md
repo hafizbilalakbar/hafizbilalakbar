@@ -14070,11 +14070,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Take%20interest%20and%20even%20delight%20in%20doing%20the%20small%20things%20well.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=To%20succeed%20takes%20more%20than%20the%20desire%20to%20win.%20It%20also%20takes%20the%20acceptance%20that%20we%20could%20fail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
