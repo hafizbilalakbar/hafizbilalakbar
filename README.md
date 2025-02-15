@@ -14207,11 +14207,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charlie%20Chaplin&quote=Simplicity%20is%20a%20difficult%20thing%20to%20achieve.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Genghis%20Khan&quote=The%20strength%20of%20a%20wall%20is%20neither%20greater%20nor%20less%20than%20the%20courage%20of%20the%20men%20who%20defend%20it.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
