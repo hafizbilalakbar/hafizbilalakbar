@@ -14213,11 +14213,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Giving%20back%20involves%20a%20certain%20amount%20of%20giving%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=I%20don't%20ever%20give%20up.%20I'd%20have%20to%20be%20dead%20or%20completely%20incapacitated.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
