@@ -14324,11 +14324,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=You%20cannot%20have%20a%20positive%20life%20and%20a%20negative%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=Write%20to%20help%20yourself%2C%20publish%20to%20help%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
