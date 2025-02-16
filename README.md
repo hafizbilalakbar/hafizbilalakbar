@@ -14360,11 +14360,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=I%20am%20not%20absentminded.%20It%20is%20the%20presence%20of%20mind%20that%20makes%20me%20unaware%20of%20everything%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Most%20people%20dabble%20their%20way%20through%20life%2C%20never%20deciding%20to%20master%20anything%20in%20particular.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
