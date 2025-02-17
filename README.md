@@ -14425,11 +14425,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=A%20pessimist%20is%20one%20who%20makes%20difficulties%20of%20his%20opportunities%20and%20an%20optimist%20is%20one%20who%20makes%20opportunities%20of%20his%20difficulties.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Publilius%20Syrus&quote=The%20greatest%20of%20empires%2C%20is%20the%20empire%20over%20one's%20self.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
