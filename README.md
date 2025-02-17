@@ -14469,11 +14469,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=Through%20selfless%20service%2C%20you%20will%20always%20be%20fruitful%20and%20find%20the%20fulfillment%20of%20your%20desires.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=G.I.%20Gurdjieff&quote=Man%20must%20use%20what%20he%20has%2C%20not%20hope%20for%20what%20is%20not.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
