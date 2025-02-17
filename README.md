@@ -14471,11 +14471,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=If%20you%20read%20a%20lot%20of%20books%2C%20you're%20considered%20well-read.%20But%20if%20you%20watch%20a%20lot%20of%20TV%2C%20you're%20not%20considered%20well-viewed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=If%20you%20genuinely%20want%20something%2C%20don't%20wait%20for%20it%20-%20teach%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
