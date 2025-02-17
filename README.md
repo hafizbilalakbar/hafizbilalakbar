@@ -14437,11 +14437,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=Change%20happens%20when%20the%20pain%20of%20holding%20on%20becomes%20greater%20than%20the%20fear%20of%20letting%20go.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=You%20can't%20let%20your%20failures%20define%20you.%20You%20have%20to%20let%20your%20failures%20teach%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
