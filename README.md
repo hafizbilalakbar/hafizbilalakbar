@@ -14462,11 +14462,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=As%20long%20as%20a%20human%20being%20worries%20about%20when%20he%20will%20die%2C%20and%20what%20he%20has%20that%20is%20his%2C%20all%20of%20his%20works%20are%20zero.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=Procrastination%20is%20one%20of%20the%20most%20common%20and%20deadliest%20of%20diseases%20and%20its%20toll%20on%20success%20and%20happiness%20is%20heavy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
