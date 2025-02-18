@@ -14592,11 +14592,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Wilson%20Schaef&quote=Trusting%20our%20intuition%20often%20saves%20us%20from%20disaster.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Will%20Rogers&quote=The%20health%20of%20nations%20is%20more%20important%20than%20the%20wealth%20of%20nations.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
