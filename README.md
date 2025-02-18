@@ -14590,11 +14590,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=Follow%20the%20man%20who%20seeks%20the%20truth%3B%20run%20from%20the%20man%20who%20has%20found%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=Dream%20big.%20Start%20small.%20But%20most%20of%20all%2C%20start.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
