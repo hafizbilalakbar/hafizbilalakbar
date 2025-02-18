@@ -14601,11 +14601,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=If%20you%20try%20to%20micromanage%20yourself%20all%20you're%20going%20to%20do%20is%20make%20yourself%20miserable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=What%20most%20people%20need%20to%20learn%20in%20life%20is%20how%20to%20love%20people%20and%20use%20things%20instead%20of%20using%20people%20and%20loving%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
