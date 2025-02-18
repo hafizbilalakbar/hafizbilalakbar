@@ -14535,11 +14535,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Miguel%20de%20Cervantes&quote=Too%20much%20sanity%20may%20be%20madness%20and%20the%20maddest%20of%20all%2C%20to%20see%20life%20as%20it%20is%20and%20not%20as%20it%20should%20be.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=If%20you%20change%20the%20way%20you%20look%20at%20things%2C%20the%20things%20you%20look%20at%20change.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
