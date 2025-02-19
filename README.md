@@ -14712,11 +14712,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=The%20two%20most%20powerful%20warriors%20are%20patience%20and%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Your%20task%20is%20not%20to%20seek%20for%20love%2C%20but%20merely%20to%20seek%20and%20find%20all%20the%20barriers%20within%20yourself%20that%20you%20have%20built%20against%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
