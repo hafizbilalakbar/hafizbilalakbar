@@ -14699,11 +14699,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maya%20Angelou&quote=If%20you%20don't%20like%20something%2C%20change%20it.%20If%20you%20can't%20change%20it%2C%20change%20your%20attitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=The%20happiness%20of%20your%20life%20depends%20upon%20the%20quality%20of%20your%20thoughts%3B%20therefore%20guard%20accordingly.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
