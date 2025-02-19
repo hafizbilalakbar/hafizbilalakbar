@@ -14663,11 +14663,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20brave%20to%20stand%20for%20what%20you%20believe%20in%20even%20if%20you%20stand%20alone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=First%20comes%20the%20shy%20wish.%20Then%20you%20must%20have%20the%20heart%20to%20have%20the%20dream.%20Then%2C%20you%20work%2C%20and%20work.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
