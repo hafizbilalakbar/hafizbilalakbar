@@ -14657,11 +14657,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=If%20you%20always%20do%20what%20you've%20always%20done%2C%20you'll%20always%20get%20what%20you've%20always%20got.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Sometimes%20your%20joy%20is%20the%20source%20of%20your%20smile%2C%20but%20sometimes%20your%20smile%20can%20be%20the%20source%20of%20your%20joy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
