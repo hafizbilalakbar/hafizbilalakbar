@@ -14728,11 +14728,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Any%20idea%2C%20plan%2C%20or%20purpose%20may%20be%20placed%20in%20the%20mind%20through%20repetition%20of%20thought.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Columbus&quote=Nothing%20that%20results%20in%20human%20progress%20is%20achieved%20with%20unanimous%20consent.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
