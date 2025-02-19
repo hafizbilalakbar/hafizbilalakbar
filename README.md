@@ -14658,11 +14658,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Sometimes%20your%20joy%20is%20the%20source%20of%20your%20smile%2C%20but%20sometimes%20your%20smile%20can%20be%20the%20source%20of%20your%20joy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=I%20alone%20cannot%20change%20the%20world%2C%20but%20I%20can%20cast%20a%20stone%20across%20the%20waters%20to%20create%20many%20ripples.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
