@@ -14751,11 +14751,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=I%20believe%20that%20potential%20is%20unlimited%20-%20success%20depends%20on%20daring%20to%20act%20on%20dreams.%20%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Do%20not%20dwell%20in%20the%20past%2C%20do%20not%20dream%20of%20the%20future%2C%20concentrate%20the%20mind%20on%20the%20present%20moment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
