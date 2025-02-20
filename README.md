@@ -14840,11 +14840,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Surround%20yourself%20with%20people%20who%20take%20their%20work%20seriously%2C%20but%20not%20themselves%2C%20those%20who%20work%20hard%20and%20play%20hard.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Don't%20change%20your%20mind%20just%20because%20people%20are%20offended%3B%20change%20your%20mind%20if%20you're%20wrong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
