@@ -14734,11 +14734,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=The%20only%20limits%20in%20our%20life%20are%20those%20we%20impose%20on%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rita%20Mae%20Brown&quote=If%20you're%20afraid%20to%20die%2C%20you're%20afraid%20to%20live.%20You%20can't%20have%20one%20without%20the%20other.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
