@@ -14813,11 +14813,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=A%20person%20is%20only%20by%20the%20thoughts%20that%20he%20chooses.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Unless%20a%20man%20is%20master%20of%20his%20soul%2C%20all%20other%20kinds%20of%20mastery%20amount%20to%20little.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
