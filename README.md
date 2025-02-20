@@ -14780,11 +14780,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=The%20less%20you%20talk%20about%20your%20shame%2C%20the%20more%20of%20it%20you%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=We%20will%20now%20discuss%20in%20a%20little%20more%20detail%20the%20Struggle%20for%20Existence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
