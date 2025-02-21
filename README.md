@@ -14893,11 +14893,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=To%20injure%20an%20opponent%20is%20to%20injure%20yourself.%20To%20control%20aggression%20without%20inflicting%20injury%20is%20the%20Art%20of%20Peace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=The%20older%20you%20get%2C%20the%20more%20you%20understand%20how%20your%20conscience%20works.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
