@@ -14880,11 +14880,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=Don't%20think%20money%20does%20everything%20or%20you%20are%20going%20to%20end%20up%20doing%20everything%20for%20money.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=We%20are%20like%20islands%20in%20the%20sea%2C%20separate%20on%20the%20surface%20but%20connected%20in%20the%20deep.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
