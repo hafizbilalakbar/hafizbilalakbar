@@ -14932,11 +14932,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=Just%20as%20true%20humor%20is%20laughter%20at%20oneself%2C%20true%20humanity%20is%20knowledge%20of%20oneself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=A%20strong%20man%20overcomes%20an%20obstacle%2C%20a%20wise%20man%20goes%20the%20whole%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
