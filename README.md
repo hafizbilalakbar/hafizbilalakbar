@@ -14930,11 +14930,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Successful%20people%20are%20always%20looking%20for%20opportunities%20to%20help%20others.%20Unsuccessful%20people%20are%20always%20asking%2C%20'What's%20in%20it%20for%20me%3F'&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=The%20mirror%20is%20a%20worthless%20invention.%20The%20only%20way%20to%20truly%20see%20yourself%20is%20in%20the%20reflection%20of%20someone%20elses.%20eyes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
