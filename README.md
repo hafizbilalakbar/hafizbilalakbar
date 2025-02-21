@@ -14869,11 +14869,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=To%20live%20fully%20is%20to%20be%20always%20in%20no-man's-land%2C%20to%20experience%20each%20moment%20as%20completely%20new%20and%20fresh.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=If%20you%20can't%2C%20you%20must.%20If%20you%20must%2C%20you%20can.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
