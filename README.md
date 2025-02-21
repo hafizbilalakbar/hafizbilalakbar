@@ -14911,11 +14911,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=If%20no%20one%20ever%20broke%20the%20rules%2C%20then%20we'd%20never%20advance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Disney&quote=The%20more%20you%20like%20yourself%2C%20the%20less%20you%20are%20like%20anyone%20else%2C%20which%20makes%20you%20unique.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
