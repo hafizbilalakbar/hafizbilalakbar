@@ -14923,11 +14923,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=You%20are%20not%20stuck%20where%20you%20are%20unless%20you%20decide%20to%20be.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20finish%20line%20is%20just%20the%20beginning%20of%20a%20whole%20new%20race.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
