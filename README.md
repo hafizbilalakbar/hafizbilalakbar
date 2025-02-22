@@ -14958,11 +14958,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Washington&quote=Be%20not%20glad%20at%20the%20misfortune%20of%20another%2C%20though%20he%20may%20be%20your%20enemy.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Things%20turn%20out%20best%20for%20the%20people%20who%20make%20the%20best%20of%20the%20way%20things%20turn%20out.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
