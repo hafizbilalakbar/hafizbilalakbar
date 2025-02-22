@@ -14971,11 +14971,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=When%20one%20does%20not%20have%20what%20one%20wants%2C%20one%20must%20want%20what%20one%20has.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther&quote=Whatever%20your%20heart%20clings%20to%20and%20confides%20in%2C%20that%20is%20really%20your%20God.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
