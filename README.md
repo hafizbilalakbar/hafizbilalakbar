@@ -15000,11 +15000,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maya%20Angelou&quote=If%20you%20have%20only%20one%20smile%20in%20you%20give%20it%20to%20the%20people%20you%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=Darkness%20must%20pass.%20A%20new%20day%20will%20come.%20And%20when%20the%20sun%20shines%2C%20it%20will%20shine%20out%20the%20clearer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
