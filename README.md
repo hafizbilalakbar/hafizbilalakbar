@@ -15046,11 +15046,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=Success%20is%20stumbling%20from%20failure%20to%20failure%20with%20no%20loss%20of%20enthusiasm.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=To%20be%20totally%20at%20leisure%20for%20one%20day%20is%20to%20be%20immortal%20for%20one%20day.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
