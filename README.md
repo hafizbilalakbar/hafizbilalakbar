@@ -15030,11 +15030,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20takes%20a%20great%20deal%20of%20bravery%20to%20stand%20up%20to%20our%20enemies%2C%20but%20just%20as%20much%20to%20stand%20up%20to%20our%20friends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=It's%20easy%20to%20be%20a%20critic%2C%20but%20being%20a%20doer%20requires%20effort%2C%20risk%2C%20and%20change.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
