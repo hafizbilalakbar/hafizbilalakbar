@@ -14999,11 +14999,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Problems%20remain%20as%20problems%20because%20people%20are%20busy%20defending%20them%20rather%20than%20finding%20solutions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maya%20Angelou&quote=If%20you%20have%20only%20one%20smile%20in%20you%20give%20it%20to%20the%20people%20you%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
