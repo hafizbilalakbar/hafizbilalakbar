@@ -15139,11 +15139,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=The%20most%20tragic%20thing%20in%20the%20world%20is%20a%20man%20of%20genius%20who%20is%20not%20a%20man%20of%20honor.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=A%20man%20who%20dares%20to%20waste%20one%20hour%20of%20time%20has%20not%20discovered%20the%20value%20of%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
