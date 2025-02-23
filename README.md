@@ -15157,11 +15157,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Your%20work%20is%20to%20discover%20your%20work%20and%20then%2C%20with%20all%20your%20heart%2C%20to%20give%20yourself%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=When%20you%20get%20up%20in%20the%20morning%2C%20you%20have%20two%20choices%20-%20either%20to%20be%20happy%20or%20to%20be%20unhappy.%20Just%20choose%20to%20be%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
