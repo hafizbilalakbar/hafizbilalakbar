@@ -15176,11 +15176,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Constantly%20think%20about%20how%20you%20could%20be%20doing%20things%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=Selfishness%20and%20greed%2C%20individual%20or%20national%2C%20cause%20most%20of%20our%20troubles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
