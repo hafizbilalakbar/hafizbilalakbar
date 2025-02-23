@@ -15103,11 +15103,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Today%20is%20the%20oldest%20you've%20ever%20been%2C%20and%20the%20youngest%20you'll%20ever%20be%20again.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=There%20are%20only%20two%20ways%20to%20live%20your%20life.%20One%20is%20as%20if%20nothing%20is%20a%20miracle.%20The%20other%20is%20as%20if%20everything%20is%20a%20miracle.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
