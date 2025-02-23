@@ -15108,11 +15108,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=On%20the%20other%20side%20of%20the%20clouds%20is%20a%20bright%20blue%20sky.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Your%20hardest%20times%20often%20lead%20to%20the%20greatest%20moments%20of%20your%20life.%20Keep%20going.%20Tough%20situations%20build%20strong%20people%20in%20the%20end.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
