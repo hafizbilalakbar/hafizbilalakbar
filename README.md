@@ -15184,11 +15184,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=No%20man%20becomes%20rich%20unless%20he%20enriches%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Knowledge%20is%20learning%20something%20everyday.%20Wisdom%20is%20letting%20go%20of%20something%20everyday.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
