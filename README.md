@@ -15165,11 +15165,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carol%20Burnett&quote=Words%2C%20once%20they%20are%20printed%2C%20have%20a%20life%20of%20their%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=No%20matter%20how%20tall%20the%20mountain%20is%2C%20it%20cannot%20block%20the%20sun.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
