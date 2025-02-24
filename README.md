@@ -15260,11 +15260,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=Thought%20is%20so%20cunning%2C%20so%20clever%2C%20that%20it%20distorts%20everything%20for%20its%20own%20convenience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=If%20you%20take%20responsibility%20for%20yourself%20you%20will%20develop%20a%20hunger%20to%20accomplish%20your%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
