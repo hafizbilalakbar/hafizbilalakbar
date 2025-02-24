@@ -15223,11 +15223,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=No%20snowflake%20ever%20falls%20in%20the%20wrong%20place.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=Often%20we%20pass%20beside%20happiness%20without%20seeing%20it%2C%20without%20looking%20at%20it%2C%20or%20even%20if%20we%20have%20seen%20and%20looked%20at%20it%2C%20without%20recognizing%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
