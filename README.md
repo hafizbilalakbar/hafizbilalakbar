@@ -15195,11 +15195,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=Lust%2C%20anger%20and%20greed%20are%20the%20three%20gates%20to%20self-destructive%20hell.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Reeve&quote=Words%20can%20only%20have%20a%20positive%20effect%20on%20others%20if%20and%20when%20they%20are%20ready%20to%20listen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
