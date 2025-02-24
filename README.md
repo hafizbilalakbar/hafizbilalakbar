@@ -15199,11 +15199,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=It's%20easy%20to%20be%20a%20critic%2C%20but%20being%20a%20doer%20requires%20effort%2C%20risk%2C%20and%20change.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Surround%20yourself%20with%20people%20who%20take%20their%20work%20seriously%2C%20but%20not%20themselves%2C%20those%20who%20work%20hard%20and%20play%20hard.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
