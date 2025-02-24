@@ -15205,11 +15205,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=I%20am%20not%20proud%2C%20but%20I%20am%20happy%3B%20and%20happiness%20blinds%2C%20I%20think%2C%20more%20than%20pride.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=He%20is%20a%20wise%20man%20who%20does%20not%20grieve%20for%20the%20things%20which%20he%20has%20not%2C%20but%20rejoices%20for%20those%20which%20he%20has.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
