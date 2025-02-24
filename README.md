@@ -15286,11 +15286,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=You%20cannot%20swim%20for%20new%20horizons%20until%20you%20have%20courage%20to%20lose%20sight%20of%20the%20shore.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Turn%20your%20face%20to%20the%20sun%2C%20as%20flowers%20know%20how%20to%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
