@@ -15267,11 +15267,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=Take%20away%20love%20and%20our%20earth%20is%20a%20tomb.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=I%20am%20always%20doing%20that%20which%20I%20can%20not%20do%2C%20in%20order%20that%20I%20may%20learn%20how%20to%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
