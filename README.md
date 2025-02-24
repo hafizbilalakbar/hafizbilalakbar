@@ -15211,11 +15211,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=The%20divine%20is%20not%20something%20high%20above%20us.%20It%20is%20in%20heaven%2C%20it%20is%20in%20earth%2C%20it%20is%20inside%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=You%20do%20not%20read%20a%20book%20for%20the%20book's%20sake%2C%20but%20for%20your%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
