@@ -30401,7 +30401,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://replit.com/@hafizbilalakbar/" target="_blank">
-<img align="center" src="https://cdn.sanity.io/images/bj34pdbp/migration/3c2f2d404a571d2c9fbca934360352698d63433a-1920x900.png" alt="hafizbilalakbar" height="40" width="40" />
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMkKd78cldC7LqWfHcXPI7MptFGF4WB8adh_oA46HFb7Yx6h91KNqS0LjqLnp7OfTC8k&usqp=CAU" alt="hafizbilalakbar" height="40" width="40" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:malikbilalakbar1@gmail.com" target="_blank">
