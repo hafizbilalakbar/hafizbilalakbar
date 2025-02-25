@@ -15398,11 +15398,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=Everything%20you%20look%20at%20can%20become%20a%20fairy%20tale%20and%20you%20can%20get%20a%20story%20from%20everything%20you%20touch.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=All%20you%20need%20is%20passion.%20If%20you%20have%20a%20passion%20for%20something%2C%20you'll%20create%20the%20talent.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
