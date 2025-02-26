@@ -15460,11 +15460,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=Most%20of%20the%20evil%20in%20this%20world%20is%20done%20by%20people%20with%20good%20intentions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=A%20man%20should%20do%20his%20job%20so%20well%20that%20the%20living%2C%20the%20dead%2C%20and%20the%20unborn%20could%20do%20it%20no%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
