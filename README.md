@@ -15420,11 +15420,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=The%20present%20moment%20dies%20every%20moment%20to%20become%20the%20past%20%2C%20is%20reborn%20every%20moment%20into%20the%20future.%20All%20experience%20is%20now.%20Now%20never%20ends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=Life%20is%20to%20be%20fortified%20by%20many%20friendships.%20To%20love%2C%20and%20to%20be%20loved%2C%20is%20the%20greatest%20happiness%20of%20existence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
