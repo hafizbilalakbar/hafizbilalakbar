@@ -15489,11 +15489,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sonia%20Ricotti&quote=When%20you%20say%20yes%20to%20change%2C%20you%20are%20choosing%20to%20navigate%20that%20path%20peacefully%20and%20happily%20and%20see%20where%20it%20takes%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Do%20not%20ignore%20your%20gift.%20Your%20gift%20is%20the%20thing%20you%20do%20the%20absolute%20best%20with%20the%20least%20amount%20of%20effort.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
