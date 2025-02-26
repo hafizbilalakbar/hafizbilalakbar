@@ -15470,11 +15470,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=The%20unthankful%20heart%20discovers%20no%20mercies%3B%20but%20the%20thankful%20heart%20will%20find%2C%20in%20every%20hour%2C%20some%20heavenly%20blessings.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Constantly%20seek%20criticism.%20A%20well%20thought%20out%20critique%20of%20whatever%20you're%20doing%20is%20as%20valuable%20as%20gold.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
