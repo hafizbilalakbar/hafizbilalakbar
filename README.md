@@ -15547,11 +15547,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=You%20don't%20have%20to%20control%20your%20thoughts%3B%20you%20just%20have%20to%20stop%20letting%20them%20control%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=A%20hopeless%20man%20is%20a%20very%20desperate%20and%20dangerous%20man%2C%20almost%20a%20dead%20man.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
