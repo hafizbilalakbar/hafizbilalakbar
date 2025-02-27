@@ -15513,11 +15513,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Frost&quote=We%20love%20the%20things%20we%20love%20for%20what%20they%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Learn%20to%20value%20yourself%2C%20which%20means%3A%20fight%20for%20your%20happiness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
