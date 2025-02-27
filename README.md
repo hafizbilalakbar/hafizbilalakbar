@@ -15542,11 +15542,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=Happiness%20can%20be%20found%2C%20even%20in%20the%20darkest%20of%20times%2C%20if%20one%20only%20remembers%20to%20turn%20on%20the%20light.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=Be%20like%20a%20postage%20stamp.%20Stick%20to%20it%20until%20you%20get%20there.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
