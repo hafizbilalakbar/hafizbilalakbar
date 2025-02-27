@@ -15563,11 +15563,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=It's%20only%20after%20you've%20stepped%20outside%20your%20comfort%20zone%20that%20you%20begin%20to%20change%2C%20grow%2C%20and%20transform.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=Actions%20are%20the%20seeds%20of%20fate.%20Deeds%20grow%20into%20destiny.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
