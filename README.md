@@ -15612,11 +15612,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=If%20you%20want%20to%20achieve%20anything%20in%20this%20world%2C%20you%20have%20to%20get%20used%20to%20the%20idea%20that%20not%20everyone%20will%20like%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=Even%20the%20finest%20sword%20plunged%20into%20salt%20water%20will%20eventually%20rust.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
