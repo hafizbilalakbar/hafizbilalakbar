@@ -15616,11 +15616,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20D.%20Rockefeller&quote=Giving%20is%20the%20secret%20of%20a%20healthy%20life.%20Not%20necessarily%20money%2C%20but%20whatever%20a%20person%20has%20of%20encouragement%2C%20sympathy%20and%20understanding.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=There%20are%20no%20mistakes%20in%20life%2C%20only%20lessons.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
