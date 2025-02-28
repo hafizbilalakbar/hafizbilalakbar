@@ -15684,11 +15684,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Successful%20people%20ask%20better%20questions%2C%20and%20as%20a%20result%2C%20they%20get%20better%20answers.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=To%20be%20heroic%20is%20to%20be%20courageous%20enough%20to%20die%20for%20something%3B%20to%20be%20inspirational%20is%20to%20be%20crazy%20enough%20to%20live%20a%20little.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
