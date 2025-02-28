@@ -15712,11 +15712,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=If%20we%20are%20honest%20with%20ourselves%2C%20most%20of%20us%20will%20have%20to%20admit%20that%20we%20live%20out%20our%20lives%20in%20an%20ocean%20of%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Waldo%20Emerson&quote=To%20know%20even%20one%20life%20has%20breathed%20easier%20because%20you%20have%20lived.%20This%20is%20to%20have%20succeeded.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
