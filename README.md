@@ -15808,11 +15808,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=That%20some%20achieve%20great%20success%20is%20proof%20to%20all%20that%20others%20can%20achieve%20it%20as%20well.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=All%20know%20that%20the%20drop%20merges%20into%20the%20ocean%2C%20but%20few%20know%20that%20the%20ocean%20merges%20into%20the%20drop.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
