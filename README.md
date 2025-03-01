@@ -15802,11 +15802,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=People%20should%20pursue%20what%20they're%20passionate%20about.%20That%20will%20make%20them%20happier%20than%20pretty%20much%20anything%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Success%20is%20the%20progressive%20realization%20of%20a%20worthy%20goal%20or%20ideal.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
