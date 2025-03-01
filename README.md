@@ -15720,11 +15720,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=As%20you%20grow%20older%20you%20will%20discover%20that%20you%20have%20two%20hands.%20One%20for%20helping%20yourself%2C%20the%20other%20for%20helping%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Have%20a%20heart%20that%20never%20hardens%2C%20and%20a%20temper%20that%20never%20tires%2C%20and%20a%20touch%20that%20never%20hurts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
