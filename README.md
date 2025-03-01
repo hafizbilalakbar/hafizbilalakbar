@@ -15719,11 +15719,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=The%20power%20to%20make%20and%20break%20habits%20and%20learning%20how%20to%20do%20that%20is%20really%20important.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=As%20you%20grow%20older%20you%20will%20discover%20that%20you%20have%20two%20hands.%20One%20for%20helping%20yourself%2C%20the%20other%20for%20helping%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
