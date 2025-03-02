@@ -15842,11 +15842,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=To%20live%20fully%20is%20to%20be%20always%20in%20no-man's-land%2C%20to%20experience%20each%20moment%20as%20completely%20new%20and%20fresh.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=I%20succeeded%20by%20saying%20what%20everyone%20else%20is%20thinking.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
