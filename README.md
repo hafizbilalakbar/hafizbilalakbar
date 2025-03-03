@@ -16005,11 +16005,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Anger%20is%20an%20acid%20that%20can%20do%20more%20harm%20to%20the%20vessel%20in%20which%20it%20is%20stored%20than%20to%20anything%20on%20which%20it%20is%20poured.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Brown&quote=The%20power%20of%20human%20thought%20grows%20exponentially%20with%20the%20number%20of%20minds%20that%20share%20that%20thought.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
