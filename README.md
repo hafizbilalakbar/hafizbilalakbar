@@ -15967,11 +15967,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=When%20something%20comes%20from%20within%2C%20when%20it%20is%20a%20part%20of%20you%2C%20you%20have%20no%20choice%20but%20to%20live%20it%2C%20to%20express%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=It%20is%20dangerous%20to%20be%20right%20in%20matters%20on%20which%20the%20established%20authorities%20are%20wrong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
