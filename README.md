@@ -16105,11 +16105,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=You%20use%20a%20glass%20mirror%20to%20see%20your%20face%3B%20you%20use%20works%20of%20art%20to%20see%20your%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=Go%20confidently%20in%20the%20direction%20of%20your%20dreams.%20Live%20the%20life%20you've%20imagined.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
