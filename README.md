@@ -16228,11 +16228,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=The%20only%20real%20mistake%20is%20the%20one%20from%20which%20we%20learn%20nothing.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=I%20learned%20that%20courage%20was%20not%20the%20absence%20of%20fear%2C%20but%20the%20triumph%20over%20it.%20The%20brave%20man%20is%20not%20he%20who%20does%20not%20feel%20afraid%2C%20but%20he%20who%20conquers%20that%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
