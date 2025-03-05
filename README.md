@@ -16178,11 +16178,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=No%20kind%20action%20ever%20stops%20with%20itself.%20One%20kind%20action%20leads%20to%20another.%20Good%20example%20is%20followed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=I%20put%20my%20heart%20and%20soul%20into%20my%20work%2C%20and%20I%20have%20lost%20my%20mind%20in%20the%20process.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
