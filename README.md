@@ -16177,11 +16177,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ray%20Bradbury&quote=Stuff%20your%20eyes%20with%20wonder...%20live%20as%20if%20you'd%20drop%20dead%20in%20ten%20seconds.%20See%20the%20world.%20It's%20more%20fantastic%20than%20any%20dream%20made%20or%20paid%20for%20in%20factories.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=No%20kind%20action%20ever%20stops%20with%20itself.%20One%20kind%20action%20leads%20to%20another.%20Good%20example%20is%20followed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
