@@ -16266,11 +16266,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=While%20we%20may%20not%20be%20able%20to%20control%20all%20that%20happens%20to%20us%2C%20we%20can%20control%20what%20happens%20inside%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Billie%20Jean%20King&quote=Natural%20talent%20only%20determines%20the%20limits%20of%20your%20athletic%20potential.%20It's%20dedication%20and%20a%20willingness%20to%20discipline%20your%20life%20that%20makes%20you%20great.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
