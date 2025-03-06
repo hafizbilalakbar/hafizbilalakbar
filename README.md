@@ -16260,11 +16260,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=Never%20give%20up%20work.%20Work%20gives%20you%20meaning%20and%20purpose%20and%20life%20is%20empty%20without%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=It%20isn't%20what%20you%20have%20or%20who%20you%20are%20or%20where%20you%20are%20or%20what%20you%20are%20doing%20that%20makes%20you%20happy%20or%20unhappy.%20It%20is%20what%20you%20think%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
