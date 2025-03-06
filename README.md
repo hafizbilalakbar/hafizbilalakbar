@@ -16261,11 +16261,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=It%20isn't%20what%20you%20have%20or%20who%20you%20are%20or%20where%20you%20are%20or%20what%20you%20are%20doing%20that%20makes%20you%20happy%20or%20unhappy.%20It%20is%20what%20you%20think%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Give%20out%20what%20you%20most%20want%20to%20come%20back.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
