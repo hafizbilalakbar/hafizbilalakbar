@@ -16332,11 +16332,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=The%20temptation%20to%20give%20up%20is%20strongest%20just%20before%20victory.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Health%20is%20the%20greatest%20of%20all%20possessions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
