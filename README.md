@@ -16434,11 +16434,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=In%20all%20chaos%20there%20is%20a%20cosmos%2C%20in%20all%20disorder%20a%20secret%20order.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Most%20people%20fail%20in%20life%20not%20because%20they%20aim%20too%20high%20and%20miss%2C%20but%20because%20they%20aim%20too%20low%20and%20hit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
