@@ -16372,11 +16372,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Brown&quote=The%20power%20of%20human%20thought%20grows%20exponentially%20with%20the%20number%20of%20minds%20that%20share%20that%20thought.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=Work%20joyfully%20and%20peacefully%2C%20knowing%20that%20right%20thoughts%20and%20right%20efforts%20inevitably%20bring%20about%20right%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
