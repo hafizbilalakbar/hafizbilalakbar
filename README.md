@@ -16469,11 +16469,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=Lust%2C%20anger%20and%20greed%20are%20the%20three%20gates%20to%20self-destructive%20hell.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=The%20whole%20world%20is%20a%20series%20of%20miracles%2C%20but%20we're%20so%20used%20to%20them%20we%20call%20them%20ordinary%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
