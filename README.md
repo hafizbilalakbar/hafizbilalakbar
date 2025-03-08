@@ -16481,11 +16481,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=You%20cannot%20swim%20for%20new%20horizons%20until%20you%20have%20courage%20to%20lose%20sight%20of%20the%20shore.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=There%20are%20more%20quarrels%20smothered%20by%20just%20shutting%20your%20mouth%2C%20and%20holding%20it%20shut%2C%20than%20by%20all%20the%20wisdom%20in%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
