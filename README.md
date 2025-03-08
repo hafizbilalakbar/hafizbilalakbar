@@ -16520,11 +16520,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=My%20favorite%20things%20in%20life%20don't%20cost%20any%20money.%20It's%20really%20clear%20that%20the%20most%20precious%20resource%20we%20all%20have%20is%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=You%20are%20today%20where%20your%20thoughts%20have%20brought%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
