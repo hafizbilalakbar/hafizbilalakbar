@@ -16550,11 +16550,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Only%20by%20attracting%20the%20best%20people%20will%20you%20accomplish%20great%20deeds.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mae%20West&quote=He%20who%20hesitates%20is%20a%20damned%20fool.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
