@@ -16488,11 +16488,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=All%20men%20who%20have%20achieved%20great%20things%20have%20been%20great%20dreamers.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=The%20greatest%20work%20that%20kindness%20does%20to%20others%20is%20that%20it%20makes%20them%20kind%20themselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
