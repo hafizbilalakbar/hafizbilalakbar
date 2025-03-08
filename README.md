@@ -16475,11 +16475,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=The%20only%20problem%20we%20really%20have%20is%20we%20think%20we're%20not%20supposed%20to%20have%20problems!%20Problems%20call%20us%20to%20higher%20level-%20-%20face%20%26%20solve%20them%20now!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=The%20saddest%20aspect%20of%20life%20is%20that%20there%20is%20no%20one%20on%20earth%20whose%20happiness%20is%20such%20that%20he%20won't%20sometimes%20wish%20he%20were%20dead%20rather%20than%20alive.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
