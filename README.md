@@ -16482,11 +16482,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=There%20are%20more%20quarrels%20smothered%20by%20just%20shutting%20your%20mouth%2C%20and%20holding%20it%20shut%2C%20than%20by%20all%20the%20wisdom%20in%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Great%20thoughts%20speak%20only%20to%20the%20thoughtful%20mind%2C%20but%20great%20actions%20speak%20to%20all%20mankind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
