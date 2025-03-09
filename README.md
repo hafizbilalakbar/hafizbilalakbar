@@ -16719,11 +16719,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=None%20but%20ourselves%20can%20free%20our%20minds.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=I%20have%20lost%20friends%2C%20some%20by%20death...others%20by%20sheer%20inability%20to%20cross%20the%20street.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
