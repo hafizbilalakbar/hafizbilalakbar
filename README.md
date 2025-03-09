@@ -16694,11 +16694,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=I%20put%20my%20heart%20and%20soul%20into%20my%20work%2C%20and%20I%20have%20lost%20my%20mind%20in%20the%20process.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=We%20will%20act%20consistently%20with%20our%20view%20of%20who%20we%20truly%20are%2C%20whether%20that%20view%20is%20accurate%20or%20not.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
