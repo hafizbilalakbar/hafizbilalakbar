@@ -16717,11 +16717,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Failure%20is%20the%20key%20to%20success%3B%20each%20mistake%20teaches%20us%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=It's%20not%20whether%20you%20get%20knocked%20down%2C%20its%20whether%20you%20get%20back%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
