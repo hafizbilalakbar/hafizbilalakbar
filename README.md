@@ -16645,11 +16645,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=That%20some%20achieve%20great%20success%20is%20proof%20to%20all%20that%20others%20can%20achieve%20it%20as%20well.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Art%20is%20to%20console%20those%20who%20are%20broken%20by%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
