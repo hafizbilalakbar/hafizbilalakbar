@@ -16711,11 +16711,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leonardo%20da%20Vinci&quote=The%20greatest%20deception%20men%20suffer%20is%20from%20their%20own%20opinions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Beverly%20Sills&quote=In%20youth%20we%20run%20into%20difficulties.%20In%20old%20age%20difficulties%20run%20into%20us.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
