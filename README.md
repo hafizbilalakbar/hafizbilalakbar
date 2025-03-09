@@ -16602,11 +16602,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=From%20error%20to%20error%20one%20discovers%20the%20entire%20truth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Every%20time%20you%20are%20tempted%20to%20react%20in%20the%20same%20old%20way%2C%20ask%20if%20you%20want%20to%20be%20a%20prisoner%20of%20the%20past%20or%20a%20pioneer%20of%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
