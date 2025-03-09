@@ -16634,11 +16634,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=To%20share%20your%20weakness%20is%20to%20make%20yourself%20vulnerable%3B%20to%20make%20yourself%20vulnerable%20is%20to%20show%20your%20strength.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=He%20who%20cannot%20be%20a%20good%20follower%20cannot%20be%20a%20good%20leader.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
