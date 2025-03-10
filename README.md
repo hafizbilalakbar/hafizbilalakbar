@@ -16818,11 +16818,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Sometimes%20you%20have%20to%20lose%20all%20you%20have%20to%20find%20out%20who%20you%20truly%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=Don't%20waste%20your%20energy%20on%20being%20angry%20at%20something%20that%20somebody%20did%20six%20months%20ago%20or%20a%20year%20ago.%20It's%20over.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
