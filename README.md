@@ -16748,11 +16748,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Always%20render%20more%20and%20better%20service%20than%20is%20expected%20of%20you%2C%20no%20matter%20what%20your%20task%20may%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=There%20is%20an%20essence%20of%20when%20you%20are%20fearless%2C%20you%20become%20more%20creative.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
