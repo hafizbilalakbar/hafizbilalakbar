@@ -16739,11 +16739,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=Everything%20starts%20with%20a%20dream.%20A%20particle%20of%20our%20imagination%20that%20teases%20us%20of%20what%20the%20future%20could%20be%20like%2C%20as%20long%20as%20we%20fight%20for%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Happiness%20is%20a%20choice%2C%20not%20a%20result.%20Nothing%20will%20make%20you%20happy%20until%20you%20choose%20to%20be%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
