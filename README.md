@@ -16905,11 +16905,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Don't%20seek%2C%20don't%20avoid%2C%20don't%20expect.%20Take%20what%20comes%20and%20be%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=There%20are%20no%20secrets%20to%20success.%20It%20is%20the%20result%20of%20preparation%2C%20hard%20work%2C%20learning%20from%20failure.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
