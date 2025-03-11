@@ -16923,11 +16923,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Ancient%20Rule%20of%20Twenty-one%3A%20if%20you%20do%20anything%20for%20twenty-one%20days%20in%20a%20row%2C%20it%20will%20be%20installed%20as%20a%20habit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=Rather%20than%20love%2C%20than%20money%2C%20than%20fame%2C%20give%20me%20truth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
