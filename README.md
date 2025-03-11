@@ -16937,11 +16937,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Become%20the%20kind%20of%20leader%20that%20people%20would%20follow%20voluntarily%2C%20even%20if%20you%20had%20no%20title%20or%20position.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=It's%20not%20how%20much%20we%20give%20but%20how%20much%20love%20we%20put%20into%20giving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
