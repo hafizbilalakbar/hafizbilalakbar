@@ -16987,11 +16987,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Hope%20is%20important%20because%20it%20can%20make%20the%20present%20moment%20less%20difficult%20to%20bear.%20If%20we%20believe%20that%20tomorrow%20will%20be%20better%2C%20we%20can%20bear%20a%20hardship%20today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Shoot%20for%20the%20moon%2C%20because%20even%20if%20you%20miss%2C%20you'll%20land%20among%20the%20stars.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
