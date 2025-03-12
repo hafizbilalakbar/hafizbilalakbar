@@ -16985,11 +16985,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Sad%20thing%20is%2C%20you%20can%20still%20love%20someone%20and%20be%20wrong%20for%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=If%20you%20pick%20up%20a%20starving%20dog%20and%20make%20him%20prosperous%20he%20will%20not%20bite%20you.%20This%20is%20the%20principal%20difference%20between%20a%20dog%20and%20man.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
