@@ -16980,11 +16980,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=The%20wiser%20you%20get%2C%20the%20less%20you%20care%20to%20look%20like%20a%20fool.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Eliot&quote=It%20will%20never%20rain%20roses%3A%20when%20we%20want%20to%20have%20more%20roses%2C%20we%20must%20plant%20more%20roses.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
