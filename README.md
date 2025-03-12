@@ -17018,11 +17018,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=Change%20is%20inevitable%20but%20personal%20growth%20is%20a%20choice.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Grudges%20are%20for%20those%20who%20insist%20that%20they%20are%20owed%20something%3B%20forgiveness%2C%20however%2C%20is%20for%20those%20who%20are%20substantial%20enough%20to%20move%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
