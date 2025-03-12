@@ -16984,11 +16984,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=It%20is%20not%20because%20things%20are%20difficult%20that%20we%20do%20not%20dare%3B%20it%20is%20because%20we%20do%20not%20dare%20that%20things%20are%20difficult.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Sad%20thing%20is%2C%20you%20can%20still%20love%20someone%20and%20be%20wrong%20for%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
