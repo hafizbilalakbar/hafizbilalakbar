@@ -17038,11 +17038,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20Law%20of%20Concentration%20states%20that%20whatever%20you%20dwell%20upon%20grows.%20The%20more%20you%20think%20about%20something%2C%20the%20more%20it%20becomes%20part%20of%20your%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=Nothing%20in%20the%20world%20is%20ever%20completely%20wrong.%20Even%20a%20stopped%20clock%20is%20right%20twice%20a%20day.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
