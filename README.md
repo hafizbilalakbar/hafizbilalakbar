@@ -17077,11 +17077,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=You%20have%20brains%20in%20your%20head.%20You%20have%20feet%20in%20your%20shoes.%20You%20can%20steer%20yourself%20any%20direction%20you%20choose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=The%20divine%20is%20not%20something%20high%20above%20us.%20It%20is%20in%20heaven%2C%20it%20is%20in%20earth%2C%20it%20is%20inside%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
