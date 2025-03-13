@@ -17075,11 +17075,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=From%20morning%20till%20night%2C%20we%20should%20never%20rely%20on%20a%20single%20thing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Success%20on%20the%20outside%20means%20nothing%20unless%20you%20also%20have%20success%20within.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
