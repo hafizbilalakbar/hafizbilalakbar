@@ -17133,11 +17133,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=There%20is%20only%20one%20thing%20that%20makes%20a%20dream%20impossible%20to%20achieve%3A%20the%20fear%20of%20failure.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=To%20the%20mind%20that%20is%20still%2C%20the%20whole%20universe%20surrenders.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
