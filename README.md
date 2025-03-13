@@ -17109,11 +17109,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=For%20every%20effect%20there%20is%20a%20root%20cause.%20Find%20and%20address%20the%20root%20cause%20rather%20than%20try%20to%20fix%20the%20effect%2C%20as%20there%20is%20no%20end%20to%20the%20latter.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=In%20the%20practice%20of%20tolerance%2C%20one's%20enemy%20is%20the%20best%20teacher.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
