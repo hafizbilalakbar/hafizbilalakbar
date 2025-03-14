@@ -17169,11 +17169,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=This%20is%20the%20most%20simple%20and%20basic%20component%20of%20life%3A%20our%20struggles%20determine%20our%20successes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=The%20secret%20of%20life%20is%20to%20fall%20seven%20times%20and%20to%20get%20up%20eight%20times.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
