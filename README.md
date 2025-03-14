@@ -17205,11 +17205,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leonardo%20da%20Vinci&quote=He%20who%20possesses%20most%20must%20be%20most%20afraid%20of%20loss.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=Death%20walks%20faster%20than%20the%20wind%20and%20never%20returns%20what%20he%20has%20taken.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
