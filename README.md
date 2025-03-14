@@ -17204,11 +17204,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Just%20try%20to%20be%20the%20best%20you%20can%20be%3B%20never%20cease%20trying%20to%20be%20the%20best%20you%20can%20be.%20That's%20in%20your%20power.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Leonardo%20da%20Vinci&quote=He%20who%20possesses%20most%20must%20be%20most%20afraid%20of%20loss.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
