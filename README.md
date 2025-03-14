@@ -17226,11 +17226,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=The%20foolish%20reject%20what%20they%20see%2C%20not%20what%20they%20think%3B%20the%20wise%20reject%20what%20they%20think%2C%20not%20what%20they%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=A%20diamond%20is%20a%20piece%20of%20charcoal%20that%20handled%20stress%20exceptionally%20well.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
