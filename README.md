@@ -17231,11 +17231,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Shunryu%20Suzuki&quote=Whether%20you%20have%20a%20problem%20in%20your%20life%20or%20not%20depends%20upon%20your%20own%20attitude%2C%20your%20own%20understanding.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=Enjoy%20life.%20There's%20plenty%20of%20time%20to%20be%20dead.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
