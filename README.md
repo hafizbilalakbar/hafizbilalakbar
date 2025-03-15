@@ -17295,11 +17295,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=The%20truth%20is%2C%20everyone%20is%20going%20to%20hurt%20you.%20You%20just%20got%20to%20find%20the%20ones%20worth%20suffering%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Even%20a%20hare%20will%20bite%20when%20it%20is%20cornered.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
