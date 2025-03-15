@@ -17345,11 +17345,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=When%20you%20rise%20in%20the%20morning%2C%20form%20a%20resolution%20to%20make%20the%20day%20a%20happy%20one%20for%20a%20fellow%20creature.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=F.%20Scott%20Fitzgerald&quote=No%20grand%20idea%20was%20ever%20born%20in%20a%20conference%2C%20but%20a%20lot%20of%20foolish%20ideas%20have%20died%20there.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
