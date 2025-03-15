@@ -17348,11 +17348,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=Be%20who%20you%20are%20and%20say%20what%20you%20feel%20because%20those%20who%20mind%20don't%20matter%20and%20those%20who%20matter%20don't%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=Arise%2C%20slay%20thy%20enemies%2C%20enjoy%20a%20prosperous%20kingdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
