@@ -17359,11 +17359,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=Life%20without%20love%20is%20like%20a%20tree%20without%20blossoms%20or%20fruit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Accept%20responsibility%20for%20your%20life.%20Know%20that%20it%20is%20you%20who%20will%20get%20you%20where%20you%20want%20to%20go%2C%20no%20one%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
