@@ -17260,11 +17260,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Whitman&quote=Every%20hour%20of%20every%20day%20is%20an%20unspeakably%20perfect%20miracle.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Genius%2C%20in%20truth%2C%20means%20little%20more%20than%20the%20faculty%20of%20perceiving%20in%20an%20unhabitual%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
