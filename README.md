@@ -17412,11 +17412,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=There%20is%20no%20failure%20except%20in%20no%20longer%20trying.%20There%20is%20no%20defeat%20except%20from%20within%2C%20no%20insurmountable%20barrier%20except%20our%20own%20inherent%20weakness%20of%20purpose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=What%20keeps%20life%20fascinating%20is%20the%20constant%20creativity%20of%20the%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
