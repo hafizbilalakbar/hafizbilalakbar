@@ -17473,11 +17473,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=In%20order%20to%20be%20walked%20over%2C%20you%20have%20to%20be%20lying%20down.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Edgar%20Allan%20Poe&quote=Believe%20nothing%20you%20hear%2C%20and%20only%20one%20half%20that%20you%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
