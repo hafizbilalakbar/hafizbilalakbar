@@ -17402,11 +17402,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Bard&quote=Though%20no%20one%20can%20go%20back%20and%20make%20a%20brand%20new%20start%2C%20anyone%20can%20start%20from%20now%20and%20make%20a%20brand%20new%20ending.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Edgar%20Allan%20Poe&quote=Believe%20nothing%20you%20hear%2C%20and%20only%20one%20half%20that%20you%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
