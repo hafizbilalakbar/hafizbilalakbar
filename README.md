@@ -17397,11 +17397,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=The%20only%20thing%20more%20frustrating%20than%20slanderers%20is%20those%20foolish%20enough%20to%20listen%20to%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=Many%20a%20man%20has%20failed%20because%20he%20had%20his%20wishbone%20where%20his%20backbone%20should%20have%20been.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
