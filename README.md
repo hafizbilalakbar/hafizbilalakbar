@@ -17467,11 +17467,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=Falling%20down%20is%20not%20failure.%20Failure%20comes%20when%20you%20stay%20where%20you%20have%20fallen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=The%20secret%20of%20life%20is%20to%20fall%20seven%20times%20and%20to%20get%20up%20eight%20times.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
