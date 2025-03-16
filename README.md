@@ -17440,11 +17440,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gustave%20Flaubert&quote=The%20future%20is%20the%20worst%20thing%20about%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=In%20the%20End%2C%20we%20will%20remember%20not%20the%20words%20of%20our%20enemies%2C%20but%20the%20silence%20of%20our%20friends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
