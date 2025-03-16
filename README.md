@@ -17416,11 +17416,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Real%20growth%20comes%20through%20intense%2C%20difficult%2C%20and%20challenging%20situations.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marilyn%20Monroe&quote=Keep%20smiling%2C%20because%20life%20is%20a%20beautiful%20thing%20and%20there's%20so%20much%20to%20smile%20about.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
