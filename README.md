@@ -17368,11 +17368,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Use%20your%20smile%20to%20change%20the%20world%20but%20don't%20let%20the%20world%20change%20your%20smile.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=Hope%20and%20fear%20come%20from%20feeling%20that%20we%20lack%20something%3B%20they%20come%20from%20a%20sense%20of%20poverty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
