@@ -17529,11 +17529,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Presents%20are%20made%20for%20the%20pleasure%20of%20who%20gives%20them%2C%20not%20the%20merits%20of%20who%20receives%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=Never%20doubt%20that%20a%20small%20group%20of%20thoughtful%2C%20committed%20citizens%20can%20change%20the%20world%3B%20indeed%2C%20it's%20the%20only%20thing%20that%20ever%20has.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
