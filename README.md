@@ -17515,11 +17515,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Bad%20things%20are%20not%20the%20worst%20things%20that%20an%20happen%20to%20us.%20NOTHING%20is%20the%20worst%20thing%20that%20can%20happen%20to%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Successful%20people%20appreciate%20where%20they%20have%20come%20from%2C%20but%20they%20don't%20let%20their%20past%20set%20the%20tone%20for%20their%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
