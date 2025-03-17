@@ -17539,11 +17539,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=You%20must%20be%20willing%20to%20do%20what%20others%20won't%20do%2C%20to%20have%20what%20others%20won't%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=Be%20kind%2C%20for%20everyone%20you%20meet%20is%20fighting%20a%20harder%20battle.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
