@@ -17510,11 +17510,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Where%20your%20talents%20and%20the%20needs%20of%20the%20world%20cross%2C%20there%20lies%20your%20vocation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=Continuous%20effort%20-%20not%20strength%20or%20intelligence%20-%20is%20the%20key%20to%20unlocking%20our%20potential.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
