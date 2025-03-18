@@ -17619,11 +17619,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Take%20into%20account%20that%20great%20love%20and%20great%20achievements%20involve%20great%20risk.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=As%20you%20grow%20older%20you%20will%20discover%20that%20you%20have%20two%20hands.%20One%20for%20helping%20yourself%2C%20the%20other%20for%20helping%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
