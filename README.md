@@ -17602,11 +17602,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=The%20most%20important%20thing%20in%20communication%20is%20to%20hear%20what%20isn't%20being%20said.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gabor%20Mate&quote=We%20may%20not%20be%20responsible%20for%20the%20world%20that%20created%20our%20minds%2C%20but%20we%20can%20take%20responsibility%20for%20the%20mind%20with%20which%20we%20create%20our%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
