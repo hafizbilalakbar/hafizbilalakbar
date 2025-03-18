@@ -17666,11 +17666,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=We%20can%20have%20more%20than%20we've%20got%20because%20we%20can%20become%20more%20than%20we%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=Our%20life%20isn't%20how%20much%20we%20can%20take%20out%2C%20but%20how%20much%20we%20can%20put%20in.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
