@@ -17632,11 +17632,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=You%20have%20power%20over%20your%20mind%20-%20not%20outside%20events.%20Realize%20this%2C%20and%20you%20will%20find%20strength.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Anyone%20who%20dreams%20of%20an%20uncommon%20life%20eventually%20discovers%20there%20is%20no%20choice%20but%20to%20seek%20an%20uncommon%20approach%20to%20living%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
