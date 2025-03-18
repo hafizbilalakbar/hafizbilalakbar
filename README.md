@@ -17648,11 +17648,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Osho&quote=A%20fear-oriented%20man%20is%20always%20calculating%2C%20planning%2C%20arranging%2C%20safeguarding.%20His%20whole%20life%20is%20lost%20in%20this%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=Success%20is%20getting%20what%20you%20want...%20Happiness%20is%20wanting%20what%20you%20get.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
