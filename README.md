@@ -17751,11 +17751,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=The%20whole%20problem%20with%20the%20world%20is%20the%20fools%20and%20fanatics%20are%20always%20so%20sure%20of%20themselves%2C%20and%20wiser%20people%20are%20full%20of%20doubts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=A.A.%20Milne&quote=You're%20braver%20than%20you%20believe%2C%20and%20stronger%20than%20you%20seem%2C%20and%20smarter%20than%20you%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
