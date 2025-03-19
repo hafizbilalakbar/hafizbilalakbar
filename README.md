@@ -17688,11 +17688,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=Darkness%20cannot%20drive%20out%20darkness%3B%20only%20light%20can%20do%20that.%20Hate%20cannot%20drive%20out%20hate%3B%20only%20love%20can%20do%20that.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=A%20fear%20of%20weakness%20only%20strengthens%20weakness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
