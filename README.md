@@ -17746,11 +17746,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=For%20all%20evils%20there%20are%20two%20remedies%20-%20time%20and%20silence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=It%20is%20the%20nature%20of%20the%20wise%20to%20resist%20pleasures%2C%20but%20the%20foolish%20to%20be%20a%20slave%20to%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
