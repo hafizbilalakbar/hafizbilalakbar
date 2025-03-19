@@ -17718,11 +17718,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=You%20can't%20go%20forward%20and%20backwards%20at%20the%20same%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Peace%20is%20letting%20it%20be.%20Letting%20life%20flow%2C%20letting%20emotions%20flow%20through%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
