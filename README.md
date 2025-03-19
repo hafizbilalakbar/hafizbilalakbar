@@ -17720,11 +17720,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Publilius%20Syrus&quote=A%20wise%20man%20will%20be%20master%20of%20his%20mind%2C%20a%20fool%20will%20be%20its%20slave.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Instead%20of%20being%20intimidated%20by%20the%20limitations%2C%20be%20inspired%20to%20find%20new%20ways%20around%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
