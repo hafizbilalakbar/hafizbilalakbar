@@ -17830,11 +17830,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=All%20you%20need%20is%20passion.%20If%20you%20have%20a%20passion%20for%20something%2C%20you'll%20create%20the%20talent.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=F.%20Scott%20Fitzgerald&quote=The%20ability%20to%20hold%20two%20competing%20thoughts%20in%20one's%20mind%20and%20still%20be%20able%20to%20function%20is%20the%20mark%20of%20a%20superior%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
