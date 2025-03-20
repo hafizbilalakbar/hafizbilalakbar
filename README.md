@@ -17864,11 +17864,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=We%20meet%20ourselves%20time%20and%20again%20in%20a%20thousand%20disguises%20on%20the%20path%20of%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=When%20you%20love%20someone%2C%20you%20love%20the%20person%20as%20they%20are%2C%20and%20not%20as%20you'd%20like%20them%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
