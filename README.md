@@ -17874,11 +17874,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=Happiness%20must%20be%20grown%20in%20one's%20own%20garden.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=What%20people%20need%20and%20what%20they%20want%20may%20be%20very%20different.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
