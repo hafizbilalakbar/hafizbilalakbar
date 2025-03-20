@@ -17848,11 +17848,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mahatma%20Gandhi&quote=The%20best%20way%20to%20find%20yourself%20is%20to%20lose%20yourself%20in%20the%20service%20of%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=You%20can%20not%20live%20your%20life%20just%20based%20on%20what%20everyone%20else%20thinks.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
