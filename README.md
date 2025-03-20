@@ -17849,11 +17849,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=You%20can%20not%20live%20your%20life%20just%20based%20on%20what%20everyone%20else%20thinks.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=From%20morning%20till%20night%2C%20we%20should%20never%20rely%20on%20a%20single%20thing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
