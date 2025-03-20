@@ -17860,11 +17860,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=The%20greatest%20discovery%20of%20all%20time%20is%20that%20a%20person%20can%20change%20their%20future%20by%20merely%20changing%20their%20attitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Persistence%20is%20very%20important.%20You%20should%20not%20give%20up%20unless%20you%20are%20forced%20to%20give%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
