@@ -17872,11 +17872,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=Never%20let%20the%20things%20you%20can't%20do%20stop%20you%20from%20doing%20what%20you%20can.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=Good%20things%20aren't%20supposed%20to%20just%20fall%20into%20your%20lap.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
