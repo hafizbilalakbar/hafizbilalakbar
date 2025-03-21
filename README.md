@@ -17917,11 +17917,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=If%20what%20you're%20doing%20is%20not%20your%20passion%2C%20you%20have%20nothing%20to%20lose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=If%20you%20don't%20have%20time%20to%20do%20it%20right%2C%20when%20will%20you%20have%20time%20to%20do%20it%20over%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
