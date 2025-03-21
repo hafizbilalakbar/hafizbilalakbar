@@ -17885,11 +17885,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Great%20things%20happen%20to%20those%20who%20don't%20stop%20believing%2C%20trying%2C%20learning%2C%20and%20being%20grateful.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=There%20are%20two%20primary%20choices%20in%20life%3A%20to%20accept%20conditions%20as%20they%20exist%2C%20or%20accept%20the%20responsibility%20for%20changing%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
