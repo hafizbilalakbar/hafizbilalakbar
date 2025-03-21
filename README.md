@@ -17912,11 +17912,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=Peace%20is%20not%20something%20you%20wish%20for%3B%20It's%20something%20you%20make%2C%20something%20you%20do%2C%20something%20you%20are%2C%20and%20something%20you%20give%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Disney&quote=All%20our%20dreams%20can%20come%20true%2C%20if%20we%20have%20the%20courage%20to%20pursue%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
