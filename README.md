@@ -18008,11 +18008,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=The%20friend%20is%20the%20man%20who%20knows%20all%20about%20you%2C%20and%20still%20likes%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Throughout%20this%20life%2C%20you%20can%20never%20be%20certain%20of%20living%20long%20enough%20to%20take%20another%20breath.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
