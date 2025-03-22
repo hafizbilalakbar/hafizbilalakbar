@@ -18057,11 +18057,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.P.%20Kinsella&quote=You%20have%20to%20make%20time%2C%20even%20for%20something%20as%20universal%20as%20staring%20at%20the%20stars.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=Trying%20to%20define%20yourself%20is%20like%20trying%20to%20bite%20your%20own%20teeth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
