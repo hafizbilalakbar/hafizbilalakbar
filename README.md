@@ -17980,11 +17980,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Become%20the%20kind%20of%20leader%20that%20people%20would%20follow%20voluntarily%2C%20even%20if%20you%20had%20no%20title%20or%20position.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ray%20Bradbury&quote=Insanity%20is%20relative.%20It%20depends%20on%20who%20has%20who%20locked%20in%20what%20cage.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
