@@ -18114,11 +18114,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=I%20thought%20how%20unpleasant%20it%20is%20to%20be%20locked%20out%3B%20and%20I%20thought%20how%20it%20is%20worse%2C%20perhaps%2C%20to%20be%20locked%20in.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=From%20error%20to%20error%20one%20discovers%20the%20entire%20truth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
