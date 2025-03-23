@@ -18165,11 +18165,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Will%20Rogers&quote=It's%20not%20what%20you%20pay%20a%20man%2C%20but%20what%20he%20costs%20you%20that%20counts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=Be%20of%20good%20cheer%20about%20death%2C%20and%20know%20this%20of%20a%20truth%2C%20that%20no%20evil%20can%20happen%20to%20a%20good%20man%2C%20either%20in%20life%20or%20after%20death.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
