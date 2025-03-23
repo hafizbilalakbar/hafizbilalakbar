@@ -18200,11 +18200,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Be%20as%20fluid%20as%20water%2C%20do%20not%20give%20your%20enemies%20anything%20solid%20to%20attack.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=Charms%20strike%20the%20sight%2C%20but%20merit%20wins%20the%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
