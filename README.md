@@ -18178,11 +18178,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Trying%20to%20predict%20the%20future%20is%20like%20trying%20to%20drive%20down%20a%20country%20road%20at%20night%20with%20no%20lights%20while%20looking%20out%20the%20back%20window.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Extraordinary%20results%20happen%20only%20when%20you%20give%20the%20best%20you%20have%20to%20become%20the%20best%20you%20can%20be%20at%20your%20most%20important%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
