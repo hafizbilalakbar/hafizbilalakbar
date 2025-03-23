@@ -18131,11 +18131,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Happiness%20is%20the%20meaning%20and%20the%20purpose%20of%20life%2C%20the%20whole%20aim%20and%20end%20of%20human%20existence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristophanes&quote=Wise%20people%2C%20even%20though%20all%20laws%20were%20abolished%2C%20would%20still%20lead%20the%20same%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
