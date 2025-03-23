@@ -18104,11 +18104,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=It%20matters%20not%20who%20you%20love%2C%20where%20you%20love%2C%20why%20you%20love%2C%20when%20you%20love%20or%20how%20you%20love%2C%20it%20matters%20only%20that%20you%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=When%20you're%20the%20only%20sane%20person%2C%20you%20look%20like%20the%20only%20insane%20person.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
