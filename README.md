@@ -18267,11 +18267,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=When%20you%20are%20content%20to%20be%20simply%20yourself%20and%20don't%20compare%20or%20compete%2C%20everybody%20will%20respect%20you.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Eliot&quote=What%20do%20we%20live%20for%2C%20if%20it%20is%20not%20to%20make%20life%20less%20difficult%20for%20each%20other%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
