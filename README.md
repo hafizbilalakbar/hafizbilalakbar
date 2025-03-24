@@ -18238,11 +18238,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=It%20doesn't%20matter%20where%20you%20are%2C%20you%20are%20nowhere%20compared%20to%20where%20you%20can%20go.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=A.A.%20Milne&quote=Weeds%20are%20flowers%20too%2C%20once%20you%20get%20to%20know%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
