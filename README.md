@@ -18218,11 +18218,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bodhidharma&quote=Many%20roads%20lead%20to%20the%20path%2C%20but%20basically%20there%20are%20only%20two%3A%20reason%20and%20practice.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Take%20the%20attitude%20of%20a%20student.%20Never%20be%20too%20big%20to%20ask%20questions.%20Never%20know%20too%20much%20to%20learn%20something%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
