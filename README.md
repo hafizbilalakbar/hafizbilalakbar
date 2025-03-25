@@ -18367,11 +18367,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Life%20is%20growth.%20If%20we%20stop%20growing%2C%20technically%20and%20spiritually%2C%20we%20are%20as%20good%20as%20dead.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sonia%20Ricotti&quote=Just%20trust%20that%20everything%20is%20unfolding%20the%20way%20it%20is%20supposed%20to.%20Don't%20resist...%20Great%20things%20are%20waiting%20for%20you%20around%20the%20corner.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
