@@ -18299,11 +18299,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Mistake%20is%20a%20mistake%20only%20if%20you%20make%20it%20twice.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Accept%20responsibility%20for%20your%20life.%20Know%20that%20it%20is%20you%20who%20will%20get%20you%20where%20you%20want%20to%20go%2C%20no%20one%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
