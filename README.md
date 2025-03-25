@@ -18354,11 +18354,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Yesterday%20is%20the%20past%2C%20tomorrow%20is%20the%20future%2C%20today%20is%20a%20gift%20-%20that's%20why%20it's%20called%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=I%20didn't%20get%20there%20by%20wishing%20for%20it%20or%20hoping%20for%20it%2C%20but%20by%20working%20for%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
