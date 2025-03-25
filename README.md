@@ -18371,11 +18371,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=The%20greatest%20test%20of%20courage%20on%20earth%20is%20to%20bear%20defeat%20without%20losing%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=The%20less%20you%20respond%20to%20negative%20people%2C%20the%20more%20positive%20your%20life%20will%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
