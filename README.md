@@ -18300,11 +18300,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Accept%20responsibility%20for%20your%20life.%20Know%20that%20it%20is%20you%20who%20will%20get%20you%20where%20you%20want%20to%20go%2C%20no%20one%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=We%20suffer%20for%20the%20simple%20reason%20that%20suffering%20is%20biologically%20useful.%20It%20is%20nature's%20preferred%20agent%20for%20inspiring%20change.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
