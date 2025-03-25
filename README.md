@@ -18362,11 +18362,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=The%20less%20you%20try%20to%20impress%2C%20the%20more%20peaceful%20you%20can%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeffrey%20Gitomer&quote=You%20don't%20earn%20loyalty%20in%20a%20day.%20You%20earn%20loyalty%20day-by-day.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
