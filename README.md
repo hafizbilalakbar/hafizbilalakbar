@@ -18332,11 +18332,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=There's%20a%20very%20deep%20connection%20among%20human%20beings.%20All%20we%20have%20to%20do%20is%20open%20our%20minds%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=Do%20not%20use%20life%20to%20give%20life%20to%20death.%20Do%20not%20use%20death%20to%20bring%20death%20to%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
