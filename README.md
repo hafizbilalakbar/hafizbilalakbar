@@ -18449,11 +18449,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Just%20because%20you%20are%20happy%20it%20does%20not%20mean%20that%20the%20day%20is%20perfect%20but%20that%20you%20have%20looked%20beyond%20its%20imperfections.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Your%20only%20obligation%20in%20any%20lifetime%20is%20to%20be%20true%20to%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
