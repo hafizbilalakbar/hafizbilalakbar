@@ -18473,11 +18473,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=The%20four%20P's%20to%20success%20are%20pressure%2C%20persistence%2C%20perseverance%2C%20and%20prayer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=You%20have%20a%20brain%20and%20mind%20of%20your%20own.%20Use%20it%2C%20and%20reach%20your%20own%20decisions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
