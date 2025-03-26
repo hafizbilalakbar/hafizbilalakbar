@@ -18493,11 +18493,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=A%20real%20decision%20is%20measured%20by%20the%20fact%20that%20you've%20taken%20a%20new%20action.%20If%20there's%20no%20action%2C%20you%20haven't%20truly%20decided.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=What%20people%20need%20and%20what%20they%20want%20may%20be%20very%20different.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
