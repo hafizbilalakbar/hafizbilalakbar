@@ -18531,11 +18531,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=It%20is%20truth%20that%20liberates%2C%20not%20your%20effort%20to%20be%20free.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=Letting%20go%20means%20to%20come%20to%20the%20realization%20that%20some%20people%20are%20a%20part%20of%20your%20history%2C%20but%20not%20a%20part%20of%20your%20destiny.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
