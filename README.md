@@ -18524,11 +18524,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Don't%20be%20afraid%20to%20stand%20for%20what%20you%20believe%20in%2C%20even%20if%20that%20means%20standing%20alone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=Opportunity%20is%20missed%20by%20most%20people%20because%20it%20is%20dressed%20in%20overalls%20and%20looks%20like%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
