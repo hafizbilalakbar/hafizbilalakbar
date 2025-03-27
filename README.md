@@ -18589,11 +18589,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=Always%20dream%20and%20shoot%20higher%20than%20you%20know%20you%20can%20do.%20Do%20not%20bother%20just%20to%20be%20better%20than%20your%20contemporaries%20or%20predecessors.%20Try%20to%20be%20better%20than%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=You%20can't%20get%20to%20a%20place%20that%20you%20don't%20believe%20exists.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
