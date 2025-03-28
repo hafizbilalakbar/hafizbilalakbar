@@ -18686,11 +18686,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=Don't%20be%20afraid%20of%20missing%20opportunities.%20Behind%20every%20failure%20is%20an%20opportunity%20somebody%20wishes%20they%20had%20missed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=It%20still%20holds%20true%20that%20man%20is%20most%20uniquely%20human%20when%20he%20turns%20obstacles%20into%20opportunities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
