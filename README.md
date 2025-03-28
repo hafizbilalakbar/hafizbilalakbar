@@ -18611,11 +18611,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=It%20is%20amazing%20what%20you%20can%20accomplish%20if%20you%20do%20not%20care%20who%20gets%20the%20credit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Everything%20great%20that%20has%20ever%20happened%20to%20humanity%20has%20begun%20as%20a%20single%20thought%20in%20someone's%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
