@@ -18659,11 +18659,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=The%20best%20time%20to%20plant%20a%20tree%20was%2020%20years%20ago.%20The%20second%20best%20time%20is%20now.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=Where%20you%20are%20right%20now%20doesn't%20have%20to%20determine%20where%20you'll%20end%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
