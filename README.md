@@ -18608,11 +18608,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seungsahn&quote=If%20you%20want%20something%20then%20you%20lose%20everything.%20If%20you%20don't%20want%20anything%20then%20you%20already%20have%20everything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=I%20learned%20the%20value%20of%20hard%20work%20by%20working%20hard.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
