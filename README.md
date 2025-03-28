@@ -18651,11 +18651,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Life%20is%20not%20just%20the%20passing%20of%20time.%20Life%20is%20the%20collection%20of%20experiences%20and%20their%20intensity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20A.%20Cohen&quote=If%20you%20truly%20expect%20something%20to%20be%20difficult%2C%20it%20will%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
