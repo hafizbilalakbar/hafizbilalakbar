@@ -18738,11 +18738,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20dreamers%20are%20the%20saviors%20of%20the%20worlds.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=To%20acquire%20true%20self%20power%20you%20have%20to%20feel%20beneath%20no%20one%2C%20be%20immune%20to%20criticism%20and%20be%20fearless.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
