@@ -18717,11 +18717,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=By%20failing%20to%20prepare%2C%20you%20are%20preparing%20to%20fail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Wisdom%20consists%20not%20so%20much%20in%20knowing%20what%20to%20do%20in%20the%20ultimate%20as%20knowing%20what%20to%20do%20next.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
