@@ -18757,11 +18757,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Mays&quote=Whatever%20you%20do%2Cstrive%20to%20do%20it%20so%20well%20that%20no%20man%20living%20and%20no%20man%20dead%20and%20no%20man%20yet%20to%20be%20born%20could%20do%20it%20any%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Graham%20Bell&quote=Concentrate%20all%20your%20thoughts%20upon%20the%20work%20at%20hand.%20The%20sun's%20rays%20do%20not%20burn%20until%20brought%20to%20focus.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
