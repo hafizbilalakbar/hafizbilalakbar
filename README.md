@@ -18891,11 +18891,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=When%20we%20strive%20to%20become%20better%20than%20we%20are%2C%20everything%20around%20us%20becomes%20better%2C%20too.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=When%20you%20are%20content%20to%20be%20simply%20yourself%20and%20don't%20compare%20or%20compete%2C%20everybody%20will%20respect%20you.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
