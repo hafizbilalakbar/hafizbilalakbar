@@ -18887,11 +18887,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Deliberately%20seek%20the%20company%20of%20people%20who%20influence%20you%20to%20think%20and%20act%20on%20building%20the%20life%20you%20desire.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It's%20the%20unknown%20we%20fear%20when%20we%20look%20upon%20death%20and%20darkness%2C%20nothing%20more.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
