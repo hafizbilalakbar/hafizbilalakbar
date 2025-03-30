@@ -18899,11 +18899,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=People%20tend%20to%20complicate%20their%20own%20lives%2C%20as%20if%20living%20weren't%20already%20complicated%20enough.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=While%20we%20may%20not%20be%20able%20to%20control%20all%20that%20happens%20to%20us%2C%20we%20can%20control%20what%20happens%20inside%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
