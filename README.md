@@ -18874,11 +18874,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=If%20you%20want%20to%20know%20what%20God%20thinks%20about%20money%20just%20look%20at%20the%20people%20He%20gives%20it%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=No%20matter%20how%20smart%20we%20may%20think%20we%20are%2C%20no%20matter%20how%20committed%20we%20are%20to%20our%20truth%2C%20we%20can%20lose%20our%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
