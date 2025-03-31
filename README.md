@@ -18992,11 +18992,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=What's%20obvious%20to%20you%20isn't%20obvious%20to%20most%20people.%20Operate%20from%20this%20perspective%20and%20you'll%20help%20more%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=It's%20the%20possibility%20of%20having%20a%20dream%20come%20true%20that%20makes%20life%20interesting.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
