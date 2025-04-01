@@ -19048,11 +19048,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Making%20money%20isn't%20hard%20in%20itself...%20What's%20hard%20is%20to%20earn%20it%20doing%20something%20worth%20devoting%20one's%20life%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=Darkness%20must%20pass.%20A%20new%20day%20will%20come.%20And%20when%20the%20sun%20shines%2C%20it%20will%20shine%20out%20the%20clearer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
