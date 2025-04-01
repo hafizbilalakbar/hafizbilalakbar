@@ -19086,11 +19086,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=Best%20be%20yourself%2C%20imperial%2C%20plain%2C%20and%20true.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=If%20you%20want%20to%20turn%20a%20vision%20into%20reality%2C%20you%20have%20to%20give%20100%25%20and%20never%20stop%20believing%20in%20your%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
