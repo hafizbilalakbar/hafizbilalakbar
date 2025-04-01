@@ -19022,11 +19022,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=A%20single%20dream%20is%20more%20powerful%20than%20a%20thousand%20realities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Learn%20to%20value%20yourself%2C%20which%20means%3A%20fight%20for%20your%20happiness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
