@@ -19057,11 +19057,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Wrong%20turns%20are%20as%20important%20as%20right%20turns.%20More%20important%2C%20sometimes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=Have%20the%20courage%20to%20be%20ignorant%20of%20a%20great%20number%20of%20things%2C%20in%20order%20to%20avoid%20the%20calamity%20of%20being%20ignorant%20of%20everything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
