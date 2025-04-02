@@ -19165,11 +19165,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Even%20if%20you're%20sure%20you%20can%20win%2C%20be%20careful%20that%20you%20can%20live%20with%20what%20you%20lose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=What%20most%20people%20need%20to%20learn%20in%20life%20is%20how%20to%20love%20people%20and%20use%20things%20instead%20of%20using%20people%20and%20loving%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
