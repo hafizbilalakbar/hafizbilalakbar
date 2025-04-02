@@ -19131,11 +19131,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=Circumstances%20rule%20men%3B%20men%20do%20not%20rule%20circumstances.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Judy%20Garland&quote=A%20heart%20is%20not%20judged%20by%20how%20much%20you%20love%2C%20but%20by%20how%20much%20you%20are%20loved%20by%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
