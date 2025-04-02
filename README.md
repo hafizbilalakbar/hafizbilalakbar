@@ -19133,11 +19133,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Be%20truthful%20about%20your%20emotions%2C%20and%20use%20your%20mind%20and%20emotions%20in%20your%20favor%2C%20not%20against%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Do%20not%20ignore%20your%20gift.%20Your%20gift%20is%20the%20thing%20you%20do%20the%20absolute%20best%20with%20the%20least%20amount%20of%20effort.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
