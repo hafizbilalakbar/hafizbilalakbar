@@ -19153,11 +19153,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Eliot&quote=Keep%20true.%20Never%20be%20ashamed%20of%20doing%20right.%20Decide%20what%20you%20think%20is%20right%20and%20stick%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=Projecting%20your%20mind%20into%20a%20successful%20situation%20is%20the%20most%20powerful%20means%20to%20achieve%20goals.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
