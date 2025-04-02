@@ -19160,11 +19160,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=Live%20life%20as%20though%20nobody%20is%20watching%2C%20and%20express%20yourself%20as%20though%20everyone%20is%20listening.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Leaders%20think%20and%20talk%20about%20solutions.%20Followers%20think%20and%20talk%20about%20the%20problems.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
