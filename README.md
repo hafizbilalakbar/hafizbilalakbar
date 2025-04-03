@@ -19247,11 +19247,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=A%20man%20is%20great%20not%20because%20he%20hasn't%20failed%3B%20a%20man%20is%20great%20because%20failure%20hasn't%20stopped%20him.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Exceptional%20thinkers%20ignore%20their%20critics%20and%20go%20about%20their%20business%20making%20history.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
