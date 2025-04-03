@@ -19283,11 +19283,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franklin%20D.%20Roosevelt&quote=Do%20Something.%20If%20it%20works%2C%20do%20more%20of%20it.%20If%20it%20doesn't%2C%20do%20something%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=Happiness%20is%20not%20the%20absence%20of%20problems%2C%20it's%20the%20ability%20to%20deal%20with%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
