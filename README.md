@@ -19255,11 +19255,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=It%20doesn't%20matter%20if%20the%20glass%20is%20half%20empty%20or%20half%20full.%20Be%20grateful%20you%20have%20a%20glass%20-%20you're%20the%20only%20person%20that%20can%20decide%20what's%20in%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=Winners%20are%20not%20people%20who%20never%20fail%2C%20but%20people%20who%20never%20quit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
