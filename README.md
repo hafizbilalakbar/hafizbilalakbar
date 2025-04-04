@@ -19298,11 +19298,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=Growth%20comes%20at%20the%20point%20of%20resistance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=It%20is%20in%20the%20heart%20that%20makes%20a%20man%20rich.%20He%20is%20rich%20according%20to%20what%20he%20is%2C%20not%20according%20to%20what%20he%20has.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
