@@ -19308,11 +19308,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=A%20dead%20thing%20can%20go%20with%20the%20stream%2C%20but%20only%20a%20living%20thing%20can%20go%20against%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=From%20error%20to%20error%20one%20discovers%20the%20entire%20truth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
