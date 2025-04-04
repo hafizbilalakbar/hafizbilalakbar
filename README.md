@@ -19307,11 +19307,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Shunryu%20Suzuki&quote=Whether%20you%20have%20a%20problem%20in%20your%20life%20or%20not%20depends%20upon%20your%20own%20attitude%2C%20your%20own%20understanding.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=A%20dead%20thing%20can%20go%20with%20the%20stream%2C%20but%20only%20a%20living%20thing%20can%20go%20against%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
