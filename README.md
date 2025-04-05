@@ -19460,11 +19460,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Who%20looks%20outside%2C%20dreams%3B%20who%20looks%20inside%2C%20awakes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=I%20take%20the%20position%20that%20I'm%20always%20to%20some%20degree%20wrong%2C%20and%20the%20aspiration%20is%20to%20be%20less%20wrong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
