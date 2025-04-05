@@ -19490,11 +19490,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=It's%20possible%20in%20ways%20both%20large%20or%20small%20to%20make%20a%20difference%20in%20someone's%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=Many%20of%20life's%20failures%20are%20people%20who%20did%20not%20realize%20how%20close%20they%20were%20to%20success%20when%20they%20gave%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
