@@ -19587,11 +19587,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=A%20thing%20constructed%20can%20only%20be%20loved%20after%20it%20is%20constructed%3B%20but%20a%20thing%20created%20is%20loved%20before%20it%20exists.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=When%20you're%20at%20the%20end%20of%20your%20rope%2C%20tie%20a%20knot%20and%20hold%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
