@@ -19597,11 +19597,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=Thought%20is%20so%20cunning%2C%20so%20clever%2C%20that%20it%20distorts%20everything%20for%20its%20own%20convenience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=The%20eye%20with%20which%20I%20see%20God%20is%20the%20same%20eye%20with%20which%20God%20sees%20me.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
