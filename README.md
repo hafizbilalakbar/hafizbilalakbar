@@ -19501,11 +19501,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Cameron&quote=Curiosity%20is%20the%20most%20powerful%20thing%20you%20own.%20Imagination%20is%20a%20force%20that%20can%20actually%20manifest%20a%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Some%20of%20us%20learn%20from%20other%20people's%20mistakes%20and%20the%20rest%20of%20us%20have%20to%20be%20other%20people.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
