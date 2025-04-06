@@ -19603,11 +19603,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Freedom%20is%20the%20open%20window%20through%20which%20pours%20the%20sunlight%20of%20the%20human%20spirit%20and%20human%20dignity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=What%20the%20eye%20doesn't%20see%20and%20the%20mind%20doesn't%20know%2C%20doesn't%20exist.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
