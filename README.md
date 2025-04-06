@@ -19530,11 +19530,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lin%20Yutang&quote=Sometimes%20it%20is%20more%20important%20to%20discover%20what%20one%20cannot%20do%2C%20than%20what%20one%20can%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=We%20will%20now%20discuss%20in%20a%20little%20more%20detail%20the%20Struggle%20for%20Existence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
