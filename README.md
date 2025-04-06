@@ -19546,11 +19546,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=The%20problem%20happens%20when%20we%20have%20multiple%20desires.%20When%20we%20have%20fuzzy%20desires.%20When%20we%20want%20to%20do%20ten%20different%20things%20and%20we're%20not%20clear%20about%20which%20is%20the%20one%20we%20care%20about.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Tukey&quote=An%20approximate%20answer%20to%20the%20right%20question%20is%20worth%20a%20great%20deal%20more%20than%20a%20precise%20answer%20to%20the%20wrong%20question.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
