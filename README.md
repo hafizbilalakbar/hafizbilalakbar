@@ -19660,11 +19660,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seungsahn&quote=If%20you%20want%20something%20then%20you%20lose%20everything.%20If%20you%20don't%20want%20anything%20then%20you%20already%20have%20everything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=The%20present%20moment%20dies%20every%20moment%20to%20become%20the%20past%20%2C%20is%20reborn%20every%20moment%20into%20the%20future.%20All%20experience%20is%20now.%20Now%20never%20ends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
