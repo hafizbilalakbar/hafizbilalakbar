@@ -19692,11 +19692,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=The%20fastest%20way%20to%20change%20is%20to%20laugh%20at%20your%20own%20folly.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=Happiness%20must%20be%20grown%20in%20one's%20own%20garden.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
