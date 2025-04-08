@@ -19771,11 +19771,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Life%20is%20like%20riding%20a%20bicycle.%20To%20keep%20your%20balance%20you%20must%20keep%20moving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=Incredible%20change%20happens%20in%20your%20life%20when%20you%20decide%20to%20take%20control%20of%20what%20you%20do%20have%20power%20over%20instead%20of%20craving%20control%20over%20what%20you%20don't.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
