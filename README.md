@@ -19789,11 +19789,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=The%20truth...%20It%20is%20a%20beautiful%20and%20terrible%20thing%2C%20and%20should%20therefore%20be%20treated%20with%20great%20caution.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=You%20Create%20Your%20Own%20Present%20By%20What%20You%20Give%20Your%20Attention%20To%20Today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
