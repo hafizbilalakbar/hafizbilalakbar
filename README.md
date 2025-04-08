@@ -19752,11 +19752,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=People%20don't%20realize%20that%20now%20is%20all%20there%20ever%20is%3B%20there%20is%20no%20past%20or%20future%20except%20as%20memory%20or%20anticipation%20in%20your%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Never%20take%20your%20position%20for%20granted%20and%20never%20let%20any%20favors%20you%20receive%20go%20to%20your%20head.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
