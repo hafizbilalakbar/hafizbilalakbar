@@ -19855,11 +19855,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=Contemplation%20often%20makes%20life%20miserable.%20%20We%20should%20act%20more%2C%20think%20less%2C%20and%20stop%20watching%20ourselves%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Fear%2C%20uncertainty%2C%20and%20discomfort%20are%20your%20compasses%20toward%20growth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
