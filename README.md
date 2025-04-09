@@ -19829,11 +19829,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeffrey%20Gitomer&quote=Change%20is%20not%20a%20four%20letter%20word...but%20often%20your%20reaction%20to%20it%20is!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Poetry%20is%20written%20with%20tears%2C%20fiction%20with%20blood%2C%20and%20history%20with%20invisible%20ink.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
