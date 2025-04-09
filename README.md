@@ -19844,11 +19844,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Mind%20is%20the%20creator%20of%20everything.%20You%20should%20therefore%20guide%20it%20to%20create%20only%20good.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=It%20is%20important%20that%20we%20forgive%20ourselves%20for%20making%20mistakes.%20We%20need%20to%20learn%20from%20our%20errors%20and%20move%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
