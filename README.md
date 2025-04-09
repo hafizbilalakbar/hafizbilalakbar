@@ -19862,11 +19862,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=Learn%20from%20the%20rejection%20and%20turn%20it%20into%20an%20opportunity!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=Fallacies%20do%20not%20cease%20to%20be%20fallacies%20because%20they%20become%20fashions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
