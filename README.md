@@ -19800,11 +19800,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Preoccupied%20with%20a%20single%20leaf%20you%20won't%20see%20the%20tree.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Niccolo%20Machiavelli&quote=It%20is%20not%20titles%20that%20honour%20men%2C%20but%20men%20that%20honour%20titles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
