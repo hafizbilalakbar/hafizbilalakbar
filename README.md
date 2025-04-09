@@ -19825,11 +19825,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Experience%20is%20a%20comb%20which%20nature%20gives%20us%20when%20we%20are%20bald.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Welcome%20every%20morning%20with%20a%20smile.%20Look%20on%20the%20new%20day%20as%20another%20gift%20from%20your%20Creator%2C%20another%20golden%20opportunity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
