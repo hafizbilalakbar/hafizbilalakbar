@@ -19968,11 +19968,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Life%20is%20a%20gift%2C%20and%20it%20offers%20us%20the%20privilege%2C%20opportunity%2C%20and%20responsibility%20to%20give%20something%20back%20by%20becoming%20more.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Tension%20is%20who%20you%20think%20you%20should%20be.%20Relaxation%20is%20who%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
