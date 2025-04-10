@@ -19914,11 +19914,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=You%20need%20to%20be%20doing%20fewer%20things%20for%20more%20effect%20instead%20of%20doing%20more%20things%20with%20side%20effects.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Luck%20is%20a%20matter%20of%20preparation%20meeting%20opportunity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
