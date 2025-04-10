@@ -19977,11 +19977,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=All%20has%20not%20been%20said%20and%20never%20will%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Reeve&quote=Words%20can%20only%20have%20a%20positive%20effect%20on%20others%20if%20and%20when%20they%20are%20ready%20to%20listen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
