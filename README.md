@@ -19933,11 +19933,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seungsahn&quote=When%20reading%2C%20only%20read.%20When%20eating%2C%20only%20eat.%20When%20thinking%2C%20only%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=You're%20on%20earth.%20There's%20no%20cure%20for%20that.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
