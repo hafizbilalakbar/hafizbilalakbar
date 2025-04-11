@@ -20025,11 +20025,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=People%20with%20clear%2C%20written%20goals%2C%20accomplish%20far%20more%20in%20a%20shorter%20period%20of%20time%20than%20people%20without%20them%20could%20ever%20imagine.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Grudges%20are%20for%20those%20who%20insist%20that%20they%20are%20owed%20something%3B%20forgiveness%2C%20however%2C%20is%20for%20those%20who%20are%20substantial%20enough%20to%20move%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
