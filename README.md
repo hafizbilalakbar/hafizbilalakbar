@@ -20032,11 +20032,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=There%20are%20no%20differences%20but%20differences%20of%20degree%20between%20different%20degrees%20of%20difference%20and%20no%20difference.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=Only%20he%20who%20has%20no%20use%20for%20the%20empire%20is%20fit%20to%20be%20entrusted%20with%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
