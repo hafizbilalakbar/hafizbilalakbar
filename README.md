@@ -20040,11 +20040,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=We%20must%20not%20cease%20from%20exploration.%20And%20the%20end%20of%20all%20our%20exploring%20will%20be%20to%20arrive%20where%20we%20began%20and%20to%20know%20the%20place%20for%20the%20first%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mae%20West&quote=An%20ounce%20of%20performance%20is%20worth%20pounds%20of%20promises.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
