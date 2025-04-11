@@ -20031,11 +20031,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=I%20alone%20cannot%20change%20the%20world%2C%20but%20I%20can%20cast%20a%20stone%20across%20the%20waters%20to%20create%20many%20ripples.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=There%20are%20no%20differences%20but%20differences%20of%20degree%20between%20different%20degrees%20of%20difference%20and%20no%20difference.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
