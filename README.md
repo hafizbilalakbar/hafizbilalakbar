@@ -20271,11 +20271,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Everything%20that%20is%20made%20beautiful%20and%20fair%20and%20lovely%20is%20made%20for%20the%20eye%20of%20one%20who%20sees.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=Never%20let%20the%20things%20you%20can't%20do%20stop%20you%20from%20doing%20what%20you%20can.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
