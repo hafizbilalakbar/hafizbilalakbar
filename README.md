@@ -20320,11 +20320,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=To%20be%20happy%20we%20need%20something%20to%20solve.%20Happiness%20is%20therefore%20a%20form%20of%20action.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=We%20have%20to%20walk%20in%20a%20way%20that%20we%20only%20print%20peace%20and%20serenity%20on%20the%20Earth.%20Walk%20as%20if%20you%20are%20kissing%20the%20Earth%20with%20your%20feet.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
