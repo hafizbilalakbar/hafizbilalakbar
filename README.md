@@ -20324,11 +20324,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=If%20you%20think%20adventure%20is%20dangerous%2C%20try%20routine%3B%20it%20is%20lethal.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Anger%2C%20ego%2C%20jealousy%20are%20the%20biggest%20diseases%2CKeep%20yourself%20aloof%20from%20these%20three%20diseases.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
