@@ -20419,11 +20419,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=Peace%20is%20the%20result%20of%20retraining%20your%20mind%20to%20process%20life%20as%20it%20is%2C%20rather%20than%20as%20you%20think%20it%20should%20be.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mahatma%20Gandhi&quote=The%20future%20depends%20on%20what%20you%20do%20today.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
