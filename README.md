@@ -20438,11 +20438,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Realize%20deeply%20that%20the%20present%20moment%20is%20all%20you%20have.%20Make%20the%20NOW%20the%20primary%20focus%20of%20your%20life.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=The%20greatest%20of%20all%20mistakes%20is%20to%20do%20nothing%20because%20you%20think%20you%20can%20only%20do%20a%20little.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
