@@ -20501,11 +20501,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=What%20you%20are%20afraid%20of%20is%20never%20as%20bad%20as%20what%20you%20imagine.%20The%20fear%20you%20let%20build%20up%20in%20your%20mind%20is%20worse%20than%20the%20situation%20that%20actually%20exists.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=You%20want%20to%20live%20but%20do%20you%20know%20how%20to%20live%3F%20You%20are%20scared%20of%20dying%20and%20tell%20me%2C%20is%20the%20kind%20of%20life%20you%20lead%20really%20any%20different%20from%20being%20dead%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
