@@ -20519,11 +20519,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Do%20you%20want%20to%20know%20who%20you%20are%3F%20Don't%20ask.%20Act!%20Action%20will%20delineate%20and%20define%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Quality%20is%20more%20important%20than%20quantity.%20One%20home%20run%20is%20much%20better%20than%20two%20doubles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
