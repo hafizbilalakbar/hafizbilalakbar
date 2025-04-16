@@ -20464,11 +20464,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=The%20moment%20you%20stop%20to%20think%20about%20whether%20you%20love%20someone%2C%20you've%20already%20stopped%20loving%20that%20person%20forever.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=The%20size%20of%20your%20success%20is%20measured%20by%20the%20strength%20of%20your%20desire%3B%20the%20size%20of%20your%20dream%3B%20and%20how%20you%20handle%20disappointment%20along%20the%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
