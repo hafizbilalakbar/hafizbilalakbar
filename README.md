@@ -20511,11 +20511,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Constantly%20think%20about%20how%20you%20could%20be%20doing%20things%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Just%20try%20to%20be%20the%20best%20you%20can%20be%3B%20never%20cease%20trying%20to%20be%20the%20best%20you%20can%20be.%20That's%20in%20your%20power.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
