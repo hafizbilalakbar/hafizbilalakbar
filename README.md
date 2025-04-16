@@ -20465,11 +20465,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=The%20size%20of%20your%20success%20is%20measured%20by%20the%20strength%20of%20your%20desire%3B%20the%20size%20of%20your%20dream%3B%20and%20how%20you%20handle%20disappointment%20along%20the%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Never%20do%20to%20others%20what%20you%20would%20not%20like%20them%20to%20do%20to%20you.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
