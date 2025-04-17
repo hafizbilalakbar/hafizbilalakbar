@@ -20610,11 +20610,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Anger%2C%20ego%2C%20jealousy%20are%20the%20biggest%20diseases%2CKeep%20yourself%20aloof%20from%20these%20three%20diseases.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vidal%20Sassoon&quote=Longevity%20is%20a%20fleeting%20moment%20that%20lasts%20forever.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
