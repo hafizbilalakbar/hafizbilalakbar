@@ -20596,11 +20596,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Whatever%20you%20think%20the%20world%20is%20withholding%20from%20you%2C%20you%20are%20withholding%20from%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Dylan&quote=You%20don't%20need%20a%20weatherman%20to%20know%20which%20way%20the%20wind%20blows.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
