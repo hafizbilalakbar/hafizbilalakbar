@@ -20665,11 +20665,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=Each%20path%20to%20knowledge%20involves%20different%20rules%20and%20these%20rules%20are%20not%20interchangeable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=Darkness%20must%20pass.%20A%20new%20day%20will%20come.%20And%20when%20the%20sun%20shines%2C%20it%20will%20shine%20out%20the%20clearer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
