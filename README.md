@@ -20671,11 +20671,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=When%20it%20comes%20to%20mastering%20a%20skill%2C%20time%20is%20the%20magic%20ingredient.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Give%20a%20man%20a%20fish%20and%20you%20feed%20him%20for%20a%20day.%20Teach%20a%20man%20to%20fish%20and%20you%20feed%20him%20for%20a%20lifetime.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
