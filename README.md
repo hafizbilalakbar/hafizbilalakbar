@@ -20724,11 +20724,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=It%20is%20not%20because%20things%20are%20difficult%20that%20we%20do%20not%20dare%3B%20it%20is%20because%20we%20do%20not%20dare%20that%20things%20are%20difficult.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=You%20can%20often%20change%20your%20circumstances%20by%20changing%20your%20attitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
