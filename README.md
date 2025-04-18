@@ -20741,11 +20741,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=The%20desire%20for%20more%20positive%20experience%20is%20itself%20a%20negative%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=You%20don't%20get%20in%20life%20what%20you%20want%3B%20you%20get%20in%20life%20what%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
