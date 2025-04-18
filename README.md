@@ -20727,11 +20727,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Far%20and%20away%20the%20best%20prize%20that%20life%20has%20to%20offer%20is%20the%20chance%20to%20work%20hard%20at%20work%20worth%20doing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=I%20am%20not%20proud%2C%20but%20I%20am%20happy%3B%20and%20happiness%20blinds%2C%20I%20think%2C%20more%20than%20pride.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
