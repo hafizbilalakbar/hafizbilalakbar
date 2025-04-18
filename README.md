@@ -20662,11 +20662,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Honore%20de%20Balzac&quote=Passion%20is%20born%20deaf%20and%20dumb.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=The%20eyes%20of%20others%20our%20prisons%3B%20their%20thoughts%20our%20cages.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
