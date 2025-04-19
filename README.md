@@ -20753,11 +20753,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gustave%20Flaubert&quote=Life%20must%20be%20a%20constant%20education%3B%20one%20must%20learn%20everything%2C%20from%20speaking%20to%20dying.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Feelings%20come%20and%20go%20like%20clouds%20in%20a%20windy%20sky.%20Conscious%20breathing%20is%20my%20anchor.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
