@@ -20915,11 +20915,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Grace%20Coddington&quote=Always%20keep%20your%20eyes%20open.%20Keep%20watching.%20Because%20whatever%20you%20see%20can%20inspire%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=If%20you%20put%20yourself%20in%20a%20position%20where%20you%20have%20to%20stretch%20outside%20your%20comfort%20zone%2C%20then%20you%20are%20forced%20to%20expand%20your%20consciousness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
