@@ -20903,11 +20903,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Remain%20calm%2C%20serene%2C%20always%20in%20command%20of%20yourself.%20You%20will%20then%20find%20out%20how%20easy%20it%20is%20to%20get%20along.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=One%20loses%20many%20laughs%20by%20not%20laughing%20at%20oneself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
