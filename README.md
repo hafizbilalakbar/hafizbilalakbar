@@ -20902,11 +20902,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=Victorious%20warriors%20win%20first%20and%20then%20go%20to%20war%2C%20while%20defeated%20warriors%20go%20to%20war%20first%20and%20then%20seek%20to%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Remain%20calm%2C%20serene%2C%20always%20in%20command%20of%20yourself.%20You%20will%20then%20find%20out%20how%20easy%20it%20is%20to%20get%20along.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
