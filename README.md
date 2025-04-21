@@ -20971,11 +20971,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeffrey%20Gitomer&quote=Obstacles%20can't%20stop%20you.%20Problems%20can't%20stop%20you.%20Most%20of%20all%2C%20other%20people%20can't%20stop%20you.%20Only%20you%20can%20stop%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Wrong%20turns%20are%20as%20important%20as%20right%20turns.%20More%20important%2C%20sometimes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
