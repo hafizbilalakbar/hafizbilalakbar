@@ -20966,11 +20966,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=Changing%20minds%20is%20harder%20than%20finding%20people%20who%20already%20agree.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20the%20reason%20someone%20smiles.%20Be%20the%20reason%20someone%20feels%20loved%20and%20believes%20in%20the%20goodness%20in%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
