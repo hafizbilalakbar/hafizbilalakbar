@@ -21002,11 +21002,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Until%20you%20change%20how%20you%20get%20things%20done%2C%20you'll%20never%20know%20what%20works%20best.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Life%20is%20not%20meant%20to%20be%20easy%20my%20child%2C%20but%20take%20courage%3A%20it%20can%20be%20delightful.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
