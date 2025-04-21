@@ -20967,11 +20967,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20the%20reason%20someone%20smiles.%20Be%20the%20reason%20someone%20feels%20loved%20and%20believes%20in%20the%20goodness%20in%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=But%20better%20die%20than%20live%20mechanically%20a%20life%20that%20is%20a%20repetition%20of%20repetitions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
