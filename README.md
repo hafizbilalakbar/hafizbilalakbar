@@ -21039,11 +21039,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20McCandless&quote=Don%C2%B4t%20hesitate%20or%20allow%20yourself%20to%20make%20excuses.%20Just%20get%20out%20and%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Play%20your%20part%20in%20life%2C%20but%20never%20forget%20that%20it%20is%20only%20a%20role.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
