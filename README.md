@@ -21128,11 +21128,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=When%20the%20time%20is%20gone%2C%20you%20can%20never%20get%20it%20back.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=G.I.%20Gurdjieff&quote=There%20is%20a%20cosmic%20law%20which%20says%20that%20every%20satisfaction%20must%20be%20paid%20for%20with%20a%20dissatisfaction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
