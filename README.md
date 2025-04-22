@@ -21106,11 +21106,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=The%20least%20deviation%20from%20truth%20will%20be%20multiplied%20later.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Every%20experience%20is%20a%20lesson.%20Every%20loss%20is%20a%20gain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
