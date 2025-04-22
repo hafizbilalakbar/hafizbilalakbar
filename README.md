@@ -21119,11 +21119,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=People%20do%20not%20decide%20their%20futures%2C%20they%20decide%20their%20habits%20and%20their%20habits%20decide%20their%20futures.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Experience%20is%20a%20comb%20which%20nature%20gives%20us%20when%20we%20are%20bald.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
