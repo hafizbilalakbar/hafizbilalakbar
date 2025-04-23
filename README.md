@@ -21216,11 +21216,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Making%20money%20isn't%20hard%20in%20itself...%20What's%20hard%20is%20to%20earn%20it%20doing%20something%20worth%20devoting%20one's%20life%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=It%20does%20not%20matter%20how%20slowly%20you%20go%20so%20long%20as%20you%20do%20not%20stop.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
