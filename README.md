@@ -21231,11 +21231,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=The%20shoe%20that%20fits%20one%20person%20pinches%20another%3B%20there%20is%20no%20recipe%20for%20living%20that%20suits%20all%20cases.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=You%20are%20the%20average%20of%20the%20five%20people%20you%20spend%20the%20most%20time%20with.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
