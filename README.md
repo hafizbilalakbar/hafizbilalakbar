@@ -21173,11 +21173,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20A.%20Cohen&quote=The%20way%20we%20feel%20is%20the%20direct%20result%20of%20what%20we%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Don't%20be%20afraid%20that%20you%20do%20not%20know%20something.%20Be%20afraid%20of%20not%20learning%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
