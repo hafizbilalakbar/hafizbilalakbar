@@ -21210,11 +21210,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=Have%20the%20courage%20to%20be%20ignorant%20of%20a%20great%20number%20of%20things%2C%20in%20order%20to%20avoid%20the%20calamity%20of%20being%20ignorant%20of%20everything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=To%20succeed%20takes%20more%20than%20the%20desire%20to%20win.%20It%20also%20takes%20the%20acceptance%20that%20we%20could%20fail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
