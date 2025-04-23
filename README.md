@@ -21184,11 +21184,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=The%20fastest%20way%20to%20change%20is%20to%20laugh%20at%20your%20own%20folly.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Problems%20remain%20as%20problems%20because%20people%20are%20busy%20defending%20them%20rather%20than%20finding%20solutions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
