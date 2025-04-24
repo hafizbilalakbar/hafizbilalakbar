@@ -21289,11 +21289,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=One%20loyal%20friend%20is%20worth%20ten%20thousand%20relatives.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=To%20become%20what%20you%20are%20not%2C%20behave%20as%20you%20do%20not.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
