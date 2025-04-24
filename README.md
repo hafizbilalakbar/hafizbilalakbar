@@ -21324,11 +21324,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=You%20must%20be%20willing%20to%20do%20what%20others%20won't%20do%2C%20to%20have%20what%20others%20won't%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=The%20less%20you%20try%20to%20impress%2C%20the%20more%20peaceful%20you%20can%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
