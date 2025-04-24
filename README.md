@@ -21274,11 +21274,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=The%20shoe%20that%20fits%20one%20person%20pinches%20another%3B%20there%20is%20no%20recipe%20for%20living%20that%20suits%20all%20cases.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristophanes&quote=Youth%20ages%2C%20immaturity%20is%20outgrown%2C%20ignorance%20can%20be%20educated%2C%20and%20drunkenness%20sobered%2C%20but%20stupid%20lasts%20forever.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
