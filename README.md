@@ -21356,11 +21356,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Being%20in%20a%20good%20frame%20of%20mind%20helps%20keep%20one%20in%20the%20picture%20of%20health.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=To%20escape%20from%20the%20world%20means%20that%20one's%20mind%20is%20not%20concerned%20with%20the%20opinions%20of%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
