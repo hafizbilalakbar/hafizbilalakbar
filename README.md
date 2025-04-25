@@ -21408,11 +21408,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=Life%20comes%20at%20us%20in%20waves.%20We%20can't%20predict%20or%20control%20those%20waves%2C%20but%20we%20can%20learn%20to%20surf.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Successful%20people%20ask%20better%20questions%2C%20and%20as%20a%20result%2C%20they%20get%20better%20answers.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
