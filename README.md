@@ -21418,11 +21418,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=If%20you%20want%20to%20change%20how%20you%20see%20your%20problems%2C%20you%20have%20to%20change%20what%20you%20value%20and%2For%20how%20you%20measure%20failure%2Fsuccess.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=It's%20not%20what%20happens%20to%20you%2C%20but%20how%20you%20react%20to%20it%20that%20matters.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
