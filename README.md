@@ -21474,11 +21474,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=When%20you%20love%20someone%2C%20you%20love%20the%20person%20as%20they%20are%2C%20and%20not%20as%20you'd%20like%20them%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=Have%20the%20courage%20to%20be%20ignorant%20of%20a%20great%20number%20of%20things%2C%20in%20order%20to%20avoid%20the%20calamity%20of%20being%20ignorant%20of%20everything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
