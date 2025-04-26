@@ -21434,11 +21434,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Have%20the%20courage%20to%20follow%20your%20heart%20and%20intuition.%20They%20somehow%20know%20what%20you%20truly%20want%20to%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=You%20are%20not%20the%20drop%20in%20the%20ocean%2C%20but%20the%20ocean%20in%20the%20drop.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
