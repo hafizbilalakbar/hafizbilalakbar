@@ -21466,11 +21466,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=The%20more%20rejection%20you%20get%2C%20the%20better%20you%20are%2C%20the%20more%20you've%20learned%2C%20the%20closer%20you%20are%20to%20your%20outcome.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=The%20majority%20of%20what%20you%20want%20will%20come%20from%20the%20minority%20of%20what%20you%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
