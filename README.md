@@ -21629,11 +21629,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=A%20scientific%20man%20ought%20to%20have%20no%20wishes%2C%20no%20affections%2C%20-%20a%20mere%20heart%20of%20stone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Publilius%20Syrus&quote=The%20greatest%20of%20empires%2C%20is%20the%20empire%20over%20one's%20self.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
