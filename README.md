@@ -21535,11 +21535,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anita%20Krizzan&quote=You%20don't%20have%20to%20move%20mountains.%20You'll%20change%20the%20world%20simply%20by%20being%20a%20warm%2C%20kind-hearted%20human%20being.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=You%20will%20not%20do%20incredible%20things%20without%20an%20incredible%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
