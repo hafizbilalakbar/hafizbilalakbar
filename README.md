@@ -21628,11 +21628,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=It's%20easy%20to%20wish%20for%20health%20when%20you're%20sick.%20%20When%20you're%20doing%20well%2C%20you%20need%20just%20as%20much%20vigilance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=A%20scientific%20man%20ought%20to%20have%20no%20wishes%2C%20no%20affections%2C%20-%20a%20mere%20heart%20of%20stone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
