@@ -21566,11 +21566,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=A%20poet%20should%20be%20so%20crafty%20with%20words%20that%20he%20is%20envied%20even%20for%20his%20pains.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=First%20comes%20the%20shy%20wish.%20Then%20you%20must%20have%20the%20heart%20to%20have%20the%20dream.%20Then%2C%20you%20work%2C%20and%20work.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
