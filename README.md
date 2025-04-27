@@ -21575,11 +21575,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=When%20you%20know%20what%20you%20want%2C%20and%20want%20it%20bad%20enough%2C%20you%20will%20find%20a%20way%20to%20get%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Wherever%20there%20is%20danger%2C%20there%20lurks%20opportunity%3B%20wherever%20there%20is%20opportunity%2C%20there%20lurks%20danger.%20The%20two%20are%20inseparable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
