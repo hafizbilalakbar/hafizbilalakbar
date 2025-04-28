@@ -21682,11 +21682,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=We%20must%20accept%20finite%20disappointment%2C%20but%20never%20lose%20infinite%20hope.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Kerouac&quote=The%20best%20teacher%20is%20experience%20and%20not%20through%20someone's%20distorted%20point%20of%20view.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
