@@ -21638,11 +21638,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=If%20I%20persist%20long%20enough%20I%20will%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=David%20Brinkley&quote=People%20have%20the%20illusion%20that%20all%20over%20the%20world%2C%20all%20the%20time%2C%20all%20kinds%20of%20fantastic%20things%20are%20happening.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
