@@ -21643,11 +21643,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=You%20do%20not%20read%20a%20book%20for%20the%20book's%20sake%2C%20but%20for%20your%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=We%20don't%20stumble%20accidentally%20into%20an%20amazing%20life.%20It%20takes%20decision%2C%20a%20commitment%20to%20consistently%20work%20on%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
