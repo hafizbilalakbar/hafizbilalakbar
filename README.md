@@ -21733,11 +21733,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Difficult%20and%20meaningful%20will%20always%20bring%20more%20satisfaction%20than%20easy%20and%20meaningless.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Nothing%20ever%20happened%20in%20the%20past%20that%20can%20prevent%20you%20from%20being%20present%20now%3B%20and%20if%20the%20past%20cannot%20prevent%20you%20from%20being%20present%20now%2C%20what%20power%20does%20it%20have%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
