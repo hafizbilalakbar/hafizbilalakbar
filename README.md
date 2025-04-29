@@ -21763,11 +21763,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Love%20yourself%20with%20the%20same%20intensity%20you%20would%20use%20to%20pull%20yourself%20up%20if%20you%20were%20hanging%20off%20a%20cliff.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Take%20time%20like%20the%20river%20that%20never%20grows%20stale.%20Keep%20going%20and%20steady.%20No%20hurry%2C%20no%20rush.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
