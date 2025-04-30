@@ -21799,11 +21799,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=C.%20Sean%20McGee&quote=What's%20the%20point%20in%20being%20smart%20enough%20to%20read%2C%20if%20everything%20you%20read%20makes%20you%20dumb%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bodhidharma&quote=Freeing%20oneself%20from%20words%20is%20liberation.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
