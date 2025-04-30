@@ -21836,11 +21836,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=The%20more%20you%20are%20focused%20on%20time%20-%20past%20and%20future%20-%20the%20more%20you%20miss%20the%20Now%2C%20the%20most%20precious%20thing%20there%20is.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Resentment%20or%20grudges%20do%20no%20harm%20to%20the%20person%20against%20whom%20you%20hold%20these%20feelings%20but%20every%20day%20and%20every%20night%20of%20your%20life%2C%20they%20are%20eating%20at%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
