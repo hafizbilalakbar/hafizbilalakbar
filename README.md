@@ -21868,11 +21868,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20A.%20Cohen&quote=When%20we%20think%20about%20our%20strengths%2C%20we%20are%20strong.%20When%20we%20think%20about%20our%20weaknesses%2C%20we%20are%20weak.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Fool%20me%20once%2C%20shame%20on%20you%3B%20fool%20me%20twice%2C%20shame%20on%20me.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
