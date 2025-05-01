@@ -21969,11 +21969,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=We%20need%20never%20be%20ashamed%20of%20our%20tears.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=What%20a%20book%20a%20devil's%20chaplain%20might%20write%20on%20the%20clumsy%2C%20wasteful%2C%20blundering%2C%20low%2C%20and%20horribly%20cruel%20work%20of%20nature!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
