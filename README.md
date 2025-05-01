@@ -21890,11 +21890,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=Your%20business%20is%20not%20to%20'get%20somewhere'%20-%20it%20is%20to%20be%20here.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=In%20order%20to%20carry%20a%20positive%20action%2C%20we%20must%20develop%20here%20a%20positive%20vision.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
