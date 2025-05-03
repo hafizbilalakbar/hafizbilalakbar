@@ -22141,11 +22141,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=He%20suffers%20more%20than%20necessary%2C%20who%20suffers%20before%20it%20is%20necessary.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=You%20find%20peace%20not%20by%20rearranging%20the%20circumstances%20of%20your%20life%2C%20but%20by%20realizing%20who%20you%20are%20at%20the%20deepest%20level.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
