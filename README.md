@@ -22082,11 +22082,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=People%20with%20clear%2C%20written%20goals%2C%20accomplish%20far%20more%20in%20a%20shorter%20period%20of%20time%20than%20people%20without%20them%20could%20ever%20imagine.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Superstars%20think%20like%20superstars%20long%20before%20the%20fans%20or%20the%20press%20anoint%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
