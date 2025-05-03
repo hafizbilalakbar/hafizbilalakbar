@@ -22167,11 +22167,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=The%20only%20real%20mistake%20is%20the%20one%20from%20which%20we%20learn%20nothing.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Laurence%20J.%20Peter&quote=If%20you%20don't%20know%20where%20you're%20going%2C%20you%20will%20probably%20end%20up%20somewhere%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
