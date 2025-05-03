@@ -22118,11 +22118,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=A%20man%20is%20not%20called%20wise%20because%20he%20talks%20and%20talks%20again%3B%20but%20if%20he%20is%20peaceful%2C%20loving%20and%20fearless%20then%20he%20is%20in%20truth%20called%20wise.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Resentment%20or%20grudges%20do%20no%20harm%20to%20the%20person%20against%20whom%20you%20hold%20these%20feelings%20but%20every%20day%20and%20every%20night%20of%20your%20life%2C%20they%20are%20eating%20at%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
