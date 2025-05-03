@@ -22101,11 +22101,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=Be%20of%20good%20cheer%20about%20death%2C%20and%20know%20this%20of%20a%20truth%2C%20that%20no%20evil%20can%20happen%20to%20a%20good%20man%2C%20either%20in%20life%20or%20after%20death.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Be%20thankful%20for%20what%20you%20have%3B%20you'll%20end%20up%20having%20more.%20If%20you%20concentrate%20on%20what%20you%20don't%20have%2C%20you%20will%20never%2C%20ever%20have%20enough.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
