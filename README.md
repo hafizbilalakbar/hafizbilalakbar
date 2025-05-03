@@ -22109,11 +22109,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=Be%20still%20when%20you%20have%20nothing%20to%20say%3B%20when%20genuine%20passion%20moves%20you%2C%20say%20what%20you've%20got%20to%20say%2C%20and%20say%20it%20hot.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Will%20Rogers&quote=It's%20not%20what%20you%20pay%20a%20man%2C%20but%20what%20he%20costs%20you%20that%20counts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
