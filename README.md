@@ -22249,11 +22249,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Success%20comes%20to%20those%20who%20become%20success%20conscious.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Before%20you%20speak%2C%20ask%20yourself%2C%20is%20it%20kind%2C%20is%20it%20necessary%2C%20is%20it%20true%2C%20does%20it%20improve%20the%20silence%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
