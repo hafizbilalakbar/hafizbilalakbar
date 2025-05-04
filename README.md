@@ -22261,11 +22261,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=It's%20only%20after%20you've%20stepped%20outside%20your%20comfort%20zone%20that%20you%20begin%20to%20change%2C%20grow%2C%20and%20transform.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Coco%20Chanel&quote=Success%20is%20often%20achieved%20by%20those%20who%20don't%20know%20that%20failure%20is%20inevitable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
