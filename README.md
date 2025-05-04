@@ -22267,11 +22267,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Better%20to%20die%20fighting%20for%20freedom%20than%20be%20a%20prisoner%20all%20the%20days%20of%20your%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Anita%20Krizzan&quote=You%20don't%20have%20to%20move%20mountains.%20You'll%20change%20the%20world%20simply%20by%20being%20a%20warm%2C%20kind-hearted%20human%20being.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
