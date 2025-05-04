@@ -22239,11 +22239,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Babe%20Ruth&quote=You%20just%20can't%20beat%20the%20person%20who%20never%20gives%20up.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=But%20better%20die%20than%20live%20mechanically%20a%20life%20that%20is%20a%20repetition%20of%20repetitions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
