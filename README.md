@@ -22349,11 +22349,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=Courage%20is%20almost%20a%20contradiction%20in%20terms.%20It%20means%20a%20strong%20desire%20to%20live%20taking%20the%20form%20of%20a%20readiness%20to%20die.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=It%20is%20not%20because%20things%20are%20difficult%20that%20we%20do%20not%20dare%3B%20it%20is%20because%20we%20do%20not%20dare%20that%20things%20are%20difficult.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
