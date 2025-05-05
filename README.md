@@ -22324,11 +22324,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Mays&quote=The%20tragedy%20of%20life%20doesn't%20lie%20in%20not%20reaching%20your%20goal.%20The%20tragedy%20lies%20in%20having%20no%20goals%20to%20reach.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Washington&quote=Be%20not%20glad%20at%20the%20misfortune%20of%20another%2C%20though%20he%20may%20be%20your%20enemy.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
