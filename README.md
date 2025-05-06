@@ -22406,11 +22406,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=You're%20always%20free%20to%20change%20your%20mind%20and%20choose%20a%20different%20future%2C%20or%20a%20different%20past.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Where%20there%20is%20no%20struggle%2C%20there%20is%20no%20strength.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
