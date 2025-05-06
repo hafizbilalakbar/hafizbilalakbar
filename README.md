@@ -22397,11 +22397,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=One%20of%20the%20oldest%20human%20needs%20is%20having%20someone%20to%20wonder%20where%20you%20are%20when%20you%20don't%20come%20home%20at%20night.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=The%20mind%20can%20calculate%2C%20but%20the%20spirit%20yearns%2C%20and%20the%20heart%20wants%20what%20the%20heart%20wants.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
