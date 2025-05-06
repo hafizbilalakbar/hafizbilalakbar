@@ -22456,11 +22456,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20D.%20Rockefeller&quote=Singleness%20of%20purpose%20is%20one%20of%20the%20chief%20essentials%20for%20success%20in%20life%2C%20no%20matter%20what%20may%20be%20one's%20aim.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=The%20fact%20of%20the%20matter%20is%20that%20there%20will%20be%20nothing%20learned%20from%20any%20challenge%20in%20which%20we%20don't%20try%20our%20hardest.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
