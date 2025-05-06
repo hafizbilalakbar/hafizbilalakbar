@@ -22448,11 +22448,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=Remember%20to%20look%20up%20at%20the%20stars%20and%20not%20down%20at%20your%20feet.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=There%20are%20two%20primary%20choices%20in%20life%3A%20to%20accept%20conditions%20as%20they%20exist%2C%20or%20accept%20the%20responsibility%20for%20changing%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
