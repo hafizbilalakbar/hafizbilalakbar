@@ -22380,11 +22380,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Those%20who%20cannot%20change%20their%20minds%20cannot%20change%20anything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Raise%20your%20words%2C%20not%20voice.%20It%20is%20rain%20that%20grows%20flowers%2C%20not%20thunder.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
