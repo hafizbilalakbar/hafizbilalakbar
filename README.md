@@ -22468,11 +22468,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=I%20would%20rather%20die%20on%20my%20feet%20than%20live%20on%20my%20knees.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=You%20need%20a%20plan%20to%20build%20a%20house.%20To%20build%20a%20life%2C%20it%20is%20even%20more%20important%20to%20have%20a%20plan%20or%20goal.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
