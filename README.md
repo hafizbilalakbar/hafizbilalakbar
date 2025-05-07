@@ -22488,11 +22488,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=Of%20all%20men's%20miseries%20the%20bitterest%20is%20this%3A%20to%20know%20so%20much%20and%20to%20have%20control%20over%20nothing.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=We%20have%20to%20live%20life%20with%20a%20sense%20of%20urgency%20so%20not%20a%20minute%20is%20wasted.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
