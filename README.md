@@ -22479,11 +22479,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=The%20more%20you%20take%20responsibility%20for%20your%20past%20and%20present%2C%20the%20more%20you%20are%20able%20to%20create%20the%20future%20you%20seek.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Wisdom%20consists%20not%20so%20much%20in%20knowing%20what%20to%20do%20in%20the%20ultimate%20as%20knowing%20what%20to%20do%20next.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
