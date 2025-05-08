@@ -22557,11 +22557,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=There%20are%20two%20things%20a%20person%20should%20never%20be%20angry%20at%2C%20what%20they%20can%20help%2C%20and%20what%20they%20cannot.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=Nothing%20like%20a%20health%20problem%20to%20turn%20up%20the%20contrast%20dial%20for%20the%20rest%20of%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
