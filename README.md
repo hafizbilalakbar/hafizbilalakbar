@@ -22585,11 +22585,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Every%20adversity%2C%20every%20failure%2C%20every%20heartbreak%2C%20carries%20with%20it%20the%20seed%20of%20an%20equal%20or%20greater%20benefit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=In%20a%20world%20that%20is%20constantly%20changing%2C%20it%20is%20to%20our%20advantage%20to%20learn%20how%20to%20adapt%20and%20enjoy%20something%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
