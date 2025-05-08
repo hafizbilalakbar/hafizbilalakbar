@@ -22609,11 +22609,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=What%20kills%20the%20creative%20force%20is%20not%20age%20or%20lack%20of%20talent%2C%20but%20our%20own%20spirit%2C%20our%20own%20attitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kenji%20Miyazawa&quote=She%20who%20loves%20roses%20must%20be%20patient%20and%20not%20cry%20out%20when%20she%20is%20pierced%20by%20thorns.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
