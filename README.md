@@ -22694,11 +22694,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=The%20future%20will%20be%20shaped%20by%20those%20willing%20to%20commit%20their%20minds%20and%20their%20bodies%20to%20the%20task.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Eliot&quote=It%20is%20never%20too%20late%20to%20be%20what%20you%20might%20have%20been.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
