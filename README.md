@@ -22814,11 +22814,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=You%20are%20not%20one%20person%2C%20but%20three%3A%20The%20one%20you%20think%20you%20are%3B%20The%20one%20others%20think%20you%20are%3B%20The%20one%20you%20really%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Wherever%20you%20are%2C%20and%20whatever%20you%20do%2C%20be%20in%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
