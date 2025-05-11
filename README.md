@@ -22838,11 +22838,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=If%20you%20don't%20break%20your%20ropes%20while%20you're%20alive%2C%20do%20you%20think%20ghosts%20will%20do%20it%20after%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=The%20primary%20point%20of%20this%20existence%20is%20to%20live%2C%20and%20all%20living%20things%20move%20and%20grow.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
