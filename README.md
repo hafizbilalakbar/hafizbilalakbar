@@ -22839,11 +22839,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=The%20primary%20point%20of%20this%20existence%20is%20to%20live%2C%20and%20all%20living%20things%20move%20and%20grow.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Reflect%20upon%20your%20present%20blessings%20of%20which%20every%20man%20has%20many%20-%20not%20on%20your%20past%20misfortunes%2C%20of%20which%20all%20men%20have%20some.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
