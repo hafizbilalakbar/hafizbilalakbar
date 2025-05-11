@@ -22871,11 +22871,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=I%20like%20the%20dreams%20of%20the%20future%20better%20than%20the%20history%20of%20the%20past.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=C.%20Sean%20McGee&quote=If%20you%20are%20ever%20the%20smartest%20person%20in%20the%20room%2C%20you%20are%20in%20the%20wrong%20room.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
