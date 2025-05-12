@@ -22966,11 +22966,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=Patience%20is%20not%20the%20ability%20to%20wait%20but%20the%20ability%20to%20keep%20a%20good%20attitude%20while%20waiting.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=The%20more%20you%20are%20focused%20on%20time%20-%20past%20and%20future%20-%20the%20more%20you%20miss%20the%20Now%2C%20the%20most%20precious%20thing%20there%20is.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
