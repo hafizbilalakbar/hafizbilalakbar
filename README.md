@@ -22969,11 +22969,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=What's%20obvious%20to%20you%20isn't%20obvious%20to%20most%20people.%20Operate%20from%20this%20perspective%20and%20you'll%20help%20more%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Why%20compare%20yourself%20with%20others%3F%20No%20one%20in%20the%20entire%20world%20can%20do%20a%20better%20job%20of%20being%20you%20than%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
