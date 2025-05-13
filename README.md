@@ -23035,11 +23035,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Never%20feel%20shame%20for%20trying%20and%20failing%2C%20for%20he%20who%20has%20never%20failed%20is%20he%20who%20has%20never%20tried.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Isaac%20Newton&quote=The%20best%20way%20to%20understanding%20is%20a%20few%20good%20examples.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
