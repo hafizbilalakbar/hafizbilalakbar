@@ -23064,11 +23064,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Conrad%20Hilton&quote=Enthusiasm%20is%20a%20vital%20element%20toward%20the%20individual%20success%20of%20every%20man%20or%20woman.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=Why%20change%3F%20Everyone%20has%20his%20own%20style.%20When%20you%20have%20found%20it%2C%20you%20should%20stick%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
