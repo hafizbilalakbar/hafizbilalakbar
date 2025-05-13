@@ -23092,11 +23092,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rita%20Mae%20Brown&quote=Good%20judgment%20comes%20from%20experience%2C%20and%20experience%20comes%20from%20bad%20judgment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=All%20has%20not%20been%20said%20and%20never%20will%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
