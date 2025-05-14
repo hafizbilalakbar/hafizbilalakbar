@@ -23189,11 +23189,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=I%20was%20angered%2C%20for%20I%20had%20no%20shoes.%20Then%20I%20met%20a%20man%20who%20had%20no%20feet.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=It%20is%20not%20uncommon%20for%20people%20to%20spend%20their%20whole%20life%20waiting%20to%20start%20living.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
