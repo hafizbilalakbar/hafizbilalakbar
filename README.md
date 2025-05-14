@@ -23175,11 +23175,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=What%20people%20say%2C%20what%20people%20do%2C%20and%20what%20they%20say%20they%20do%20are%20entirely%20different%20things.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Decide%20upon%20your%20major%20definite%20purpose%20in%20life%20and%20then%20organize%20all%20your%20activities%20around%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
