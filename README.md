@@ -23148,11 +23148,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=A%20man%20sooner%20or%20later%20discovers%20that%20he%20is%20the%20master-gardener%20of%20his%20soul%2C%20the%20director%20of%20his%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=The%20few%20who%20do%20are%20the%20envy%20of%20the%20many%20who%20only%20watch.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
