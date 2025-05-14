@@ -23183,11 +23183,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=The%20whole%20world%20is%20a%20series%20of%20miracles%2C%20but%20we're%20so%20used%20to%20them%20we%20call%20them%20ordinary%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Success%20comes%20from%20knowing%20that%20you%20did%20your%20best%20to%20become%20the%20best%20that%20you%20are%20capable%20of%20becoming.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
