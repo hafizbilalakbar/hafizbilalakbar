@@ -23192,11 +23192,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Loving%20thoughts%20and%20actions%20are%20clearly%20beneficial%20for%20our%20physical%20and%20mental%20health.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=I%20must%20also%20have%20a%20dark%20side%20if%20I%20am%20to%20be%20whole.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
