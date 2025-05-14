@@ -23118,11 +23118,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=What's%20obvious%20to%20you%20isn't%20obvious%20to%20most%20people.%20Operate%20from%20this%20perspective%20and%20you'll%20help%20more%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Everything%20great%20that%20has%20ever%20happened%20to%20humanity%20has%20begun%20as%20a%20single%20thought%20in%20someone's%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
