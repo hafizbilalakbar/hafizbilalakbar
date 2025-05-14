@@ -23184,11 +23184,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Success%20comes%20from%20knowing%20that%20you%20did%20your%20best%20to%20become%20the%20best%20that%20you%20are%20capable%20of%20becoming.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Lack%20of%20direction%2C%20not%20lack%20of%20time%2C%20is%20the%20problem.%20We%20all%20have%20twenty-four%20hour%20days.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
