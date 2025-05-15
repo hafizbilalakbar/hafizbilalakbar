@@ -23266,11 +23266,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=It's%20not%20how%20much%20we%20give%20but%20how%20much%20love%20we%20put%20into%20giving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=It%20is%20not%20that%20we%20have%20too%20little%20time%20to%20do%20all%20the%20things%20we%20need%20to%20do%20%2C%20it%20is%20that%20we%20feel%20the%20need%20to%20do%20too%20many%20things%20in%20the%20time%20we%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
