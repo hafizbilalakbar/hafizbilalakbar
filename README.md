@@ -23246,11 +23246,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=When%20meditation%20is%20mastered%2C%20the%20mind%20is%20unwavering%20like%20the%20flame%20of%20a%20lamp%20in%20a%20windless%20place.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=We%20don't%20stumble%20accidentally%20into%20an%20amazing%20life.%20It%20takes%20decision%2C%20a%20commitment%20to%20consistently%20work%20on%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
