@@ -23317,11 +23317,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=Peace%20is%20not%20something%20you%20wish%20for%3B%20It's%20something%20you%20make%2C%20something%20you%20do%2C%20something%20you%20are%2C%20and%20something%20you%20give%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=To%20the%20world%20you%20may%20be%20one%20person%3B%20but%20to%20one%20person%20you%20may%20be%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
