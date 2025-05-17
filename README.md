@@ -23393,11 +23393,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=No%20man%20will%20make%20a%20great%20leader%20who%20wants%20to%20do%20it%20all%20himself%20or%20to%20get%20all%20the%20credit%20for%20doing%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=Yesterday%20is%20but%20today's%20memory%2C%20tomorrow%20is%20today's%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
