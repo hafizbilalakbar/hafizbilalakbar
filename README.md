@@ -23490,11 +23490,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=You%20give%20but%20little%20when%20you%20give%20of%20your%20possessions.%20It%20is%20when%20you%20give%20of%20yourself%20that%20you%20truly%20give.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=The%20measure%20of%20wisdom%20is%20how%20calm%20you%20are%20when%20facing%20any%20given%20situation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
