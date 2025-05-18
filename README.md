@@ -23571,11 +23571,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=We%20will%20act%20consistently%20with%20our%20view%20of%20who%20we%20truly%20are%2C%20whether%20that%20view%20is%20accurate%20or%20not.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Surround%20yourself%20only%20with%20people%20who%20are%20going%20to%20take%20you%20higher.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
