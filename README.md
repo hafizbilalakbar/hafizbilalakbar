@@ -23525,11 +23525,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=You%20become%20a%20worrier%20by%20practicing%20worry.%20You%20become%20free%20of%20worry%20by%20practicing%20the%20opposite.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=However%20difficult%20life%20may%20seem%2C%20there%20is%20always%20something%20you%20can%20do%20and%20succeed%20at.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
