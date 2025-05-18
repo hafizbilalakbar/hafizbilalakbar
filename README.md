@@ -23554,11 +23554,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=Sometimes%20you%20have%20to%20travel%20a%20long%20way%20to%20find%20what%20is%20near.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=Nothing%20is%20too%20high%20for%20a%20man%20to%20reach%2C%20but%20he%20must%20climb%20with%20care%20and%20confidence&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
