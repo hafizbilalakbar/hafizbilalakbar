@@ -23623,11 +23623,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Honore%20de%20Balzac&quote=Our%20heart%20is%20a%20treasury%3B%20if%20you%20pour%20out%20all%20its%20wealth%20at%20once%2C%20you%20are%20bankrupt.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Spend%20eighty%20percent%20of%20your%20time%20focusing%20on%20the%20opportunities%20of%20tomorrow%20rather%20than%20the%20problems%20of%20yesterday.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
