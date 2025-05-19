@@ -23656,11 +23656,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=Far%20more%20crucial%20than%20what%20we%20know%20or%20do%20not%20know%20is%20what%20we%20do%20not%20want%20to%20know.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=Being%20In%20The%20Present%20Means%20Tuning%20Out%20Distractions%20And%20Paying%20Attention%20To%20What%20Is%20Important%2C%20Now.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
