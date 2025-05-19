@@ -23641,11 +23641,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=The%20only%20lost%20cause%20is%20one%20we%20give%20up%20on%20before%20we%20enter%20the%20struggle.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=The%20ladder%20of%20success%20is%20best%20climbed%20by%20stepping%20on%20the%20rungs%20of%20opportunity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
