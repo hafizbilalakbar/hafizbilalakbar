@@ -23652,11 +23652,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Columbus&quote=Riches%20don't%20make%20a%20man%20rich%2C%20they%20only%20make%20him%20busier.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Anita%20Krizzan&quote=When%20it%20hurts%20-%20observe.%20Life%20is%20trying%20to%20teach%20you%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
