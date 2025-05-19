@@ -23654,11 +23654,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=A%20comfort%20zone%20is%20a%20beautiful%20place%2C%20but%20nothing%20ever%20grows%20there.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=The%20divine%20is%20not%20something%20high%20above%20us.%20It%20is%20in%20heaven%2C%20it%20is%20in%20earth%2C%20it%20is%20inside%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
