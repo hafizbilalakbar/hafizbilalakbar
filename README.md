@@ -23644,11 +23644,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Great%20leaders%20are%20almost%20always%20great%20simplifiers%2C%20who%20can%20cut%20through%20argument%2C%20debate%20and%20doubt%2C%20to%20offer%20a%20solution%20everybody%20can%20understand.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=To%20be%20fully%20alive%20is%20to%20feel%20that%20everything%20is%20possible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
