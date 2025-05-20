@@ -23730,11 +23730,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=When%20you%20are%20tough%20on%20yourself%2C%20life%20is%20going%20to%20be%20infinitely%20easier%20on%20you.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=Genius%20is%20the%20ability%20to%20act%20rightly%20without%20precedent%20-%20the%20power%20to%20do%20the%20right%20thing%20the%20first%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
