@@ -23748,11 +23748,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Believe%20in%20your%20infinite%20potential.%20Your%20only%20limitations%20are%20those%20you%20set%20upon%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=FEAR%20has%20two%20meanings%3A%20'Forget%20Everything%20And%20Run'%20or%20'Face%20Everything%20And%20Rise.'%20The%20choice%20is%20yours.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
