@@ -23743,11 +23743,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=If%20you%20are%20depressed%2C%20you%20are%20living%20in%20the%20past.%20If%20you%20are%20anxious%2C%20you%20are%20living%20in%20the%20future.%20if%20you%20are%20at%20peace%2C%20you%20are%20living%20in%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Helen%20Keller&quote=Walking%20with%20a%20friend%20in%20the%20dark%20is%20better%20than%20walking%20alone%20in%20the%20light.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
