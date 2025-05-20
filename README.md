@@ -23747,11 +23747,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=We%20don't%20stumble%20accidentally%20into%20an%20amazing%20life.%20It%20takes%20decision%2C%20a%20commitment%20to%20consistently%20work%20on%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Believe%20in%20your%20infinite%20potential.%20Your%20only%20limitations%20are%20those%20you%20set%20upon%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
