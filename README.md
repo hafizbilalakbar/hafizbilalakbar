@@ -23678,11 +23678,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Waldo%20Emerson&quote=The%20world%20makes%20way%20for%20the%20man%20who%20knows%20where%20he%20is%20going.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Life%20needs%20to%20be%20more%20than%20just%20solving%20problems%20every%20day.%20You%20need%20to%20wake%20up%20and%20be%20excited%20about%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
