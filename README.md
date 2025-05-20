@@ -23679,11 +23679,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Life%20needs%20to%20be%20more%20than%20just%20solving%20problems%20every%20day.%20You%20need%20to%20wake%20up%20and%20be%20excited%20about%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=Only%20one%20thing%20is%20ever%20guaranteed%2C%20that%20is%20that%20you%20will%20definitely%20not%20achieve%20the%20goal%20if%20you%20don't%20take%20the%20shot.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
