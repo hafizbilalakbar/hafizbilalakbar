@@ -23705,11 +23705,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Try%20not%20to%20become%20a%20man%20of%20success%2C%20but%20rather%20try%20to%20become%20a%20man%20of%20value.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20biggest%20mistake%20we%20could%20ever%20make%20in%20our%20lives%20is%20to%20think%20we%20work%20for%20anybody%20but%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
