@@ -23793,11 +23793,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Wisdom%20consists%20not%20so%20much%20in%20knowing%20what%20to%20do%20in%20the%20ultimate%20as%20knowing%20what%20to%20do%20next.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=We%20can%20spend%20our%20whole%20lives%20escaping%20from%20the%20monsters%20of%20our%20minds.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
