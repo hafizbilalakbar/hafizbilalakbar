@@ -23823,11 +23823,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Edgar%20Allan%20Poe&quote=Believe%20nothing%20you%20hear%2C%20and%20only%20one%20half%20that%20you%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Presents%20are%20made%20for%20the%20pleasure%20of%20who%20gives%20them%2C%20not%20the%20merits%20of%20who%20receives%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
