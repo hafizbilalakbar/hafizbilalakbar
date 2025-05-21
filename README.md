@@ -23754,11 +23754,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=Our%20life%20is%20what%20our%20thoughts%20make%20it.%20A%20man%20will%20find%20that%20as%20he%20alters%20his%20thoughts%20toward%20things%20and%20other%20people%2C%20things%20and%20other%20people%20will%20alter%20towards%20him.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mahatma%20Gandhi&quote=The%20weak%20can%20never%20forgive.%20Forgiveness%20is%20the%20attribute%20of%20the%20strong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
