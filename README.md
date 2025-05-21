@@ -23803,11 +23803,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=Happiness%20is%20the%20spiritual%20experience%20of%20living%20every%20minute%20with%20love%2C%20grace%20and%20gratitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=The%20person%20who%20never%20made%20a%20mistake%20never%20tried%20anything%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
