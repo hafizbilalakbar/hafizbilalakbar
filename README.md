@@ -23761,11 +23761,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=We%20have%20to%20walk%20in%20a%20way%20that%20we%20only%20print%20peace%20and%20serenity%20on%20the%20Earth.%20Walk%20as%20if%20you%20are%20kissing%20the%20Earth%20with%20your%20feet.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=No%20matter%20how%20tall%20the%20mountain%20is%2C%20it%20cannot%20block%20the%20sun.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
