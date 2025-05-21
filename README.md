@@ -23758,11 +23758,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=Monsters%20are%20real%2C%20and%20ghosts%20are%20real%20too.%20They%20live%20inside%20us%2C%20and%20sometimes%2C%20they%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20A.%20Cohen&quote=There%20is%20no%20one%20giant%20step%20that%20does%20it.%20It's%20a%20lot%20of%20little%20steps.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
