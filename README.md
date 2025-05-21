@@ -23752,11 +23752,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=Be%20happy%20in%20the%20moment%2C%20that's%20enough.%20Each%20moment%20is%20all%20we%20need%2C%20not%20more.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=When%20you%20rise%20in%20the%20morning%2C%20form%20a%20resolution%20to%20make%20the%20day%20a%20happy%20one%20for%20a%20fellow%20creature.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
