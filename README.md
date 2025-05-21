@@ -23835,11 +23835,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=Whatever%20happened%2C%20happened%20for%20the%20good.%20Whatever%20is%20happening%2C%20is%20happening%20for%20the%20good.%20Whatever%20will%20happen%2C%20will%20also%20happen%20for%20the%20good.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Matthew%20Barrie&quote=Life%20is%20a%20long%20lesson%20in%20humility.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
