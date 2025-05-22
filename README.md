@@ -23905,11 +23905,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=You%20can%20not%20live%20your%20life%20just%20based%20on%20what%20everyone%20else%20thinks.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=A%20mistake%20is%20only%20an%20error%2C%20it%20becomes%20a%20mistake%20when%20you%20fail%20to%20correct%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
