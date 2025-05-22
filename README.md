@@ -23898,11 +23898,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20McCandless&quote=When%20you%20want%20something%20in%20life%2C%20you%20just%20gotta%20reach%20out%20and%20grab%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yoko%20Ono&quote=You%20may%20think%20I'm%20small%2C%20but%20I%20have%20a%20universe%20inside%20my%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
