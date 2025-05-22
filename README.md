@@ -23847,11 +23847,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=If%20you%20don't%20break%20your%20ropes%20while%20you're%20alive%2C%20do%20you%20think%20ghosts%20will%20do%20it%20after%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Leaders%20spend%205%25%20of%20their%20time%20on%20the%20problem%20%26%2095%25%20of%20their%20time%20on%20the%20solution.%20Get%20over%20it%20%26%20crush%20it!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
