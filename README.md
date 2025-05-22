@@ -23860,11 +23860,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=The%20mirror%20is%20a%20worthless%20invention.%20The%20only%20way%20to%20truly%20see%20yourself%20is%20in%20the%20reflection%20of%20someone%20elses.%20eyes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Don't%20give%20up%20on%20your%20dreams%2C%20or%20your%20dreams%20will%20give%20up%20on%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
