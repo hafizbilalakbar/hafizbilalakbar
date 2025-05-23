@@ -23961,11 +23961,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=What%20people%20need%20and%20what%20they%20want%20may%20be%20very%20different.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ray%20Bradbury&quote=Believe%20in%20one%20thing%20too%20much%20and%20you%20have%20no%20room%20for%20new%20ideas.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
