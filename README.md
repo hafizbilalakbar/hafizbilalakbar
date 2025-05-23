@@ -23946,11 +23946,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maya%20Angelou&quote=You%20will%20face%20many%20defeats%20in%20life%2C%20but%20never%20let%20yourself%20be%20defeated.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Having%20lots%20of%20money%20while%20not%20having%20inner%20peace%20is%20like%20dying%20of%20thirst%20while%20bathing%20in%20the%20ocean.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
