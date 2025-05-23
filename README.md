@@ -23990,11 +23990,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=To%20be%20angry%20is%20to%20revenge%20the%20faults%20of%20others%20on%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Every%20moment%20you%20get%20is%20a%20gift.%20Spend%20it%20on%20things%20that%20matter.%20Don't%20spend%20it%20by%20dwelling%20on%20unhappy%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
