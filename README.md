@@ -24057,11 +24057,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=There%20are%20no%20contests%20in%20the%20Art%20of%20Peace.%20A%20true%20warrior%20is%20invincible%20because%20he%20or%20she%20contests%20with%20nothing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Shunryu%20Suzuki&quote=Time%20goes%20from%20present%20to%20past.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
