@@ -24028,11 +24028,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rosa%20Nouchette%20Carey&quote=Do%20it%20with%20passion%2C%20or%20not%20at%20all.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Every%20defeat%2C%20every%20heartbreak%20every%20loss%2C%20contains%20its%20own%20seed%2C%20its%20own%20lesson%20on%20how%20to%20improve%20your%20performance%20the%20next%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
