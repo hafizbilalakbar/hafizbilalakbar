@@ -24127,11 +24127,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Cameron&quote=If%20you%20set%20your%20goals%20ridiculously%20high%20and%20its%20a%20failure%2C%20you%20will%20fail%20above%20everyone%20elses%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=A.A.%20Milne&quote=One%20of%20the%20advantages%20of%20being%20disorganized%20is%20that%20one%20is%20always%20having%20surprising%20discoveries.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
