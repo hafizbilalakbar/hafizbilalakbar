@@ -24140,11 +24140,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Everything%20great%20that%20has%20ever%20happened%20to%20humanity%20has%20begun%20as%20a%20single%20thought%20in%20someone's%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charlie%20Chaplin&quote=Nothing%20is%20permanent%20in%20this%20wicked%20world%20-%20not%20even%20our%20troubles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
