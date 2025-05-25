@@ -24186,11 +24186,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=There%20is%20nothing%20more%20frightful%20than%20ignorance%20in%20action.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=All%20you%20need%20is%20passion.%20If%20you%20have%20a%20passion%20for%20something%2C%20you'll%20create%20the%20talent.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
