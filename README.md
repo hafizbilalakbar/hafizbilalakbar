@@ -24273,11 +24273,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=You%20do%20not%20read%20a%20book%20for%20the%20book's%20sake%2C%20but%20for%20your%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Happiness%20comes%20when%20you%20believe%20in%20what%20you%20are%20doing%2C%20know%20what%20you%20are%20doing%2C%20and%20love%20what%20you%20are%20doing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
