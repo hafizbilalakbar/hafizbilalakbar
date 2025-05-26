@@ -24250,11 +24250,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=St.%20Jerome&quote=Catch%2C%20then%2C%20O%20catch%20the%20transient%20hour%3B%20Improve%20each%20moment%20as%20it%20flies!%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=The%20way%20of%20success%20is%20the%20way%20of%20continuous%20pursuit%20of%20knowledge.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
