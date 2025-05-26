@@ -24217,11 +24217,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=If%20you%20don't%20know%2C%20the%20thing%20to%20do%20is%20not%20to%20get%20scared%2C%20but%20to%20learn.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=A%20mentor%20is%20someone%20who%20sees%20more%20talent%20and%20ability%20within%20you%2C%20than%20you%20see%20in%20yourself%2C%20and%20helps%20bring%20it%20out%20of%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
