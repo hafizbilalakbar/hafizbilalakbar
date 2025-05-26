@@ -24218,11 +24218,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=A%20mentor%20is%20someone%20who%20sees%20more%20talent%20and%20ability%20within%20you%2C%20than%20you%20see%20in%20yourself%2C%20and%20helps%20bring%20it%20out%20of%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lin%20Yutang&quote=Anyone%20who%20reads%20a%20book%20with%20a%20sense%20of%20obligation%20does%20not%20understand%20the%20art%20of%20reading.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
