@@ -24232,11 +24232,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Miguel%20de%20Cervantes&quote=He%20who%20loses%20wealth%20loses%20much%3B%20he%20who%20loses%20a%20friend%20loses%20more%3B%20but%20he%20that%20loses%20his%20courage%20loses%20all.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Don't%20be%20pushed%20around%20by%20the%20fears%20in%20your%20mind.%20Be%20led%20by%20the%20dreams%20in%20your%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
