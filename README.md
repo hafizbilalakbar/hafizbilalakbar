@@ -24371,11 +24371,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=If%20you%20cling%20to%20a%20certain%20thought%20with%20dynamic%20will%20power%2C%20it%20finally%20assumes%20a%20tangible%20outward%20form.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=All%20you%20need%20is%20the%20plan%2C%20the%20road%20map%2C%20and%20the%20courage%20to%20press%20on%20to%20your%20destination.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
