@@ -24501,11 +24501,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=There%20can%20be%20no%20greater%20gift%20than%20that%20of%20giving%20one's%20time%20and%20energy%20to%20help%20others%20without%20expecting%20anything%20in%20return.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sonia%20Ricotti&quote=The%20past%20is%20history.%20It%20no%20longer%20exists%2C%20but%20you%20are%20keeping%20it%20alive%20in%20your%20mind%20through%20your%20thoughts.%20%20Let%20it%20go.%20It%20is%20not%20serving%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
