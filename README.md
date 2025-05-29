@@ -24492,11 +24492,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=Don't%20waste%20your%20energy%20on%20being%20angry%20at%20something%20that%20somebody%20did%20six%20months%20ago%20or%20a%20year%20ago.%20It's%20over.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=When%20meditation%20is%20mastered%2C%20the%20mind%20is%20unwavering%20like%20the%20flame%20of%20a%20lamp%20in%20a%20windless%20place.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
