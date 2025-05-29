@@ -24497,11 +24497,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=The%20only%20limits%20in%20our%20life%20are%20those%20we%20impose%20on%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Don't%20let%20making%20a%20living%20prevent%20you%20from%20making%20a%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
