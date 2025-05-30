@@ -24584,11 +24584,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=Time%20and%20health%20are%20two%20precious%20assets%20that%20we%20don't%20recognize%20and%20appreciate%20until%20they%20have%20been%20depleted.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=Peace%20is%20not%20absence%20of%20conflict%2C%20it%20is%20the%20ability%20to%20handle%20conflict%20by%20peaceful%20means.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
