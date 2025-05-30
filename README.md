@@ -24627,11 +24627,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=To%20travel%20is%20to%20be%20alive%2C%20but%20to%20get%20somewhere%20is%20to%20be%20dead.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Nothing%20is%20particularly%20hard%20if%20you%20divide%20it%20into%20small%20jobs.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
