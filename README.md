@@ -24614,11 +24614,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=If%20you%20love%20somebody%2C%20let%20them%20go%2C%20for%20if%20they%20return%2C%20they%20were%20always%20yours.%20If%20they%20don't%2C%20they%20never%20were.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=If%20you%20do%20the%20work%20you%20get%20rewarded.%20There%20are%20no%20shortcuts%20in%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
