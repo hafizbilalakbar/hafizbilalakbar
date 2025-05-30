@@ -24599,11 +24599,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Decide%20upon%20your%20major%20definite%20purpose%20in%20life%20and%20then%20organize%20all%20your%20activities%20around%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=W.P.%20Kinsella&quote=You%20have%20to%20make%20time%2C%20even%20for%20something%20as%20universal%20as%20staring%20at%20the%20stars.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
