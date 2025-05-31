@@ -24685,11 +24685,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=When%20we%20allow%20negative%20messages%20to%20fester%20in%20our%20head%2C%20they%20take%20on%20a%20life%20of%20their%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=By%20the%20practice%20of%20meditation%2C%20you%20will%20find%20that%20you%20are%20carrying%20within%20your%20heart%20a%20portable%20paradise.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
