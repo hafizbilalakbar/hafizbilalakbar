@@ -24697,11 +24697,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=The%20least%20deviation%20from%20truth%20will%20be%20multiplied%20later.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=If%20you%20could%20kick%20the%20person%20in%20the%20pants%20responsible%20for%20most%20of%20your%20trouble%2C%20you%20wouldn't%20sit%20for%20a%20month.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
