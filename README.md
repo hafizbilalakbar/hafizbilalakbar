@@ -24645,11 +24645,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dudley%20Field%20Malone&quote=I%20have%20never%20in%20my%20life%20learned%20anything%20from%20any%20man%20who%20agreed%20with%20me.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=Courage%20is%20the%20willingness%20to%20engage%20in%20a%20risk-taking%20behavior%20regardless%20of%20whether%20the%20consequences%20are%20unknown%20or%20possibly%20adverse.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
