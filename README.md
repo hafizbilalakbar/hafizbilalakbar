@@ -24738,11 +24738,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Quality%20is%20more%20important%20than%20quantity.%20One%20home%20run%20is%20much%20better%20than%20two%20doubles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=What%20do%20we%20live%20for%20if%20not%20to%20make%20life%20less%20difficult%20for%20each%20other%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
