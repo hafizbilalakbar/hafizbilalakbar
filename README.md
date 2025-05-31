@@ -24671,11 +24671,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=It%20is%20not%20what%20we%20get.%20But%20who%20we%20become%2C%20what%20we%20contribute...%20that%20gives%20meaning%20to%20our%20lives.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=The%20moment%20you%20stop%20to%20think%20about%20whether%20you%20love%20someone%2C%20you've%20already%20stopped%20loving%20that%20person%20forever.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
