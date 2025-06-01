@@ -24784,11 +24784,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Rest%20when%20you're%20weary.%20Refresh%20and%20renew%20yourself%2C%20your%20body%2C%20your%20mind%2C%20your%20spirit.%20Then%20get%20back%20to%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=When%20you%20judge%20another%2C%20you%20do%20not%20define%20them%2C%20you%20define%20yourself&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
