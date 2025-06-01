@@ -24809,11 +24809,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=All%20animals%20except%20man%20know%20that%20the%20principal%20business%20of%20life%20is%20to%20enjoy%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=None%20of%20us%20can%20change%20our%20yesterdays%20but%20all%20of%20us%20can%20change%20our%20tomorrows.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
