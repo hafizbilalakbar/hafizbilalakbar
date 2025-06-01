@@ -24767,11 +24767,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=You%20gain%20strength%2C%20courage%20and%20confidence%20by%20every%20experience%20in%20which%20you%20really%20stop%20to%20look%20fear%20in%20the%20face.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=You%20can%20live%20a%20whole%20life%20time%20never%20being%20awake.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
