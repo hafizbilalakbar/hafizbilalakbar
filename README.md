@@ -24833,11 +24833,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=Give%20me%20six%20hours%20to%20chop%20down%20a%20tree%20and%20I%20will%20spend%20the%20first%20four%20sharpening%20the%20axe.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Do%20not%20allow%20your%20inner%20doubts%20to%20keep%20you%20from%20achieving%20what%20you%20can%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
