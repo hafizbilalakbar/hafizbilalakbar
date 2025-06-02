@@ -24884,11 +24884,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Laws%20are%20like%20cobwebs%2C%20which%20may%20catch%20small%20flies%2C%20but%20let%20wasps%20and%20hornets%20break%20through.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=Contemplation%20often%20makes%20life%20miserable.%20%20We%20should%20act%20more%2C%20think%20less%2C%20and%20stop%20watching%20ourselves%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
