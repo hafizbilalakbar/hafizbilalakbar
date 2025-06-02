@@ -24897,11 +24897,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=The%20moment%20you%20stop%20to%20think%20about%20whether%20you%20love%20someone%2C%20you've%20already%20stopped%20loving%20that%20person%20forever.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=A%20lot%20of%20people%20have%20gone%20further%20than%20they%20thought%20they%20could%20because%20someone%20else%20thought%20they%20could.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
