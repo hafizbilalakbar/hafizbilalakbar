@@ -24911,11 +24911,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=To%20himself%20everyone%20is%20immortal%3B%20he%20may%20know%20that%20he%20is%20going%20to%20die%2C%20but%20he%20can%20never%20know%20he%20is%20dead.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Betty%20White&quote=Don't%20try%20to%20be%20young.%20Just%20open%20your%20mind.%20Stay%20interested%20in%20stuff.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
