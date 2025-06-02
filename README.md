@@ -24910,11 +24910,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Success%20is%20not%20how%20high%20you%20have%20climbed%2C%20but%20how%20you%20make%20a%20positive%20difference%20to%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=To%20himself%20everyone%20is%20immortal%3B%20he%20may%20know%20that%20he%20is%20going%20to%20die%2C%20but%20he%20can%20never%20know%20he%20is%20dead.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
