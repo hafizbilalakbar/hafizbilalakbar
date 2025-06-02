@@ -24865,11 +24865,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=Winning%20isn't%20everything%2C%20but%20wanting%20to%20win%20is.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=To%20a%20mind%20that%20is%20still%2C%20the%20entire%20universe%20surrenders.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
