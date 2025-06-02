@@ -24846,11 +24846,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=A%20gentleman%20accepts%20the%20responsibility%20of%20his%20actions%20and%20bears%20the%20burden%20of%20their%20consequences.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=Never%20do%20things%20others%20can%20do%20and%20will%20do%20if%20there%20are%20things%20others%20cannot%20do%20or%20will%20not%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
