@@ -24918,11 +24918,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Constantly%20think%20about%20how%20you%20could%20be%20doing%20things%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=There%20are%20two%20ways%20of%20seeing%3A%20with%20the%20body%20and%20with%20the%20soul.%20The%20body's%20sight%20can%20sometimes%20forget%2C%20but%20the%20soul%20remembers%20forever.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
