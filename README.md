@@ -24956,11 +24956,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Think%20how%20really%20precious%20is%20the%20time%20you%20have%20to%20spend%2C%20whether%20it's%20at%20work%20or%20with%20your%20family.%20Every%20minute%20should%20be%20enjoyed%20and%20savored.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=A%20life%20spent%20making%20mistakes%20is%20not%20only%20more%20honorable%20but%20more%20useful%20than%20a%20life%20spent%20doing%20nothing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
