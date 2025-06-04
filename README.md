@@ -25032,11 +25032,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Take%20responsibility%20of%20your%20own%20happiness%2C%20never%20put%20it%20in%20other%20people's%20hands.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=Have%20a%20vision%2C%20trust%20yourself%2C%20break%20some%20rules%2C%20ignore%20the%20naysayers%2C%20don't%20be%20afraid%20to%20fail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
