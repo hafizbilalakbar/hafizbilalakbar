@@ -25028,11 +25028,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=If%20you%20build%20the%20guts%20to%20do%20something%2C%20anything%2C%20then%20you%20better%20save%20enough%20to%20face%20the%20consequences.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herman%20Melville&quote=I%20know%20not%20all%20that%20may%20be%20coming%2C%20but%20be%20it%20what%20it%20will%2C%20I'll%20go%20to%20it%20laughing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
