@@ -25043,11 +25043,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=How%20you%20think%20is%20as%20important%20as%20as%20what%20you%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=No%20experience%20is%20a%20cause%20of%20success%20or%20failure.%20We%20do%20not%20suffer%20from%20the%20shock%20of%20our%20experiences%2C%20so-called%20trauma%20-%20but%20we%20make%20out%20of%20them%20just%20what%20suits%20our%20purposes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
