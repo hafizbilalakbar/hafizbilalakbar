@@ -25075,11 +25075,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Do%20not%20be%20awe%20struck%20by%20other%20people%20and%20try%20to%20copy%20them.%20Nobody%20can%20be%20you%20as%20efficiently%20as%20you%20can.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=Most%20of%20us%20live%20our%20lives%20by%20accident%20-%20we%20live%20as%20it%20happens.%20Fulfilment%20comes%20when%20we%20live%20our%20lives%20on%20purpose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
