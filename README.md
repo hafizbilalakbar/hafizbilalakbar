@@ -25047,11 +25047,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Spurgeon&quote=A%20good%20character%20is%20the%20best%20tombstone.%20Carve%20your%20name%20on%20hearts%2C%20not%20on%20marble.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=Life's%20too%20mysterious%20to%20take%20too%20serious.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
