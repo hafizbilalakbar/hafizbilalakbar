@@ -25155,11 +25155,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=Disobedience%20is%20the%20true%20foundation%20of%20liberty.%20The%20obedient%20must%20be%20slaves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=At%20the%20end%20of%20the%20day%2C%20let%20there%20be%20no%20excuses%2C%20no%20explanations%2C%20no%20regrets.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
