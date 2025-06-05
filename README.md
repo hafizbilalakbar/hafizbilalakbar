@@ -25128,11 +25128,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=By%20going%20within.%20Nowhere%20you%20can%20go%20is%20more%20peaceful%20-%20more%20free%20of%20interruptions%20-%20than%20your%20own%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Happiness%20is%20not%20something%20ready%20made.%20It%20comes%20from%20your%20own%20actions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
