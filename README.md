@@ -25150,11 +25150,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=Good%20things%20aren't%20supposed%20to%20just%20fall%20into%20your%20lap.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=I%20do%20not%20exist%20to%20impress%20the%20world.%20I%20exist%20to%20live%20my%20life%20in%20a%20way%20that%20will%20make%20me%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
