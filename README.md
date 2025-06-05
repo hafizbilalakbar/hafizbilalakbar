@@ -25141,11 +25141,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=Nothing%20like%20a%20health%20problem%20to%20turn%20up%20the%20contrast%20dial%20for%20the%20rest%20of%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20is%20important%20to%20fight%20and%20fight%20again%2C%20and%20keep%20fighting%2C%20for%20only%20then%20can%20evil%20be%20kept%20at%20bay%20though%20never%20quite%20eradicated.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
