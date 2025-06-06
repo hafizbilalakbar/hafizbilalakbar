@@ -25168,11 +25168,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=The%20most%20virtuous%20are%20those%20who%20content%20themselves%20with%20being%20virtuous%20without%20seeking%20to%20appear%20so.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Success%20is%20about%20doing%20the%20right%20thing%2C%20not%20about%20doing%20everything%20right.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
