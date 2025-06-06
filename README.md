@@ -25218,11 +25218,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=Be%20a%20good%20animal%2C%20true%20to%20your%20instincts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Anger%20is%20an%20acid%20that%20can%20do%20more%20harm%20to%20the%20vessel%20in%20which%20it%20is%20stored%20than%20to%20anything%20on%20which%20it%20is%20poured.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
