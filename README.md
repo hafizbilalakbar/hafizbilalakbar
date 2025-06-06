@@ -25208,11 +25208,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Remember%20the%20entrance%20to%20the%20sanctuary%20is%20inside%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Today%20I%20begin%20a%20new%20life.%20I%20will%20greet%20this%20day%20with%20love%20in%20my%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
