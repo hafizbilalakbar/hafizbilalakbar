@@ -25171,11 +25171,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Someone%20who%20points%20out%20your%20flaws%20to%20you%20is%20not%20necessarily%20your%20enemy.%20Someone%20who%20speaks%20of%20your%20virtues%20is%20not%20necessarily%20your%20friend.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=The%20soul%20is%20neither%20born%2C%20and%20nor%20does%20it%20die.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
