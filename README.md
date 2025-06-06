@@ -25244,11 +25244,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=A%20lie%20can%20travel%20half%20way%20around%20the%20world%20while%20the%20truth%20is%20putting%20on%20its%20shoes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=If%20you%20are%20not%20living%20each%20day%20with%20excitement%2C%20energy%2C%20and%20passion%2C%20then%20you%20are%20not%20living%20true%20to%20your%20life%20purpose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
