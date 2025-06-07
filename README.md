@@ -25287,11 +25287,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Addair&quote=Everything%20you've%20ever%20wanted%20is%20on%20the%20other%20side%20of%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=If%20you%20don't%20find%20the%20time%2C%20if%20you%20don't%20do%20the%20work%2C%20you%20don't%20get%20the%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
