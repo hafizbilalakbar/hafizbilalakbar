@@ -25252,11 +25252,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Sometimes%20letting%20things%20go%20is%20an%20act%20of%20far%20greater%20power%20than%20defending%20or%20hanging%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Laurence%20J.%20Peter&quote=An%20intelligence%20test%20sometimes%20shows%20a%20man%20how%20smart%20he%20would%20have%20been%20not%20to%20have%20taken%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
