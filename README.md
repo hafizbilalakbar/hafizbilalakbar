@@ -25309,11 +25309,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Isaac%20Newton&quote=We%20build%20too%20many%20walls%20and%20not%20enough%20bridges.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=To%20live%20is%20the%20rarest%20thing%20in%20the%20world.%20Most%20people%20exist%2C%20that%20is%20all.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
