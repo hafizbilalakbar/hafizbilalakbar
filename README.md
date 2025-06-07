@@ -25299,11 +25299,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Action%20may%20not%20always%20bring%20happiness%2C%20but%20there%20is%20no%20happiness%20without%20action.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=You%20have%20a%20brain%20and%20mind%20of%20your%20own.%20Use%20it%2C%20and%20reach%20your%20own%20decisions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
