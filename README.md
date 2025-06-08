@@ -25437,11 +25437,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=Everything%20starts%20with%20a%20dream.%20A%20particle%20of%20our%20imagination%20that%20teases%20us%20of%20what%20the%20future%20could%20be%20like%2C%20as%20long%20as%20we%20fight%20for%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=One%20machine%20can%20do%20the%20work%20of%20fifty%20ordinary%20men.%20No%20machine%20can%20do%20the%20work%20of%20one%20extraordinary%20man.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
