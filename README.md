@@ -25404,11 +25404,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=Strive%20for%20excellence%2C%20not%20perfection%2C%20because%20we%20don't%20live%20in%20a%20perfect%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepam%20Chaterjee&quote=When%20you%20are%20totally%20at%20peace%20with%20yourself%2C%20nothing%20can%20shake%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
