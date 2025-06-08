@@ -25367,11 +25367,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Be%20as%20fluid%20as%20water%2C%20do%20not%20give%20your%20enemies%20anything%20solid%20to%20attack.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=It%20is%20indeed%20a%20radical%20act%20of%20love%20just%20to%20sit%20down%20and%20be%20quiet%20for%20a%20time%20by%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
