@@ -25409,11 +25409,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Columbus&quote=Life%20has%20more%20imagination%20than%20we%20carry%20in%20our%20dreams.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Helen%20Keller&quote=Walking%20with%20a%20friend%20in%20the%20dark%20is%20better%20than%20walking%20alone%20in%20the%20light.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
