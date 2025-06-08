@@ -25371,11 +25371,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=Happiness%20can%20be%20found%2C%20even%20in%20the%20darkest%20of%20times%2C%20if%20one%20only%20remembers%20to%20turn%20on%20the%20light.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=It%20is%20literally%20true%20that%20you%20can%20succeed%20best%20and%20quickest%20by%20helping%20others%20succeed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
