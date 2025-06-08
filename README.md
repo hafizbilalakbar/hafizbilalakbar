@@ -25363,11 +25363,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It's%20the%20unknown%20we%20fear%20when%20we%20look%20upon%20death%20and%20darkness%2C%20nothing%20more.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seungsahn&quote=The%20Truth%20is%20realized%20in%20an%20instant%3B%20the%20Act%20is%20practiced%20step%20by%20step.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
