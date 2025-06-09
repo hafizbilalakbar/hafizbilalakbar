@@ -25487,11 +25487,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Honesty%20is%20the%20first%20chapter%20in%20the%20book%20of%20wisdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=If%20you%20want%20work%20well%20done%2C%20select%20a%20busy%20man%3B%20the%20other%20kind%20has%20no%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
