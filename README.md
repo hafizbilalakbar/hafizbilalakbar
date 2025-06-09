@@ -25442,11 +25442,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=Never%20fear%20quarrels%2C%20but%20seek%20hazardous%20adventures.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=Forget%20yesterday%20-%20it%20has%20already%20forgotten%20you.%20Don't%20sweat%20tomorrow%20-%20you%20haven't%20even%20met.%20Instead%2C%20open%20your%20eyes%20and%20your%20heart%20to%20a%20truly%20precious%20gift%20-%20today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
