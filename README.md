@@ -25449,11 +25449,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Beverly%20Sills&quote=I've%20always%20tried%20to%20go%20a%20step%20past%20wherever%20people%20expected%20me%20to%20end%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Washington&quote=Be%20courteous%20to%20all%2C%20but%20intimate%20with%20few%2C%20and%20let%20those%20few%20be%20well%20tried%20before%20you%20give%20them%20your%20confidence.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
