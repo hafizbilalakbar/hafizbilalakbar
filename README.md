@@ -25494,11 +25494,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=Go%20and%20do%20the%20things%20you%20can't.%20That%20is%20how%20you%20get%20to%20do%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Determine%20never%20to%20be%20idle.%20No%20person%20will%20have%20occasion%20to%20complain%20of%20the%20want%20of%20time%20who%20never%20loses%20any.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
