@@ -25582,11 +25582,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=To%20be%20alive%20-%20is%20Power.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=One%20of%20the%20most%20difficult%20things%20is%20not%20to%20change%20society%20-%20but%20to%20change%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
