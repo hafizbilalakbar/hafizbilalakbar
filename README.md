@@ -25562,11 +25562,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Change%20your%20thoughts%20and%20you%20change%20your%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=Embrace%20the%20life%20you%20have%20and%20stop%20wishing%20that%20you%20could%20be%20someone%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
