@@ -25585,11 +25585,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Success%20is%20not%20how%20high%20you%20have%20climbed%2C%20but%20how%20you%20make%20a%20positive%20difference%20to%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=To%20do%20great%20work%20one%20must%20be%20very%20idle%20as%20well%20as%20very%20industrious.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
