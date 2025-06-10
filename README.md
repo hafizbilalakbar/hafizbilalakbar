@@ -25579,11 +25579,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Isaac%20Newton&quote=If%20I%20have%20seen%20further%20than%20others%2C%20it%20is%20by%20standing%20upon%20the%20shoulders%20of%20giants.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=If%20you%20can%20see%20it%20in%20your%20mind%2C%20you%20can%20hold%20it%20in%20your%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
