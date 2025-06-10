@@ -25574,11 +25574,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20key%20to%20success%20is%20to%20focus%20our%20conscious%20mind%20on%20things%20we%20desire%20not%20things%20we%20fear.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=The%20most%20important%20single%20ingredient%20in%20the%20formula%20of%20success%20is%20knowing%20how%20to%20get%20along%20with%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
