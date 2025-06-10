@@ -25531,11 +25531,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=You%20have%20to%20keep%20breaking%20your%20heart%20until%20it%20opens.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=Men%20are%20anxious%20to%20improve%20their%20circumstances%20but%20are%20unwilling%20to%20improve%20themselves%3B%20they%20therefore%20remain%20bound.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
