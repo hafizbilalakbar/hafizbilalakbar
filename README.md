@@ -25610,11 +25610,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Do%20what%20you%20feel%20in%20your%20heart%20to%20be%20right%20-%20for%20you'll%20be%20criticized%20anyway.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=If%20you%20try%20to%20get%20rid%20of%20fear%20and%20anger%20without%20knowing%20their%20meaning%2C%20they%20will%20grow%20stronger%20and%20return.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
