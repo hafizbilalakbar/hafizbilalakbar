@@ -25638,11 +25638,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Conrad%20Hilton&quote=To%20accomplish%20big%20things%2C%20I%20am%20convinced%20you%20must%20first%20dream%20big%20dreams.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Will%20Rogers&quote=It's%20not%20what%20you%20pay%20a%20man%2C%20but%20what%20he%20costs%20you%20that%20counts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
