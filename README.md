@@ -25633,11 +25633,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=G.I.%20Gurdjieff&quote=Without%20struggle%2C%20no%20progress%20and%20no%20result.%20Every%20breaking%20of%20habit%20produces%20a%20change%20in%20the%20machine.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=Once%20a%20decision%20was%20made%2C%20I%20didn't%20worry%20about%20it%20afterward.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
