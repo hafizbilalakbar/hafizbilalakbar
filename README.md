@@ -25753,11 +25753,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=We've%20got%20to%20live%2C%20no%20matter%20how%20many%20skies%20have%20fallen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=Do%20not%20wait%20for%20leaders%3B%20do%20it%20alone%2C%20person%20to%20person.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
