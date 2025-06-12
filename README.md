@@ -25723,11 +25723,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=Don't%20be%20afraid%20of%20missing%20opportunities.%20Behind%20every%20failure%20is%20an%20opportunity%20somebody%20wishes%20they%20had%20missed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=Never%20fear%20quarrels%2C%20but%20seek%20hazardous%20adventures.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
