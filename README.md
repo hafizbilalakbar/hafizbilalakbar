@@ -25751,11 +25751,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Confidence%20is%20not%20a%20guarantee%20of%20success%2C%20but%20a%20pattern%20of%20thinking%20that%20will%20improve%20your%20likelihood%20of%20success%2C%20a%20tenacious%20search%20for%20ways%20to%20make%20things%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=The%20trouble%20with%20the%20rat%20race%20is%20that%20even%20if%20you%20win%2C%20you're%20still%20a%20rat.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
