@@ -25810,11 +25810,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=No%20valid%20plans%20for%20the%20future%20can%20be%20made%20by%20those%20who%20have%20no%20capacity%20for%20living%20now.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=This%20is%20the%20most%20simple%20and%20basic%20component%20of%20life%3A%20our%20struggles%20determine%20our%20successes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
