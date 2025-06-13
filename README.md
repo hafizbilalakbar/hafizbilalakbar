@@ -25787,11 +25787,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Genghis%20Khan&quote=If%20you're%20afraid%20-%20don't%20do%20it%2C%20-%20if%20you're%20doing%20it%20-%20don't%20be%20afraid!%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=If%20we%20learn%20to%20open%20our%20hearts%2C%20anyone%2C%20including%20the%20people%20who%20drive%20us%20crazy%2C%20can%20be%20our%20teacher.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
