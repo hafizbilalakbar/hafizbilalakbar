@@ -25788,11 +25788,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=If%20we%20learn%20to%20open%20our%20hearts%2C%20anyone%2C%20including%20the%20people%20who%20drive%20us%20crazy%2C%20can%20be%20our%20teacher.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Don't%20be%20afraid%20to%20stand%20for%20what%20you%20believe%20in%2C%20even%20if%20that%20means%20standing%20alone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
