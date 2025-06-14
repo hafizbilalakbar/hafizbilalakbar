@@ -25927,11 +25927,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Success%20is%20never%20final%2C%20failure%20is%20never%20fatal.%20It's%20courage%20that%20counts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=Life%20doesn't%20get%20easier%20or%20more%20forgiving%2C%20we%20get%20stronger%20and%20more%20resilient.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
