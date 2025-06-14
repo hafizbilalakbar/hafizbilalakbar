@@ -25859,11 +25859,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=To%20be%20fully%20alive%2C%20fully%20human%2C%20and%20completely%20awake%20is%20to%20be%20continually%20thrown%20out%20of%20the%20nest.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=When%20you%20are%20able%20to%20employ%20your%20will%20always%20for%20constructive%20purposes%2C%20you%20become%20the%20controller%20of%20your%20destiny.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
