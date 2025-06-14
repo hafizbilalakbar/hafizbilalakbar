@@ -25941,11 +25941,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Will%20Rogers&quote=Don't%20Let%20Yesterday%20Take%20Up%20Too%20Much%20Of%20Today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Graham%20Bell&quote=Concentrate%20all%20your%20thoughts%20upon%20the%20work%20at%20hand.%20The%20sun's%20rays%20do%20not%20burn%20until%20brought%20to%20focus.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
