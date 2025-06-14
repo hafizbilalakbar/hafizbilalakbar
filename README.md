@@ -25922,11 +25922,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Confidence%20is%20like%20a%20dragon%20where%2C%20for%20every%20head%20cut%20off%2C%20two%20more%20heads%20grow%20back.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=If%20you%20can't%20explain%20it%20simply%2C%20you%20don't%20understand%20it%20well%20enough.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
