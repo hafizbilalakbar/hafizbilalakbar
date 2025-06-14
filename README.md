@@ -25906,11 +25906,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=Not%20all%20readers%20are%20leaders%2C%20but%20all%20leaders%20are%20readers.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Your%20vision%20will%20become%20clear%20only%20when%20you%20can%20look%20into%20your%20own%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
