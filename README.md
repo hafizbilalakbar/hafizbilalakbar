@@ -25997,11 +25997,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=C.%20Sean%20McGee&quote=What's%20the%20point%20in%20being%20smart%20enough%20to%20read%2C%20if%20everything%20you%20read%20makes%20you%20dumb%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Freedom%20is%20the%20open%20window%20through%20which%20pours%20the%20sunlight%20of%20the%20human%20spirit%20and%20human%20dignity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
