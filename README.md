@@ -26012,11 +26012,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=The%20world%20is%20changed%20by%20your%20example%2C%20not%20by%20your%20opinion.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=You%20can%20easily%20judge%20the%20character%20of%20a%20man%20by%20how%20he%20treats%20those%20who%20can%20do%20nothing%20for%20him.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
