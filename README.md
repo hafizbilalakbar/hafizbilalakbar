@@ -25982,11 +25982,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=We%20must%20have%20strong%20minds%2C%20ready%20to%20accept%20facts%20as%20they%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=The%20more%20often%20a%20stupidity%20is%20repeated%2C%20the%20more%20it%20gets%20the%20appearance%20of%20wisdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
