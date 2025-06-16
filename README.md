@@ -26111,11 +26111,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Why%20compare%20yourself%20with%20others%3F%20No%20one%20in%20the%20entire%20world%20can%20do%20a%20better%20job%20of%20being%20you%20than%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=The%20beautiful%20journey%20of%20today%20can%20only%20begin%20when%20we%20learn%20to%20let%20go%20of%20yesterday.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
