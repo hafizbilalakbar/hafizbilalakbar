@@ -26075,11 +26075,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=A%20fall%20into%20a%20ditch%20makes%20you%20wiser.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=Do%20your%20duty%20and%20a%20little%20more%20and%20the%20future%20will%20take%20care%20of%20itself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
