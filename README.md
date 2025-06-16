@@ -26040,11 +26040,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=It%20is%20important%20that%20we%20forgive%20ourselves%20for%20making%20mistakes.%20We%20need%20to%20learn%20from%20our%20errors%20and%20move%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=If%20you%20think%20adventure%20is%20dangerous%2C%20try%20routine%3B%20it%20is%20lethal.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
