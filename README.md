@@ -26134,11 +26134,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=There%20are%20only%20two%20ways%20to%20live%20your%20life.%20One%20is%20as%20if%20nothing%20is%20a%20miracle.%20The%20other%20is%20as%20if%20everything%20is%20a%20miracle.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Isaac%20Newton&quote=Truth%20is%20the%20offspring%20of%20silence%20and%20meditation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
