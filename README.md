@@ -26142,11 +26142,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=To%20live%20is%20the%20rarest%20thing%20in%20the%20world.%20Most%20people%20exist%2C%20that%20is%20all.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Throw%20your%20heart%20over%20the%20bar%20and%20your%20body%20will%20follow.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
