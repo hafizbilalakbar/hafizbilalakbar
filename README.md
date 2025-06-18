@@ -26224,11 +26224,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=When%20meditation%20is%20mastered%2C%20the%20mind%20is%20unwavering%20like%20the%20flame%20of%20a%20lamp%20in%20a%20windless%20place.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=At%20the%20end%20of%20the%20day%2C%20let%20there%20be%20no%20excuses%2C%20no%20explanations%2C%20no%20regrets.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
