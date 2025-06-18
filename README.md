@@ -26219,11 +26219,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=In%20order%20to%20control%20myself%20I%20must%20first%20accept%20myself%20by%20going%20with%20and%20not%20against%20my%20nature.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=No%20matter%20how%20smart%20we%20may%20think%20we%20are%2C%20no%20matter%20how%20committed%20we%20are%20to%20our%20truth%2C%20we%20can%20lose%20our%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
