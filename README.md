@@ -26202,11 +26202,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=Best%20be%20yourself%2C%20imperial%2C%20plain%2C%20and%20true.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=Cry.%20Forgive.%20Learn.%20Move%20on.%20Let%20your%20tears%20water%20the%20seeds%20of%20your%20future%20happiness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
