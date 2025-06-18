@@ -26227,11 +26227,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Beware%20of%20false%20knowledge%2C%20it%20is%20more%20dangerous%20than%20ignorance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dudley%20Field%20Malone&quote=I%20have%20never%20in%20my%20life%20learned%20anything%20from%20any%20man%20who%20agreed%20with%20me.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
