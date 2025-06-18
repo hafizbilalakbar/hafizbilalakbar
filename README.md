@@ -26217,11 +26217,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Coco%20Chanel&quote=Don't%20spend%20time%20beating%20on%20a%20wall%2C%20hoping%20to%20transform%20it%20into%20a%20door.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=I%20am%20thankful%20to%20all%20those%20who%20said%20no.%20It's%20because%20of%20them%2C%20I%20did%20it%20myself.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
