@@ -26264,11 +26264,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=Never%20be%20afraid%20to%20raise%20your%20voice%20for%20honesty%20and%20truth%20and%20compassion%20against%20injustice%20and%20lying%20and%20greed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=You%20don't%20have%20to%20be%20great%20to%20start%2C%20but%20you%20have%20to%20start%20to%20be%20great.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
