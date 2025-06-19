@@ -26272,11 +26272,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=Our%20virtues%20and%20our%20failings%20are%20inseparable%2C%20like%20force%20and%20matter.%20When%20they%20separate%2C%20man%20is%20no%20more.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=I%20put%20my%20heart%20and%20soul%20into%20my%20work%2C%20and%20I%20have%20lost%20my%20mind%20in%20the%20process.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
