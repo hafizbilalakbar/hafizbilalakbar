@@ -26348,11 +26348,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Do%20what%20you%20feel%20in%20your%20heart%20to%20be%20right%20-%20for%20you'll%20be%20criticized%20anyway.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=What%20you%20seek%20is%20seeking%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
