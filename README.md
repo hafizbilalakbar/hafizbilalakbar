@@ -26280,11 +26280,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Some%20of%20us%20learn%20from%20other%20people's%20mistakes%20and%20the%20rest%20of%20us%20have%20to%20be%20other%20people.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Take%20the%20attitude%20of%20a%20student.%20Never%20be%20too%20big%20to%20ask%20questions.%20Never%20know%20too%20much%20to%20learn%20something%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
