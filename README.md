@@ -26325,11 +26325,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=Either%20write%20something%20worth%20reading%20or%20do%20something%20worth%20writing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=The%20present%20moment%20dies%20every%20moment%20to%20become%20the%20past%20%2C%20is%20reborn%20every%20moment%20into%20the%20future.%20All%20experience%20is%20now.%20Now%20never%20ends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
