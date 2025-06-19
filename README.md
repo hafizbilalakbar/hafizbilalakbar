@@ -26343,11 +26343,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Loving%20thoughts%20and%20actions%20are%20clearly%20beneficial%20for%20our%20physical%20and%20mental%20health.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=If%20you%20do%20not%20change%20direction%2C%20you%20may%20end%20up%20where%20you%20are%20heading.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
