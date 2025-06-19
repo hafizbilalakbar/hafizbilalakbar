@@ -26283,11 +26283,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=The%20best%20way%20to%20predict%20your%20future%20is%20to%20create%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=As%20you%20grow%20older%20you%20will%20discover%20that%20you%20have%20two%20hands.%20One%20for%20helping%20yourself%2C%20the%20other%20for%20helping%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
