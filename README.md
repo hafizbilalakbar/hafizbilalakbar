@@ -26360,11 +26360,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Trying%20to%20define%20yourself%20is%20like%20trying%20to%20bite%20your%20own%20teeth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=You%20Create%20Your%20Own%20Present%20By%20What%20You%20Give%20Your%20Attention%20To%20Today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
