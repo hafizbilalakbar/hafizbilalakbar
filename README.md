@@ -26378,11 +26378,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=A%20pessimist%20sees%20the%20difficulty%20in%20every%20opportunity%3B%20an%20optimist%20sees%20the%20opportunity%20in%20every%20difficulty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Having%20lots%20of%20money%20while%20not%20having%20inner%20peace%20is%20like%20dying%20of%20thirst%20while%20bathing%20in%20the%20ocean.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
