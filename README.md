@@ -26530,11 +26530,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=Not%20doing%20it%20is%20certainly%20the%20best%20way%20to%20not%20getting%20it.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=We%20must%20not%20be%20afraid%20of%20dreaming%20the%20seemingly%20impossible%20if%20we%20want%20the%20seemingly%20impossible%20to%20become%20a%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
