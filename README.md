@@ -26492,11 +26492,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=To%20be%20in%20harmony%20with%20the%20wholeness%20of%20things%20is%20not%20to%20have%20anxiety%20over%20imperfections.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Everything%20that%20is%20made%20beautiful%20and%20fair%20and%20lovely%20is%20made%20for%20the%20eye%20of%20one%20who%20sees.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
