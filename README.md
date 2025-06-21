@@ -26470,11 +26470,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Frank&quote=Laziness%20may%20appear%20attractive%2C%20but%20work%20gives%20satisfaction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Williams&quote=What's%20right%20is%20what's%20left%20if%20you%20do%20everything%20else%20wrong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
