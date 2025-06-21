@@ -26456,11 +26456,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=You%20get%20in%20life%20what%20you%20have%20the%20courage%20to%20ask%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=We%20have%20more%20possibilities%20available%20in%20each%20moment%20than%20we%20realize.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
