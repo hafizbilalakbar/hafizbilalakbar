@@ -26442,11 +26442,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=Learn%20only%20how%20to%20avoid%20seeking%20for%20and%20attaching%20yourselves%20to%20anything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=It's%20what%20you%20do%20in%20the%20present%20that%20will%20redeem%20the%20past%20and%20thereby%20change%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
