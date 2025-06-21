@@ -26443,11 +26443,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=It's%20what%20you%20do%20in%20the%20present%20that%20will%20redeem%20the%20past%20and%20thereby%20change%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Life%20is%20growth.%20If%20we%20stop%20growing%2C%20technically%20and%20spiritually%2C%20we%20are%20as%20good%20as%20dead.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
