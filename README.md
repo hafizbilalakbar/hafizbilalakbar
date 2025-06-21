@@ -26516,11 +26516,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Money%20is%20only%20a%20tool.%20It%20will%20take%20you%20wherever%20you%20wish%2C%20but%20it%20will%20not%20replace%20you%20as%20the%20driver.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=He%20who%20knows%2C%20does%20not%20speak.%20He%20who%20speaks%2C%20does%20not%20know.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
