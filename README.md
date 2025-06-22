@@ -26601,11 +26601,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Learn%20to%20sit%20back%20and%20observe%2C%20not%20everything%20needs%20a%20reaction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lin%20Yutang&quote=Anyone%20who%20reads%20a%20book%20with%20a%20sense%20of%20obligation%20does%20not%20understand%20the%20art%20of%20reading.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
