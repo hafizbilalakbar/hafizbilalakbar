@@ -26614,11 +26614,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=Victorious%20warriors%20win%20first%20and%20then%20go%20to%20war%2C%20while%20defeated%20warriors%20go%20to%20war%20first%20and%20then%20seek%20to%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Nothing%20in%20this%20world%20is%20worth%20having%20or%20worth%20doing%20unless%20it%20means%20effort%2C%20pain%2C%20difficulty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
