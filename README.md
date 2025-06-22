@@ -26559,11 +26559,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=My%20guiding%20principle%20is%20this%3A%20Guilt%20is%20never%20to%20be%20doubted.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Kerouac&quote=Great%20things%20are%20not%20accomplished%20by%20those%20who%20yield%20to%20trends%20and%20fads%20and%20popular%20opinion.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
