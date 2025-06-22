@@ -26557,11 +26557,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=Actions%20are%20the%20seeds%20of%20fate.%20Deeds%20grow%20into%20destiny.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=You%20cannot%20always%20control%20what%20goes%20on%20outside.%20But%20you%20can%20always%20control%20what%20goes%20on%20inside.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
