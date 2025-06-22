@@ -26591,11 +26591,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Experience%20is%20a%20comb%20which%20nature%20gives%20us%20when%20we%20are%20bald.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Tension%20is%20who%20you%20think%20you%20should%20be.%20Relaxation%20is%20who%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
