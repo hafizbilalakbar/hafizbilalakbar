@@ -26565,11 +26565,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20consequences%20of%20today%20are%20determined%20by%20the%20actions%20of%20the%20past.%20To%20change%20your%20future%2C%20alter%20your%20decisions%20today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=This%20is%20the%20most%20simple%20and%20basic%20component%20of%20life%3A%20our%20struggles%20determine%20our%20successes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
