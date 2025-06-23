@@ -26678,11 +26678,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kenneth%20Branagh&quote=My%20definition%20of%20success%20is%20control.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=There%20are%20two%20things%20a%20person%20should%20never%20be%20angry%20at%2C%20what%20they%20can%20help%2C%20and%20what%20they%20cannot.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
