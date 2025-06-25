@@ -26795,11 +26795,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lin%20Yutang&quote=Peace%20of%20mind%20is%20that%20mental%20condition%20in%20which%20you%20have%20accepted%20the%20worst.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=A%20clever%20person%20turns%20great%20troubles%20into%20little%20ones%2C%20and%20little%20ones%20into%20none%20at%20all.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
