@@ -26777,11 +26777,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Conrad%20Hilton&quote=To%20accomplish%20big%20things%2C%20I%20am%20convinced%20you%20must%20first%20dream%20big%20dreams.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=Enjoy%20when%20you%20can%2C%20and%20endure%20when%20you%20must.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
