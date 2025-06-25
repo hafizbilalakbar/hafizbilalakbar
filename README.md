@@ -26829,11 +26829,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Family%20not%20only%20needs%20to%20consist%20of%20merely%20those%20whom%20we%20share%20blood%2C%20but%20also%20of%20those%20whom%20we'd%20give%20blood.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=There%20is%20nothing%20more%20truly%20artistic%20than%20to%20love%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
