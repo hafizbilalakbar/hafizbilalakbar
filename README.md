@@ -26833,11 +26833,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=At%20the%20center%20of%20your%20being%20you%20have%20the%20answer%3B%20you%20know%20who%20you%20are%20and%20you%20know%20what%20you%20want.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Publilius%20Syrus&quote=It%20is%20better%20to%20learn%20late%20than%20never.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
