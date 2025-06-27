@@ -26993,11 +26993,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=There%20is%20no%20path%20to%20Happiness.%20Happiness%20is%20the%20path.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=The%20soul%20without%20imagination%20is%20what%20an%20observatory%20would%20be%20without%20a%20telescope.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
