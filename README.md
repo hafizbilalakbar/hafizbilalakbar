@@ -26941,11 +26941,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=If%20he%20cannot%20stop%20the%20mind%20that%20seeks%20after%20fame%20and%20profit%2C%20he%20will%20spend%20his%20life%20without%20finding%20peace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Publilius%20Syrus&quote=A%20wise%20man%20will%20be%20master%20of%20his%20mind%2C%20a%20fool%20will%20be%20its%20slave.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
