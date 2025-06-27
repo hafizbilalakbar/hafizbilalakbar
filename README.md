@@ -26995,11 +26995,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=It%20is%20useless%20to%20meet%20revenge%20with%20revenge%3B%20it%20will%20heal%20nothing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=Be%20strong.%20Be%20confident.%20Be%20the%20star%20of%20your%20own%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
