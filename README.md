@@ -27046,11 +27046,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kenneth%20Branagh&quote=My%20definition%20of%20success%20is%20control.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=In%20all%20human%20affairs%20there%20are%20efforts%2C%20and%20there%20are%20results%2C%20and%20the%20strength%20of%20the%20effort%20is%20the%20measure%20of%20the%20result.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
