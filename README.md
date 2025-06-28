@@ -27057,11 +27057,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=A%20liar%20knows%20that%20he%20is%20a%20liar%2C%20but%20one%20who%20speaks%20mere%20portions%20of%20truth%20in%20order%20to%20deceive%20is%20a%20craftsman%20of%20destruction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Isaac%20Newton&quote=To%20every%20action%20there%20is%20always%20opposed%20an%20equal%20reaction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
