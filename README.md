@@ -27069,11 +27069,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Babe%20Ruth&quote=Every%20strike%20brings%20me%20closer%20to%20the%20next%20home%20run.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Before%20you%20speak%2C%20ask%20yourself%2C%20is%20it%20kind%2C%20is%20it%20necessary%2C%20is%20it%20true%2C%20does%20it%20improve%20the%20silence%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
