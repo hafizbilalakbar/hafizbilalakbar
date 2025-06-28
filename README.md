@@ -27056,11 +27056,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Stop%20being%20a%20prisoner%20of%20your%20past.%20Become%20the%20architect%20of%20your%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=A%20liar%20knows%20that%20he%20is%20a%20liar%2C%20but%20one%20who%20speaks%20mere%20portions%20of%20truth%20in%20order%20to%20deceive%20is%20a%20craftsman%20of%20destruction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
