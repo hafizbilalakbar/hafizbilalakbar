@@ -27038,11 +27038,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Do%20not%20dwell%20in%20the%20past%2C%20do%20not%20dream%20of%20the%20future%2C%20concentrate%20the%20mind%20on%20the%20present%20moment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=A%20leader%20is%20best%20when%20people%20barely%20know%20he%20exists%2C%20when%20his%20work%20is%20done%2C%20his%20aim%20fulfilled%2C%20they%20will%20say%3A%20we%20did%20it%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
