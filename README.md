@@ -27062,11 +27062,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Miguel%20de%20Cervantes&quote=He%20who%20loses%20wealth%20loses%20much%3B%20he%20who%20loses%20a%20friend%20loses%20more%3B%20but%20he%20that%20loses%20his%20courage%20loses%20all.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Success%20is%20the%20progressive%20realization%20of%20a%20worthy%20goal%20or%20ideal.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
