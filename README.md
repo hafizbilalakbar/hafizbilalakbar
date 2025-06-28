@@ -27037,11 +27037,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Your%20first%20and%20foremost%20job%20as%20a%20leader%20is%20to%20take%20charge%20of%20your%20own%20energy%20and%20then%20help%20to%20orchestrate%20the%20energy%20of%20those%20around%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Do%20not%20dwell%20in%20the%20past%2C%20do%20not%20dream%20of%20the%20future%2C%20concentrate%20the%20mind%20on%20the%20present%20moment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
