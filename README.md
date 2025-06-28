@@ -27094,11 +27094,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=When%20you%20dance%2C%20your%20purpose%20is%20not%20to%20get%20to%20a%20certain%20place%20on%20the%20floor.%20It's%20to%20enjoy%20each%20step%20along%20the%20way.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Preoccupied%20with%20a%20single%20leaf%20you%20won't%20see%20the%20tree.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
