@@ -27177,11 +27177,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Choose%20a%20job%20you%20love%2C%20and%20you%20will%20never%20have%20to%20work%20a%20day%20in%20your%20life.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=We%20run%20to%20win%2C%20not%20just%20to%20be%20in%20the%20race.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
