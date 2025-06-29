@@ -27176,11 +27176,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Instead%20of%20being%20intimidated%20by%20the%20limitations%2C%20be%20inspired%20to%20find%20new%20ways%20around%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Choose%20a%20job%20you%20love%2C%20and%20you%20will%20never%20have%20to%20work%20a%20day%20in%20your%20life.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
