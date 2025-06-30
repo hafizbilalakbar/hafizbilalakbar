@@ -27211,11 +27211,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Honore%20de%20Balzac&quote=Our%20heart%20is%20a%20treasury%3B%20if%20you%20pour%20out%20all%20its%20wealth%20at%20once%2C%20you%20are%20bankrupt.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=If%20you%20want%20others%20to%20be%20happy%2C%20practice%20compassion.%20If%20you%20want%20to%20be%20happy%2C%20practice%20compassion.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
