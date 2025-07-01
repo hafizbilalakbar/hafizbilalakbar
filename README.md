@@ -27299,11 +27299,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=A%20man%20is%20not%20called%20wise%20because%20he%20talks%20and%20talks%20again%3B%20but%20if%20he%20is%20peaceful%2C%20loving%20and%20fearless%20then%20he%20is%20in%20truth%20called%20wise.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=A%20moving%20door%20hinge%20never%20corrodes.%20Flowing%20water%20never%20grows%20stagnant.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
