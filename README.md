@@ -27286,11 +27286,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=No%20one%20is%20useless%20in%20this%20world%20who%20lightens%20the%20burdens%20of%20another.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=Don't%20allow%20your%20mind%20to%20tell%20your%20heart%20what%20to%20do.%20The%20mind%20gives%20up%20easily.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
