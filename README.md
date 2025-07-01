@@ -27329,11 +27329,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=If%20you%20could%20kick%20the%20person%20in%20the%20pants%20responsible%20for%20most%20of%20your%20trouble%2C%20you%20wouldn't%20sit%20for%20a%20month.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=People%20don't%20realize%20that%20now%20is%20all%20there%20ever%20is%3B%20there%20is%20no%20past%20or%20future%20except%20as%20memory%20or%20anticipation%20in%20your%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
