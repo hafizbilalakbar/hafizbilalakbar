@@ -27278,11 +27278,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=When%20you%20consider%20things%20like%20the%20stars%2C%20our%20affairs%20don't%20seem%20to%20matter%20very%20much%2C%20do%20they%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ray%20Bradbury&quote=Insanity%20is%20relative.%20It%20depends%20on%20who%20has%20who%20locked%20in%20what%20cage.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
