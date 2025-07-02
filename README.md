@@ -27424,11 +27424,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=The%20chief%20danger%20in%20life%20is%20that%20you%20may%20take%20too%20many%20precautions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=We%20must%20not%20be%20afraid%20of%20dreaming%20the%20seemingly%20impossible%20if%20we%20want%20the%20seemingly%20impossible%20to%20become%20a%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
