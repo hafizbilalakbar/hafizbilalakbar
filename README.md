@@ -27401,11 +27401,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=If%20you%20practiced%20for%20the%20day%2C%20then%20you%20have%20won.%20If%20you%20were%20lazy%20for%20the%20day%2C%20then%20you%20have%20lost.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Columbus&quote=Riches%20don't%20make%20a%20man%20rich%2C%20they%20only%20make%20him%20busier.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
