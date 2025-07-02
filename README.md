@@ -27408,11 +27408,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=It%20takes%20a%20minute%20to%20have%20a%20crush%20on%20someone%2C%20an%20hour%20to%20like%20someone%2C%20and%20a%20day%20to%20love%20someone...%20but%20it%20takes%20a%20lifetime%20to%20forget%20someone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=People%20who%20are%20unable%20to%20motivate%20themselves%20must%20be%20content%20with%20mediocrity%2C%20no%20matter%20how%20impressive%20their%20other%20talents.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
