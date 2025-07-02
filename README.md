@@ -27395,11 +27395,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=A.A.%20Milne&quote=One%20of%20the%20advantages%20of%20being%20disorganized%20is%20that%20one%20is%20always%20having%20surprising%20discoveries.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Tukey&quote=The%20greatest%20value%20of%20a%20picture%20is%20when%20it%20forces%20us%20to%20notice%20what%20we%20never%20expected%20to%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
