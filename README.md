@@ -27417,11 +27417,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=You%20can%2C%20you%20should%2C%20and%20if%20you're%20brave%20enough%20to%20start%2C%20you%20will.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ray%20Bradbury&quote=Stuff%20your%20eyes%20with%20wonder...%20live%20as%20if%20you'd%20drop%20dead%20in%20ten%20seconds.%20See%20the%20world.%20It's%20more%20fantastic%20than%20any%20dream%20made%20or%20paid%20for%20in%20factories.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
