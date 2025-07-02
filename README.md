@@ -27407,11 +27407,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=If%20you%20build%20the%20guts%20to%20do%20something%2C%20anything%2C%20then%20you%20better%20save%20enough%20to%20face%20the%20consequences.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=It%20takes%20a%20minute%20to%20have%20a%20crush%20on%20someone%2C%20an%20hour%20to%20like%20someone%2C%20and%20a%20day%20to%20love%20someone...%20but%20it%20takes%20a%20lifetime%20to%20forget%20someone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
