@@ -27434,11 +27434,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20happiest%20people%20in%20the%20world%20are%20those%20who%20feel%20absolutely%20terrific%20about%20themselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=Sometimes%20you%20put%20walls%20up%20not%20to%20keep%20people%20out%2C%20but%20to%20see%20who%20cares%20enough%20to%20break%20them%20down.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
