@@ -27425,11 +27425,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=We%20must%20not%20be%20afraid%20of%20dreaming%20the%20seemingly%20impossible%20if%20we%20want%20the%20seemingly%20impossible%20to%20become%20a%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maya%20Angelou&quote=Try%20to%20be%20a%20rainbow%20in%20someone's%20cloud.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
