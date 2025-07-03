@@ -27469,11 +27469,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=Learn%20the%20rules%20like%20a%20pro%2C%20so%20you%20can%20break%20them%20like%20an%20artist.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=I%20don't%20pretend%20to%20know%20everything%3B%20I%20just%20only%20speak%20on%20matters%20I%20know%20I'll%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
