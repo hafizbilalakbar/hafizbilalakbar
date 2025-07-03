@@ -27488,11 +27488,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=First%20learn%20the%20meaning%20of%20what%20you%20say%2C%20and%20then%20speak.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=First%20say%20to%20yourself%20what%20you%20would%20be%3B%20and%20then%20do%20what%20you%20have%20to%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
