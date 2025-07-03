@@ -27427,11 +27427,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Confidence%20is%20not%20a%20guarantee%20of%20success%2C%20but%20a%20pattern%20of%20thinking%20that%20will%20improve%20your%20likelihood%20of%20success%2C%20a%20tenacious%20search%20for%20ways%20to%20make%20things%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Reeve&quote=A%20Hero%20is%20an%20ordinary%20individual%20who%20finds%20the%20strength%20to%20persevere%20and%20endure%20in%20spite%20of%20overwhelming%20obstacles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
