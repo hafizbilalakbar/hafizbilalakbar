@@ -27558,11 +27558,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gabor%20Mate&quote=We%20may%20not%20be%20responsible%20for%20the%20world%20that%20created%20our%20minds%2C%20but%20we%20can%20take%20responsibility%20for%20the%20mind%20with%20which%20we%20create%20our%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Columbus&quote=It%20is%20easy%20to%20discover%20what%20another%20has%20discovered%20before.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
