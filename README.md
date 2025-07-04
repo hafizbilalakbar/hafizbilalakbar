@@ -27514,11 +27514,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=You%20get%20in%20life%20what%20you%20have%20the%20courage%20to%20ask%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Genghis%20Khan&quote=If%20you're%20afraid%20-%20don't%20do%20it%2C%20-%20if%20you're%20doing%20it%20-%20don't%20be%20afraid!%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
