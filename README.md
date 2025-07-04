@@ -27581,11 +27581,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=If%20he%20cannot%20stop%20the%20mind%20that%20seeks%20after%20fame%20and%20profit%2C%20he%20will%20spend%20his%20life%20without%20finding%20peace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mae%20West&quote=I%20never%20said%20it%20would%20be%20easy%2C%20I%20only%20said%20it%20would%20be%20worth%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
