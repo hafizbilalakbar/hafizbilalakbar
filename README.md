@@ -27541,11 +27541,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Reflect%20upon%20your%20present%20blessings%20of%20which%20every%20man%20has%20many%20-%20not%20on%20your%20past%20misfortunes%2C%20of%20which%20all%20men%20have%20some.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20D.%20Rockefeller&quote=Giving%20is%20the%20secret%20of%20a%20healthy%20life.%20Not%20necessarily%20money%2C%20but%20whatever%20a%20person%20has%20of%20encouragement%2C%20sympathy%20and%20understanding.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
