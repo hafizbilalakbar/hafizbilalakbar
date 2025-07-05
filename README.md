@@ -27617,11 +27617,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=We%20must%20not%20be%20afraid%20of%20dreaming%20the%20seemingly%20impossible%20if%20we%20want%20the%20seemingly%20impossible%20to%20become%20a%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=It%20doesn't%20matter%20what%20you%20do%2C%20only%20how%20well%20you%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
