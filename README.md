@@ -27592,11 +27592,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Don't%20change%20your%20mind%20just%20because%20people%20are%20offended%3B%20change%20your%20mind%20if%20you're%20wrong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=It%20all%20depends%20on%20what%20you%20choose%20to%20believe.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
