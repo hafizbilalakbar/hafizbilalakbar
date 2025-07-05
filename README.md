@@ -27672,11 +27672,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=No%20one%20can%20compete%20with%20you%20on%20being%20you.%20Most%20of%20life%20is%20a%20search%20for%20who%20and%20what%20needs%20you%20the%20most.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Words%20are%20the%20clothing%20of%20our%20thoughts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
