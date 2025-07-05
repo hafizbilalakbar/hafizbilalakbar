@@ -27674,11 +27674,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=One%20beam%2C%20no%20matter%20how%20big%2C%20cannot%20support%20an%20entire%20house%20on%20its%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Values%20are%20like%20fingerprints.%20Nobody's%20are%20the%20same%2C%20but%20you%20leave%20'em%20all%20over%20everything%20you%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
