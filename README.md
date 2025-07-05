@@ -27668,11 +27668,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=Faithless%20is%20he%20that%20says%20farewell%20when%20the%20road%20darkens.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=Do%20your%20duty%20and%20a%20little%20more%20and%20the%20future%20will%20take%20care%20of%20itself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
