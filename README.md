@@ -27641,11 +27641,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Your%20greatest%20asset%20is%20your%20earning%20ability.%20Your%20greatest%20resource%20is%20your%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Don't%20concern%20yourself%20with%20the%20money.%20Be%20of%20service.%20Build.%20Work.%20Dream.%20Create.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
