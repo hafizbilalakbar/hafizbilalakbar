@@ -27665,11 +27665,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=My%20mind%20seems%20to%20have%20become%20a%20kind%20of%20machine%20for%20grinding%20general%20laws%20out%20of%20large%20collections%20of%20facts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Small%20men%20think%20they%20are%20small%3B%20great%20men%20never%20know%20they%20are%20great.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
