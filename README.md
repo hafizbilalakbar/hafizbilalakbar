@@ -27715,11 +27715,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=He%20who%20is%20not%20contented%20with%20what%20he%20has%2C%20would%20not%20be%20contented%20with%20what%20he%20would%20like%20to%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=A%20single%20act%20of%20kindness%20throws%20out%20roots%20in%20all%20directions%2C%20and%20the%20roots%20spring%20up%20and%20make%20new%20trees.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
