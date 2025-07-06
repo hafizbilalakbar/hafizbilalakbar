@@ -27705,11 +27705,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=No%20great%20mind%20has%20ever%20existed%20without%20a%20touch%20of%20madness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=To%20judge%20a%20man%20by%20his%20weakest%20link%20or%20deed%20is%20like%20judging%20the%20power%20of%20the%20ocean%20by%20one%20wave.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
