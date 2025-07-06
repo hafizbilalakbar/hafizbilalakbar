@@ -27759,11 +27759,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Raise%20your%20words%2C%20not%20voice.%20It%20is%20rain%20that%20grows%20flowers%2C%20not%20thunder.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=The%20opportunity%20of%20defeating%20the%20enemy%20is%20provided%20by%20the%20enemy%20himself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
