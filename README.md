@@ -27717,11 +27717,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Be%20royal%20in%20your%20own%20fashion%3A%20act%20like%20a%20king%20to%20be%20treated%20like%20one.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Cameron&quote=If%20you%20set%20your%20goals%20ridiculously%20high%20and%20its%20a%20failure%2C%20you%20will%20fail%20above%20everyone%20elses%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
