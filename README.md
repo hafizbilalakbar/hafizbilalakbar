@@ -27718,11 +27718,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Cameron&quote=If%20you%20set%20your%20goals%20ridiculously%20high%20and%20its%20a%20failure%2C%20you%20will%20fail%20above%20everyone%20elses%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Empty%20yourself%20of%20everything%20-%20let%20the%20mind%20become%20still.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
