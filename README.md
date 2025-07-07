@@ -27786,11 +27786,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=Rather%20than%20love%2C%20than%20money%2C%20than%20fame%2C%20give%20me%20truth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seungsahn&quote=The%20Truth%20is%20realized%20in%20an%20instant%3B%20the%20Act%20is%20practiced%20step%20by%20step.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
