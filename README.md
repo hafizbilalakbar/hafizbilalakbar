@@ -27832,11 +27832,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mahatma%20Gandhi&quote=A%20man%20is%20but%20a%20product%20of%20his%20thoughts.%20What%20he%20thinks%20he%20becomes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Coco%20Chanel&quote=Guilt%20is%20perhaps%20the%20most%20painful%20companion%20of%20death.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
