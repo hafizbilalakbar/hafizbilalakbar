@@ -27876,11 +27876,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Yesterday%20is%20the%20past%2C%20tomorrow%20is%20the%20future%2C%20today%20is%20a%20gift%20-%20that's%20why%20it's%20called%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Hope%20is%20important%20because%20it%20can%20make%20the%20present%20moment%20less%20difficult%20to%20bear.%20If%20we%20believe%20that%20tomorrow%20will%20be%20better%2C%20we%20can%20bear%20a%20hardship%20today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
