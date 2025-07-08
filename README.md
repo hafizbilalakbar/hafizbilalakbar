@@ -27869,11 +27869,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=I%20discovered%20a%20long%20time%20ago%20that%20if%20I%20helped%20enough%20people%20get%20what%20they%20wanted%2C%20I%20would%20always%20get%20what%20I%20wanted%20and%20I%20would%20never%20have%20to%20worry.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=No%20kind%20action%20ever%20stops%20with%20itself.%20One%20kind%20action%20leads%20to%20another.%20Good%20example%20is%20followed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
