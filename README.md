@@ -27928,11 +27928,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=This%20is%20such%20a%20short%20and%20precious%20life%20that%20it's%20really%20important%20that%20you%20don't%20spend%20it%20being%20unhappy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Imagination%20is%20everything.%20It%20is%20the%20preview%20of%20life's%20coming%20attractions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
