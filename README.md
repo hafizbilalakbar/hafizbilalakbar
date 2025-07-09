@@ -27956,11 +27956,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Power%20is%20not%20what%20we%20do%20but%20what%20we%20do%20not%20-%20hasty%20and%20unwise%20actions%20that%20we%20repeat%20every%20day%20and%20which%20ultimately%20bring%20us%20into%20trouble.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=The%20season%20of%20failure%20is%20the%20best%20time%20for%20sowing%20the%20seeds%20of%20success.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
