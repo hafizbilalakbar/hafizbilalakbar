@@ -27987,11 +27987,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=A%20self%20that%20goes%20on%20changing%20is%20a%20self%20that%20goes%20on%20living.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Expect%20the%20best%20of%20yourself%2C%20and%20then%20do%20what%20is%20necessary%20to%20make%20it%20a%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
