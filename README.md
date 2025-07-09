@@ -27966,11 +27966,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=Patience%20is%20a%20form%20of%20wisdom.%20It%20demonstrates%20that%20we%20understand%20and%20accept%20the%20fact%20that%20sometimes%20things%20must%20unfold%20in%20their%20own%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=Expect%20the%20best%2C%20plan%20for%20the%20worst%2C%20and%20prepare%20to%20be%20surprised.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
