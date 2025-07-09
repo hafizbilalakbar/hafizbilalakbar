@@ -27951,11 +27951,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Swindoll&quote=We%20are%20all%20faced%20with%20a%20series%20of%20great%20opportunities%20brilliantly%20disguised%20as%20impossible%20situations.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=There%20is%20no%20greatness%20where%20there%20is%20not%20simplicity%2C%20goodness%2C%20and%20truth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
