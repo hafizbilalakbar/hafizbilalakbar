@@ -27982,11 +27982,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Be%20content%20with%20what%20you%20have%2C%20rejoice%20in%20the%20way%20things%20are.%20When%20you%20realize%20there%20is%20nothing%20lacking%2C%20the%20whole%20world%20belongs%20to%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Darkness%20is%20the%20absence%20of%20light.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
