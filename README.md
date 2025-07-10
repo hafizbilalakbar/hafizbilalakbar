@@ -28039,11 +28039,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=I%20am%20thankful%20to%20all%20who%20said%20no%20to%20me.%20It%20is%20because%20of%20them%20that%20I'm%20doing%20it%20myself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Whatever%20your%20mind%20can%20conceive%20and%20believe%2C%20it%20can%20achieve.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
