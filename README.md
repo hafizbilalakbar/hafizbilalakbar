@@ -28023,11 +28023,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Waldo%20Emerson&quote=Little%20minds%20have%20little%20worries%2C%20big%20minds%20have%20no%20time%20for%20worries.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=W.%20Clement%20Stone&quote=Success%20is%20achieved%20and%20maintained%20by%20those%20who%20try%20and%20keep%20trying.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
