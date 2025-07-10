@@ -28059,11 +28059,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=The%20future%20will%20be%20shaped%20by%20those%20willing%20to%20commit%20their%20minds%20and%20their%20bodies%20to%20the%20task.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=Before%20you%20can%20see%20the%20Light%2C%20you%20have%20to%20deal%20with%20the%20darkness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
