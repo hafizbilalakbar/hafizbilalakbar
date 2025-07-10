@@ -28045,11 +28045,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepam%20Chaterjee&quote=What%20have%20you%20done%20today%20to%20make%20someone%20else%20happy%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=I%20didn't%20get%20there%20by%20wishing%20for%20it%20or%20hoping%20for%20it%2C%20but%20by%20working%20for%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
