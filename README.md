@@ -28105,11 +28105,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=Never%20do%20things%20others%20can%20do%20and%20will%20do%20if%20there%20are%20things%20others%20cannot%20do%20or%20will%20not%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=Always%20remember%20that%20you%20are%20absolutely%20unique.%20Just%20like%20everyone%20else.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
