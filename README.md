@@ -28111,11 +28111,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=To%20lead%20an%20orchestra%2C%20you%20must%20turn%20your%20back%20on%20the%20crowd.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=In%20the%20End%2C%20we%20will%20remember%20not%20the%20words%20of%20our%20enemies%2C%20but%20the%20silence%20of%20our%20friends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
