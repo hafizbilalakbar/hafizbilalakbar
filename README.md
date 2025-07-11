@@ -28109,11 +28109,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It's%20the%20unknown%20we%20fear%20when%20we%20look%20upon%20death%20and%20darkness%2C%20nothing%20more.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=Never%20say%20never%2C%20because%20limits%2C%20like%20fears%2C%20are%20often%20just%20an%20illusion.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
