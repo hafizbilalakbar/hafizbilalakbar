@@ -28203,11 +28203,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=You%20were%20put%20on%20this%20earth%20to%20achieve%20your%20greatest%20self%2C%20to%20live%20out%20your%20purpose%2C%20and%20to%20do%20it%20courageously.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=The%20more%20you%20are%20motivated%20by%20Love%2C%20The%20more%20Fearless%20%26%20Free%20your%20action%20will%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
