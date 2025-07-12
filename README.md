@@ -28147,11 +28147,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Matthew%20Barrie&quote=The%20moment%20you%20doubt%20whether%20you%20can%20fly%2C%20you%20cease%20for%20ever%20to%20be%20able%20to%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Knowledge%20has%20to%20be%20improved%2C%20challenged%2C%20and%20increased%20constantly%2C%20or%20it%20vanishes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
