@@ -28152,11 +28152,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Pain%20doesn't%20last.%20And%20when%20it's%20gone%2C%20we%20have%20something%20to%20show%20for%20it.%20Growth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=The%20greater%20the%20impact%20you%20want%20to%20make%2C%20the%20greater%20your%20influence%20needs%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
