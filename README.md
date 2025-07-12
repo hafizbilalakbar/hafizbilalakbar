@@ -28179,11 +28179,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Normality%20is%20a%20paved%20road%3A%20It's%20comfortable%20to%20walk%2C%20but%20no%20flowers%20grow%20on%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=Hope%20and%20fear%20come%20from%20feeling%20that%20we%20lack%20something%3B%20they%20come%20from%20a%20sense%20of%20poverty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
