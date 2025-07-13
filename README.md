@@ -28281,11 +28281,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Swindoll&quote=We%20are%20all%20faced%20with%20a%20series%20of%20great%20opportunities%20brilliantly%20disguised%20as%20impossible%20situations.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morgan%20Wootten&quote=The%20big%20thing%20is%20to%20make%20a%20winning%20effort.%20I'm%20not%20obsessed%20with%20wins.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
