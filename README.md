@@ -28234,11 +28234,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=Failure%20is%20feedback.%20Learn%20from%20it%20and%20move%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Happiness%20is%20a%20quality%20of%20the%20soul...not%20a%20function%20of%20one's%20material%20circumstances.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
