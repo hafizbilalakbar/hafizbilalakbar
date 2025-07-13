@@ -28228,11 +28228,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=Anyone%20telling%20you%20it's%20pointless%20to%20share%20your%20perspective%20is%20sharing%20their%20perspective.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Tukey&quote=An%20approximate%20answer%20to%20the%20right%20question%20is%20worth%20a%20great%20deal%20more%20than%20a%20precise%20answer%20to%20the%20wrong%20question.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
