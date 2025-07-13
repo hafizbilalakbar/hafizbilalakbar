@@ -28286,11 +28286,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=Sadness%20is%20but%20a%20wall%20between%20two%20gardens.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=A%20real%20friend%20is%20one%20who%20walks%20in%20when%20the%20rest%20of%20the%20world%20walks%20out.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
