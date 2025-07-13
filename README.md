@@ -28226,11 +28226,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Feelings%20come%20and%20go%20like%20clouds%20in%20a%20windy%20sky.%20Conscious%20breathing%20is%20my%20anchor.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=If%20you%20hang%20out%20with%20chickens%2C%20you're%20going%20to%20cluck%20and%20if%20you%20hang%20out%20with%20eagles%2C%20you're%20going%20to%20fly.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
