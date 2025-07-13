@@ -28238,11 +28238,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=If%20someone%20betrays%20you%20once%2C%20it's%20their%20fault%3B%20if%20they%20betray%20you%20twice%2C%20it's%20your%20fault.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=You're%20never%20given%20a%20dream%20without%20also%20being%20given%20the%20power%20to%20make%20it%20true.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
