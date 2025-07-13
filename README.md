@@ -28270,11 +28270,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Have%20a%20heart%20that%20never%20hardens%2C%20and%20a%20temper%20that%20never%20tires%2C%20and%20a%20touch%20that%20never%20hurts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Genghis%20Khan&quote=an%20action%20committed%20in%20anger%20is%20an%20action%20doomed%20to%20failure.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
