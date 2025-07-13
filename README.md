@@ -28247,11 +28247,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=Remember%2C%20hope%20is%20a%20good%20thing%2C%20maybe%20the%20best%20of%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=If%20you%20can't%20fly%2C%20run.%20If%20you%20can't%20run%2C%20walk.%20If%20you%20can't%20walk%2C%20crawl%2C%20but%20by%20all%20means%2C%20keep%20moving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
