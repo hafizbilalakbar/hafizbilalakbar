@@ -28269,11 +28269,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=No%20man%20will%20make%20a%20great%20leader%20who%20wants%20to%20do%20it%20all%20himself%20or%20to%20get%20all%20the%20credit%20for%20doing%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Have%20a%20heart%20that%20never%20hardens%2C%20and%20a%20temper%20that%20never%20tires%2C%20and%20a%20touch%20that%20never%20hurts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
