@@ -28362,11 +28362,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=To%20acquire%20true%20self%20power%20you%20have%20to%20feel%20beneath%20no%20one%2C%20be%20immune%20to%20criticism%20and%20be%20fearless.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=In%20a%20world%20that%20is%20constantly%20changing%2C%20it%20is%20to%20our%20advantage%20to%20learn%20how%20to%20adapt%20and%20enjoy%20something%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
