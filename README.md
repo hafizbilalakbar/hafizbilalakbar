@@ -28435,11 +28435,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=We%20must%20learn%20to%20live%20together%20as%20brothers%20or%20perish%20together%20as%20fools.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=The%20sculptor%20produces%20the%20beautiful%20statue%20by%20chipping%20away%20such%20parts%20of%20the%20marble%20block%20as%20are%20not%20needed%20-%20it%20is%20a%20process%20of%20elimination.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
