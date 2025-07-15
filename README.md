@@ -28438,11 +28438,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Locke&quote=New%20opinions%20are%20always%20suspected%2C%20and%20usually%20opposed%2C%20without%20any%20other%20reason%20but%20because%20they%20are%20not%20common.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Choose%20a%20job%20you%20love%2C%20and%20you%20will%20never%20have%20to%20work%20a%20day%20in%20your%20life.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
