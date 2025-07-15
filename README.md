@@ -28402,11 +28402,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=We%20learn%20to%20walk%20by%20falling%20down.%20If%20we%20never%20fell%20down%2C%20we%20would%20never%20walk.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=To%20improve%20is%20to%20change%2C%20so%20to%20be%20perfect%20is%20to%20change%20often.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
