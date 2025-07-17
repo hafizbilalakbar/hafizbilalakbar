@@ -28545,11 +28545,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=When%20everything%20seems%20to%20be%20going%20against%20you%2C%20remember%20that%20the%20airplane%20takes%20off%20against%20the%20wind%2C%20not%20with%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Your%20mind%20will%20make%20you%20rich%20or%20poor%2C%20depending%20on%20the%20use%20you%20put%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
