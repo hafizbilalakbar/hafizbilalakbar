@@ -28553,11 +28553,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=If%20you%20haven't%20the%20strength%20to%20impose%20your%20own%20terms%20upon%20life%2C%20then%20you%20must%20accept%20the%20terms%20it%20offers%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=There%20are%20no%20limitations%20to%20the%20mind%20except%20those%20we%20acknowledge...&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
