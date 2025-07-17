@@ -28552,11 +28552,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lin%20Yutang&quote=Anyone%20who%20reads%20a%20book%20with%20a%20sense%20of%20obligation%20does%20not%20understand%20the%20art%20of%20reading.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=If%20you%20haven't%20the%20strength%20to%20impose%20your%20own%20terms%20upon%20life%2C%20then%20you%20must%20accept%20the%20terms%20it%20offers%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
