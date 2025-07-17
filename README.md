@@ -28513,11 +28513,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=We%20are%20all%20born%20ignorant%2C%20but%20one%20must%20work%20hard%20to%20remain%20stupid.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=It%20only%20takes%20a%20split%20second%20to%20smile%20and%20forget%2C%20yet%20to%20someone%20that%20needed%20it%2C%20it%20can%20last%20a%20lifetime.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
