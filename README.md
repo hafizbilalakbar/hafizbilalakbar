@@ -28623,11 +28623,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=It's%20not%20how%20much%20we%20give%20but%20how%20much%20love%20we%20put%20into%20giving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Brown&quote=The%20power%20of%20human%20thought%20grows%20exponentially%20with%20the%20number%20of%20minds%20that%20share%20that%20thought.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
