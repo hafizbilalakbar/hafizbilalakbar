@@ -28594,11 +28594,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=St.%20Jerome&quote=Good%2C%20better%2C%20best.%20Never%20let%20it%20rest.%20'Til%20your%20good%20is%20better%20and%20your%20better%20is%20best.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=Troubles%20are%20often%20the%20tools%20by%20which%20God%20fashions%20us%20for%20better%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
