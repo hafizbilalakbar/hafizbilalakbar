@@ -28629,11 +28629,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=You%20find%20peace%20not%20by%20rearranging%20the%20circumstances%20of%20your%20life%2C%20but%20by%20realizing%20who%20you%20are%20at%20the%20deepest%20level.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=A%20leader%20is%20best%20when%20people%20barely%20know%20he%20exists%2C%20when%20his%20work%20is%20done%2C%20his%20aim%20fulfilled%2C%20they%20will%20say%3A%20we%20did%20it%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
