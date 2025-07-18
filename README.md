@@ -28648,11 +28648,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=We%20know%20nothing%20of%20tomorrow%2C%20our%20business%20is%20to%20be%20good%20and%20happy%20today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=Most%20of%20the%20important%20things%20in%20the%20world%20have%20been%20accompanied%20by%20people%20who%20have%20kept%20on%20trying%20when%20there%20seemed%20to%20be%20no%20hope%20at%20all.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
