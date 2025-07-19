@@ -28706,11 +28706,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Failure%20is%20an%20option%20here.%20If%20things%20are%20not%20failing%2C%20you%20are%20not%20innovating%20enough.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Before%20enlightenment%3B%20chop%20wood%2C%20carry%20water.%20After%20enlightenment%3B%20chop%20wood%2C%20carry%20water.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
