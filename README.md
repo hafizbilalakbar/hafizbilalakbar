@@ -28727,11 +28727,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=In%20the%20midst%20of%20movement%20and%20chaos%2C%20keep%20stillness%20inside%20of%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Whatever%20we%20plant%20in%20our%20subconscious%20mind%20and%20nourish%20with%20repetition%20and%20emotion%20will%20one%20day%20become%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
