@@ -28707,11 +28707,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Before%20enlightenment%3B%20chop%20wood%2C%20carry%20water.%20After%20enlightenment%3B%20chop%20wood%2C%20carry%20water.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=The%20only%20way%20it%20gets%20better%20for%20you%20is%20when%20you%20get%20better.%20Better%20is%20not%20something%20you%20wish%2C%20it's%20something%20you%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
