@@ -28663,11 +28663,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=David%20Brinkley&quote=A%20successful%20man%20is%20one%20who%20can%20lay%20a%20firm%20foundation%20with%20the%20bricks%20others%20have%20thrown%20at%20him.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=Hold%20yourself%20responsible%20for%20a%20higher%20standard%20than%20anybody%20else%20expects%20of%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
