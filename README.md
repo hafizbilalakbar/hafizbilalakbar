@@ -28733,11 +28733,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Avoiding%20failure%20is%20to%20avoid%20progress.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=Heart%20is%20what%20separates%20the%20good%20from%20the%20great.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
