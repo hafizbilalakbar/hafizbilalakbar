@@ -28808,11 +28808,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Not%20everything%20that%20weighs%20you%20down%20is%20yours%20to%20carry.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=I%20was%20wise%20enough%20to%20never%20grow%20up%20while%20fooling%20most%20people%20into%20believing%20I%20had.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
