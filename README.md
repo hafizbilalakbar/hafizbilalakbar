@@ -28810,11 +28810,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=Fear%20not%20the%20path%20of%20Truth%20for%20the%20lack%20of%20People%20walking%20on%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Learn%20to%20enjoy%20every%20minute%20of%20your%20life.%20Be%20happy%20now.%20Don't%20wait%20for%20something%20outside%20of%20yourself%20to%20make%20you%20happy%20in%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
