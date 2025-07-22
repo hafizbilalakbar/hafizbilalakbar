@@ -28873,11 +28873,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=Not%20all%20readers%20are%20leaders%2C%20but%20all%20leaders%20are%20readers.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=The%20primary%20cause%20of%20unhappiness%20is%20never%20the%20situation%20but%20your%20thoughts%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
