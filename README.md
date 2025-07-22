@@ -28903,11 +28903,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Laws%20are%20like%20cobwebs%2C%20which%20may%20catch%20small%20flies%2C%20but%20let%20wasps%20and%20hornets%20break%20through.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=If%20I%20cannot%20do%20great%20things.%20I%20can%20do%20small%20things%20in%20a%20great%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
