@@ -28902,11 +28902,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=It's%20beautiful%20to%20be%20alone.%20To%20be%20alone%20does%20not%20mean%20to%20be%20lonely.%20It%20means%20the%20mind%20is%20not%20influenced%20and%20contaminated%20by%20society.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Laws%20are%20like%20cobwebs%2C%20which%20may%20catch%20small%20flies%2C%20but%20let%20wasps%20and%20hornets%20break%20through.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
