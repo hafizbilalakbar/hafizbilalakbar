@@ -28883,11 +28883,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Often%20in%20the%20real%20world%2C%20it's%20not%20the%20smart%20that%20get%20ahead%2C%20but%20the%20bold.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Dylan&quote=People%20seldom%20do%20what%20they%20believe%20in.%20They%20do%20what%20is%20convenient%2C%20then%20repent.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
