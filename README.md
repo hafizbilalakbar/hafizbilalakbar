@@ -28934,11 +28934,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20act%20of%20taking%20the%20first%20step%20is%20what%20separates%20the%20winners%20from%20the%20losers.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=We%20may%20not%20be%20able%20to%20stop%20evil%20in%20the%20world%2C%20but%20how%20we%20treat%20one%20another%20is%20entirely%20up%20to%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
