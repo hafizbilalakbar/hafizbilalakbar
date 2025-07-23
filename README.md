@@ -28969,11 +28969,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=A%20strong%20man%20overcomes%20an%20obstacle%2C%20a%20wise%20man%20goes%20the%20whole%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=If%20you%20pick%20up%20a%20starving%20dog%20and%20make%20him%20prosperous%20he%20will%20not%20bite%20you.%20This%20is%20the%20principal%20difference%20between%20a%20dog%20and%20man.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
