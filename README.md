@@ -29065,11 +29065,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=Work%20joyfully%20and%20peacefully%2C%20knowing%20that%20right%20thoughts%20and%20right%20efforts%20inevitably%20bring%20about%20right%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20mindful.%20Be%20grateful.%20Be%20positive.%20Be%20true.%20Be%20kind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
