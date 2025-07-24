@@ -29023,11 +29023,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=The%20golden%20opportunity%20you%20are%20seeking%20is%20in%20yourself.%20It%20is%20not%20in%20your%20environment%3B%20it%20is%20not%20in%20luck%20or%20chance%2C%20or%20the%20help%20of%20others%3B%20it%20is%20in%20yourself%20alone.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Judy%20Garland&quote=A%20heart%20is%20not%20judged%20by%20how%20much%20you%20love%2C%20but%20by%20how%20much%20you%20are%20loved%20by%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
