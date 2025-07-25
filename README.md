@@ -29084,11 +29084,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Kerouac&quote=Life%20must%20be%20rich%20and%20full%20of%20loving-it's%20no%20good%20otherwise%2C%20no%20good%20at%20all%2C%20for%20anyone.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=I%20hear%20and%20I%20forget.%20I%20see%20and%20I%20remember.%20I%20do%20and%20I%20understand.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
