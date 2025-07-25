@@ -29111,11 +29111,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=No%20one%20can%20confidently%20say%20that%20he%20will%20still%20be%20living%20tomorrow.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Your%20only%20limitations%20are%20those%20you%20set%20up%20in%20your%20mind%20or%20permit%20others%20to%20set%20up%20for%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
