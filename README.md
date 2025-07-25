@@ -29138,11 +29138,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=If%20you%20are%20depressed%2C%20you%20are%20living%20in%20the%20past.%20If%20you%20are%20anxious%2C%20you%20are%20living%20in%20the%20future.%20if%20you%20are%20at%20peace%2C%20you%20are%20living%20in%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=To%20share%20your%20weakness%20is%20to%20make%20yourself%20vulnerable%3B%20to%20make%20yourself%20vulnerable%20is%20to%20show%20your%20strength.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
