@@ -29135,11 +29135,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=You%20can%20never%20get%20enough%20of%20what%20you%20don't%20need%20to%20make%20you%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Having%20an%20open%20mind%20is%20one%20of%20the%20most%20important%20qualities%20we%20can%20possess.%20Once%20our%20minds%20close%2C%20we%20stop%20evolving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
