@@ -29162,11 +29162,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=How%20you%20think%20when%20you%20lose%20determines%20how%20long%20it%20will%20be%20until%20you%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Laurence%20J.%20Peter&quote=Speak%20when%20you%20are%20angry%20-%20and%20you'll%20make%20the%20best%20speech%20you'll%20ever%20regret.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
