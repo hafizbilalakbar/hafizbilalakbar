@@ -29195,11 +29195,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=The%20degree%20of%20responsibility%20you%20take%20for%20your%20life%20determines%20how%20much%20change%20you%20can%20create%20in%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=An%20inventor%20is%20a%20man%20who%20asks%20Why%3F%20of%20the%20universe%20and%20lets%20nothing%20stand%20between%20the%20answer%20and%20his%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
