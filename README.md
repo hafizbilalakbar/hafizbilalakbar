@@ -29174,11 +29174,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20more%20tranquil%20a%20man%20becomes%2C%20the%20greater%20is%20his%20success%2C%20his%20influence%2C%20his%20power%20for%20good.%20Calmness%20of%20mind%20is%20one%20of%20the%20beautiful%20jewels%20of%20wisdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Don't%20let%20the%20noise%20of%20others%20opinions%20drown%20out%20your%20inner%20voice.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
