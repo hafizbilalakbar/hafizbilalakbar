@@ -29190,11 +29190,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Niccolo%20Machiavelli&quote=It%20is%20not%20titles%20that%20honour%20men%2C%20but%20men%20that%20honour%20titles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bodhidharma&quote=Freeing%20oneself%20from%20words%20is%20liberation.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
