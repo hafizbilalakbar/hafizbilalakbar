@@ -29157,11 +29157,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=No%20snowflake%20ever%20falls%20in%20the%20wrong%20place.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=The%20biggest%20and%20only%20critic%20lives%20in%20your%20perception%20of%20people's%20perception%20of%20you%20rather%20than%20people's%20perception%20of%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
