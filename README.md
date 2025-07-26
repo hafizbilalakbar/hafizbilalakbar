@@ -29214,11 +29214,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=There%20are%20more%20quarrels%20smothered%20by%20just%20shutting%20your%20mouth%2C%20and%20holding%20it%20shut%2C%20than%20by%20all%20the%20wisdom%20in%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Whitman&quote=Keep%20your%20face%20always%20toward%20the%20sunshine%20-%20%20shadows%20will%20fall%20behind%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
