@@ -29234,11 +29234,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=Study%20logic%20and%20math%2C%20because%20once%20you've%20mastered%20them%2C%20you%20won't%20fear%20any%20book.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Woody%20Allen&quote=Men%20learn%20to%20love%20the%20woman%20they%20are%20attracted%20to.%20Women%20learn%20to%20become%20attracted%20to%20the%20man%20they%20fall%20in%20love%20with.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
