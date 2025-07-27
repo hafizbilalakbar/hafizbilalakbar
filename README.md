@@ -29274,11 +29274,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=Victorious%20warriors%20win%20first%20and%20then%20go%20to%20war%2C%20while%20defeated%20warriors%20go%20to%20war%20first%20and%20then%20seek%20to%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Everyday%20you%20can%20take%20a%20tiny%20step%20in%20the%20right%20direction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
