@@ -29245,11 +29245,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=To%20be%20truly%20positive%20in%20the%20eyes%20of%20some%2C%20you%20have%20to%20risk%20appearing%20negative%20in%20the%20eyes%20of%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=While%20some%20of%20us%20act%20without%20thinking%2C%20too%20many%20of%20us%20think%20without%20acting.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
