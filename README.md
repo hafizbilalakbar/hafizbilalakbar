@@ -29340,11 +29340,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Live%20calmly.%20The%20time%20will%20come%20when%20the%20flowers%20bloom%20by%20themselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Frost&quote=Half%20the%20world%20is%20composed%20of%20people%20who%20have%20something%20to%20say%20and%20can't%2C%20and%20the%20other%20half%20who%20have%20nothing%20to%20say%20and%20keep%20on%20saying%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
