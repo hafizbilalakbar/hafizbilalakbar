@@ -29315,11 +29315,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=People%20inspire%20you%2C%20or%20they%20drain%20you.%20Pick%20them%20wisely.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Sometimes%20your%20joy%20is%20the%20source%20of%20your%20smile%2C%20but%20sometimes%20your%20smile%20can%20be%20the%20source%20of%20your%20joy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
