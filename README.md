@@ -29311,11 +29311,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Help%20others%20achieve%20their%20dreams%20and%20you%20will%20achieve%20yours.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=If%20you%20read%20a%20lot%20of%20books%2C%20you're%20considered%20well-read.%20But%20if%20you%20watch%20a%20lot%20of%20TV%2C%20you're%20not%20considered%20well-viewed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
