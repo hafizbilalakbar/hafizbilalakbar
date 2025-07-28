@@ -29298,11 +29298,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Instead%20of%20being%20intimidated%20by%20the%20limitations%2C%20be%20inspired%20to%20find%20new%20ways%20around%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=A%20leader%20is%20one%20who%20knows%20the%20way%2C%20goes%20the%20way%2C%20and%20shows%20the%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
