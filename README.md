@@ -29412,11 +29412,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Waldo%20Emerson&quote=Do%20not%20go%20where%20the%20path%20may%20lead%2C%20go%20instead%20where%20there%20is%20no%20path%20and%20leave%20a%20trail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Whitman&quote=Re-examine%20all%20that%20you%20have%20been%20told...%20dismiss%20that%20which%20insults%20your%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
