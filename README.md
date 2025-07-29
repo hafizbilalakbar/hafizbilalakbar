@@ -29405,11 +29405,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=Often%20we%20pass%20beside%20happiness%20without%20seeing%20it%2C%20without%20looking%20at%20it%2C%20or%20even%20if%20we%20have%20seen%20and%20looked%20at%20it%2C%20without%20recognizing%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kilian%20Jornet&quote=Sometimes%20you%20have%20to%20shut%20your%20eyes%2C%20so%20you%20can%20see%20the%20real%20beauty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
