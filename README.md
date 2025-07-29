@@ -29408,11 +29408,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=We're%20kept%20from%20our%20goal%20not%20by%20obstacles%2C%20but%20by%20a%20clear%20path%20to%20a%20lesser%20goal.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=The%20season%20of%20failure%20is%20the%20best%20time%20for%20sowing%20the%20seeds%20of%20success.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
