@@ -29457,11 +29457,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Where%20your%20talents%20and%20the%20needs%20of%20the%20world%20cross%2C%20there%20lies%20your%20vocation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=It%20is%20the%20greatest%20of%20all%20mistakes%20to%20do%20nothing%20because%20you%20can%20only%20do%20little%3B%20do%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
