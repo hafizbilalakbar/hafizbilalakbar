@@ -29425,11 +29425,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Constantly%20seek%20criticism.%20A%20well%20thought%20out%20critique%20of%20whatever%20you're%20doing%20is%20as%20valuable%20as%20gold.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mahatma%20Gandhi&quote=Be%20the%20change%20that%20you%20want%20to%20see%20in%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
