@@ -29454,11 +29454,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=The%20meaning%20of%20life%20is%20to%20find%20your%20gift.%20The%20purpose%20of%20life%20is%20to%20give%20it%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Growth%20is%20in%20a%20series%20of%20mistakes.%20That's%20the%20only%20way%20you%20learn.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
