@@ -29498,11 +29498,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=Nothing%20in%20the%20world%20is%20ever%20completely%20wrong.%20Even%20a%20stopped%20clock%20is%20right%20twice%20a%20day.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carol%20Burnett&quote=Only%20I%20can%20change%20my%20life.%20No%20one%20can%20do%20it%20for%20me.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
