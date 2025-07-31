@@ -29482,11 +29482,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=Living%20a%20life%20that%20has%20a%20greater%20purpose%20and%20living%20up%20to%20it%20is%20the%20ultimate%20degree%20that%20we%20should%20strive%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Simple%20words%2C%20repeated%20daily%2C%20can%20change%20your%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
