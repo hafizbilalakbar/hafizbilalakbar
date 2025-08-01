@@ -29569,11 +29569,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Shahir%20Zag&quote=A%20tiger%20doesn't%20lose%20sleep%20over%20the%20opinion%20of%20sheep.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=You%20make%20your%20own%20luck%20if%20you%20stay%20at%20it%20long%20enough.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
