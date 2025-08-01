@@ -29585,11 +29585,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Failure%20is%20the%20highway%20to%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Adversity%20is%20the%20tempering%20of%20one's%20mettle.%20Without%20it%2C%20we%20cannot%20know%20any%20true%20meaning%20in%20our%20accomplishments.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
