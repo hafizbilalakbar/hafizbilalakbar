@@ -29583,11 +29583,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=The%20true%20soldier%20fights%20not%20because%20he%20hates%20what%20is%20in%20front%20of%20him%2C%20but%20because%20he%20loves%20what%20is%20behind%20him.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Frost&quote=Two%20roads%20diverged%20in%20a%20wood%2C%20and%20I%20took%20the%20one%20less%20traveled%20by%2C%20and%20that%20has%20made%20all%20the%20difference.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
