@@ -29633,11 +29633,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=Today%20you%20are%20you%2C%20that%20is%20truer%20than%20true.%20There%20is%20no%20one%20alive%20who%20is%20you-er%20than%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=One%20of%20the%20really%20tough%20things%20is%20figuring%20out%20what%20questions%20to%20ask.%20Once%20you%20figure%20out%20the%20question%2C%20then%20the%20answer%20is%20relatively%20easy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
