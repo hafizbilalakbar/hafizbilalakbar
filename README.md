@@ -29638,11 +29638,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=Love%20never%20keeps%20a%20man%20from%20pursuing%20his%20destiny.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Heraclitus&quote=No%20man%20ever%20steps%20in%20the%20same%20river%20twice%2C%20for%20it's%20not%20the%20same%20river%20and%20he's%20not%20the%20same%20man.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
