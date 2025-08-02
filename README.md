@@ -29654,11 +29654,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=No%20kind%20action%20ever%20stops%20with%20itself.%20One%20kind%20action%20leads%20to%20another.%20Good%20example%20is%20followed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=Change%20will%20not%20come%20if%20we%20wait%20for%20some%20other%20person%2C%20or%20if%20we%20wait%20for%20some%20other%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
