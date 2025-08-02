@@ -29610,11 +29610,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Miguel%20de%20Cervantes&quote=Too%20much%20sanity%20may%20be%20madness%20and%20the%20maddest%20of%20all%2C%20to%20see%20life%20as%20it%20is%20and%20not%20as%20it%20should%20be.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Family%20not%20only%20needs%20to%20consist%20of%20merely%20those%20whom%20we%20share%20blood%2C%20but%20also%20of%20those%20whom%20we'd%20give%20blood.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
