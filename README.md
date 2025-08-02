@@ -29649,11 +29649,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Life%20is%20from%20the%20inside%20out.%20When%20you%20shift%20on%20the%20inside%2C%20life%20shifts%20on%20the%20outside.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=The%20more%20you%20praise%20and%20celebrate%20your%20life%2C%20the%20more%20there%20is%20in%20life%20to%20celebrate.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
