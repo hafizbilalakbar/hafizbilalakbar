@@ -29739,11 +29739,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=The%20quicker%20you%20let%20go%20of%20old%20cheese%2C%20the%20sooner%20you%20find%20new%20cheese.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Most%20people%20dabble%20their%20way%20through%20life%2C%20never%20deciding%20to%20master%20anything%20in%20particular.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
