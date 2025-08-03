@@ -29699,11 +29699,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Nothing%20important%20is%20learned%3B%20it%20is%20simply%20remembered.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Adi%20Da%20Samraj&quote=Fear%20of%20death%20is%20fear%20of%20surrender%20to%20Infinity.%20Learn%20to%20surrender%2C%20to%20exist%20at%20Infinity%20while%20alive%2C%20and%20fear%20of%20death%20dissolves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
