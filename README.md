@@ -29737,11 +29737,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=The%20most%20important%20thing%20in%20life%20is%20to%20stop%20saying%20'I%20wish'%20and%20start%20saying%20'I%20will'.%20Consider%20nothing%20impossible%2C%20then%20treat%20possibilities%20as%20probabilities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=You%20can%20suffer%20the%20pain%20of%20change%20or%20suffer%20remaining%20the%20way%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
