@@ -29813,11 +29813,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=I%20learned%20that%20courage%20was%20not%20the%20absence%20of%20fear%2C%20but%20the%20triumph%20over%20it.%20The%20brave%20man%20is%20not%20he%20who%20does%20not%20feel%20afraid%2C%20but%20he%20who%20conquers%20that%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=In%20the%20midst%20of%20movement%20and%20chaos%2C%20keep%20stillness%20inside%20of%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
