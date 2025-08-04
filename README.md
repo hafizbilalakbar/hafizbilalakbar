@@ -29792,11 +29792,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=I%20do%20not%20exist%20to%20impress%20the%20world.%20I%20exist%20to%20live%20my%20life%20in%20a%20way%20that%20will%20make%20me%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Toni%20Morrison&quote=You%20are%20your%20best%20thing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
