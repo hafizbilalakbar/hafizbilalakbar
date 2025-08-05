@@ -29840,11 +29840,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=Dreams%20are%20the%20royal%20road%20to%20the%20unconscious.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=There's%20no%20scarcity%20of%20opportunity%20to%20make%20a%20living%20at%20what%20you%20love.%20There%20is%20only%20a%20scarcity%20of%20resolve%20to%20make%20it%20happen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
