@@ -29856,11 +29856,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Frost&quote=The%20best%20way%20out%20is%20always%20through.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Life%20goes%20by%20very%20fast.%20And%20the%20worst%20thing%20in%20life%20that%20you%20can%20have%20is%20a%20job%20that%20you%20hate%2C%20and%20have%20no%20energy%20and%20creativity%20in.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
