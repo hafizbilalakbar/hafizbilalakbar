@@ -29892,11 +29892,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=Perhaps%20the%20most%20tragic%20thing%20about%20mankind%20is%20that%20we%20are%20all%20dreaming%20about%20some%20magical%20garden%20over%20the%20horizon%2C%20instead%20of%20enjoying%20the%20roses%20that%20are%20right%20outside%20today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=The%20happiness%20of%20your%20life%20depends%20upon%20the%20quality%20of%20your%20thoughts%3B%20therefore%20guard%20accordingly.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
