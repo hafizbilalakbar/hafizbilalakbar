@@ -29950,11 +29950,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Honore%20de%20Balzac&quote=The%20more%20one%20judges%2C%20the%20less%20one%20loves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=I%20find%20the%20best%20way%20to%20love%20someone%20is%20not%20to%20change%20them%2C%20but%20instead%2C%20help%20them%20reveal%20the%20greatest%20version%20of%20themselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
