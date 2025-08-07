@@ -29976,11 +29976,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=If%20I%20can%20stop%20one%20heart%20from%20breaking%2C%20I%20shall%20not%20live%20in%20vain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=The%20quality%2C%20not%20the%20longevity%2C%20of%20one's%20life%20is%20what%20is%20important.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
