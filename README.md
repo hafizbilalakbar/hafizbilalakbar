@@ -29965,11 +29965,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=If%20the%20happiness%20and%20prosperity%20of%20other%20people%20depend%20on%20you%2C%20you%20have%20nothing%20to%20fear%20anymore.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20is%20our%20choices%20that%20show%20what%20we%20truly%20are%2C%20far%20more%20than%20our%20abilities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
