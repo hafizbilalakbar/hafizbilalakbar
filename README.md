@@ -29946,11 +29946,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Emancipate%20yourself%20from%20mental%20slavery%2C%20none%20but%20ourselves%20can%20free%20our%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=You%20can%20do%20nothing%20to%20change%20the%20past%2C%20and%20the%20future%20will%20never%20come%20exactly%20as%20you%20plan%20or%20hope%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
