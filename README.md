@@ -29989,11 +29989,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=Many%20of%20life's%20failures%20are%20people%20who%20did%20not%20realize%20how%20close%20they%20were%20to%20success%20when%20they%20gave%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Death%20is%20not%20an%20ending.%20It%20is%20a%20transformation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
