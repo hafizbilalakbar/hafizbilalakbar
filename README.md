@@ -29951,11 +29951,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=I%20find%20the%20best%20way%20to%20love%20someone%20is%20not%20to%20change%20them%2C%20but%20instead%2C%20help%20them%20reveal%20the%20greatest%20version%20of%20themselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Getting%20over%20a%20painful%20experience%20is%20much%20like%20crossing%20monkey%20bars.%20You%20have%20to%20let%20go%20at%20some%20point%20in%20order%20to%20move%20forward.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
