@@ -29942,11 +29942,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Stop%20comparing%20yourself%20to%20others%20and%20focus%20on%20your%20own%20improvement.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=You%20find%20peace%20not%20by%20rearranging%20the%20circumstances%20of%20your%20life%2C%20but%20by%20realizing%20who%20you%20are%20at%20the%20deepest%20level.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
