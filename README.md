@@ -29964,11 +29964,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=Projecting%20your%20mind%20into%20a%20successful%20situation%20is%20the%20most%20powerful%20means%20to%20achieve%20goals.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=If%20the%20happiness%20and%20prosperity%20of%20other%20people%20depend%20on%20you%2C%20you%20have%20nothing%20to%20fear%20anymore.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
