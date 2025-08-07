@@ -29939,11 +29939,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Sometimes%2C%20the%20only%20way%20to%20evolve%20is%20to%20open%20ourselves%20fully.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Shunryu%20Suzuki&quote=Whether%20you%20have%20a%20problem%20in%20your%20life%20or%20not%20depends%20upon%20your%20own%20attitude%2C%20your%20own%20understanding.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
