@@ -30061,11 +30061,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Toni%20Morrison&quote=If%20there%20is%20a%20book%20that%20you%20want%20to%20read%2C%20but%20it%20hasn't%20been%20written%20yet%2C%20then%20you%20must%20write%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=Heal%20the%20past%2C%20live%20the%20present%2C%20dream%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
