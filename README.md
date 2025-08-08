@@ -30053,11 +30053,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=If%20we%20will%20be%20quiet%20and%20ready%20enough%2C%20we%20shall%20find%20compensation%20in%20every%20disappointment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=You%20gain%20strength%2C%20courage%20and%20confidence%20by%20every%20experience%20in%20which%20you%20really%20stop%20to%20look%20fear%20in%20the%20face.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
