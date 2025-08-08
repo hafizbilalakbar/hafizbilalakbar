@@ -30018,11 +30018,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=When%20you're%20the%20only%20sane%20person%2C%20you%20look%20like%20the%20only%20insane%20person.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=If%20you%20want%20to%20change%20how%20you%20see%20your%20problems%2C%20you%20have%20to%20change%20what%20you%20value%20and%2For%20how%20you%20measure%20failure%2Fsuccess.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
