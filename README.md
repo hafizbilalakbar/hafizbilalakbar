@@ -30042,11 +30042,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=You%20know%20you%20are%20on%20the%20road%20to%20success%20if%20you%20would%20do%20your%20job%20and%20not%20be%20paid%20for%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mahatma%20Gandhi&quote=Change%20yourself%20-%20you%20are%20in%20control.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
