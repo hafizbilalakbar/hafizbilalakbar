@@ -30054,11 +30054,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=You%20gain%20strength%2C%20courage%20and%20confidence%20by%20every%20experience%20in%20which%20you%20really%20stop%20to%20look%20fear%20in%20the%20face.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=You%20can%20avoid%20reality%2C%20but%20you%20cannot%20avoid%20the%20consequences%20of%20avoiding%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
