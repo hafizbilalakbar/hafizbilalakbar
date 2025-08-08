@@ -30017,11 +30017,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Toni%20Morrison&quote=Definitions%20belong%20to%20the%20definers%2C%20not%20the%20defined.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=When%20you're%20the%20only%20sane%20person%2C%20you%20look%20like%20the%20only%20insane%20person.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
