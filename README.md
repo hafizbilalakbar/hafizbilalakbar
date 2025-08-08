@@ -30016,11 +30016,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=To%20be%20totally%20at%20leisure%20for%20one%20day%20is%20to%20be%20immortal%20for%20one%20day.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Toni%20Morrison&quote=Definitions%20belong%20to%20the%20definers%2C%20not%20the%20defined.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
