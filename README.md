@@ -30019,11 +30019,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=If%20you%20want%20to%20change%20how%20you%20see%20your%20problems%2C%20you%20have%20to%20change%20what%20you%20value%20and%2For%20how%20you%20measure%20failure%2Fsuccess.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=W.%20Clement%20Stone&quote=Truth%20will%20always%20be%20truth%2C%20regardless%20of%20lack%20of%20understanding%2C%20disbelief%20or%20ignorance.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
