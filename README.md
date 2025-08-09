@@ -30069,11 +30069,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=Life%20goes%20by%20fast.%20Enjoy%20it.%20Calm%20down.%20It's%20all%20funny.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=Note%20that%20this%20journey%20is%20uniquely%20yours%2C%20no%20one%20elses.%20So%20the%20path%20has%20to%20be%20your%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
