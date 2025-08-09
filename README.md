@@ -30093,11 +30093,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20greatest%20gift%20that%20you%20can%20give%20to%20others%20is%20the%20gift%20of%20unconditional%20love%20and%20acceptance.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Remembering%20that%20you%20are%20going%20to%20die%20is%20the%20best%20way%20I%20know%20to%20avoid%20the%20trap%20of%20thinking%20you%20have%20something%20to%20lose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
