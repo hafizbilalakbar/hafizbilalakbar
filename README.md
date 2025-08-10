@@ -30226,11 +30226,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Success%20is%20not%20to%20be%20pursued%2C%20it%20is%20to%20be%20attracted%20by%20the%20person%20you%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=Character%20is%20the%20result%20of%20two%20things%3A%20mental%20attitude%20and%20the%20way%20we%20spend%20our%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
