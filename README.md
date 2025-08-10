@@ -30221,11 +30221,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=If%20you%20can't%20feed%20a%20hundred%20people%2C%20then%20feed%20just%20one.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Everything%20that%20is%20made%20beautiful%20and%20fair%20and%20lovely%20is%20made%20for%20the%20eye%20of%20one%20who%20sees.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
