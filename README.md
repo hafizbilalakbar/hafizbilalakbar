@@ -30182,11 +30182,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=If%20you%20believe%20you%20can%2C%20you%20can.%20If%20you%20believe%20you%20can't%2C%20then%2C%20well%20you%20can't.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=The%20least%20deviation%20from%20truth%20will%20be%20multiplied%20later.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
