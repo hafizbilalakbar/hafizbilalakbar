@@ -30196,11 +30196,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=The%20size%20of%20your%20success%20is%20measured%20by%20the%20strength%20of%20your%20desire%3B%20the%20size%20of%20your%20dream%3B%20and%20how%20you%20handle%20disappointment%20along%20the%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Success%20is%20not%20how%20high%20you%20have%20climbed%2C%20but%20how%20you%20make%20a%20positive%20difference%20to%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
