@@ -30167,11 +30167,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=If%20there's%20a%20definition%20of%20freedom%2C%20I%20think%20it's%20this%3A%20living%20life%20on%20your%20terms.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=In%20matters%20of%20style%2C%20swim%20with%20the%20current%3B%20in%20matters%20of%20principle%2C%20stand%20like%20a%20rock.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
