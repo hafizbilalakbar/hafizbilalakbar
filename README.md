@@ -30235,11 +30235,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Never%20whine%2C%20never%20complain%2C%20never%20try%20to%20justify%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Locke&quote=New%20opinions%20are%20always%20suspected%2C%20and%20usually%20opposed%2C%20without%20any%20other%20reason%20but%20because%20they%20are%20not%20common.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
