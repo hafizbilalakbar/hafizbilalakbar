@@ -30302,11 +30302,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=Forever%20is%20composed%20of%20now's.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=It%20is%20safer%20to%20search%20in%20the%20maze%20than%20to%20remain%20in%20a%20cheeseless%20situation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
