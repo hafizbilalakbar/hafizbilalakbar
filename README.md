@@ -30244,11 +30244,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Graham%20Bell&quote=The%20only%20difference%20between%20success%20and%20failure%20is%20the%20ability%20to%20take%20action.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=One%20of%20the%20really%20tough%20things%20is%20figuring%20out%20what%20questions%20to%20ask.%20Once%20you%20figure%20out%20the%20question%2C%20then%20the%20answer%20is%20relatively%20easy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
