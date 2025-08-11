@@ -30298,11 +30298,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=If%20you%20want%20to%20be%20happy%2C%20do%20not%20dwell%20in%20the%20past%2C%20do%20not%20worry%20about%20the%20future%2C%20focus%20on%20living%20fully%20in%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=Change%20is%20never%20easy%2C%20but%20always%20possible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
