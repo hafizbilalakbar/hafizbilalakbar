@@ -30376,11 +30376,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=It%20is%20what%20we%20make%20out%20of%20what%20we%20have%2C%20not%20what%20we%20are%20given%2C%20that%20separates%20one%20person%20from%20another.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=Life%20is%20about%20not%20knowing%20and%20then%20doing%20something%20anyway.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
