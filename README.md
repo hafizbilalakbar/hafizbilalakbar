@@ -30315,11 +30315,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=The%20universe%20doesn't%20give%20you%20what%20you%20ask%20for%20with%20your%20thoughts%20-%20it%20gives%20you%20what%20you%20demand%20with%20your%20actions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Those%20who%20know%2C%20do.%20Those%20that%20understand%2C%20teach.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
