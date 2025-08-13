@@ -30414,11 +30414,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Each%20of%20us%20is%20a%20unique%20strand%20in%20the%20intricate%20web%20of%20life%20and%20here%20to%20make%20a%20contribution.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=Where%20you%20are%20right%20now%20doesn't%20have%20to%20determine%20where%20you'll%20end%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
