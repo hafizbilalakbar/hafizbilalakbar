@@ -30536,11 +30536,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=Only%20to%20the%20extent%20that%20we%20expose%20ourselves%20over%20and%20over%20to%20annihilation%20can%20that%20which%20is%20indestructible%20in%20us%20be%20found.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther&quote=Everything%20that%20is%20done%20in%20the%20world%20is%20done%20by%20hope.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
