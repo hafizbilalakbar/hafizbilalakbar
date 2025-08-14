@@ -30514,11 +30514,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=We%20crave%20for%20new%20sensations%20but%20soon%20become%20indifferent%20to%20them.%20The%20wonders%20of%20yesterday%20are%20today%20common%20occurrences%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=For%20your%20life%20to%20be%20great%2C%20your%20faith%20must%20be%20bigger%20than%20your%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
