@@ -30516,11 +30516,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=It%20is%20not%20uncommon%20for%20people%20to%20spend%20their%20whole%20life%20waiting%20to%20start%20living.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=A.A.%20Milne&quote=You're%20braver%20than%20you%20believe%2C%20and%20stronger%20than%20you%20seem%2C%20and%20smarter%20than%20you%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
