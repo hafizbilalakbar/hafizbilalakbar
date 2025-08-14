@@ -30485,11 +30485,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=Victorious%20warriors%20win%20first%20and%20then%20go%20to%20war%2C%20while%20defeated%20warriors%20go%20to%20war%20first%20and%20then%20seek%20to%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Failure%20means%20you've%20now%20learned%20another%20valuable%20lesson%20that%20pushes%20you%20one%20step%20closer%20to%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
