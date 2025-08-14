@@ -30488,11 +30488,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=No%20problem%20can%20be%20solved%20from%20the%20same%20level%20of%20consciousness%20that%20created%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=Not%20all%20of%20us%20can%20do%20great%20things.%20But%20we%20can%20do%20small%20things%20with%20great%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
