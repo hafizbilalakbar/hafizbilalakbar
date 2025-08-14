@@ -30463,11 +30463,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=He%20is%20richest%20who%20is%20content%20with%20the%20least%2C%20for%20content%20is%20the%20wealth%20of%20nature.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=People%20who%20bite%20the%20hand%20that%20feeds%20them%20usually%20lick%20the%20boot%20that%20kicks%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
