@@ -30483,11 +30483,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Be%20thankful%20for%20what%20you%20have%3B%20you'll%20end%20up%20having%20more.%20If%20you%20concentrate%20on%20what%20you%20don't%20have%2C%20you%20will%20never%2C%20ever%20have%20enough.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Betty%20White&quote=Don't%20take%20yourself%20too%20seriously%2C%20pretty%20soon%20you%20can%20find%20the%20humor%20in%20our%20everyday%20lives.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
