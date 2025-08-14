@@ -30466,11 +30466,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=The%20most%20important%20single%20ingredient%20in%20the%20formula%20of%20success%20is%20knowing%20how%20to%20get%20along%20with%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=G.I.%20Gurdjieff&quote=There%20is%20a%20cosmic%20law%20which%20says%20that%20every%20satisfaction%20must%20be%20paid%20for%20with%20a%20dissatisfaction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
