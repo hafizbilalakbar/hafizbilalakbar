@@ -30604,11 +30604,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Laurence%20J.%20Peter&quote=If%20you%20don't%20know%20where%20you're%20going%2C%20you%20will%20probably%20end%20up%20somewhere%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=One%20of%20the%20first%20signs%20of%20the%20beginning%20of%20understanding%20is%20the%20wish%20to%20die.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
