@@ -30673,11 +30673,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Change%20begets%20change.%20Nothing%20propagates%20so%20fast.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=I%20can%20never%20decide%20whether%20my%20dreams%20are%20the%20result%20of%20my%20thoughts%20or%20my%20thoughts%20the%20result%20of%20my%20dreams.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
