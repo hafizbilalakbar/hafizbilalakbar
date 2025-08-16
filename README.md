@@ -30660,11 +30660,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=The%20more%20you%20extend%20kindness%20to%20yourself%2C%20the%20more%20it%20will%20become%20your%20automatic%20response%20to%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=It%20is%20impossible%20for%20a%20man%20to%20learn%20what%20he%20thinks%20he%20already%20knows.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
