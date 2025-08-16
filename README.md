@@ -30633,11 +30633,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Growth%20is%20in%20a%20series%20of%20mistakes.%20That's%20the%20only%20way%20you%20learn.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Today%20will%20never%20happen%20again.%20Don't%20waste%20it%20with%20a%20false%20start%20or%20no%20start%20at%20all.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
