@@ -30707,11 +30707,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Helen%20Keller&quote=The%20only%20thing%20worse%20than%20being%20blind%20is%20having%20sight%20but%20no%20vision.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Everyone%20has%20the%20right%20to%20make%20his%20own%20decisions%2C%20but%20none%20has%20the%20right%20to%20force%20his%20decision%20on%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
