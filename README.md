@@ -30860,11 +30860,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=It%20is%20truth%20that%20liberates%2C%20not%20your%20effort%20to%20be%20free.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Life%20is%20a%20question%20and%20how%20we%20live%20it%20is%20our%20answer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
