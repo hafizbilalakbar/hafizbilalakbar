@@ -30936,11 +30936,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=You%20will%20never%20do%20anything%20in%20this%20world%20without%20courage.%20It%20is%20the%20greatest%20quality%20of%20the%20mind%20next%20to%20honor.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bette%20Midler&quote=Give%20a%20girl%20the%20right%20shoes%2C%20and%20she%20can%20conquer%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
