@@ -31031,11 +31031,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20London&quote=Life%20is%20not%20always%20a%20matter%20of%20holding%20good%20cards%2C%20but%20sometimes%2C%20playing%20a%20poor%20hand%20well.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Locke&quote=All%20wealth%20is%20the%20product%20of%20labor.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
