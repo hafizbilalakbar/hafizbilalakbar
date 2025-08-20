@@ -31022,11 +31022,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=If%20your%20happiness%20depends%20on%20what%20somebody%20else%20does%2C%20I%20guess%20you%20do%20have%20a%20problem.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Waldo%20Emerson&quote=Nothing%20external%20to%20you%20has%20any%20power%20over%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
