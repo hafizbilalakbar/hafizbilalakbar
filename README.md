@@ -30982,11 +30982,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Take%20the%20attitude%20of%20a%20student.%20Never%20be%20too%20big%20to%20ask%20questions.%20Never%20know%20too%20much%20to%20learn%20something%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yoko%20Ono&quote=It's%20better%20to%20dance%20than%20to%20march%20through%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
