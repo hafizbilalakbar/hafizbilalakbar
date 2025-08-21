@@ -31090,11 +31090,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Peace%20is%20not%20the%20absence%20of%20conflict%2C%20but%20the%20ability%20to%20cope%20with%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=You%20have%20a%20brain%20and%20mind%20of%20your%20own.%20Use%20it%2C%20and%20reach%20your%20own%20decisions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
