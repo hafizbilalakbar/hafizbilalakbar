@@ -31128,11 +31128,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=We%20don't%20stop%20playing%20because%20we%20grow%20old%3B%20we%20grow%20old%20because%20we%20stop%20playing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=The%20four%20P's%20to%20success%20are%20pressure%2C%20persistence%2C%20perseverance%2C%20and%20prayer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
