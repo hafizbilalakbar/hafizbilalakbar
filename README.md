@@ -31076,11 +31076,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Williams&quote=You%20will%20have%20bad%20times%2C%20but%20they%20will%20always%20wake%20you%20up%20to%20the%20stuff%20you%20weren't%20paying%20attention%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Washington&quote=The%20harder%20the%20conflict%2C%20the%20greater%20the%20triumph.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
