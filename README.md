@@ -31133,11 +31133,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=The%20four%20P's%20to%20success%20are%20pressure%2C%20persistence%2C%20perseverance%2C%20and%20prayer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=Of%20all%20men's%20miseries%20the%20bitterest%20is%20this%3A%20to%20know%20so%20much%20and%20to%20have%20control%20over%20nothing.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
