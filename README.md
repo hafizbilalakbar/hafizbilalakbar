@@ -31134,11 +31134,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=Of%20all%20men's%20miseries%20the%20bitterest%20is%20this%3A%20to%20know%20so%20much%20and%20to%20have%20control%20over%20nothing.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Happiness%20is%20a%20choice%2C%20not%20a%20result.%20Nothing%20will%20make%20you%20happy%20until%20you%20choose%20to%20be%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
