@@ -31130,11 +31130,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=It's%20possible%20in%20ways%20both%20large%20or%20small%20to%20make%20a%20difference%20in%20someone's%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Toni%20Morrison&quote=If%20you%20can't%20imagine%20it%2C%20you%20can't%20have%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
