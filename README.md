@@ -31123,11 +31123,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=All%20that%20a%20man%20achieves%20and%20all%20that%20he%20fails%20to%20achieve%20is%20the%20direct%20result%20of%20his%20own%20thoughts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Locke&quote=New%20opinions%20are%20always%20suspected%2C%20and%20usually%20opposed%2C%20without%20any%20other%20reason%20but%20because%20they%20are%20not%20common.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
