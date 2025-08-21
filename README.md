@@ -31117,11 +31117,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=One%20of%20the%20oldest%20human%20needs%20is%20having%20someone%20to%20wonder%20where%20you%20are%20when%20you%20don't%20come%20home%20at%20night.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=If%20the%20grass%20is%20greener%20on%20the%20other%20side%2C%20maybe%20that's%20because%20you're%20not%20taking%20good%20care%20of%20your%20grass.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
