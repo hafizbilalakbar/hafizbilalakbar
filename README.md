@@ -31212,11 +31212,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=Life%20comes%20at%20us%20in%20waves.%20We%20can't%20predict%20or%20control%20those%20waves%2C%20but%20we%20can%20learn%20to%20surf.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Trust%20is%20the%20glue%20that%20holds%20people%20together%20and%20is%20the%20lubricant%20that%20keeps%20an%20organization%20moving%20forward.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
