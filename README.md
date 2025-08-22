@@ -31178,11 +31178,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=If%20you%20want%20peace%2C%20you%20won't%20get%20it%20with%20violence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Do%20what%20you%20feel%20in%20your%20heart%20to%20be%20right%20-%20for%20you'll%20be%20criticized%20anyway.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
