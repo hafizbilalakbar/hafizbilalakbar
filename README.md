@@ -31203,11 +31203,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Follow%20your%20instincts.%20That%20is%20where%20true%20wisdom%20manifests%20itself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=I%20would%20rather%20be%20a%20little%20nobody%2C%20then%20to%20be%20an%20evil%20somebody.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
