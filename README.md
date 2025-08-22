@@ -31228,11 +31228,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Our%20view%20of%20the%20world%20is%20truly%20shaped%20by%20what%20we%20decide%20to%20hear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=Be%20who%20you%20are%20and%20say%20what%20you%20feel%20because%20those%20who%20mind%20don't%20matter%20and%20those%20who%20matter%20don't%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
