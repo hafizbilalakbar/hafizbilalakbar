@@ -31177,11 +31177,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=It's%20beautiful%20to%20be%20alone.%20To%20be%20alone%20does%20not%20mean%20to%20be%20lonely.%20It%20means%20the%20mind%20is%20not%20influenced%20and%20contaminated%20by%20society.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=If%20you%20want%20peace%2C%20you%20won't%20get%20it%20with%20violence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
