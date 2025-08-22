@@ -31213,11 +31213,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Trust%20is%20the%20glue%20that%20holds%20people%20together%20and%20is%20the%20lubricant%20that%20keeps%20an%20organization%20moving%20forward.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Sometimes%20out%20of%20your%20biggest%20misery%2C%20comes%20your%20greatest%20gain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
