@@ -31294,11 +31294,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=People%20don't%20realize%20that%20now%20is%20all%20there%20ever%20is%3B%20there%20is%20no%20past%20or%20future%20except%20as%20memory%20or%20anticipation%20in%20your%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=You%20were%20put%20on%20this%20earth%20to%20achieve%20your%20greatest%20self%2C%20to%20live%20out%20your%20purpose%2C%20and%20to%20do%20it%20courageously.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
