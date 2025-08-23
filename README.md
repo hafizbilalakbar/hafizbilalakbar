@@ -31248,11 +31248,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=To%20injure%20an%20opponent%20is%20to%20injure%20yourself.%20To%20control%20aggression%20without%20inflicting%20injury%20is%20the%20Art%20of%20Peace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Care%20about%20what%20other%20people%20think%20and%20you%20will%20always%20be%20their%20prisoner.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
