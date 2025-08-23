@@ -31271,11 +31271,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=The%20goal%20is%20not%20to%20be%20perfect%20by%20the%20end%2C%20the%20goal%20is%20to%20be%20better%20today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=The%20salvation%20of%20the%20world%20lies%20in%20the%20human%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
