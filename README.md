@@ -31315,11 +31315,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Your%20first%20and%20foremost%20job%20as%20a%20leader%20is%20to%20take%20charge%20of%20your%20own%20energy%20and%20then%20help%20to%20orchestrate%20the%20energy%20of%20those%20around%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Boldness%20makes%20even%20the%20smallest%20animal%20dangerous.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
