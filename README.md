@@ -31286,11 +31286,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=My%20mind%20seems%20to%20have%20become%20a%20kind%20of%20machine%20for%20grinding%20general%20laws%20out%20of%20large%20collections%20of%20facts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Edgar%20Allan%20Poe&quote=Believe%20nothing%20you%20hear%2C%20and%20only%20one%20half%20that%20you%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
