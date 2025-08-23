@@ -31336,11 +31336,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=We%20are%20what%20we%20repeatedly%20do.%20Excellence%2C%20then%2C%20is%20not%20an%20act%2C%20but%20a%20habit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carol%20Burnett&quote=When%20you%20have%20a%20dream%2C%20you've%20got%20to%20grab%20it%20and%20never%20let%20go.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
