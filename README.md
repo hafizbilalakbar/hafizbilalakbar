@@ -31290,11 +31290,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Yesterday%20is%20the%20past%2C%20tomorrow%20is%20the%20future%2C%20today%20is%20a%20gift%20-%20that's%20why%20it's%20called%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=Life%20is%20to%20be%20fortified%20by%20many%20friendships.%20To%20love%2C%20and%20to%20be%20loved%2C%20is%20the%20greatest%20happiness%20of%20existence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
