@@ -31390,11 +31390,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=The%20more%20rejection%20you%20get%2C%20the%20better%20you%20are%2C%20the%20more%20you've%20learned%2C%20the%20closer%20you%20are%20to%20your%20outcome.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Too%20many%20of%20us%20are%20not%20living%20our%20dreams%20because%20we%20are%20living%20our%20fears.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
