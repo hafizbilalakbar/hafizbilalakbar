@@ -31504,11 +31504,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Remember%20that%20the%20best%20relationship%20is%20one%20in%20which%20your%20love%20for%20each%20other%20exceeds%20your%20need%20for%20each%20other.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=It%20is%20in%20your%20moments%20of%20decision%20that%20your%20destiny%20is%20shaped.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
