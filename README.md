@@ -31500,11 +31500,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Wishing%20to%20be%20friends%20is%20quick%20work%2C%20but%20friendship%20is%20a%20slow%20ripening%20fruit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Love%20and%20compassion%20are%20necessities%2C%20not%20luxuries.%20Without%20them%2C%20humanity%20cannot%20survive.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
