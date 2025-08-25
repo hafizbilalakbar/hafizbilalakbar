@@ -31453,11 +31453,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=While%20we%20may%20not%20be%20able%20to%20control%20all%20that%20happens%20to%20us%2C%20we%20can%20control%20what%20happens%20inside%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=What%20the%20caterpillar%20calls%20the%20end%20of%20the%20world%2C%20the%20master%20calls%20a%20butterfly.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
