@@ -31551,11 +31551,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=The%20present%20moment%20is%20filled%20with%20joy%20and%20happiness.%20If%20you%20are%20attentive%2C%20you%20will%20see%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=For%20changes%20to%20be%20of%20any%20true%20value%2C%20they've%20got%20to%20be%20lasting%20and%20consistent.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
