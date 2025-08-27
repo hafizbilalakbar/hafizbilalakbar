@@ -31629,11 +31629,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=Life%20is%20like%20a%20wheel.%20Sooner%20or%20later%2C%20it%20always%20comes%20around%20to%20where%20you%20started%20again.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=Pleasure%20can%20be%20supported%20by%20an%20illusion%3B%20but%20happiness%20rests%20upon%20truth.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
