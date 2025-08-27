@@ -31663,11 +31663,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=The%20only%20problem%20we%20really%20have%20is%20we%20think%20we're%20not%20supposed%20to%20have%20problems!%20Problems%20call%20us%20to%20higher%20level-%20-%20face%20%26%20solve%20them%20now!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Duty%20makes%20us%20do%20things%20well%2C%20but%20love%20makes%20us%20do%20them%20beautifully.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
