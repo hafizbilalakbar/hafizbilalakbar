@@ -31652,11 +31652,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Extraordinary%20results%20happen%20only%20when%20you%20give%20the%20best%20you%20have%20to%20become%20the%20best%20you%20can%20be%20at%20your%20most%20important%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Do%20not%20believe%20that%20you%20will%20reach%20your%20destination%20without%20leaving%20the%20shore.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
