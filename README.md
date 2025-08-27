@@ -31664,11 +31664,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Duty%20makes%20us%20do%20things%20well%2C%20but%20love%20makes%20us%20do%20them%20beautifully.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Inner%20peace%20is%20when%20you%20realize%20that%2C%20in%20the%20end%2C%20nothing%20matters.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
