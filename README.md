@@ -31695,11 +31695,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=A%20single%20act%20of%20kindness%20throws%20out%20roots%20in%20all%20directions%2C%20and%20the%20roots%20spring%20up%20and%20make%20new%20trees.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Your%20task%20is%20not%20to%20seek%20for%20love%2C%20but%20merely%20to%20seek%20and%20find%20all%20the%20barriers%20within%20yourself%20that%20you%20have%20built%20against%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
