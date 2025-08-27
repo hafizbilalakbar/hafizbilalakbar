@@ -31675,11 +31675,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=Throw%20me%20to%20the%20wolves%20and%20I%20will%20return%20leading%20the%20pack.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=The%20question%20is%20not%20what%20you%20look%20at%2C%20but%20what%20you%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
