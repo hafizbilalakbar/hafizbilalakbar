@@ -31709,11 +31709,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=It%20is%20not%20what%20we%20get.%20But%20who%20we%20become%2C%20what%20we%20contribute...%20that%20gives%20meaning%20to%20our%20lives.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=True%20wisdom%20comes%20to%20each%20of%20us%20when%20we%20realize%20how%20little%20we%20understand%20about%20life%2C%20ourselves%2C%20and%20the%20world%20around%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
