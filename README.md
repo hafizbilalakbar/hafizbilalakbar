@@ -31690,11 +31690,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=You%20need%20to%20be%20doing%20fewer%20things%20for%20more%20effect%20instead%20of%20doing%20more%20things%20with%20side%20effects.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=We%20are%20always%20complaining%20that%20our%20days%20are%20few%2C%20and%20acting%20as%20though%20there%20would%20be%20no%20end%20of%20them.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
