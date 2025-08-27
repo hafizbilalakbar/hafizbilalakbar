@@ -31620,11 +31620,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=Never%20be%20afraid%20to%20raise%20your%20voice%20for%20honesty%20and%20truth%20and%20compassion%20against%20injustice%20and%20lying%20and%20greed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=You%20cannot%20change%20your%20destination%20overnight%20but%20you%20can%20change%20your%20direction%20overnight.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
