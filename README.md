@@ -31766,11 +31766,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=You%20cannot%20have%20a%20positive%20life%20and%20a%20negative%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Grace%20Coddington&quote=Always%20keep%20your%20eyes%20open.%20Keep%20watching.%20Because%20whatever%20you%20see%20can%20inspire%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
