@@ -31733,11 +31733,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20thankful%20for%20everything%20that%20happens%20in%20your%20life%3B%20it's%20all%20an%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=Time%20and%20health%20are%20two%20precious%20assets%20that%20we%20don't%20recognize%20and%20appreciate%20until%20they%20have%20been%20depleted.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
