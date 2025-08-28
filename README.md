@@ -31735,11 +31735,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Having%20an%20open%20mind%20is%20one%20of%20the%20most%20important%20qualities%20we%20can%20possess.%20Once%20our%20minds%20close%2C%20we%20stop%20evolving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Failure%20is%20a%20great%20teacher.%20If%20you're%20open%20to%20it%20every%20mistake%20has%20a%20lesson%20to%20offer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
