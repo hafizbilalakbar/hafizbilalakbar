@@ -31734,11 +31734,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=Time%20and%20health%20are%20two%20precious%20assets%20that%20we%20don't%20recognize%20and%20appreciate%20until%20they%20have%20been%20depleted.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Having%20an%20open%20mind%20is%20one%20of%20the%20most%20important%20qualities%20we%20can%20possess.%20Once%20our%20minds%20close%2C%20we%20stop%20evolving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
