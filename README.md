@@ -31877,11 +31877,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=The%20nearer%20a%20man%20comes%20to%20a%20calm%20mind%2C%20the%20closer%20he%20is%20to%20strength.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Woody%20Allen&quote=Talent%20is%20luck.%20The%20important%20thing%20in%20life%20is%20courage.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
