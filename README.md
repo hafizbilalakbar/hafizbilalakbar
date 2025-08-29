@@ -31872,11 +31872,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=Enjoy%20when%20you%20can%2C%20and%20endure%20when%20you%20must.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=If%20you%20quit%20once%20it%20becomes%20a%20habit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
