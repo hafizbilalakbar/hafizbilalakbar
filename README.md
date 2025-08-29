@@ -31822,11 +31822,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=In%20matters%20of%20style%2C%20swim%20with%20the%20current%3B%20in%20matters%20of%20principle%2C%20stand%20like%20a%20rock.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Dylan&quote=Don't%20criticize%20what%20you%20can't%20understand.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
