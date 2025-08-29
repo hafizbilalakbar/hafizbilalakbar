@@ -31844,11 +31844,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=When%20you%20consider%20things%20like%20the%20stars%2C%20our%20affairs%20don't%20seem%20to%20matter%20very%20much%2C%20do%20they%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=The%20majority%20of%20what%20you%20want%20will%20come%20from%20the%20minority%20of%20what%20you%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
