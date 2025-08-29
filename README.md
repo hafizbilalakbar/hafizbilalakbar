@@ -31892,11 +31892,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=We%20suffer%20for%20the%20simple%20reason%20that%20suffering%20is%20biologically%20useful.%20It%20is%20nature's%20preferred%20agent%20for%20inspiring%20change.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=Faithless%20is%20he%20that%20says%20farewell%20when%20the%20road%20darkens.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
