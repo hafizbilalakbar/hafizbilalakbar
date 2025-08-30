@@ -32017,11 +32017,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Your%20happiness%20is%20what%20truly%20matters%20most.%20Do%20what%20you%20have%20to%20do%20in%20order%20to%20be%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Billie%20Jean%20King&quote=Champions%20keep%20playing%20until%20they%20get%20it%20right.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
