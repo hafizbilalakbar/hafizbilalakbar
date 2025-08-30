@@ -31981,11 +31981,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=Falling%20down%20is%20not%20failure.%20Failure%20comes%20when%20you%20stay%20where%20you%20have%20fallen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=The%20goal%20is%20not%20to%20be%20perfect%20by%20the%20end%2C%20the%20goal%20is%20to%20be%20better%20today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
