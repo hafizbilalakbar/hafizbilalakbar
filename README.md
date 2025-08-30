@@ -31918,11 +31918,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=My%20mind%20seems%20to%20have%20become%20a%20kind%20of%20machine%20for%20grinding%20general%20laws%20out%20of%20large%20collections%20of%20facts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=The%20nearer%20a%20man%20comes%20to%20a%20calm%20mind%2C%20the%20closer%20he%20is%20to%20strength.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
