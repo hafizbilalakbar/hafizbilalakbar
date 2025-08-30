@@ -31955,11 +31955,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Consider%20the%20rights%20of%20others%20before%20your%20own%20feelings%2C%20and%20the%20feelings%20of%20others%20before%20your%20own%20rights.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=We%20can't%20help%20everyone%2C%20but%20everyone%20can%20help%20someone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
