@@ -31942,11 +31942,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=The%20secret%20of%20success%20lies%20not%20in%20doing%20your%20own%20work%2C%20but%20in%20recognizing%20the%20right%20man%20to%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Always%20look%20on%20the%20bright%20side%20of%20things.%20If%20you%20can't%20comprehend%20this%2C%20polish%20that%20which%20has%20become%20dull%20until%20it%20begins%20to%20shine.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
