@@ -32111,11 +32111,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Would%20you%20rather%20learn%20to%20deal%20with%20the%20truth%20now%20than%20be%20forced%20to%20do%20so%20later%20on%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=Peace%20is%20not%20something%20you%20wish%20for%3B%20It's%20something%20you%20make%2C%20something%20you%20do%2C%20something%20you%20are%2C%20and%20something%20you%20give%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
