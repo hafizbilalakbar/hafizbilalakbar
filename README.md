@@ -32126,11 +32126,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=We%20suffer%20for%20the%20simple%20reason%20that%20suffering%20is%20biologically%20useful.%20It%20is%20nature's%20preferred%20agent%20for%20inspiring%20change.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Whether%20you%20think%20you%20can%20or%20think%20you%20can't%20%E2%80%93%20you%20are%20right.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
