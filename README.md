@@ -32127,11 +32127,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Whether%20you%20think%20you%20can%20or%20think%20you%20can't%20%E2%80%93%20you%20are%20right.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=If%20he%20cannot%20stop%20the%20mind%20that%20seeks%20after%20fame%20and%20profit%2C%20he%20will%20spend%20his%20life%20without%20finding%20peace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
