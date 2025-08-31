@@ -32110,11 +32110,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Conrad%20Hilton&quote=To%20some%20degree%2C%20you%20control%20your%20life%20by%20controlling%20your%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Would%20you%20rather%20learn%20to%20deal%20with%20the%20truth%20now%20than%20be%20forced%20to%20do%20so%20later%20on%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
