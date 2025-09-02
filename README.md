@@ -32314,11 +32314,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=A%20strong%20man%20overcomes%20an%20obstacle%2C%20a%20wise%20man%20goes%20the%20whole%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=One%20day%2C%20in%20retrospect%2C%20the%20years%20of%20struggle%20will%20strike%20you%20as%20the%20most%20beautiful.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
