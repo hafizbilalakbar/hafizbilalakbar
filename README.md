@@ -32305,11 +32305,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=Unexpressed%20emotions%20will%20never%20die.%20They%20are%20buried%20alive%20and%20will%20come%20forth%20later%20in%20uglier%20ways.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Happiness%20is%20a%20gift%20and%20the%20trick%20is%20not%20to%20expect%20it%2C%20but%20to%20delight%20in%20it%20when%20it%20comes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
