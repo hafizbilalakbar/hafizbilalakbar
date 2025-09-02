@@ -32316,11 +32316,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=I%20am%20thankful%20to%20all%20who%20said%20no%20to%20me.%20It%20is%20because%20of%20them%20that%20I'm%20doing%20it%20myself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Washington&quote=Be%20courteous%20to%20all%2C%20but%20intimate%20with%20few%2C%20and%20let%20those%20few%20be%20well%20tried%20before%20you%20give%20them%20your%20confidence.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
