@@ -32321,11 +32321,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=The%20older%20you%20get%20the%20stronger%20the%20wind%20gets%20-%20and%20it's%20always%20in%20your%20face.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=If%20you%20want%20to%20be%20happy%2C%20set%20a%20goal%20that%20commands%20your%20thoughts%2C%20liberates%20your%20energy%2C%20and%20inspires%20your%20hopes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
