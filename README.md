@@ -32278,11 +32278,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Niccolo%20Machiavelli&quote=He%20who%20wishes%20to%20be%20obeyed%20must%20know%20how%20to%20command.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Don't%20be%20afraid%20to%20stand%20for%20what%20you%20believe%20in%2C%20even%20if%20that%20means%20standing%20alone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
