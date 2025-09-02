@@ -32285,11 +32285,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Spend%20eighty%20percent%20of%20your%20time%20focusing%20on%20the%20opportunities%20of%20tomorrow%20rather%20than%20the%20problems%20of%20yesterday.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=W.P.%20Kinsella&quote=Hardly%20anybody%20recognizes%20the%20most%20significant%20moments%20of%20their%20life%20at%20the%20time%20they%20happen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
