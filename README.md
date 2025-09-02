@@ -32259,11 +32259,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Confuse%20them%20with%20your%20silence%20and%20amaze%20them%20with%20your%20actions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=No%20matter%20how%20tall%20the%20mountain%20is%2C%20it%20cannot%20block%20the%20sun.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
