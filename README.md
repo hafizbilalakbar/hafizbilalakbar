@@ -32280,11 +32280,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=Give%20more%20than%20you%20think%20you%20can%2C%20trusting%20that%20you%20are%20richer%20than%20you%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=You%20can't%20make%20someone%20feel%20good%20about%20themselves%20until%20you%20feel%20good%20about%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
