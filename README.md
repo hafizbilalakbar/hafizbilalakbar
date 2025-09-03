@@ -32386,11 +32386,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Among%20the%20things%20you%20can%20give%20and%20still%20keep%20are%20your%20word%2C%20a%20smile%2C%20and%20a%20grateful%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Do%20not%20dwell%20in%20the%20past%2C%20do%20not%20dream%20of%20the%20future%2C%20concentrate%20the%20mind%20on%20the%20present%20moment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
