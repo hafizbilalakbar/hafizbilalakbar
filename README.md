@@ -32344,11 +32344,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=We%20are%20born%20from%20a%20quiet%20sleep%2C%20and%20we%20die%20to%20a%20calm%20awakening&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=The%20ones%20who%20are%20crazy%20enough%20to%20think%20they%20can%20change%20the%20world%2C%20are%20the%20ones%20that%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
