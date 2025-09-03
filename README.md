@@ -32383,11 +32383,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Anyone%20who%20dreams%20of%20an%20uncommon%20life%20eventually%20discovers%20there%20is%20no%20choice%20but%20to%20seek%20an%20uncommon%20approach%20to%20living%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=It%20isn't%20what%20you%20do%2C%20but%20how%20you%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
