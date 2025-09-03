@@ -32348,11 +32348,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Rather%20than%20waste%20time%20and%20energy%20worrying%2C%20use%20that%20time%20and%20energy%20to%20constructively%20deal%20with%20whatever%20is%20causing%20the%20worry.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=If%20you%20put%20yourself%20in%20a%20position%20where%20you%20have%20to%20stretch%20outside%20your%20comfort%20zone%2C%20then%20you%20are%20forced%20to%20expand%20your%20consciousness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
