@@ -32366,11 +32366,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Laws%20are%20like%20cobwebs%2C%20which%20may%20catch%20small%20flies%2C%20but%20let%20wasps%20and%20hornets%20break%20through.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Art%20is%20to%20console%20those%20who%20are%20broken%20by%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
