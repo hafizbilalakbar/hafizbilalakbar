@@ -32407,11 +32407,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Miguel%20de%20Cervantes&quote=In%20order%20to%20attain%20the%20impossible%2C%20one%20must%20attempt%20the%20absurd.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=If%20you%20want%20to%20be%20sad%2C%20no%20one%20in%20the%20world%20can%20make%20you%20happy.%20But%20if%20you%20make%20up%20your%20mind%20to%20be%20happy%2C%20no%20one%20and%20nothing%20on%20earth%20can%20take%20that%20happiness%20from%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
