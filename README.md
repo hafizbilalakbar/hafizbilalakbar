@@ -32584,11 +32584,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=F.%20Scott%20Fitzgerald&quote=The%20world%20only%20exists%20in%20your%20eyes.%20You%20can%20make%20it%20as%20big%20or%20as%20small%20as%20you%20want.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Whatever%20we%20plant%20in%20our%20subconscious%20mind%20and%20nourish%20with%20repetition%20and%20emotion%20will%20one%20day%20become%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
