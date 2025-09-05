@@ -32550,11 +32550,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kilian%20Jornet&quote=Sometimes%20you%20have%20to%20shut%20your%20eyes%2C%20so%20you%20can%20see%20the%20real%20beauty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=A%20Quitter%20never%20wins%20-%20and%20-%20a%20Winner%20never%20quits.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
