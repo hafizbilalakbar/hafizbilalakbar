@@ -32570,11 +32570,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=When%20you%20are%20tough%20on%20yourself%2C%20life%20is%20going%20to%20be%20infinitely%20easier%20on%20you.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=Happiness%20can%20be%20found%2C%20even%20in%20the%20darkest%20of%20times%2C%20if%20one%20only%20remembers%20to%20turn%20on%20the%20light.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
