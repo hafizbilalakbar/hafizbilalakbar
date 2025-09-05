@@ -32604,11 +32604,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=There%20is%20only%20one%20way%20to%20happiness%20and%20that%20is%20to%20cease%20worrying%20about%20things%20which%20are%20beyond%20the%20power%20or%20our%20will.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=I%20am%20not%20absentminded.%20It%20is%20the%20presence%20of%20mind%20that%20makes%20me%20unaware%20of%20everything%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
