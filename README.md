@@ -32651,11 +32651,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Don't%20let%20the%20fear%20of%20losing%20be%20greater%20than%20the%20excitement%20of%20winning.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charlie%20Chaplin&quote=Simplicity%20is%20a%20difficult%20thing%20to%20achieve.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
