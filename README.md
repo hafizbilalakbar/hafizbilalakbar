@@ -32696,11 +32696,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Persistence%20is%20very%20important.%20You%20should%20not%20give%20up%20unless%20you%20are%20forced%20to%20give%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=There%20is%20no%20limit%20to%20the%20amount%20of%20good%20you%20can%20do%20if%20you%20don't%20care%20who%20gets%20the%20credit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
