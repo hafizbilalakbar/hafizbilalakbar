@@ -32645,11 +32645,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=Reality%20is%20the%20leading%20cause%20of%20stress%20among%20those%20in%20touch%20with%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=Happiness%20is%20the%20spiritual%20experience%20of%20living%20every%20minute%20with%20love%2C%20grace%20and%20gratitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
