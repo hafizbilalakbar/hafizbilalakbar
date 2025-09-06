@@ -32647,11 +32647,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=Faith%20is%20taking%20the%20first%20step%20even%20when%20you%20don't%20see%20the%20whole%20staircase.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=If%20you%20don't%20read%20the%20newspaper%2C%20you're%20uninformed.%20If%20you%20read%20the%20newspaper%2C%20you're%20misinformed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
