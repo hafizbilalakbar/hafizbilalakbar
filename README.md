@@ -32683,11 +32683,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=You%20drown%20not%20by%20falling%20into%20a%20river%2C%20but%20by%20staying%20submerged%20in%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=A%20lie%20can%20travel%20half%20way%20around%20the%20world%20while%20the%20truth%20is%20putting%20on%20its%20shoes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
