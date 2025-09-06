@@ -32735,11 +32735,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Publilius%20Syrus&quote=The%20sweetest%20pleasure%20arises%20from%20difficulties%20overcome.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Our%20greatest%20glory%20is%20not%20in%20never%20falling%2C%20but%20in%20rising%20every%20time%20we%20fall.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
