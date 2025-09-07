@@ -32818,11 +32818,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Mays&quote=The%20tragedy%20of%20life%20doesn't%20lie%20in%20not%20reaching%20your%20goal.%20The%20tragedy%20lies%20in%20having%20no%20goals%20to%20reach.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=It%20ain't%20where%20you%20start%20in%20life%2C%20it's%20where%20you%20end%20up%2C%20and%20what%20you%20did%20along%20the%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
