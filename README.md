@@ -32781,11 +32781,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=Action%20is%20the%20foundational%20key%20to%20all%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Today%20is%20plenty%3B%20right%20now%20is%20enough.%20Tomorrow%20will%20come%20in%20good%20time.%20Until%20it%20does%2C%20live%20the%20depth%20of%20now.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
