@@ -32792,11 +32792,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=The%20person%20who%20says%20something%20is%20impossible%20should%20not%20interrupt%20the%20person%20who%20is%20doing%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=The%20power%20to%20make%20and%20break%20habits%20and%20learning%20how%20to%20do%20that%20is%20really%20important.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
