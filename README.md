@@ -32846,11 +32846,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=The%20secret%20of%20change%20is%20to%20focus%20all%20your%20energy%20not%20on%20fighting%20the%20old%2C%20but%20on%20building%20the%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=Sometimes%20you%20will%20never%20know%20the%20value%20of%20something%2C%20until%20it%20becomes%20a%20memory.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
