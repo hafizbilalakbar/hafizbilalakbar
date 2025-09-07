@@ -32794,11 +32794,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Quality%20is%20more%20important%20than%20quantity.%20One%20home%20run%20is%20much%20better%20than%20two%20doubles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=An%20empty%20head%20is%20not%20really%20empty%3B%20it%20is%20stuffed%20with%20rubbish.%20Hence%20the%20difficulty%20of%20forcing%20anything%20into%20an%20empty%20head.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
