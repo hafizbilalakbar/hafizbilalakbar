@@ -32880,11 +32880,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=To%20achieve%2C%20you%20need%20thought.%20You%20have%20to%20know%20what%20you%20are%20doing%20and%20that's%20real%20power.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=The%20most%20important%20thing%20in%20life%20is%20to%20stop%20saying%20'I%20wish'%20and%20start%20saying%20'I%20will'.%20Consider%20nothing%20impossible%2C%20then%20treat%20possibilities%20as%20probabilities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
