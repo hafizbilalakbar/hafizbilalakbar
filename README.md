@@ -32904,11 +32904,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Brown&quote=Men%20go%20to%20far%20greater%20lengths%20to%20avoid%20what%20they%20fear%20than%20to%20obtain%20what%20they%20desire.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Your%20work%20is%20to%20discover%20your%20work%20and%20then%2C%20with%20all%20your%20heart%2C%20to%20give%20yourself%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
