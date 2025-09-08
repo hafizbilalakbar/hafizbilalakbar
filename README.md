@@ -32889,11 +32889,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=If%20you%20take%20responsibility%20for%20yourself%20you%20will%20develop%20a%20hunger%20to%20accomplish%20your%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=A%20fool%20sees%20himself%20as%20another%2C%20but%20a%20wise%20man%20sees%20others%20as%20himself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
