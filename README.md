@@ -32874,11 +32874,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Coco%20Chanel&quote=Don't%20spend%20time%20beating%20on%20a%20wall%2C%20hoping%20to%20transform%20it%20into%20a%20door.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=It's%20much%20better%20to%20do%20good%20in%20a%20way%20that%20no%20one%20knows%20anything%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
