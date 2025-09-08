@@ -32898,11 +32898,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=The%20measure%20of%20wisdom%20is%20how%20calm%20you%20are%20when%20facing%20any%20given%20situation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=F.%20Scott%20Fitzgerald&quote=So%20we%20beat%20on%2C%20boats%20against%20the%20current%2C%20borne%20back%20ceaselessly%20into%20the%20past.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
