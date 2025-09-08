@@ -32954,11 +32954,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Don't%20concern%20yourself%20with%20the%20money.%20Be%20of%20service.%20Build.%20Work.%20Dream.%20Create.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther&quote=Even%20if%20I%20knew%20that%20tomorrow%20the%20world%20would%20go%20to%20pieces%2C%20I%20would%20still%20plant%20my%20apple%20tree.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
