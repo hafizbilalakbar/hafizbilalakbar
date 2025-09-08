@@ -32872,11 +32872,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=The%20truth%20is%2C%20everyone%20is%20going%20to%20hurt%20you.%20You%20just%20got%20to%20find%20the%20ones%20worth%20suffering%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Life%20is%20much%20like%20going%20to%20the%20gym.%20The%20most%20painful%20part%20is%20deciding%20to%20go.%20Once%20you%20get%20past%20that%2C%20it's%20easy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
