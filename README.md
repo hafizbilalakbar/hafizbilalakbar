@@ -32967,11 +32967,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=When%20we%20allow%20negative%20messages%20to%20fester%20in%20our%20head%2C%20they%20take%20on%20a%20life%20of%20their%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Don't%20gain%20the%20world%20and%20lose%20your%20soul.%20Wisdom%20is%20better%20than%20silver%20and%20gold.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
