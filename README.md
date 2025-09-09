@@ -33000,11 +33000,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Frank&quote=The%20dead%20receive%20more%20flowers%20than%20the%20living%20because%20regret%20is%20stronger%20than%20gratitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Trust%20is%20the%20glue%20that%20holds%20people%20together%20and%20is%20the%20lubricant%20that%20keeps%20an%20organization%20moving%20forward.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
