@@ -32988,11 +32988,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=The%20whole%20of%20life%2C%20from%20the%20moment%20you%20are%20born%20to%20the%20moment%20you%20die%2C%20is%20a%20process%20of%20learning.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=A%20man%20who%20dares%20to%20waste%20one%20hour%20of%20time%20has%20not%20discovered%20the%20value%20of%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
