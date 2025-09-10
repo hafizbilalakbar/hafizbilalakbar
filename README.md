@@ -33083,11 +33083,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=I%20have%20no%20methods%3B%20all%20I%20do%20is%20accept%20people%20as%20they%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=We%20must%20not%20be%20afraid%20of%20dreaming%20the%20seemingly%20impossible%20if%20we%20want%20the%20seemingly%20impossible%20to%20become%20a%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
