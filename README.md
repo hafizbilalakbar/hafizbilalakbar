@@ -33143,11 +33143,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Life%20is%20love%20and%20love%20is%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=If%20you%20focus%20on%20results%20and%20finding%20shortcuts%2C%20you'll%20get%20impatient.%20If%20you%20focus%20on%20the%20process%20and%20doing%20the%20right%20thing%2C%20you'll%20be%20unstoppable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
