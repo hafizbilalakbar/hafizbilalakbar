@@ -33189,11 +33189,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=When%20you%20know%20what%20you%20want%2C%20and%20you%20want%20it%20bad%20enough%2C%20you%20will%20find%20a%20way%20to%20get%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=A%20good%20stance%20and%20posture%20reflect%20a%20proper%20state%20of%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
