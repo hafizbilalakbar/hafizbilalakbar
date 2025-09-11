@@ -33177,11 +33177,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20McCandless&quote=Just%20get%20out%20and%20do%20it.%20You%20will%20be%20very%2C%20very%20glad%20that%20you%20did.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=This%20is%20the%20real%20secret%20of%20life%20-%20to%20be%20completely%20engaged%20with%20what%20you%20are%20doing%20in%20the%20here%20and%20now.%20And%20instead%20of%20calling%20it%20work%2C%20realize%20it%20is%20play.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
