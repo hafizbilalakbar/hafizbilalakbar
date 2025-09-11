@@ -33185,11 +33185,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Passion%20is%20energy.%20Feel%20the%20power%20that%20comes%20from%20focusing%20on%20what%20excites%20you.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Start%20the%20day%20with%20love%2C%20spend%20the%20day%20with%20love%2C%20fill%20the%20day%20with%20love%20and%20end%20the%20day%20with%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
