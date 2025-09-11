@@ -33182,11 +33182,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=Obstacles%20are%20those%20frightful%20things%20you%20see%20when%20you%20take%20your%20eyes%20off%20your%20goals.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=Today%20you%20are%20you%2C%20that%20is%20truer%20than%20true.%20There%20is%20no%20one%20alive%20who%20is%20you-er%20than%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
