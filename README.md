@@ -33261,11 +33261,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Never%20whine%2C%20never%20complain%2C%20never%20try%20to%20justify%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=From%20a%20certain%20point%20onward%20there%20is%20no%20longer%20any%20turning%20back.%20That%20is%20the%20point%20that%20must%20be%20reached.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
