@@ -33337,11 +33337,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Never%20take%20your%20position%20for%20granted%20and%20never%20let%20any%20favors%20you%20receive%20go%20to%20your%20head.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Today%20is%20plenty%3B%20right%20now%20is%20enough.%20Tomorrow%20will%20come%20in%20good%20time.%20Until%20it%20does%2C%20live%20the%20depth%20of%20now.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
