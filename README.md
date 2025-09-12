@@ -33339,11 +33339,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Soren%20Kierkegaard&quote=Life%20can%20only%20be%20understood%20backwards%3B%20but%20it%20must%20be%20lived%20forwards.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=When%20it%20comes%20to%20mastering%20a%20skill%2C%20time%20is%20the%20magic%20ingredient.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
