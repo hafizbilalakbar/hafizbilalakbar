@@ -33317,11 +33317,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=We%20are%20born%20from%20a%20quiet%20sleep%2C%20and%20we%20die%20to%20a%20calm%20awakening&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=Tragedy%20is%20a%20tool%20for%20the%20living%20to%20gain%20wisdom%2C%20not%20a%20guide%20by%20which%20to%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
