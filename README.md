@@ -33334,11 +33334,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20more%20tranquil%20a%20man%20becomes%2C%20the%20greater%20is%20his%20success%2C%20his%20influence%2C%20his%20power%20for%20good.%20Calmness%20of%20mind%20is%20one%20of%20the%20beautiful%20jewels%20of%20wisdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=One%20of%20the%20really%20tough%20things%20is%20figuring%20out%20what%20questions%20to%20ask.%20Once%20you%20figure%20out%20the%20question%2C%20then%20the%20answer%20is%20relatively%20easy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
