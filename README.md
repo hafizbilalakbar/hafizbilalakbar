@@ -33392,11 +33392,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Toni%20Morrison&quote=Definitions%20belong%20to%20the%20definers%2C%20not%20the%20defined.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Faults%20are%20yours%20to%20fix%2C%20not%20to%20curse.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
