@@ -33408,11 +33408,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=A%20pessimist%20sees%20the%20difficulty%20in%20every%20opportunity%3B%20an%20optimist%20sees%20the%20opportunity%20in%20every%20difficulty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=By%20the%20practice%20of%20meditation%2C%20you%20will%20find%20that%20you%20are%20carrying%20within%20your%20heart%20a%20portable%20paradise.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
