@@ -33461,11 +33461,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20is%20important%20to%20fight%20and%20fight%20again%2C%20and%20keep%20fighting%2C%20for%20only%20then%20can%20evil%20be%20kept%20at%20bay%20though%20never%20quite%20eradicated.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Locke&quote=What%20worries%20you%2C%20masters%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
