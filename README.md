@@ -33500,11 +33500,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Coco%20Chanel&quote=The%20most%20courageous%20act%20is%20still%20to%20think%20for%20yourself.%20Aloud.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=You%20are%20never%20too%20old%20to%20set%20another%20goal%20or%20to%20dream%20a%20new%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
