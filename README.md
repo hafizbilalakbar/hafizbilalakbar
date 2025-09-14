@@ -33613,11 +33613,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=A%20moving%20door%20hinge%20never%20corrodes.%20Flowing%20water%20never%20grows%20stagnant.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=Let%20not%20your%20mind%20run%20on%20what%20you%20lack%20as%20much%20as%20on%20what%20you%20have%20already.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
