@@ -33564,11 +33564,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=If%20you%20don't%20have%20time%20to%20do%20it%20right%2C%20when%20will%20you%20have%20time%20to%20do%20it%20over%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Heraclitus&quote=We%20are%20most%20nearly%20ourselves%20when%20we%20achieve%20the%20seriousness%20of%20the%20child%20at%20play.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
