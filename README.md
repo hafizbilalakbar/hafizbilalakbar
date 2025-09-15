@@ -33707,11 +33707,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=20%20percent%20of%20your%20activities%20will%20account%20for%2080%20percent%20of%20your%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=Every%20moment%20is%20a%20fresh%20beginning.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
