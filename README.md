@@ -33632,11 +33632,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=I%20discovered%20a%20long%20time%20ago%20that%20if%20I%20helped%20enough%20people%20get%20what%20they%20wanted%2C%20I%20would%20always%20get%20what%20I%20wanted%20and%20I%20would%20never%20have%20to%20worry.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=For%20every%20effect%20there%20is%20a%20root%20cause.%20Find%20and%20address%20the%20root%20cause%20rather%20than%20try%20to%20fix%20the%20effect%2C%20as%20there%20is%20no%20end%20to%20the%20latter.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
