@@ -33653,11 +33653,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Getting%20lost%20along%20your%20path%20is%20a%20part%20of%20finding%20the%20path%20you%20are%20meant%20to%20be%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Focus%20on%20how%20far%20you%20have%20come%20in%20life%20rather%20than%20looking%20at%20the%20accomplishments%20of%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
