@@ -33710,11 +33710,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=Our%20joy%20does%20not%20have%20to%20be%20based%20on%20our%20circumstances.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Williams&quote=You%20will%20have%20bad%20times%2C%20but%20they%20will%20always%20wake%20you%20up%20to%20the%20stuff%20you%20weren't%20paying%20attention%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
