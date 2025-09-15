@@ -33702,11 +33702,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Eliot&quote=One%20must%20be%20poor%20to%20know%20the%20luxury%20of%20giving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=If%20you%20want%20to%20know%20what%20God%20thinks%20about%20money%20just%20look%20at%20the%20people%20He%20gives%20it%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
