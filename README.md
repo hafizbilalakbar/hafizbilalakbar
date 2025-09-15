@@ -33615,11 +33615,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Every%20moment%20you%20get%20is%20a%20gift.%20Spend%20it%20on%20things%20that%20matter.%20Don't%20spend%20it%20by%20dwelling%20on%20unhappy%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=C.%20Sean%20McGee&quote=If%20you%20are%20ever%20the%20smartest%20person%20in%20the%20room%2C%20you%20are%20in%20the%20wrong%20room.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
