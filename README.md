@@ -33680,11 +33680,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Even%20if%20our%20home%20burns%20down%20we%20can%20rebuild%20it.%20But%20the%20things%20that%20we%20got%20for%20nothing%2C%20we%20can%20never%20replace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Conrad%20Hilton&quote=To%20some%20degree%2C%20you%20control%20your%20life%20by%20controlling%20your%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
