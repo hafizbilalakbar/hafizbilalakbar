@@ -33772,11 +33772,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franklin%20D.%20Roosevelt&quote=Do%20Something.%20If%20it%20works%2C%20do%20more%20of%20it.%20If%20it%20doesn't%2C%20do%20something%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=The%20more%20you%20feed%20your%20mind%20with%20positive%20thoughts%2C%20the%20more%20you%20can%20attract%20great%20things%20into%20your%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
