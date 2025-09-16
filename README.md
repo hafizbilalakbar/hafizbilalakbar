@@ -33776,11 +33776,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=The%20season%20of%20failure%20is%20the%20best%20time%20for%20sowing%20the%20seeds%20of%20success.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Do%20what%20you%20feel%20in%20your%20heart%20to%20be%20right%20-%20for%20you'll%20be%20criticized%20anyway.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
