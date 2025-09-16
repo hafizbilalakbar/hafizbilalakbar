@@ -33785,11 +33785,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Your%20work%20is%20going%20to%20fill%20a%20large%20part%20of%20your%20life%2C%20and%20the%20only%20way%20to%20be%20truly%20satisfied%20is%20to%20do%20what%20you%20believe%20is%20great%20work.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=The%20seasons%20do%20not%20push%20one%20another%3B%20neither%20do%20clouds%20race%20the%20wind%20across%20the%20sky.%20All%20things%20happen%20in%20their%20own%20good%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
