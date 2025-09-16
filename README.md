@@ -33734,11 +33734,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=You%20never%20know%20when%20a%20moment%20and%20a%20few%20sincere%20words%20can%20have%20an%20impact%20on%20a%20life.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Walk%20with%20those%20seeking%20truth...%20RUN%20FROM%20THOSE%20WHO%20THINK%20THEY'VE%20FOUND%20IT.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
