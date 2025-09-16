@@ -33742,11 +33742,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=It%20is%20the%20greatest%20of%20all%20mistakes%20to%20do%20nothing%20because%20you%20can%20only%20do%20little%3B%20do%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=If%20you've%20never%20eaten%20while%20crying%20you%20don%20t%20know%20what%20life%20tastes%20like.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
