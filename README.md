@@ -33918,11 +33918,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=Expect%20the%20best%2C%20plan%20for%20the%20worst%2C%20and%20prepare%20to%20be%20surprised.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Do%20not%20look%20for%20a%20sanctuary%20in%20anyone%20except%20your%20self.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
