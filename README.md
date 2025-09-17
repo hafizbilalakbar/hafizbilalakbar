@@ -33894,11 +33894,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=The%20golden%20opportunity%20you%20are%20seeking%20is%20in%20yourself.%20It%20is%20not%20in%20your%20environment%3B%20it%20is%20not%20in%20luck%20or%20chance%2C%20or%20the%20help%20of%20others%3B%20it%20is%20in%20yourself%20alone.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=The%20seasons%20do%20not%20push%20one%20another%3B%20neither%20do%20clouds%20race%20the%20wind%20across%20the%20sky.%20All%20things%20happen%20in%20their%20own%20good%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
