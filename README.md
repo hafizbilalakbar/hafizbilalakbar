@@ -33865,11 +33865,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=We%20have%20to%20walk%20in%20a%20way%20that%20we%20only%20print%20peace%20and%20serenity%20on%20the%20Earth.%20Walk%20as%20if%20you%20are%20kissing%20the%20Earth%20with%20your%20feet.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Take%20into%20account%20that%20great%20love%20and%20great%20achievements%20involve%20great%20risk.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
