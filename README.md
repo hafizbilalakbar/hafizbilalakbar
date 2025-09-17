@@ -33893,11 +33893,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=The%20fact%20of%20the%20matter%20is%20that%20there%20will%20be%20nothing%20learned%20from%20any%20challenge%20in%20which%20we%20don't%20try%20our%20hardest.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=The%20golden%20opportunity%20you%20are%20seeking%20is%20in%20yourself.%20It%20is%20not%20in%20your%20environment%3B%20it%20is%20not%20in%20luck%20or%20chance%2C%20or%20the%20help%20of%20others%3B%20it%20is%20in%20yourself%20alone.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
