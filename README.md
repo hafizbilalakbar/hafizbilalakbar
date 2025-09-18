@@ -33987,11 +33987,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=Success%20is%20the%20child%20of%20drudgery%20and%20perseverance.%20It%20cannot%20be%20coaxed%20or%20bribed%3B%20pay%20the%20price%20and%20it%20is%20yours.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=I'm%20an%20optimist%20by%20choice%20not%20by%20stupidity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
