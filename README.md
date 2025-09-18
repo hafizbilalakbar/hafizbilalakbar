@@ -33975,11 +33975,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Life%20is%20a%20gift.%20Never%20forget%20to%20enjoy%20and%20bask%20in%20every%20moment%20you%20are%20in.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=The%20spirit%20is%20beyond%20destruction.%20No%20one%20can%20bring%20an%20end%20to%20spirit%20which%20is%20everlasting.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
