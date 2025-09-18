@@ -33986,11 +33986,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=Do%20not%20try%20to%20be%20on%20the%20side%20of%20the%20majority%2C%20but%20live%20according%20to%20your%20inner%20laws.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=Success%20is%20the%20child%20of%20drudgery%20and%20perseverance.%20It%20cannot%20be%20coaxed%20or%20bribed%3B%20pay%20the%20price%20and%20it%20is%20yours.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
