@@ -33947,11 +33947,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Don't%20worry%20about%20being%20successful%2C%20but%20work%20toward%20being%20significant%20and%20the%20success%20will%20naturally%20follow.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=First%20learn%20the%20meaning%20of%20what%20you%20say%2C%20and%20then%20speak.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
