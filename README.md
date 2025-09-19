@@ -34107,11 +34107,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=Think%20of%20yourself%20as%20dead.%20you%20have%20lived%20your%20life.%20Now%2C%20take%20what's%20left%2C%20and%20live%20it%20properly.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Age%20is%20a%20very%20high%20price%20to%20pay%20for%20maturity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
