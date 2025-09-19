@@ -34076,11 +34076,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=The%20secret%20of%20life%20is%20to%20fall%20seven%20times%20and%20to%20get%20up%20eight%20times.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=A%20man%20is%20not%20called%20wise%20because%20he%20talks%20and%20talks%20again%3B%20but%20if%20he%20is%20peaceful%2C%20loving%20and%20fearless%20then%20he%20is%20in%20truth%20called%20wise.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
