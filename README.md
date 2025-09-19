@@ -34067,11 +34067,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Art%20is%20to%20console%20those%20who%20are%20broken%20by%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Williams&quote=You%20will%20have%20bad%20times%2C%20but%20they%20will%20always%20wake%20you%20up%20to%20the%20stuff%20you%20weren't%20paying%20attention%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
