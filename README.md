@@ -34186,11 +34186,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Life%20is%20too%20short%20to%20waste%20your%20time%20on%20people%20who%20don't%20respect%2C%20appreciate%2C%20and%20value%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=Words%20are%20the%20clothes%20thoughts%20wear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
