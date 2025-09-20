@@ -74,6 +74,11 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 ---
 
+<!--Coding Gif -->
+<div>
+<img align="right" alt="Coding" width="35%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
+
 ### 🛡 Version Control
 - Git, GitHub, GitLab, Bitbucket  
 
