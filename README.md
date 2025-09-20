@@ -55,6 +55,11 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 ### 🌍 Content Management & E‑Commerce
 
+<!--Coding Gif -->
+<div>
+<img align="right" alt="Coding" width="35%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
+
 #### **WordPress Development**
 - Custom **Theme & Plugin Development**  
 - WooCommerce Integration & **ACF Pro**  
@@ -73,11 +78,6 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 - Private/Public App Debugging & Performance Optimization  
 
 ---
-
-<!--Coding Gif -->
-<div>
-<img align="right" alt="Coding" width="35%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-</div>
 
 ### 🛡 Version Control
 - Git, GitHub, GitLab, Bitbucket  
