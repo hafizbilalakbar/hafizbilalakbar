@@ -26,7 +26,7 @@
 </p>
 
 ## 🚀 About Me
-I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across Shopify, WordPress, React.js, Node.js, and modern deployment pipelines. My mission is to **transform business ideas into production-ready applications** while maintaining clean code, scalable architectures, and optimal performance.  
+I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across Python, React.js, Angular.js, Node.js, Shopify, WordPress, and modern deployment pipelines. My mission is to **transform business ideas into production-ready applications** while maintaining clean code, scalable architectures, and optimal performance.  
 
 - 💡 Passionate about **E‑Commerce Engineering, Web Platforms, and Automation**  
 - 🛠 Hands‑on experience across **Frontend, Backend, DevOps, APIs, and Cloud Deployment**  
