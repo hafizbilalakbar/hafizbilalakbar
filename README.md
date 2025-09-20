@@ -5,7 +5,7 @@
 
 <h1 align="center" style="font-size: 2em; margin: 0;">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, Welcome to my GitHub!</h1>
 
-<h3 align="center"> Transforming Your Dream Ideas into High-Performance E-Commerce Solutions</h3>
+<h3 align="center">Transforming Ideas into High-Performance, Scalable Web & AI Automation Solutions</h3>
 
 <!--Night Owl image-->
 <div>
