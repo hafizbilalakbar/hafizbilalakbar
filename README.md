@@ -34186,11 +34186,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Every%20traveler%20has%20a%20home%20of%20his%20own%2C%20and%20he%20learns%20to%20appreciate%20it%20the%20more%20from%20his%20wandering.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=We%20may%20not%20be%20able%20to%20stop%20evil%20in%20the%20world%2C%20but%20how%20we%20treat%20one%20another%20is%20entirely%20up%20to%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
