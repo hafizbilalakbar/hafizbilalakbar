@@ -34178,11 +34178,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=A%20pessimist%20is%20one%20who%20makes%20difficulties%20of%20his%20opportunities%20and%20an%20optimist%20is%20one%20who%20makes%20opportunities%20of%20his%20difficulties.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Your%20life%20does%20not%20get%20better%20by%20chance%2C%20it%20gets%20better%20by%20change.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
