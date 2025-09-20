@@ -7,6 +7,10 @@
 
 <h3 align="center">Transforming Ideas into High-Performance, Scalable Web & AI Automation Solutions</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Full+Stack+Developer;UI%2FUX+Designer;Professional+WordPress+Developer;Expert+Shopify+Developer;E-commerce+Specialist;Open+Source+Contributor;Automation+%26+AI-Powered+Workflows" alt="Typing Animation" />
+</p>
+
 <!--Night Owl image-->
 <div>
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
