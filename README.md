@@ -21,21 +21,100 @@
 </a>
 </p>
 
-- ✨ Student of life :)
+## 🚀 About Me
+I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across Shopify, WordPress, React.js, Node.js, and modern deployment pipelines. My mission is to **transform business ideas into production-ready applications** while maintaining clean code, scalable architectures, and optimal performance.  
 
-- ❤ Contributing to **Open Source**.
+- 💡 Passionate about **E‑Commerce Engineering, Web Platforms, and Automation**  
+- 🛠 Hands‑on experience across **Frontend, Backend, DevOps, APIs, and Cloud Deployment**  
+- 🤝 Active contributor in **collaborative, client-driven projects**  
+- 🌱 Lifelong learner: embracing new technologies every day  
 
-- 🌱 I see every day is a chance to learn and improve.
-  
-- 💻 Currently working on **Shopify, WordPress, React.js & Vue.js**.
+---
 
-- 👯 Collaborating with developers on **Client projects** 
+## 💻 Technical Skills & Tooling
 
-- 🤝 Explore my work and let's connect me on [**LinkedIn**](https://www.linkedin.com/in/hafizbilalakbar) 
+### 🎨 Frontend & UI
+- **Core Technologies:** HTML5, CSS3, JavaScript (ES6+)  
+- **Frameworks & Libraries:** React.js, Next.js, Angular, jQuery  
+- **Styling:** Tailwind CSS, Bootstrap, Material UI, React Bootstrap, React Bits  
+- **Data & Templates:** Liquid, JSON  
 
-- 🥰 So excited to join your team and work **creatively together**.
+---
 
-- 💬 Ask me about **Web App Development | HTML5 | CSS3 | JavaScript | jQuery | Php | MySQL | React.js | Vue.js | Liquid & JSON | Tailwind CSS & Bootstrap | WordPress Development | Shopify Theme Customization | E-commerce Specialist**
+### ⚙️ Backend & API Development
+- **Languages & Frameworks:** Node.js, PHP, Express.js  
+- **Database Management:** MySQL, MongoDB  
+- **API Design & Integration:** RESTful APIs, GraphQL, Supabase, Firebase  
+- **Authentication:** OAuth 2.0 (Google, GitHub, etc.)  
+
+---
+
+### 🌍 Content Management & E‑Commerce
+
+#### **WordPress Development**
+- Custom **Theme & Plugin Development**  
+- WooCommerce Integration & **ACF Pro**  
+- Booking, Subscription & Membership Setup  
+- WPBakery, Elementor & Gutenberg Block Development  
+- Custom Plugin Optimization, Caching/CDN Speed Tuning  
+- WP REST API & **Headless WordPress Concepts**
+
+#### **Shopify Development**
+- Custom **Shopify Theme Development**  
+- Shopify App Integration (Klaviyo, Loox, Judge.me, etc.)  
+- Shopify APIs, Webhooks & Admin Customization  
+- Shopify Hydrogen & Storefront API  
+- Metafields, Dynamic Content & Custom Filters  
+- Payment Gateway & Shipping Configuration  
+- Private/Public App Debugging & Performance Optimization  
+
+---
+
+### 🛡 Version Control
+- Git, GitHub, GitLab, Bitbucket  
+
+---
+
+### ☁️ DevOps, Hosting & Deployment
+- **Hosting:** Firebase, Netlify, Vercel, cPanel, Hostinger  
+- **CI/CD Pipelines:** GitHub Actions, Bitbucket Pipelines  
+- **Deployment Automation:** Staging/Production auto‑deployments  
+- **Infrastructure Ops:** DNS & SSL setup, environment variables & secrets  
+- **Maintenance:** Backup/restore management, performance optimization (Lazy Load, Minification, Smart Caching)  
+
+---
+
+### 🤖 AI & Automation
+- **Rapid Development** with AI‑assisted IDEs (GitHub Copilot, OpenAI Codex, Cursor AI, Windsurf AI)  
+- **Business Automation:** Chatbot integrations & workflow automation  
+- **Productivity Boosters:** ChatGPT, Claude, Perplexity, Gemini, BlackBox, Lovable  
+
+---
+
+### 🛠 Workflow & Productivity Tools
+- **Code Editors:** VS Code, Sublime, Replit AI, Kilocode  
+- **Design Tools:** Figma, Adobe XD, Sketch  
+- **Collaboration Platforms:** Microsoft Teams, Slack, Zoom, Skype, Trello, Asana  
+- **Office Tools:** Word, Excel, PowerPoint  
+
+---
+
+### 🧪 Testing & Debugging
+- BrowserStack, Chrome DevTools, Firefox Developer Edition  
+
+---
+
+### 🎞 Animations & UI Enhancements
+- **Animation Libraries:** Framer Motion, GSAP, Anime.js, Animate.css, Motion UI  
+- **Design Tools for Animation:** Animista, Keyframes.app, Haiku Animator  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hafizbilalakbar&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizbilalakbar&theme=tokyonight"/>
+</p>
 
 ---
 
