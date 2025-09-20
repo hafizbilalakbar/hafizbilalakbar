@@ -110,14 +110,6 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hafizbilalakbar&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizbilalakbar&theme=tokyonight"/>
-</p>
-
----
-
 <!-- Recent Projects -->
 
 ## Recent Projects
