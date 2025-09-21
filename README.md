@@ -34201,11 +34201,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Honore%20de%20Balzac&quote=Every%20moment%20of%20happiness%20requires%20a%20great%20amount%20of%20Ignorance&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=I%20will%20love%20the%20light%20for%20it%20shows%20me%20the%20way%2C%20yet%20I%20will%20endure%20the%20darkness%20because%20it%20shows%20me%20the%20stars.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
