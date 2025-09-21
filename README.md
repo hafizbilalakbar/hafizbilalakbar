@@ -34272,11 +34272,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=One%20of%20the%20first%20signs%20of%20the%20beginning%20of%20understanding%20is%20the%20wish%20to%20die.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristophanes&quote=Wise%20people%2C%20even%20though%20all%20laws%20were%20abolished%2C%20would%20still%20lead%20the%20same%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
