@@ -34267,11 +34267,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Today%20I%20begin%20a%20new%20life.%20I%20will%20greet%20this%20day%20with%20love%20in%20my%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=Words%20are%20like%20Leaves%3B%20and%20where%20they%20most%20abound%2C%20Much%20Fruit%20of%20Sense%20beneath%20is%20rarely%20found.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
