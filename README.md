@@ -34356,11 +34356,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=The%20goal%20is%20not%20to%20be%20perfect%20by%20the%20end%2C%20the%20goal%20is%20to%20be%20better%20today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=Challenge%20yourself%20to%20find%20the%20good%20and%20beautiful%20thing%20inside%20of%20everyone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
