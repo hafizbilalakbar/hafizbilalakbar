@@ -46,10 +46,10 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 ---
 
 ### ⚙️ Backend & API Development
-- **Languages & Frameworks:** Node.js, PHP, Express.js  
+- **Languages & Frameworks:** Node.js, PHP, Python (Flask, FastAPI), Express.js  
 - **Database Management:** MySQL, MongoDB  
 - **API Design & Integration:** RESTful APIs, GraphQL, Supabase, Firebase  
-- **Authentication:** OAuth 2.0 (Google, GitHub, etc.)  
+- **Authentication & Security:** OAuth 2.0 (Google, GitHub, Facebook, Microsoft, Twitter/X, Apple, LinkedIn), Clerk, JWT 
 
 ---
 
