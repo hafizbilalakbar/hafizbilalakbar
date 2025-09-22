@@ -34358,11 +34358,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Someone%20who%20points%20out%20your%20flaws%20to%20you%20is%20not%20necessarily%20your%20enemy.%20Someone%20who%20speaks%20of%20your%20virtues%20is%20not%20necessarily%20your%20friend.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Helen%20Keller&quote=Keep%20your%20face%20to%20the%20sunshine%20and%20you%20cannot%20see%20the%20shadows.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
