@@ -41,7 +41,7 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 - **Core Technologies:** HTML5, CSS3, JavaScript (ES6+)  
 - **Frameworks & Libraries:** React.js, Next.js, Angular, jQuery  
 - **Styling:** Tailwind CSS, Bootstrap, Material UI, React Bootstrap, React Bits  
-- **Data & Templates:** Liquid, JSON  
+- **Data & Templates:** Liquid, JSON (Liquid for Shopify templating language) 
 
 ---
 
@@ -97,7 +97,7 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 - **Design Tools:** Figma, Adobe XD, Sketch
 - **Code Editors:** VS Code, Sublime, Replit AI, Cursor, Warp.dev, Windsurf, Kilocode  
 - **Project Management:** Jira, Trello, Asana, Notion
-- **Collaboration Platforms:** Google Meet, Microsoft Teams, Slack, Zoom, Skype, 
+- **Collaboration Platforms:** Google Meet, Microsoft Teams, Slack, Zoom, Skype  
 - **Office Tools:** Word, Excel, PowerPoint, Google Sheets 
 
 ---
