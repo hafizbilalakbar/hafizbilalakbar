@@ -89,7 +89,16 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 - **CI/CD Pipelines:** GitHub Actions, Bitbucket Pipelines  
 - **Deployment Automation:** Staging/Production auto‑deployments  
 - **Infrastructure Ops:** DNS & SSL setup, environment variables & secrets  
-- **Maintenance:** Backup/restore management, performance optimization (Lazy Load, Minification, Smart Caching)  
+- **Maintenance:** Backup/restore management, performance optimization (Lazy Load, Minification, Smart Caching)
+
+---
+
+### 🛠 Workflow & Productivity Tools
+- **Design Tools:** Figma, Adobe XD, Sketch
+- **Code Editors:** VS Code, Sublime, Replit AI, Cursor, Warp.dev, Windsurf, Kilocode  
+- **Project Management:** Jira, Trello, Asana, Notion
+- **Collaboration Platforms:** Google Meet, Microsoft Teams, Slack, Zoom, Skype, 
+- **Office Tools:** Word, Excel, PowerPoint, Google Sheets 
 
 ---
 
@@ -97,14 +106,6 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 - **Rapid Development** with AI‑assisted IDEs (GitHub Copilot, OpenAI Codex, Cursor AI, Windsurf AI)  
 - **Business Automation:** Chatbot integrations & workflow automation  
 - **Productivity Boosters:** ChatGPT, Claude, Perplexity, Gemini, BlackBox, Lovable  
-
----
-
-### 🛠 Workflow & Productivity Tools
-- **Code Editors:** VS Code, Sublime, Replit AI, Kilocode  
-- **Design Tools:** Figma, Adobe XD, Sketch  
-- **Collaboration Platforms:** Microsoft Teams, Slack, Zoom, Skype, Trello, Asana  
-- **Office Tools:** Word, Excel, PowerPoint  
 
 ---
 
