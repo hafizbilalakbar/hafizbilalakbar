@@ -95,7 +95,7 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 ### 🛠 Workflow & Productivity Tools
 - **Design Tools:** Figma, Adobe XD, Sketch
-- **Code Editors:** VS Code, Sublime, Replit AI, Cursor, Warp.dev, Windsurf, Kilocode  
+- **Code Editors:** VS Code, Sublime, Replit AI, Cursor, Warp.dev, Windsurf, kiro.dev, Kilocode  
 - **Project Management:** Jira, Trello, Asana, Notion
 - **Collaboration Platforms:** Google Meet, Microsoft Teams, Slack, Zoom, Skype  
 - **Office Tools:** Word, Excel, PowerPoint, Google Sheets 
