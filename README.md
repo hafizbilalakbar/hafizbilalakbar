@@ -34486,11 +34486,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=To%20live%20fully%20is%20to%20be%20always%20in%20no-man's-land%2C%20to%20experience%20each%20moment%20as%20completely%20new%20and%20fresh.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Coco%20Chanel&quote=Elegance%20does%20not%20consist%20in%20putting%20on%20a%20new%20dress.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
