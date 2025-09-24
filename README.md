@@ -34579,11 +34579,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=No%20man%20can%20get%20rich%20himself%20unless%20he%20enriches%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=A%20mistake%20is%20only%20an%20error%2C%20it%20becomes%20a%20mistake%20when%20you%20fail%20to%20correct%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
