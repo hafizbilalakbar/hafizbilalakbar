@@ -34507,11 +34507,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=You%20can%20never%20get%20enough%20of%20what%20you%20don't%20need%20to%20make%20you%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20A.%20Cohen&quote=There%20is%20no%20one%20giant%20step%20that%20does%20it.%20It's%20a%20lot%20of%20little%20steps.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
