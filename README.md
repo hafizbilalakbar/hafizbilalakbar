@@ -34607,11 +34607,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=If%20you%20want%20to%20be%20happy%2C%20do%20not%20dwell%20in%20the%20past%2C%20do%20not%20worry%20about%20the%20future%2C%20focus%20on%20living%20fully%20in%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=The%20important%20thing%20is%20not%20to%20stop%20questioning.%20Curiosity%20has%20its%20own%20reason%20for%20existing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
