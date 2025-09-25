@@ -34628,11 +34628,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Reeve&quote=Words%20can%20only%20have%20a%20positive%20effect%20on%20others%20if%20and%20when%20they%20are%20ready%20to%20listen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=To%20be%20totally%20at%20leisure%20for%20one%20day%20is%20to%20be%20immortal%20for%20one%20day.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
