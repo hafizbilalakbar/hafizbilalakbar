@@ -34620,11 +34620,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=The%20golden%20opportunity%20you%20are%20seeking%20is%20in%20yourself.%20It%20is%20not%20in%20your%20environment%3B%20it%20is%20not%20in%20luck%20or%20chance%2C%20or%20the%20help%20of%20others%3B%20it%20is%20in%20yourself%20alone.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=Throughout%20this%20life%2C%20you%20can%20never%20be%20certain%20of%20living%20long%20enough%20to%20take%20another%20breath.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
