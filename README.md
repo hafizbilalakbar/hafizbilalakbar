@@ -34644,11 +34644,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Knowledge%20has%20to%20be%20improved%2C%20challenged%2C%20and%20increased%20constantly%2C%20or%20it%20vanishes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=A%20dream%20doesn't%20become%20reality%20through%20magic%20it%20takes%20sweat%2C%20determination%20and%20hard%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
