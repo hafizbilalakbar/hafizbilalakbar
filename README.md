@@ -34681,11 +34681,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=There%20are%20two%20ways%20of%20seeing%3A%20with%20the%20body%20and%20with%20the%20soul.%20The%20body's%20sight%20can%20sometimes%20forget%2C%20but%20the%20soul%20remembers%20forever.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Choose%20a%20job%20you%20love%2C%20and%20you%20will%20never%20have%20to%20work%20a%20day%20in%20your%20life.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
