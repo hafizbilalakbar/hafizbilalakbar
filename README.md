@@ -34731,11 +34731,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=A%20liar%20knows%20that%20he%20is%20a%20liar%2C%20but%20one%20who%20speaks%20mere%20portions%20of%20truth%20in%20order%20to%20deceive%20is%20a%20craftsman%20of%20destruction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=The%20major%20difference%20between%20the%20big%20shot%20and%20the%20little%20shot%20is%20the%20big%20shot%20is%20just%20a%20little%20shot%20who%20kept%20on%20shooting.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
