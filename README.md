@@ -34760,11 +34760,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Loyalty%20and%20devotion%20lead%20to%20bravery.%20Bravery%20leads%20to%20the%20spirit%20of%20self-sacrifice.%20The%20spirit%20of%20self-sacrifice%20creates%20trust%20in%20the%20power%20of%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Power%20is%20not%20what%20we%20do%20but%20what%20we%20do%20not%20-%20hasty%20and%20unwise%20actions%20that%20we%20repeat%20every%20day%20and%20which%20ultimately%20bring%20us%20into%20trouble.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
