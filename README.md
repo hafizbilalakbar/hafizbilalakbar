@@ -34749,11 +34749,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=Any%20fool%20can%20turn%20a%20blind%20eye%20but%20who%20knows%20what%20the%20ostrich%20sees%20in%20the%20sand.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=It%20ain't%20where%20you%20start%20in%20life%2C%20it's%20where%20you%20end%20up%2C%20and%20what%20you%20did%20along%20the%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
