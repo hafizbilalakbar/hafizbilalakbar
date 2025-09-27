@@ -34842,11 +34842,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Here%20is%20the%20test%20to%20find%20whether%20your%20mission%20on%20earth%20is%20finished.%20If%20you're%20alive%2C%20it%20isn't.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=From%20a%20certain%20point%20onward%20there%20is%20no%20longer%20any%20turning%20back.%20That%20is%20the%20point%20that%20must%20be%20reached.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
