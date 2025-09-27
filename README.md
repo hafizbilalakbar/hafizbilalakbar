@@ -34901,11 +34901,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Don't%20waste%20your%20time%20in%20anger%2C%20regrets%2C%20worries%2C%20and%20grudges.%20Life%20is%20too%20short%20to%20be%20unhappy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=Better%20to%20have%2C%20and%20not%20need%2C%20than%20to%20need%2C%20and%20not%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
