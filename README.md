@@ -34818,11 +34818,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Help%20others%20for%20all%20the%20times%20that%20you%20have%20been%20ignored.%20Be%20kind%20to%20others%2C%20for%20all%20the%20times%20that%20you%20have%20been%20scorned.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=There%20are%20no%20constraints%20on%20the%20human%20mind%2C%20no%20walls%20around%20the%20human%20spirit%2C%20no%20barriers%20to%20our%20progress%20except%20those%20we%20ourselves%20erect.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
