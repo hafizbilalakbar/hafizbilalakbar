@@ -35009,11 +35009,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Our%20view%20of%20the%20world%20is%20truly%20shaped%20by%20what%20we%20decide%20to%20hear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=If%20you%20pick%20up%20a%20starving%20dog%20and%20make%20him%20prosperous%20he%20will%20not%20bite%20you.%20This%20is%20the%20principal%20difference%20between%20a%20dog%20and%20man.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
