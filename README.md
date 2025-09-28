@@ -35020,11 +35020,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=The%20most%20wasted%20day%20of%20all%20is%20that%20on%20which%20we%20have%20not%20laughed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Anita%20Krizzan&quote=When%20it%20hurts%20-%20observe.%20Life%20is%20trying%20to%20teach%20you%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
