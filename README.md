@@ -35043,11 +35043,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=In%20peace%2C%20sons%20bury%20their%20fathers.%20In%20war%2C%20fathers%20bury%20their%20sons.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Anyone%20who%20stops%20learning%20is%20old%2C%20whether%20at%20twenty%20or%20eighty.%20Anyone%20who%20keeps%20learning%20stays%20young.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
