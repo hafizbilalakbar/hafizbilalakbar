@@ -35119,11 +35119,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Osho&quote=A%20fear-oriented%20man%20is%20always%20calculating%2C%20planning%2C%20arranging%2C%20safeguarding.%20His%20whole%20life%20is%20lost%20in%20this%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=When%20you%20love%20someone%2C%20you%20love%20the%20person%20as%20they%20are%2C%20and%20not%20as%20you'd%20like%20them%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
