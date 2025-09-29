@@ -35118,11 +35118,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Whitman&quote=The%20truth%20is%20simple.%20If%20it%20was%20complicated%2C%20everyone%20would%20understand%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Osho&quote=A%20fear-oriented%20man%20is%20always%20calculating%2C%20planning%2C%20arranging%2C%20safeguarding.%20His%20whole%20life%20is%20lost%20in%20this%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
