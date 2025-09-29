@@ -35076,11 +35076,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=Perfection%20is%20not%20attainable%2C%20but%20if%20we%20chase%20perfection%20we%20can%20catch%20excellence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20London&quote=As%20one%20grows%20weaker%20one%20is%20less%20susceptible%20to%20suffering.%20There%20is%20less%20hurt%20because%20there%20is%20less%20to%20hurt.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
