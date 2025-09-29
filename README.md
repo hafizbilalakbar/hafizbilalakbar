@@ -35060,11 +35060,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20law%20of%20harvest%20is%20to%20reap%20more%20than%20you%20sow.%20Sow%20an%20act%2C%20and%20you%20reap%20a%20habit.%20Sow%20a%20habit%20and%20you%20reap%20a%20character.%20Sow%20a%20character%20and%20you%20reap%20a%20destiny.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=Courage%20is%20the%20price%20that%20life%20exacts%20for%20granting%20peace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
