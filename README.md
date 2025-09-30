@@ -35188,11 +35188,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Miguel%20de%20Cervantes&quote=Never%20stand%20begging%20for%20that%20which%20you%20have%20the%20power%20to%20earn.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Happiness%20is%20the%20meaning%20and%20the%20purpose%20of%20life%2C%20the%20whole%20aim%20and%20end%20of%20human%20existence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
