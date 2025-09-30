@@ -35137,11 +35137,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=Why%20change%3F%20Everyone%20has%20his%20own%20style.%20When%20you%20have%20found%20it%2C%20you%20should%20stick%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=Confidence%20breeds%20beauty.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
