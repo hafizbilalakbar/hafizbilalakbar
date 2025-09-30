@@ -35165,11 +35165,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=Your%20business%20is%20not%20to%20'get%20somewhere'%20-%20it%20is%20to%20be%20here.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=If%20you%20want%20to%20be%20successful%2C%20find%20someone%20who%20has%20achieved%20the%20results%20you%20want%20and%20copy%20what%20they%20do%20and%20you'll%20achieve%20the%20same%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
