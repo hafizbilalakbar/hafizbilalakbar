@@ -35246,11 +35246,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Matthew%20Barrie&quote=Nothing%20is%20really%20work%20unless%20you%20would%20rather%20be%20doing%20something%20else.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Others%20can%20stop%20you%20temporarily%20-%20you%20are%20the%20only%20one%20who%20can%20do%20it%20permanently.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
