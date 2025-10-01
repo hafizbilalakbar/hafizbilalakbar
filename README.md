@@ -35266,11 +35266,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Take%20responsibility%20of%20your%20own%20happiness%2C%20never%20put%20it%20in%20other%20people's%20hands.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Life%20goes%20by%20very%20fast.%20And%20the%20worst%20thing%20in%20life%20that%20you%20can%20have%20is%20a%20job%20that%20you%20hate%2C%20and%20have%20no%20energy%20and%20creativity%20in.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
