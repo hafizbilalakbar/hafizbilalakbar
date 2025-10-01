@@ -35230,11 +35230,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Obstacles%20are%20those%20frightful%20things%20you%20see%20when%20you%20take%20your%20eyes%20off%20your%20goal.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Eliot&quote=One%20must%20be%20poor%20to%20know%20the%20luxury%20of%20giving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
