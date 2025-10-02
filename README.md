@@ -35345,11 +35345,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Outstanding%20people%20have%20one%20thing%20in%20common%3A%20an%20absolute%20sense%20of%20mission.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=All%20you%20need%20is%20the%20plan%2C%20the%20road%20map%2C%20and%20the%20courage%20to%20press%20on%20to%20your%20destination.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
