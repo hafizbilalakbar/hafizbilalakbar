@@ -35399,11 +35399,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.P.%20Kinsella&quote=Hardly%20anybody%20recognizes%20the%20most%20significant%20moments%20of%20their%20life%20at%20the%20time%20they%20happen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=You%20must%20conceive%20it%20in%20your%20heart%20and%20mind%20before%20you%20can%20receive%20it.%20If%20you%20believe%20then%20all%20things%20are%20possible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
