@@ -35368,11 +35368,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Don't%20let%20the%20noise%20of%20others'%20opinions%20drown%20out%20your%20own%20inner%20voice.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=When%20you%20rise%20in%20the%20morning%2C%20form%20a%20resolution%20to%20make%20the%20day%20a%20happy%20one%20for%20a%20fellow%20creature.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
