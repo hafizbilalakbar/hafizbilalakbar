@@ -35492,11 +35492,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=All%20human%20wisdom%20is%20contained%20in%20these%20two%20words%20-%20Wait%20and%20Hope&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Babe%20Ruth&quote=Never%20let%20the%20fear%20of%20striking%20out%20keep%20you%20from%20playing%20the%20game.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
