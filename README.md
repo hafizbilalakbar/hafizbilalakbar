@@ -35469,11 +35469,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=All%20you%20need%20is%20passion.%20If%20you%20have%20a%20passion%20for%20something%2C%20you'll%20create%20the%20talent.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=If%20you%20want%20to%20achieve%20anything%20in%20this%20world%2C%20you%20have%20to%20get%20used%20to%20the%20idea%20that%20not%20everyone%20will%20like%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
