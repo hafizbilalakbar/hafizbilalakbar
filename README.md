@@ -35641,11 +35641,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leonardo%20da%20Vinci&quote=He%20who%20possesses%20most%20must%20be%20most%20afraid%20of%20loss.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=I%20think%20it's%20very%20important%20to%20have%20a%20feedback%20loop%2C%20where%20you're%20constantly%20thinking%20about%20what%20you've%20done%20and%20how%20you%20could%20be%20doing%20it%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
