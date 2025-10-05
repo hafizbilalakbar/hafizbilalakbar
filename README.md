@@ -35711,11 +35711,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=Living%20a%20life%20that%20has%20a%20greater%20purpose%20and%20living%20up%20to%20it%20is%20the%20ultimate%20degree%20that%20we%20should%20strive%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Be%20as%20fluid%20as%20water%2C%20do%20not%20give%20your%20enemies%20anything%20solid%20to%20attack.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
