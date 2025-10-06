@@ -35825,11 +35825,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=We%20have%20no%20more%20right%20to%20consume%20happiness%20without%20producing%20it%20than%20to%20consume%20wealth%20without%20producing%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=The%20most%20important%20thing%20in%20communication%20is%20to%20hear%20what%20isn't%20being%20said.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
