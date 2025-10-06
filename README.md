@@ -35792,11 +35792,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=The%20more%20perfect%20a%20person%20is%20on%20the%20outside%2C%20the%20more%20demons%20they%20have%20on%20the%20inside.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=I%20have%20never%20let%20my%20schooling%20interfere%20with%20my%20education.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
