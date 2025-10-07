@@ -35891,11 +35891,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sonia%20Ricotti&quote=Surrender%20to%20what%20is.%20Let%20go%20of%20what%20was.%20Have%20faith%20in%20what%20will%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=It%20still%20holds%20true%20that%20man%20is%20most%20uniquely%20human%20when%20he%20turns%20obstacles%20into%20opportunities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
