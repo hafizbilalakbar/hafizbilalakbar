@@ -36034,11 +36034,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Stand%20up%20to%20your%20obstacles%20and%20do%20something%20about%20them.%20You'll%20find%20they%20haven't%20half%20the%20strength%20you%20think%20they%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=It%20is%20important%20that%20we%20forgive%20ourselves%20for%20making%20mistakes.%20We%20need%20to%20learn%20from%20our%20errors%20and%20move%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
