@@ -36048,11 +36048,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=Don't%20be%20afraid%20of%20enemies%20who%20attack%20you.%20Be%20afraid%20of%20the%20friends%20who%20flatter%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=It%20is%20easy%20to%20love%20your%20friend%2C%20but%20sometimes%20the%20hardest%20lesson%20to%20learn%20is%20to%20love%20your%20enemy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
