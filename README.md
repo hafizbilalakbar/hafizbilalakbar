@@ -36052,11 +36052,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=I%20find%20the%20best%20way%20to%20love%20someone%20is%20not%20to%20change%20them%2C%20but%20instead%2C%20help%20them%20reveal%20the%20greatest%20version%20of%20themselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Until%20you%20change%20how%20you%20get%20things%20done%2C%20you'll%20never%20know%20what%20works%20best.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
