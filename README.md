@@ -36027,11 +36027,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=Life%20would%20be%20tragic%20if%20it%20weren't%20funny.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=If%20you%20focus%20on%20success%2C%20you'll%20have%20stress.%20But%20if%20you%20pursue%20excellence%2C%20success%20will%20be%20guaranteed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
