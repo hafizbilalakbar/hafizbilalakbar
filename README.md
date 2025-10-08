@@ -36004,11 +36004,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lin%20Yutang&quote=Anyone%20who%20reads%20a%20book%20with%20a%20sense%20of%20obligation%20does%20not%20understand%20the%20art%20of%20reading.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=Do%20not%20use%20life%20to%20give%20life%20to%20death.%20Do%20not%20use%20death%20to%20bring%20death%20to%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
