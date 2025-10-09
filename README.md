@@ -36072,11 +36072,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Billie%20Jean%20King&quote=I%20think%20self-awareness%20is%20probably%20the%20most%20important%20thing%20towards%20being%20a%20champion.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=Monsters%20are%20real%2C%20and%20ghosts%20are%20real%20too.%20They%20live%20inside%20us%2C%20and%20sometimes%2C%20they%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
