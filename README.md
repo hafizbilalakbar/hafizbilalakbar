@@ -36080,11 +36080,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Eliot&quote=Our%20deeds%20determine%20us%2C%20as%20much%20as%20we%20determine%20our%20deeds.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=Out%20of%20suffering%20have%20emerged%20the%20strongest%20souls%3B%20the%20most%20massive%20characters%20are%20seared%20with%20scars.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
