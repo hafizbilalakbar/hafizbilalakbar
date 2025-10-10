@@ -36217,11 +36217,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Bad%20things%20are%20not%20the%20worst%20things%20that%20an%20happen%20to%20us.%20NOTHING%20is%20the%20worst%20thing%20that%20can%20happen%20to%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=It%20is%20those%20who%20concentrate%20on%20but%20one%20thing%20at%20a%20time%20who%20advance%20in%20this%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
