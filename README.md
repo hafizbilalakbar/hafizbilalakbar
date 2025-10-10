@@ -36162,11 +36162,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Make%20yourself%20so%20useful%20to%20other%20people%2C%20that%20they%20think%20you%20are%20irreplaceable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Getting%20over%20a%20painful%20experience%20is%20much%20like%20crossing%20monkey%20bars.%20You%20have%20to%20let%20go%20at%20some%20point%20in%20order%20to%20move%20forward.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
