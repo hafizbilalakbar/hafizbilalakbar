@@ -36239,11 +36239,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=If%20you%20want%20to%20find%20the%20secrets%20of%20the%20universe%2C%20think%20in%20terms%20of%20energy%2C%20frequency%20and%20vibration.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Unless%20a%20man%20is%20master%20of%20his%20soul%2C%20all%20other%20kinds%20of%20mastery%20amount%20to%20little.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
