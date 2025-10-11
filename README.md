@@ -36345,11 +36345,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=Many%20of%20life's%20failures%20are%20people%20who%20did%20not%20realize%20how%20close%20they%20were%20to%20success%20when%20they%20gave%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Life%20is%20about%20choice.%20You%20can%20choose%20to%20be%20a%20victim%20or%20anything%20else%20you%20like%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
