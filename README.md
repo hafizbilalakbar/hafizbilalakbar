@@ -36338,11 +36338,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=The%20farther%20backward%20you%20can%20look%2C%20the%20farther%20forward%20you%20are%20likely%20to%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Pain%20doesn't%20last.%20And%20when%20it's%20gone%2C%20we%20have%20something%20to%20show%20for%20it.%20Growth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
