@@ -36460,11 +36460,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=It's%20better%20to%20have%20a%20short%20life%20that%20is%20full%20of%20what%20you%20like%20doing%2C%20than%20a%20long%20life%20spent%20in%20a%20miserable%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=The%20truth...%20It%20is%20a%20beautiful%20and%20terrible%20thing%2C%20and%20should%20therefore%20be%20treated%20with%20great%20caution.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
