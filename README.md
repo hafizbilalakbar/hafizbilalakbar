@@ -36499,11 +36499,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=There%20are%20no%20secrets%20to%20success.%20It%20is%20the%20result%20of%20preparation%2C%20hard%20work%2C%20and%20learning%20from%20failure.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=Contemplation%20often%20makes%20life%20miserable.%20%20We%20should%20act%20more%2C%20think%20less%2C%20and%20stop%20watching%20ourselves%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
