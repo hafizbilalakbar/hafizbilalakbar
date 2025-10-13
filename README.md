@@ -36542,11 +36542,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=He%20who%20is%20not%20contented%20with%20what%20he%20has%2C%20would%20not%20be%20contented%20with%20what%20he%20would%20like%20to%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=If%20you%20don't%20break%20your%20ropes%20while%20you're%20alive%2C%20do%20you%20think%20ghosts%20will%20do%20it%20after%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
