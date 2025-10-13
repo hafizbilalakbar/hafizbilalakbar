@@ -36565,11 +36565,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=If%20you%20can't%20fly%2C%20run.%20If%20you%20can't%20run%2C%20walk.%20If%20you%20can't%20walk%2C%20crawl%2C%20but%20by%20all%20means%2C%20keep%20moving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Our%20view%20of%20the%20world%20is%20truly%20shaped%20by%20what%20we%20decide%20to%20hear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
