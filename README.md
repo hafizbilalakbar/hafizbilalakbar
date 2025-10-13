@@ -36497,11 +36497,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=The%20first%20half%20of%20life%20is%20devoted%20to%20forming%20a%20healthy%20ego%2C%20the%20second%20half%20is%20going%20inward%20and%20letting%20go%20of%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=It's%20not%20what%20we%20do%20once%20in%20a%20while%20that%20shapes%20our%20lives%2C%20but%20what%20we%20do%20consistently.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
