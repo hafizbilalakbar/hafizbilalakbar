@@ -36545,11 +36545,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=You%20are%20what%20you%20believe%20in.%20You%20become%20that%20which%20you%20believe%20you%20can%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=For%20changes%20to%20be%20of%20any%20true%20value%2C%20they've%20got%20to%20be%20lasting%20and%20consistent.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
