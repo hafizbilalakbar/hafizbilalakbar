@@ -36655,11 +36655,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=F.%20Scott%20Fitzgerald&quote=The%20world%20only%20exists%20in%20your%20eyes.%20You%20can%20make%20it%20as%20big%20or%20as%20small%20as%20you%20want.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=It's%20the%20little%20things%20done%20consistently%20over%20time%2C%20straight%20from%20your%20heart%2C%20that%20have%20the%20greatest%20impact.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
