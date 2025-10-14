@@ -36661,11 +36661,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=People%20become%20attached%20to%20their%20burdens%20sometimes%20more%20than%20the%20burdens%20are%20attached%20to%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=A%20man%20has%20to%20learn%20that%20he%20cannot%20command%20things%20but%20that%20he%20can%20command%20himself%3B%20that%20he%20cannot%20coerce%20the%20wills%20of%20others%20but%20that%20he%20can%20mold%20and%20master%20his%20own%20will.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
