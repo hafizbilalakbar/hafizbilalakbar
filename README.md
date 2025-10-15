@@ -36680,11 +36680,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=Happiness%20is%20a%20choice%20and%20a%20skill%20and%20you%20can%20dedicate%20yourself%20to%20learning%20that%20skill%20and%20making%20that%20choice.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20more%20tranquil%20a%20man%20becomes%2C%20the%20greater%20is%20his%20success%2C%20his%20influence%2C%20his%20power%20for%20good.%20Calmness%20of%20mind%20is%20one%20of%20the%20beautiful%20jewels%20of%20wisdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
