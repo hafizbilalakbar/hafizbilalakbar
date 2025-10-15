@@ -36726,11 +36726,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=If%20you%20don't%20have%20time%20to%20do%20it%20right%2C%20when%20will%20you%20have%20time%20to%20do%20it%20over%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=Life%20is%20the%20art%20of%20drawing%20sufficient%20conclusions%20from%20insufficient%20premises.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
