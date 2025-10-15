@@ -36697,11 +36697,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kenji%20Miyazawa&quote=We%20ordinary%20people%20must%20forge%20our%20own%20beauty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=Never%20say%20never%2C%20because%20limits%2C%20like%20fears%2C%20are%20often%20just%20an%20illusion.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
