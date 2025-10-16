@@ -36831,11 +36831,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Just%20try%20to%20be%20the%20best%20you%20can%20be%3B%20never%20cease%20trying%20to%20be%20the%20best%20you%20can%20be.%20That's%20in%20your%20power.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=I%20take%20the%20position%20that%20I'm%20always%20to%20some%20degree%20wrong%2C%20and%20the%20aspiration%20is%20to%20be%20less%20wrong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
