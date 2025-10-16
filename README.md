@@ -36763,11 +36763,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=The%20person%20who%20says%20something%20is%20impossible%20should%20not%20interrupt%20the%20person%20who%20is%20doing%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Genghis%20Khan&quote=The%20strength%20of%20a%20wall%20is%20neither%20greater%20nor%20less%20than%20the%20courage%20of%20the%20men%20who%20defend%20it.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
