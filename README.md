@@ -37013,11 +37013,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=I%20don't%20ever%20give%20up.%20I'd%20have%20to%20be%20dead%20or%20completely%20incapacitated.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Washington&quote=Associate%20yourself%20with%20men%20of%20good%20quality%2C%20if%20you%20esteem%20your%20own%20reputation%3B%20for%20'tis%20better%20to%20be%20alone%20than%20in%20bad%20company.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
