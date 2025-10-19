@@ -37068,11 +37068,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=David%20Brinkley&quote=A%20successful%20man%20is%20one%20who%20can%20lay%20a%20firm%20foundation%20with%20the%20bricks%20others%20have%20thrown%20at%20him.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=The%20most%20important%20single%20ingredient%20in%20the%20formula%20of%20success%20is%20knowing%20how%20to%20get%20along%20with%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
