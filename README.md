@@ -37078,11 +37078,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=People%20are%20weird.%20When%20we%20find%20someone%20with%20weirdness%20that%20is%20compatible%20with%20ours%2C%20we%20team%20up%20and%20call%20it%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Do%20you%20have%20the%20patience%20to%20wait%20until%20your%20mud%20settles%20and%20the%20water%20is%20clear%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
