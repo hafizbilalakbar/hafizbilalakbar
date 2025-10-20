@@ -37249,11 +37249,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=The%20most%20important%20battle%20is%20one%20to%20conquer%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=When%20obstacles%20arise%2C%20you%20change%20your%20direction%20to%20reach%20your%20goal%3B%20you%20do%20not%20change%20your%20decision%20to%20get%20there.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
