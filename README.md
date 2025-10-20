@@ -37198,11 +37198,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=Only%20one%20thing%20is%20ever%20guaranteed%2C%20that%20is%20that%20you%20will%20definitely%20not%20achieve%20the%20goal%20if%20you%20don't%20take%20the%20shot.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=You%20cannot%20push%20anyone%20up%20a%20ladder%20unless%20he%20is%20willing%20to%20climb%20a%20little%20himself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
