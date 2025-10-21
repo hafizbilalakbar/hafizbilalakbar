@@ -37307,11 +37307,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=Contemplation%20often%20makes%20life%20miserable.%20%20We%20should%20act%20more%2C%20think%20less%2C%20and%20stop%20watching%20ourselves%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=We%20are%20all%20born%20ignorant%2C%20but%20one%20must%20work%20hard%20to%20remain%20stupid.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
