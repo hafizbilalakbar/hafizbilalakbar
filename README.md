@@ -37525,11 +37525,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=When%20you%20repeat%20a%20mistake%2C%20it%20is%20not%20a%20mistake%20anymore%3A%20it%20is%20a%20decision.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=The%20quality%20of%20your%20life%20is%20determined%20by%20the%20quality%20of%20questions%20you%20ask.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
