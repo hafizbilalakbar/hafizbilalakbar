@@ -37452,11 +37452,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Helen%20Keller&quote=The%20best%20and%20most%20beautiful%20things%20in%20the%20world%20cannot%20be%20seen%20or%20even%20touched%20-%20they%20must%20be%20felt%20with%20the%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=People%20don't%20care%20how%20much%20you%20know%20until%20they%20know%20how%20much%20you%20care.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
