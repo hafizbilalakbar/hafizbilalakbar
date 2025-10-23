@@ -37496,11 +37496,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=There%20are%20no%20contests%20in%20the%20Art%20of%20Peace.%20A%20true%20warrior%20is%20invincible%20because%20he%20or%20she%20contests%20with%20nothing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=A%20creative%20man%20is%20motivated%20by%20the%20desire%20to%20achieve%2C%20not%20by%20the%20desire%20to%20beat%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
