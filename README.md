@@ -37623,11 +37623,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20Brave%20and%20Take%20Risks%3A%20You%20need%20to%20have%20faith%20in%20yourself.%20Be%20brave%20and%20take%20risks.%20You%20don't%20have%20to%20have%20it%20all%20figured%20out%20to%20move%20forward.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Poetry%20is%20written%20with%20tears%2C%20fiction%20with%20blood%2C%20and%20history%20with%20invisible%20ink.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
