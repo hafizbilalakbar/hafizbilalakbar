@@ -37614,11 +37614,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=If%20you%20aim%20at%20nothing%2C%20you%20will%20hit%20it%20every%20time.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Would%20you%20rather%20live%20your%20life%20according%20to%20the%20approval%20of%20others%20or%20aligned%20with%20your%20truth%20and%20your%20dreams%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
