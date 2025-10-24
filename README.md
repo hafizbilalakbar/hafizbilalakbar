@@ -37598,11 +37598,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=To%20be%20truly%20ignorant%2C%20be%20content%20with%20your%20own%20knowledge.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=The%20beautiful%20journey%20of%20today%20can%20only%20begin%20when%20we%20learn%20to%20let%20go%20of%20yesterday.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
