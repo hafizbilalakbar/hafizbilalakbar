@@ -37555,11 +37555,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Words%20without%20actions%20are%20the%20assassins%20of%20idealism.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=If%20you%20don't%20break%20your%20ropes%20while%20you're%20alive%2C%20do%20you%20think%20ghosts%20will%20do%20it%20after%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
