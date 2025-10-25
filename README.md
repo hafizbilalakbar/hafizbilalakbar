@@ -37716,11 +37716,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Osho&quote=A%20fear-oriented%20man%20is%20always%20calculating%2C%20planning%2C%20arranging%2C%20safeguarding.%20His%20whole%20life%20is%20lost%20in%20this%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Your%20work%20is%20to%20discover%20your%20work%20and%20then%2C%20with%20all%20your%20heart%2C%20to%20give%20yourself%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
