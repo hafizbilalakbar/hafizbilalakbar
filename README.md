@@ -37921,11 +37921,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Be%20the%20silent%20watcher%20of%20your%20thoughts%20and%20behavior.%20You%20are%20beneath%20the%20thinker.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=To%20be%20in%20harmony%20with%20the%20wholeness%20of%20things%20is%20not%20to%20have%20anxiety%20over%20imperfections.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
