@@ -37907,11 +37907,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Everything%20around%20us%20is%20made%20up%20of%20energy.%20To%20attract%20positive%20things%20in%20your%20life%2C%20start%20by%20giving%20off%20positive%20energy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Do%20you%20want%20to%20know%20who%20you%20are%3F%20Don't%20ask.%20Act!%20Action%20will%20delineate%20and%20define%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
