@@ -37869,11 +37869,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Resentment%20or%20grudges%20do%20no%20harm%20to%20the%20person%20against%20whom%20you%20hold%20these%20feelings%20but%20every%20day%20and%20every%20night%20of%20your%20life%2C%20they%20are%20eating%20at%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=What%20keeps%20life%20fascinating%20is%20the%20constant%20creativity%20of%20the%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
