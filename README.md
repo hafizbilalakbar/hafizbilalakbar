@@ -38083,11 +38083,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=A%20single%20act%20of%20kindness%20throws%20out%20roots%20in%20all%20directions%2C%20and%20the%20roots%20spring%20up%20and%20make%20new%20trees.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Excuses%20are%20the%20lies%20you%20convince%20yourself%20are%20true%20to%20avoid%20proving%20you%20are%20worthy%20of%20the%20gift%20you%20were%20given.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
