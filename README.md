@@ -38068,11 +38068,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carol%20Burnett&quote=When%20you%20have%20a%20dream%2C%20you've%20got%20to%20grab%20it%20and%20never%20let%20go.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=Trust%20in%20dreams%2C%20for%20in%20them%20is%20the%20hidden%20gate%20to%20eternity.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
