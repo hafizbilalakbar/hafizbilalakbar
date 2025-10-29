@@ -38075,11 +38075,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Winners%20are%20not%20afraid%20of%20losing.%20But%20losers%20are.%20Failure%20is%20part%20of%20the%20process%20of%20success.%20People%20who%20avoid%20failure%20also%20avoid%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Your%20mind%20will%20make%20you%20rich%20or%20poor%2C%20depending%20on%20the%20use%20you%20put%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
