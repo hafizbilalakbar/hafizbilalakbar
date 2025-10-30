@@ -38142,11 +38142,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Some%20changes%20look%20negative%20on%20the%20surface%20but%20you%20will%20soon%20realize%20that%20space%20is%20being%20created%20in%20your%20life%20for%20something%20new%20to%20emerge.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=Perplexity%20is%20the%20beginning%20of%20knowledge.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
