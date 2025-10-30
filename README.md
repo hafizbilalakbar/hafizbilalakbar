@@ -38122,11 +38122,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=To%20live%20is%20the%20rarest%20thing%20in%20the%20world.%20Most%20people%20exist%2C%20that%20is%20all.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Believe%20in%20yourself.%20You%20are%20braver%20than%20you%20think%2C%20more%20talented%20than%20you%20know%2C%20and%20capable%20of%20more%20than%20you%20imagine.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
