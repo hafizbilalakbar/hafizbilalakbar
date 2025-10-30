@@ -38167,11 +38167,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=At%20the%20center%20of%20your%20being%20you%20have%20the%20answer%3B%20you%20know%20who%20you%20are%20and%20you%20know%20what%20you%20want.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=Peace%20is%20not%20absence%20of%20conflict%2C%20it%20is%20the%20ability%20to%20handle%20conflict%20by%20peaceful%20means.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
