@@ -38169,11 +38169,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=An%20inch%20of%20time%20is%20an%20inch%20of%20gold%20but%20you%20can't%20buy%20that%20inch%20of%20time%20with%20an%20inch%20of%20gold.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=The%20truth...%20It%20is%20a%20beautiful%20and%20terrible%20thing%2C%20and%20should%20therefore%20be%20treated%20with%20great%20caution.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
