@@ -38257,11 +38257,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franklin%20D.%20Roosevelt&quote=People%20acting%20together%20as%20a%20group%20can%20accomplish%20things%20which%20no%20individual%20acting%20alone%20could%20ever%20hope%20to%20bring%20about.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=To%20lead%20an%20orchestra%2C%20you%20must%20turn%20your%20back%20on%20the%20crowd.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
