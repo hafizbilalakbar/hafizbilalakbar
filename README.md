@@ -38242,11 +38242,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=He%20who%20cheats%20the%20earth%20will%20be%20cheated%20by%20the%20earth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=If%20you%20put%20water%20into%20a%20cup%2C%20it%20becomes%20the%20cup.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
