@@ -38372,11 +38372,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Your%20time%20is%20limited%2C%20so%20don't%20waste%20it%20living%20someone%20elses.%20life.%20Don't%20be%20trapped%20by%20dogma%20-%20which%20is%20living%20with%20the%20results%20of%20other%20people's%20thinking.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=You're%20always%20free%20to%20change%20your%20mind%20and%20choose%20a%20different%20future%2C%20or%20a%20different%20past.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
