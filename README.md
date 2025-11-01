@@ -38374,11 +38374,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=Obstacles%20are%20those%20frightful%20things%20you%20see%20when%20you%20take%20your%20eyes%20off%20your%20goals.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=The%20truth%20is%2C%20everyone%20is%20going%20to%20hurt%20you.%20You%20just%20got%20to%20find%20the%20ones%20worth%20suffering%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
