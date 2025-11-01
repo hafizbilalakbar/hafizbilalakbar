@@ -38313,11 +38313,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=What%20the%20caterpillar%20calls%20the%20end%20of%20the%20world%2C%20the%20master%20calls%20a%20butterfly.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=The%20present%20moment%20dies%20every%20moment%20to%20become%20the%20past%20%2C%20is%20reborn%20every%20moment%20into%20the%20future.%20All%20experience%20is%20now.%20Now%20never%20ends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
