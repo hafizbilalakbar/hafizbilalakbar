@@ -38471,11 +38471,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=Good%20things%20aren't%20supposed%20to%20just%20fall%20into%20your%20lap.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Only%20by%20attracting%20the%20best%20people%20will%20you%20accomplish%20great%20deeds.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
