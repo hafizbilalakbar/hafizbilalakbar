@@ -38592,11 +38592,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=If%20you%20can't%20fly%2C%20run.%20If%20you%20can't%20run%2C%20walk.%20If%20you%20can't%20walk%2C%20crawl%2C%20but%20by%20all%20means%2C%20keep%20moving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20McCandless&quote=Just%20get%20out%20and%20do%20it.%20You%20will%20be%20very%2C%20very%20glad%20that%20you%20did.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
