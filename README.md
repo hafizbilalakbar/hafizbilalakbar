@@ -38587,11 +38587,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Heraclitus&quote=No%20man%20ever%20steps%20in%20the%20same%20river%20twice%2C%20for%20it's%20not%20the%20same%20river%20and%20he's%20not%20the%20same%20man.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seungsahn&quote=The%20one%20who%20praises%20you%20is%20a%20thief.%20The%20one%20who%20criticizes%20you%20is%20your%20true%20friend.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
