@@ -38572,11 +38572,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charlie%20Chaplin&quote=If%20you're%20really%20truthful%20with%20yourself%2C%20it's%20a%20wonderful%20guidance.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Time%20doesn't%20heal%20emotional%20pain%2C%20you%20need%20to%20learn%20how%20to%20let%20go.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
