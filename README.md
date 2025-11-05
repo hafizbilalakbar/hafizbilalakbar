@@ -38705,11 +38705,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=The%20question%20isn't%20who%20is%20going%20to%20let%20me%3B%20it's%20who%20is%20going%20to%20stop%20me.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=Every%20night%20before%20going%20to%20sleep%2C%20we%20must%20ask%20ourselves%3A%20what%20weakness%20did%20I%20overcome%20today%3F%20What%20virtue%20did%20I%20acquire%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
