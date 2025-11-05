@@ -38713,11 +38713,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Wilson%20Schaef&quote=Humor%20isn't%20for%20everyone.%20It's%20only%20for%20people%20who%20want%20to%20have%20fun%2C%20enjoy%20life%2C%20and%20feel%20alive.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=You%20use%20a%20glass%20mirror%20to%20see%20your%20face%3B%20you%20use%20works%20of%20art%20to%20see%20your%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
