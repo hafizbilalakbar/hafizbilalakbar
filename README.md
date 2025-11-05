@@ -38717,11 +38717,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Graham%20Bell&quote=The%20only%20difference%20between%20success%20and%20failure%20is%20the%20ability%20to%20take%20action.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Life%20happens%20in%20the%20river%2C%20not%20the%20shore.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
