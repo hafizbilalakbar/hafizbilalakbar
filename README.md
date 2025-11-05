@@ -38731,11 +38731,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=The%20secret%20of%20change%20is%20to%20focus%20all%20your%20energy%20not%20on%20fighting%20the%20old%2C%20but%20on%20building%20the%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Remember%20where%20you%20came%20from%2C%20where%20you're%20going%2C%20and%20why%20you%20created%20this%20mess%20you%20got%20yourself%20into%20in%20the%20first%20place.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
