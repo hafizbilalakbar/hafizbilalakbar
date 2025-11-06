@@ -38815,11 +38815,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Routine%20life%20is%20unbearable%2C%20and%20most%20people%20only%20think%20about%20how%20to%20escape%20into%20the%20world%20of%20fantasy%20and%20dreams.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Lack%20of%20direction%2C%20not%20lack%20of%20time%2C%20is%20the%20problem.%20We%20all%20have%20twenty-four%20hour%20days.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
