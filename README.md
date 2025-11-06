@@ -38816,11 +38816,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Lack%20of%20direction%2C%20not%20lack%20of%20time%2C%20is%20the%20problem.%20We%20all%20have%20twenty-four%20hour%20days.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Osho&quote=Don't%20seek%2C%20don't%20search%2C%20don't%20ask%2C%20don't%20knock%2C%20don't%20demand%20-%20relax.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
