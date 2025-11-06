@@ -38794,11 +38794,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=The%20single%20most%20powerful%20asset%20we%20all%20have%20is%20our%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=An%20empty%20head%20is%20not%20really%20empty%3B%20it%20is%20stuffed%20with%20rubbish.%20Hence%20the%20difficulty%20of%20forcing%20anything%20into%20an%20empty%20head.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
