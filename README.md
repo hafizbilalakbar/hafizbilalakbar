@@ -38797,11 +38797,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Cameron&quote=Curiosity%20is%20the%20most%20powerful%20thing%20you%20own.%20Imagination%20is%20a%20force%20that%20can%20actually%20manifest%20a%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Have%20the%20courage%20to%20follow%20your%20heart%20and%20intuition.%20They%20somehow%20know%20what%20you%20truly%20want%20to%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
