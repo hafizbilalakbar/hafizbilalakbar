@@ -38884,11 +38884,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=To%20understand%20the%20heart%20and%20mind%20of%20a%20person%2C%20look%20not%20at%20what%20he%20has%20already%20achieved%2C%20but%20at%20what%20he%20aspires%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mahatma%20Gandhi&quote=A%20man%20is%20but%20a%20product%20of%20his%20thoughts.%20What%20he%20thinks%20he%20becomes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
