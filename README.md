@@ -38923,11 +38923,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Make%20your%20life%20a%20mission%20-%20not%20an%20intermission.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=First%20learn%20the%20meaning%20of%20what%20you%20say%2C%20and%20then%20speak.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
