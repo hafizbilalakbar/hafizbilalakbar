@@ -38946,11 +38946,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=Wrong%20does%20not%20cease%20to%20be%20wrong%20because%20the%20majority%20share%20in%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=If%20you%20spend%20too%20much%20time%20thinking%20about%20a%20thing%2C%20you'll%20never%20get%20it%20done.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
