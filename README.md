@@ -39010,11 +39010,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Life%20needs%20to%20be%20more%20than%20just%20solving%20problems%20every%20day.%20You%20need%20to%20wake%20up%20and%20be%20excited%20about%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Grace%20Coddington&quote=Always%20keep%20your%20eyes%20open.%20Keep%20watching.%20Because%20whatever%20you%20see%20can%20inspire%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
