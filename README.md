@@ -39048,11 +39048,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=F.%20Scott%20Fitzgerald&quote=The%20ability%20to%20hold%20two%20competing%20thoughts%20in%20one's%20mind%20and%20still%20be%20able%20to%20function%20is%20the%20mark%20of%20a%20superior%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=Peace%20is%20the%20result%20of%20retraining%20your%20mind%20to%20process%20life%20as%20it%20is%2C%20rather%20than%20as%20you%20think%20it%20should%20be.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
