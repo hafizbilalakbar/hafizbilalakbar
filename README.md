@@ -39165,11 +39165,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=The%20secret%20of%20perfect%20health%20lies%20in%20keeping%20the%20mind%20always%20cheerful%20-%20never%20worried%2C%20never%20hurried%2C%20never%20borne%20down%20by%20any%20fear%2C%20thought%20or%20anxiety.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=Always%20forgive%20your%20enemies%20-%20nothing%20annoys%20them%20so%20much.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
