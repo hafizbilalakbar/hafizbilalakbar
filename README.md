@@ -39304,11 +39304,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=It's%20easy%20to%20be%20a%20critic%2C%20but%20being%20a%20doer%20requires%20effort%2C%20risk%2C%20and%20change.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=In%20peace%2C%20sons%20bury%20their%20fathers.%20In%20war%2C%20fathers%20bury%20their%20sons.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
