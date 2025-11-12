@@ -39385,11 +39385,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Some%20men%20see%20things%20as%20they%20are%20and%20ask%20why.%20Others%20dream%20things%20that%20never%20were%20and%20ask%20why%20not.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=Seek%20not%20the%20good%20in%20external%20things%3Bseek%20it%20in%20yourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
