@@ -39477,11 +39477,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=Nothing%20is%20impossible.%20The%20word%20itself%20says%20'I'm%20possible!'&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=Our%20truest%20life%20is%20when%20we%20are%20in%20dreams%20awake.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
