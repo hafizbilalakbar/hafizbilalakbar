@@ -39451,11 +39451,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Your%20hardest%20times%20often%20lead%20to%20the%20greatest%20moments%20of%20your%20life.%20Keep%20going.%20Tough%20situations%20build%20strong%20people%20in%20the%20end.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=When%20you%20love%20someone%2C%20you%20love%20the%20person%20as%20they%20are%2C%20and%20not%20as%20you'd%20like%20them%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
