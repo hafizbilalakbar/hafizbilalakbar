@@ -39540,11 +39540,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=It%20is%20in%20the%20heart%20that%20makes%20a%20man%20rich.%20He%20is%20rich%20according%20to%20what%20he%20is%2C%20not%20according%20to%20what%20he%20has.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=There%20can%20be%20no%20greater%20gift%20than%20that%20of%20giving%20one's%20time%20and%20energy%20to%20help%20others%20without%20expecting%20anything%20in%20return.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
