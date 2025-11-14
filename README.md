@@ -39565,11 +39565,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Shunryu%20Suzuki&quote=Whether%20you%20have%20a%20problem%20in%20your%20life%20or%20not%20depends%20upon%20your%20own%20attitude%2C%20your%20own%20understanding.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=Our%20life%20isn't%20how%20much%20we%20can%20take%20out%2C%20but%20how%20much%20we%20can%20put%20in.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
