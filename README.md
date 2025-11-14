@@ -39559,11 +39559,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepam%20Chaterjee&quote=When%20you%20are%20totally%20at%20peace%20with%20yourself%2C%20nothing%20can%20shake%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Graham%20Bell&quote=Concentrate%20all%20your%20thoughts%20upon%20the%20work%20at%20hand.%20The%20sun's%20rays%20do%20not%20burn%20until%20brought%20to%20focus.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
