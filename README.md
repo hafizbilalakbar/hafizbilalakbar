@@ -39507,11 +39507,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Sometimes%20adversity%20is%20what%20you%20need%20to%20face%20in%20order%20to%20become%20successful.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Life%20is%20too%20short%20to%20waste%20your%20time%20on%20people%20who%20don't%20respect%2C%20appreciate%2C%20and%20value%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
