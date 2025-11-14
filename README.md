@@ -39505,11 +39505,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kenneth%20Branagh&quote=Friendship%20is%20one%20of%20the%20most%20tangible%20things%20in%20a%20world%20which%20offers%20fewer%20and%20fewer%20supports.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=It%20is%20not%20that%20we%20have%20too%20little%20time%20to%20do%20all%20the%20things%20we%20need%20to%20do%20%2C%20it%20is%20that%20we%20feel%20the%20need%20to%20do%20too%20many%20things%20in%20the%20time%20we%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
