@@ -39532,11 +39532,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Beverly%20Sills&quote=In%20youth%20we%20run%20into%20difficulties.%20In%20old%20age%20difficulties%20run%20into%20us.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=The%20meaning%20of%20life%20is%20to%20find%20your%20gift.%20The%20purpose%20of%20life%20is%20to%20give%20it%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
