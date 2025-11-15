@@ -39626,11 +39626,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Brown&quote=Men%20go%20to%20far%20greater%20lengths%20to%20avoid%20what%20they%20fear%20than%20to%20obtain%20what%20they%20desire.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=I%20find%20the%20best%20way%20to%20love%20someone%20is%20not%20to%20change%20them%2C%20but%20instead%2C%20help%20them%20reveal%20the%20greatest%20version%20of%20themselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
