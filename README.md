@@ -39629,11 +39629,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=What%20we%20call%20the%20beginning%20is%20often%20the%20end.%20And%20to%20make%20an%20end%20is%20to%20make%20a%20beginning.%20The%20end%20is%20where%20we%20start%20from.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Your%20conscience%20is%20the%20measure%20of%20the%20honesty%20of%20your%20selfishness.%20Listen%20to%20it%20carefully.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
