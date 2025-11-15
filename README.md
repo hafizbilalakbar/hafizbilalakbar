@@ -39647,11 +39647,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=Far%20more%20crucial%20than%20what%20we%20know%20or%20do%20not%20know%20is%20what%20we%20do%20not%20want%20to%20know.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=When%20you%20are%20content%20to%20be%20simply%20yourself%20and%20don't%20compare%20or%20compete%2C%20everybody%20will%20respect%20you.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
