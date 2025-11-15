@@ -39644,11 +39644,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sonia%20Ricotti&quote=The%20past%20is%20history.%20It%20no%20longer%20exists%2C%20but%20you%20are%20keeping%20it%20alive%20in%20your%20mind%20through%20your%20thoughts.%20%20Let%20it%20go.%20It%20is%20not%20serving%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=The%20ego%20wants%20comfort%20and%20certainty.%20The%20soul%20wants%20to%20live%20fully.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
