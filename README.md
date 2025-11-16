@@ -39699,11 +39699,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=Truth%20is%20such%20a%20rare%20thing%2C%20it%20is%20delighted%20to%20tell%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Welcome%20every%20morning%20with%20a%20smile.%20Look%20on%20the%20new%20day%20as%20another%20gift%20from%20your%20Creator%2C%20another%20golden%20opportunity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
