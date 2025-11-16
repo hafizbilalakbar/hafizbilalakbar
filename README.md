@@ -39728,11 +39728,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Kerouac&quote=Life%20must%20be%20rich%20and%20full%20of%20loving-it's%20no%20good%20otherwise%2C%20no%20good%20at%20all%2C%20for%20anyone.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=Our%20joy%20does%20not%20have%20to%20be%20based%20on%20our%20circumstances.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
