@@ -39846,11 +39846,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=If%20the%20only%20prayer%20you%20ever%20say%20in%20your%20entire%20life%20is%20thank%20you%2C%20it%20will%20be%20enough.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=The%20more%20knowledge%20you%20have%2C%20the%20more%20you're%20free%20to%20rely%20on%20your%20instincts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
