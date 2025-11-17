@@ -39801,11 +39801,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Give%20a%20man%20a%20fish%20and%20you%20feed%20him%20for%20a%20day.%20Teach%20a%20man%20to%20fish%20and%20you%20feed%20him%20for%20a%20lifetime.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=Words%20used%20to%20attract%20the%20dull%20of%20wit%20are%20not%20to%20be%20relied%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
