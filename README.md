@@ -39938,11 +39938,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=Character%20is%20doing%20what%20you%20don't%20want%20to%20do%20but%20know%20you%20should%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Stop%20wasting%20time%20defending%20your%20problems%20and%20work%20on%20addressing%20them%20instead.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
