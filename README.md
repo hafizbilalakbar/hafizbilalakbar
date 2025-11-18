@@ -39876,11 +39876,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anita%20Krizzan&quote=You%20don't%20have%20to%20move%20mountains.%20You'll%20change%20the%20world%20simply%20by%20being%20a%20warm%2C%20kind-hearted%20human%20being.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Heraclitus&quote=The%20content%20of%20your%20character%20is%20your%20choice.%20Day%20by%20day%2C%20what%20you%20choose%2C%20what%20you%20think%20and%20what%20you%20do%20is%20who%20you%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
