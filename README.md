@@ -39903,11 +39903,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=It's%20OK%20to%20have%20your%20eggs%20in%20one%20basket%20as%20long%20as%20you%20control%20what%20happens%20to%20that%20basket.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=You%20are%20what%20you%20do%2C%20not%20what%20you%20say%20you'll%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
