@@ -39963,11 +39963,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Don't%20let%20the%20silly%20little%20dramas%20of%20each%20day%20get%20you%20down.%20For%20you%20are%20here%20to%20do%20great%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=F.%20Scott%20Fitzgerald&quote=The%20ability%20to%20hold%20two%20competing%20thoughts%20in%20one's%20mind%20and%20still%20be%20able%20to%20function%20is%20the%20mark%20of%20a%20superior%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
