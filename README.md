@@ -40106,11 +40106,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=Procrastination%20is%20one%20of%20the%20most%20common%20and%20deadliest%20of%20diseases%20and%20its%20toll%20on%20success%20and%20happiness%20is%20heavy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ray%20Bradbury&quote=The%20first%20thing%20you%20learn%20in%20life%20is%20you're%20a%20fool.%20The%20last%20thing%20you%20learn%20in%20life%20is%20you're%20the%20same%20fool.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
