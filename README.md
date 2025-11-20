@@ -40090,11 +40090,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Constantly%20seek%20criticism.%20A%20well%20thought%20out%20critique%20of%20whatever%20you're%20doing%20is%20as%20valuable%20as%20gold.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Isaac%20Newton&quote=If%20I%20have%20seen%20further%20than%20others%2C%20it%20is%20by%20standing%20upon%20the%20shoulders%20of%20giants.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
