@@ -40307,11 +40307,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=Letting%20go%20means%20to%20come%20to%20the%20realization%20that%20some%20people%20are%20a%20part%20of%20your%20history%2C%20but%20not%20a%20part%20of%20your%20destiny.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=To%20be%20angry%20is%20to%20revenge%20the%20faults%20of%20others%20on%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
