@@ -40238,11 +40238,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=If%20the%20misery%20of%20the%20poor%20be%20caused%20not%20by%20the%20laws%20of%20nature%2C%20but%20by%20our%20institutions%2C%20great%20is%20our%20sin.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Opportunity%20often%20comes%20disguised%20in%20the%20form%20of%20misfortune%20or%20temporary%20defeat.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
