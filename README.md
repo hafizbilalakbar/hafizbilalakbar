@@ -40363,11 +40363,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=No%20man%20will%20make%20a%20great%20leader%20who%20wants%20to%20do%20it%20all%20himself%20or%20to%20get%20all%20the%20credit%20for%20doing%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=Reversing%20your%20treatment%20of%20the%20man%20you%20have%20wronged%20is%20better%20than%20asking%20his%20forgiveness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
