@@ -40549,11 +40549,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=It%20is%20impossible%20for%20a%20man%20to%20learn%20what%20he%20thinks%20he%20already%20knows.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=It's%20not%20what%20you%20say%20out%20of%20your%20mouth%20that%20determines%20your%20life%2C%20it's%20what%20you%20whisper%20to%20yourself%20that%20has%20the%20most%20power!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
