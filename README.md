@@ -40657,11 +40657,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=It%20is%20children%20only%20who%20enjoy%20the%20present%3B%20their%20elders%20either%20live%20on%20the%20memory%20of%20the%20past%20or%20the%20hope%20of%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=The%20less%20you%20open%20your%20heart%20to%20others%2C%20the%20more%20your%20heart%20suffers.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
