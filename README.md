@@ -40735,11 +40735,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It's%20the%20unknown%20we%20fear%20when%20we%20look%20upon%20death%20and%20darkness%2C%20nothing%20more.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeffrey%20Gitomer&quote=In%20order%20for%20you%20to%20be%20the%20BEST%20you%20can%20be%20for%20others%2C%20first%20you%20must%20be%20BEST%20for%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
