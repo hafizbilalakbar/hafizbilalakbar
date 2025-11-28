@@ -40771,11 +40771,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=When%20you%20know%20what%20you%20want%2C%20and%20want%20it%20bad%20enough%2C%20you%20will%20find%20a%20way%20to%20get%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=Faithless%20is%20he%20that%20says%20farewell%20when%20the%20road%20darkens.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
