@@ -40912,11 +40912,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=Only%20one%20thing%20is%20ever%20guaranteed%2C%20that%20is%20that%20you%20will%20definitely%20not%20achieve%20the%20goal%20if%20you%20don't%20take%20the%20shot.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=Do%20not%20follow%20the%20ideas%20of%20others%2C%20but%20learn%20to%20listen%20to%20the%20voice%20within%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
