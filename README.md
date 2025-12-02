@@ -41115,11 +41115,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20D.%20Rockefeller&quote=I%20can%20think%20of%20nothing%20less%20pleasurable%20than%20a%20life%20devoted%20to%20pleasure.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=Peace%20is%20the%20result%20of%20retraining%20your%20mind%20to%20process%20life%20as%20it%20is%2C%20rather%20than%20as%20you%20think%20it%20should%20be.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
