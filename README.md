@@ -41171,11 +41171,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=How%20many%20times%20do%20you%20have%20to%20get%20hit%20over%20the%20head%20until%20you%20figure%20out%20who's%20hitting%20you%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=If%20you%20cling%20to%20a%20certain%20thought%20with%20dynamic%20will%20power%2C%20it%20finally%20assumes%20a%20tangible%20outward%20form.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
