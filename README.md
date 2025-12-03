@@ -41187,11 +41187,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=It%20is%20useless%20to%20attempt%20to%20reason%20a%20man%20out%20of%20a%20thing%20he%20was%20never%20reasoned%20into.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=It's%20your%20life%3B%20you%20don't%20need%20someone's%20permission%20to%20live%20the%20life%20you%20want.%20Be%20brave%20to%20live%20from%20your%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
