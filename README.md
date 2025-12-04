@@ -41314,11 +41314,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Osho&quote=Truth%20is%20not%20something%20outside%20to%20be%20discovered%2C%20it%20is%20something%20inside%20to%20be%20realized.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Never%20argue%20with%20stupid%20people%2C%20they%20will%20drag%20you%20down%20to%20their%20level%20and%20then%20beat%20you%20with%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
