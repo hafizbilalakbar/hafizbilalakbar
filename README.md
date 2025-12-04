@@ -41266,11 +41266,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=There%20can%20be%20no%20greater%20gift%20than%20that%20of%20giving%20one's%20time%20and%20energy%20to%20help%20others%20without%20expecting%20anything%20in%20return.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=A%20good%20teacher%20opens%20the%20door%20for%20you%2C%20but%20you%20must%20enter%20the%20room%20by%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
