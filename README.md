@@ -41343,11 +41343,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=Remember%20we're%20all%20in%20this%20alone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Matthew%20Barrie&quote=Dreams%20do%20come%20true%2C%20if%20we%20only%20wish%20hard%20enough%2C%20You%20can%20have%20anything%20in%20life%20if%20you%20will%20sacrifice%20everything%20else%20for%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
