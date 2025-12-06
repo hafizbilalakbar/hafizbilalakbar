@@ -41476,11 +41476,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Obstacles%20are%20those%20frightful%20things%20you%20see%20when%20you%20take%20your%20eyes%20off%20your%20goal.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Publilius%20Syrus&quote=No%20man%20is%20happy%20unless%20he%20believes%20he%20is.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
