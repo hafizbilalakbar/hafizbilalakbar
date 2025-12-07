@@ -41546,11 +41546,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=F.%20Scott%20Fitzgerald&quote=Show%20me%20a%20hero%2C%20and%20I'll%20write%20you%20a%20tragedy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=There%20is%20nothing%20like%20looking%20if%20you%20want%20to%20find%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
