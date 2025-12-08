@@ -41615,11 +41615,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=You%20can%2C%20you%20should%2C%20and%20if%20you're%20brave%20enough%20to%20start%2C%20you%20will.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=I%20can%20never%20decide%20whether%20my%20dreams%20are%20the%20result%20of%20my%20thoughts%20or%20my%20thoughts%20the%20result%20of%20my%20dreams.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
