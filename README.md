@@ -41611,11 +41611,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=There%20is%20always%20risk%2C%20so%20learn%20to%20manage%20risk%20instead%20of%20avoiding%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=One%20of%20the%20oldest%20human%20needs%20is%20having%20someone%20to%20wonder%20where%20you%20are%20when%20you%20don't%20come%20home%20at%20night.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
