@@ -41711,11 +41711,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=If%20you%20could%20kick%20the%20person%20in%20the%20pants%20responsible%20for%20most%20of%20your%20trouble%2C%20you%20wouldn't%20sit%20for%20a%20month.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=Life%20is%20to%20be%20fortified%20by%20many%20friendships.%20To%20love%2C%20and%20to%20be%20loved%2C%20is%20the%20greatest%20happiness%20of%20existence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
