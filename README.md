@@ -41770,11 +41770,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Tukey&quote=The%20greatest%20value%20of%20a%20picture%20is%20when%20it%20forces%20us%20to%20notice%20what%20we%20never%20expected%20to%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Anger%2C%20ego%2C%20jealousy%20are%20the%20biggest%20diseases%2CKeep%20yourself%20aloof%20from%20these%20three%20diseases.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
