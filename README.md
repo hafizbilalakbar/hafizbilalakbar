@@ -41776,11 +41776,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Raise%20your%20words%2C%20not%20voice.%20It%20is%20rain%20that%20grows%20flowers%2C%20not%20thunder.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Everything%20great%20that%20has%20ever%20happened%20to%20humanity%20has%20begun%20as%20a%20single%20thought%20in%20someone's%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
