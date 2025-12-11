@@ -41854,11 +41854,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.%20Clement%20Stone&quote=Aim%20for%20the%20moon.%20If%20you%20miss%2C%20you%20may%20hit%20a%20star.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Far%20and%20away%20the%20best%20prize%20that%20life%20has%20to%20offer%20is%20the%20chance%20to%20work%20hard%20at%20work%20worth%20doing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
