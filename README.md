@@ -41829,11 +41829,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Constantly%20seek%20criticism.%20A%20well%20thought%20out%20critique%20of%20whatever%20you're%20doing%20is%20as%20valuable%20as%20gold.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=David%20Brinkley&quote=People%20have%20the%20illusion%20that%20all%20over%20the%20world%2C%20all%20the%20time%2C%20all%20kinds%20of%20fantastic%20things%20are%20happening.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
