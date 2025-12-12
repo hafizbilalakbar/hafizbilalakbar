@@ -41921,11 +41921,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Niccolo%20Machiavelli&quote=Make%20no%20small%20plans%20for%20they%20have%20no%20power%20to%20stir%20the%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Do%20not%20look%20upon%20this%20world%20with%20fear%20and%20loathing.%20Bravely%20face%20whatever%20the%20gods%20offer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
