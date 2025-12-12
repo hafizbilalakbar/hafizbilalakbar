@@ -41928,11 +41928,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=If%20we%20will%20be%20quiet%20and%20ready%20enough%2C%20we%20shall%20find%20compensation%20in%20every%20disappointment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Kerouac&quote=Great%20things%20are%20not%20accomplished%20by%20those%20who%20yield%20to%20trends%20and%20fads%20and%20popular%20opinion.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
