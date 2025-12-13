@@ -42033,11 +42033,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=This%20is%20such%20a%20short%20and%20precious%20life%20that%20it's%20really%20important%20that%20you%20don't%20spend%20it%20being%20unhappy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Always%20look%20on%20the%20bright%20side%20of%20things.%20If%20you%20can't%20comprehend%20this%2C%20polish%20that%20which%20has%20become%20dull%20until%20it%20begins%20to%20shine.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
