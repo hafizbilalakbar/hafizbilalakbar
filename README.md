@@ -42049,11 +42049,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Carmack&quote=If%20you%20aren't%20sure%20which%20way%20to%20do%20something%2C%20do%20it%20both%20ways%20and%20see%20which%20works%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Listen%20to%20what%20you%20know%20instead%20of%20what%20you%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
