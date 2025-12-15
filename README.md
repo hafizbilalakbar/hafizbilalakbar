@@ -42189,11 +42189,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Failure%20is%20a%20great%20teacher.%20If%20you're%20open%20to%20it%20every%20mistake%20has%20a%20lesson%20to%20offer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=It%20is%20far%20easier%20to%20start%20something%20than%20it%20is%20to%20finish%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
