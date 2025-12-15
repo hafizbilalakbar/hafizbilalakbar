@@ -42161,11 +42161,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.P.%20Kinsella&quote=Hardly%20anybody%20recognizes%20the%20most%20significant%20moments%20of%20their%20life%20at%20the%20time%20they%20happen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=What%20kills%20the%20creative%20force%20is%20not%20age%20or%20lack%20of%20talent%2C%20but%20our%20own%20spirit%2C%20our%20own%20attitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
