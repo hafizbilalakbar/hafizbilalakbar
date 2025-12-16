@@ -42262,11 +42262,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Even%20when%20you%20think%20you%20have%20your%20life%20all%20mapped%20out%2C%20things%20happen%20that%20shape%20your%20destiny%20in%20ways%20you%20might%20never%20have%20imagined.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=The%20world%20doesn't%20always%20give%20you%20want%2C%20but%20it%20often%20gives%20you%20what%20you%20need.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
