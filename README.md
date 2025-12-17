@@ -42295,11 +42295,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=You%20can%2C%20you%20should%2C%20and%20if%20you're%20brave%20enough%20to%20start%2C%20you%20will.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=I%20would%20rather%20be%20a%20little%20nobody%2C%20then%20to%20be%20an%20evil%20somebody.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
