@@ -42286,11 +42286,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=If%20you%20do%20the%20work%20you%20get%20rewarded.%20There%20are%20no%20shortcuts%20in%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Eliot&quote=Only%20in%20the%20agony%20of%20parting%20do%20we%20look%20into%20the%20depths%20of%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
