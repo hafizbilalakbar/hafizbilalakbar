@@ -42392,11 +42392,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Experience%20is%20a%20comb%20which%20nature%20gives%20us%20when%20we%20are%20bald.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=When%20obstacles%20arise%2C%20you%20change%20your%20direction%20to%20reach%20your%20goal%3B%20you%20do%20not%20change%20your%20decision%20to%20get%20there.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
