@@ -42363,11 +42363,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Everyone%20has%20a%20sense%20of%20humor.%20If%20you%20don't%20laugh%20at%20jokes%2C%20you%20probably%20laugh%20at%20opinions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20London&quote=As%20one%20grows%20weaker%20one%20is%20less%20susceptible%20to%20suffering.%20There%20is%20less%20hurt%20because%20there%20is%20less%20to%20hurt.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
