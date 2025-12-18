@@ -42396,11 +42396,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maya%20Angelou&quote=Success%20is%20liking%20yourself%2C%20liking%20what%20you%20do%2C%20and%20liking%20how%20you%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=There%20is%20no%20limit%20to%20the%20amount%20of%20good%20you%20can%20do%20if%20you%20don't%20care%20who%20gets%20the%20credit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
