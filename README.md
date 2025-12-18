@@ -42405,11 +42405,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=The%20important%20thing%20is%20not%20to%20stop%20questioning.%20Curiosity%20has%20its%20own%20reason%20for%20existing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Intelligence%2C%20imagination%2C%20and%20knowledge%20are%20essential%20resources%2C%20but%20only%20effectiveness%20converts%20them%20into%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
