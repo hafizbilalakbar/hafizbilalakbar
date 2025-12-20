@@ -42501,11 +42501,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=If%20you%20only%20knew%20the%20magnificence%20of%20the%203%2C%206%2C%20and%209%2C%20then%20you%20would%20have%20a%20key%20to%20the%20universe.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Do%20what%20you%20feel%20in%20your%20heart%20to%20be%20right%20-%20for%20you'll%20be%20criticized%20anyway.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
