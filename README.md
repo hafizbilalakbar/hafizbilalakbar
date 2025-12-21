@@ -42632,11 +42632,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Motivation%20is%20what%20gets%20you%20started.%20Habit%20is%20what%20keeps%20you%20going.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=It%20is%20useless%20to%20attempt%20to%20reason%20a%20man%20out%20of%20a%20thing%20he%20was%20never%20reasoned%20into.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
