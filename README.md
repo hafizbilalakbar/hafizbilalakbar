@@ -42704,11 +42704,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=Hope%20and%20fear%20come%20from%20feeling%20that%20we%20lack%20something%3B%20they%20come%20from%20a%20sense%20of%20poverty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Silence%20is%20sometimes%20the%20best%20answer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
