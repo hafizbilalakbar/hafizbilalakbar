@@ -42803,11 +42803,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Listening%20well%20is%20as%20powerful%20as%20talking%20well%2C%20and%20is%20also%20as%20essential%20to%20true%20conversation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20brave%20to%20stand%20for%20what%20you%20believe%20in%20even%20if%20you%20stand%20alone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
