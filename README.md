@@ -42796,11 +42796,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=The%20quicker%20you%20let%20go%20of%20old%20cheese%2C%20the%20sooner%20you%20find%20new%20cheese.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Welcome%20every%20morning%20with%20a%20smile.%20Look%20on%20the%20new%20day%20as%20another%20gift%20from%20your%20Creator%2C%20another%20golden%20opportunity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
