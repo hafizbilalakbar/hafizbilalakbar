@@ -42879,11 +42879,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=Decide%20whether%20or%20not%20the%20goal%20is%20worth%20the%20risks%20involved.%20If%20it%20is%2C%20stop%20worrying.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=Only%20put%20off%20until%20tomorrow%20what%20you%20are%20willing%20to%20die%20having%20left%20undone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
