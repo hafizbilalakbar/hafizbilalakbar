@@ -42887,11 +42887,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=No%20tree%2C%20it%20is%20said%2C%20can%20grow%20to%20heaven%20unless%20its%20roots%20reach%20down%20to%20hell.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Do%20not%20believe%20that%20you%20will%20reach%20your%20destination%20without%20leaving%20the%20shore.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
