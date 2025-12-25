@@ -42935,11 +42935,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Graham%20Bell&quote=A%20man%2C%20as%20a%20general%20rule%2C%20owes%20very%20little%20to%20what%20he%20is%20born%20with%20-%20a%20man%20is%20what%20he%20makes%20of%20himself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Focus%20on%20how%20far%20you%20have%20come%20in%20life%20rather%20than%20looking%20at%20the%20accomplishments%20of%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
