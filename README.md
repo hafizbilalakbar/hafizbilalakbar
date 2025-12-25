@@ -42964,11 +42964,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Anything%20you%20may%20hold%20firmly%20in%20your%20imagination%20can%20be%20yours.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=Do%20the%20hard%20jobs%20first.%20The%20easy%20jobs%20will%20take%20care%20of%20themselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
