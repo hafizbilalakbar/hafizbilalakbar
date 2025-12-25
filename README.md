@@ -42933,11 +42933,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=Whatever%20happened%2C%20happened%20for%20the%20good.%20Whatever%20is%20happening%2C%20is%20happening%20for%20the%20good.%20Whatever%20will%20happen%2C%20will%20also%20happen%20for%20the%20good.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=The%20one%20who%20boasts%20does%20so%20only%20out%20of%20a%20feeling%20of%20inferiority.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
