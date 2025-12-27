@@ -43130,11 +43130,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gustave%20Flaubert&quote=Life%20must%20be%20a%20constant%20education%3B%20one%20must%20learn%20everything%2C%20from%20speaking%20to%20dying.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=Great%20ones%20are%20willing%20to%20get%20burned%20time%20and%20again%20as%20they%20sharpen%20their%20swords%20in%20the%20fire.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
