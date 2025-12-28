@@ -43168,11 +43168,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Beware%20of%20false%20knowledge%2C%20it%20is%20more%20dangerous%20than%20ignorance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Instead%20of%20thinking%20about%20what%20you%20are%20going%20to%20do%20when%20you%20retire%2C%20think%20about%20how%20you%20can%20do%20that%20now%20and%20make%20a%20living%20from%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
