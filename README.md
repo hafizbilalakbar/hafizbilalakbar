@@ -43366,11 +43366,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=It's%20not%20the%20size%20of%20the%20dog%20in%20the%20fight%2C%20it's%20the%20size%20of%20the%20fight%20in%20the%20dog.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=Anger%20exceeding%20limits%20causes%20fear%20and%20excessive%20kindness%20eliminates%20respect.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
