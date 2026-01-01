@@ -43444,11 +43444,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=FEAR%20has%20two%20meanings%3A%20'Forget%20Everything%20And%20Run'%20or%20'Face%20Everything%20And%20Rise.'%20The%20choice%20is%20yours.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Anything%20you%20may%20hold%20firmly%20in%20your%20imagination%20can%20be%20yours.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
