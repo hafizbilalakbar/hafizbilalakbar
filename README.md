@@ -43442,11 +43442,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=It's%20your%20road%2C%20and%20yours%20alone%2C%20others%20may%20walk%20it%20with%20you%2C%20but%20no%20one%20can%20walk%20it%20for%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=What%20a%20book%20a%20devil's%20chaplain%20might%20write%20on%20the%20clumsy%2C%20wasteful%2C%20blundering%2C%20low%2C%20and%20horribly%20cruel%20work%20of%20nature!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
