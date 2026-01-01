@@ -43473,11 +43473,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Nothing%20has%20any%20power%20over%20me%20other%20than%20that%20which%20I%20give%20it%20through%20my%20conscious%20thoughts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=Knowing%20your%20own%20darkness%20is%20the%20best%20method%20for%20dealing%20with%20the%20darknesses%20of%20other%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
