@@ -43536,11 +43536,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Successful%20people%20appreciate%20where%20they%20have%20come%20from%2C%20but%20they%20don't%20let%20their%20past%20set%20the%20tone%20for%20their%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=Knowing%20is%20not%20enough%2C%20we%20must%20apply.%20Willing%20is%20not%20enough%2C%20we%20must%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
