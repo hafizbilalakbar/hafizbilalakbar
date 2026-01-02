@@ -43511,11 +43511,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=It's%20the%20job%20that's%20never%20started%20that%20takes%20the%20longest%20to%20finish.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Life%20is%20the%20dancer%20and%20you%20are%20the%20dance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
