@@ -43577,11 +43577,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=If%20it%20is%20not%20right%2C%20do%20not%20do%20it%2C%20if%20it%20is%20not%20true%2C%20do%20not%20say%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=Only%20he%20who%20has%20no%20use%20for%20the%20empire%20is%20fit%20to%20be%20entrusted%20with%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
