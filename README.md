@@ -43548,11 +43548,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=Thinking%20is%20difficult%2C%20that's%20why%20most%20people%20judge.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=It%20still%20holds%20true%20that%20man%20is%20most%20uniquely%20human%20when%20he%20turns%20obstacles%20into%20opportunities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
