@@ -43647,11 +43647,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Niccolo%20Machiavelli&quote=Make%20no%20small%20plans%20for%20they%20have%20no%20power%20to%20stir%20the%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=Do%20not%20try%20to%20be%20on%20the%20side%20of%20the%20majority%2C%20but%20live%20according%20to%20your%20inner%20laws.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
