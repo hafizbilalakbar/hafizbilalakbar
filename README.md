@@ -43687,11 +43687,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Never%20regret%20your%20past.%20Rather%2C%20embrace%20it%20as%20the%20teacher%20that%20it%20is.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=Falling%20down%20is%20not%20failure.%20Failure%20comes%20when%20you%20stay%20where%20you%20have%20fallen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
