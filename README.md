@@ -43683,11 +43683,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=There%20are%20two%20kinds%20of%20perfect%20people%3A%20those%20who%20are%20dead%2C%20and%20those%20who%20have%20not%20been%20born%20yet.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=Fear%20not%20the%20path%20of%20Truth%20for%20the%20lack%20of%20People%20walking%20on%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
