@@ -43674,11 +43674,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Nothing%20ever%20happened%20in%20the%20past%20that%20can%20prevent%20you%20from%20being%20present%20now%3B%20and%20if%20the%20past%20cannot%20prevent%20you%20from%20being%20present%20now%2C%20what%20power%20does%20it%20have%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=Life%20is%20essentially%20an%20endless%20series%20of%20problems.%20The%20solution%20to%20one%20problem%20is%20merely%20the%20creation%20of%20another.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
