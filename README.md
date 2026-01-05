@@ -43787,11 +43787,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=If%20you%20try%20to%20get%20rid%20of%20fear%20and%20anger%20without%20knowing%20their%20meaning%2C%20they%20will%20grow%20stronger%20and%20return.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Take%20time%20like%20the%20river%20that%20never%20grows%20stale.%20Keep%20going%20and%20steady.%20No%20hurry%2C%20no%20rush.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
