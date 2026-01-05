@@ -43757,11 +43757,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Billie%20Jean%20King&quote=Natural%20talent%20only%20determines%20the%20limits%20of%20your%20athletic%20potential.%20It's%20dedication%20and%20a%20willingness%20to%20discipline%20your%20life%20that%20makes%20you%20great.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=The%20reward%20of%20suffering%20is%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
