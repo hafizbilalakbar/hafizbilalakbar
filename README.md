@@ -43767,11 +43767,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=People%20spend%20too%20much%20time%20doing%20and%20not%20enough%20time%20thinking%20about%20what%20they%20should%20be%20doing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=Given%20the%20choice%20between%20the%20experience%20of%20pain%20and%20nothing%2C%20I%20would%20choose%20pain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
