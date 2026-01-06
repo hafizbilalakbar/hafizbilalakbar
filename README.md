@@ -43858,11 +43858,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=Always%20turn%20a%20negative%20situation%20into%20a%20positive%20situation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=Most%20of%20the%20important%20things%20in%20the%20world%20have%20been%20accompanied%20by%20people%20who%20have%20kept%20on%20trying%20when%20there%20seemed%20to%20be%20no%20hope%20at%20all.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
