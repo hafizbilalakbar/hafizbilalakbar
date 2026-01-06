@@ -43802,11 +43802,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=I%20try%20more%20and%20more%20to%20be%20myself%2C%20caring%20relatively%20little%20whether%20people%20approve%20or%20disapprove.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=Forget%20yesterday%20-%20it%20has%20already%20forgotten%20you.%20Don't%20sweat%20tomorrow%20-%20you%20haven't%20even%20met.%20Instead%2C%20open%20your%20eyes%20and%20your%20heart%20to%20a%20truly%20precious%20gift%20-%20today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
