@@ -43886,11 +43886,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20McCandless&quote=Happiness%20is%20only%20real%2C%20when%20shared.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=When%20you%20view%20failure%20as%20feedback%2C%20you%20get%20more%20done.%20When%20you%20view%20failure%20as%20a%20finality%2C%20you%20get%20nothing%20done.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
