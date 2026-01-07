@@ -43877,11 +43877,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=When%20you%20are%20talented%20you%20do%20it%20whatever%20it%20is%20until%20your%20fingers%20bleed%20or%20your%20eyes%20are%20ready%20to%20fall%20out%20of%20your%20head.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=You%20were%20born%20to%20win%2C%20but%20to%20be%20a%20winner%20you%20must%20plan%20to%20win%2C%20prepare%20to%20win%2C%20and%20expect%20to%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
