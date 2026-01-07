@@ -43911,11 +43911,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=For%20the%20things%20we%20have%20to%20learn%20before%20we%20can%20do%20them%2C%20we%20learn%20by%20doing%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Collier&quote=Your%20chances%20of%20success%20in%20any%20undertaking%20can%20always%20be%20measured%20by%20your%20belief%20in%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
