@@ -43896,11 +43896,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Welcome%20every%20morning%20with%20a%20smile.%20Look%20on%20the%20new%20day%20as%20another%20gift%20from%20your%20Creator%2C%20another%20golden%20opportunity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Stand%20up%20to%20your%20obstacles%20and%20do%20something%20about%20them.%20You'll%20find%20they%20haven't%20half%20the%20strength%20you%20think%20they%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
