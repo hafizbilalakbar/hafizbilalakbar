@@ -43874,11 +43874,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=Employ%20your%20time%20in%20improving%20yourself%20by%20other%20men's%20writings%2C%20so%20that%20you%20shall%20gain%20easily%20what%20others%20have%20labored%20hard%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=Change%20happens%20when%20the%20pain%20of%20holding%20on%20becomes%20greater%20than%20the%20fear%20of%20letting%20go.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
