@@ -44021,11 +44021,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=The%20foolish%20reject%20what%20they%20see%2C%20not%20what%20they%20think%3B%20the%20wise%20reject%20what%20they%20think%2C%20not%20what%20they%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=They%20say%20love%20is%20the%20best%20investment%3B%20the%20more%20you%20give%2C%20the%20more%20you%20get%20in%20return.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
