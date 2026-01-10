@@ -44056,11 +44056,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=It's%20easy%20to%20be%20a%20critic%2C%20but%20being%20a%20doer%20requires%20effort%2C%20risk%2C%20and%20change.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=Yesterday%20is%20history%2C%20tomorrow%20is%20a%20mystery%2C%20today%20is%20God's%20gift%2C%20that's%20why%20we%20call%20it%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
