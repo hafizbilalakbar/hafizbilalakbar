@@ -44191,11 +44191,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=Pleasure%20can%20be%20supported%20by%20an%20illusion%3B%20but%20happiness%20rests%20upon%20truth.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Things%20turn%20out%20best%20for%20the%20people%20who%20make%20the%20best%20of%20the%20way%20things%20turn%20out.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
