@@ -44207,11 +44207,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Learn%20to%20enjoy%20every%20minute%20of%20your%20life.%20Be%20happy%20now.%20Don't%20wait%20for%20something%20outside%20of%20yourself%20to%20make%20you%20happy%20in%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=We%20are%20all%20different.%20Don't%20judge%2C%20understand%20instead.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
