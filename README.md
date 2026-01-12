@@ -44277,11 +44277,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=The%20wise%20accomplish%20all%20that%20they%20want%20without%20arousing%20the%20envy%20or%20scorn%20of%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Betty%20White&quote=Don't%20take%20yourself%20too%20seriously%2C%20pretty%20soon%20you%20can%20find%20the%20humor%20in%20our%20everyday%20lives.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
