@@ -44242,11 +44242,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=Nothing%20is%20too%20high%20for%20a%20man%20to%20reach%2C%20but%20he%20must%20climb%20with%20care%20and%20confidence&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=The%20more%20you%20take%20responsibility%20for%20your%20past%20and%20present%2C%20the%20more%20you%20are%20able%20to%20create%20the%20future%20you%20seek.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
