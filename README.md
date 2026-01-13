@@ -44280,11 +44280,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Addair&quote=Everything%20you've%20ever%20wanted%20is%20on%20the%20other%20side%20of%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=It%20is%20our%20experiences%20that%20mold%20us%20into%20who%20we%20are...during%20times%20of%20adversity%20our%20true%20character%20will%20show.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
