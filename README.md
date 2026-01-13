@@ -44300,11 +44300,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=If%20the%20only%20prayer%20you%20ever%20say%20in%20your%20entire%20life%20is%20thank%20you%2C%20it%20will%20be%20enough.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Don't%20be%20afraid%20to%20stand%20for%20what%20you%20believe%20in%2C%20even%20if%20that%20means%20standing%20alone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
