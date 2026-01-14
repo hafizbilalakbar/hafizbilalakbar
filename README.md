@@ -44372,11 +44372,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=If%20you%20could%20kick%20the%20person%20in%20the%20pants%20responsible%20for%20most%20of%20your%20trouble%2C%20you%20wouldn't%20sit%20for%20a%20month.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Do%20not%20dwell%20in%20the%20past%2C%20do%20not%20dream%20of%20the%20future%2C%20concentrate%20the%20mind%20on%20the%20present%20moment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
