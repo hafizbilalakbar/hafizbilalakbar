@@ -44469,11 +44469,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=A.A.%20Milne&quote=You%20can't%20stay%20in%20your%20corner%20of%20the%20Forest%20waiting%20for%20others%20to%20come%20to%20you.%20You%20have%20to%20go%20to%20them%20sometimes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mahatma%20Gandhi&quote=Happiness%20is%20when%20what%20you%20think%2C%20what%20you%20say%2C%20and%20what%20you%20do%20are%20in%20harmony.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
