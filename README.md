@@ -44458,11 +44458,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=True%20wisdom%20comes%20to%20each%20of%20us%20when%20we%20realize%20how%20little%20we%20understand%20about%20life%2C%20ourselves%2C%20and%20the%20world%20around%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=The%20most%20important%20thing%20in%20communication%20is%20to%20hear%20what%20isn't%20being%20said.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
