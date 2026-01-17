@@ -44572,11 +44572,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=We%20are%20always%20complaining%20that%20our%20days%20are%20few%2C%20and%20acting%20as%20though%20there%20would%20be%20no%20end%20of%20them.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Never%20take%20your%20position%20for%20granted%20and%20never%20let%20any%20favors%20you%20receive%20go%20to%20your%20head.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
