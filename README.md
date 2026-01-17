@@ -44584,11 +44584,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=A%20zen%20master's%20life%20is%20one%20continuous%20mistake.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=Words%20are%20like%20Leaves%3B%20and%20where%20they%20most%20abound%2C%20Much%20Fruit%20of%20Sense%20beneath%20is%20rarely%20found.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
