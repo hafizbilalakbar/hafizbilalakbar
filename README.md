@@ -44562,11 +44562,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=If%20you%20want%20to%20be%20successful%2C%20find%20someone%20who%20has%20achieved%20the%20results%20you%20want%20and%20copy%20what%20they%20do%20and%20you'll%20achieve%20the%20same%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Kerouac&quote=Live%2C%20travel%2C%20adventure%2C%20bless%2C%20and%20don't%20be%20sorry.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
