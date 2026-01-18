@@ -44658,11 +44658,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Trying%20to%20predict%20the%20future%20is%20like%20trying%20to%20drive%20down%20a%20country%20road%20at%20night%20with%20no%20lights%20while%20looking%20out%20the%20back%20window.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Persistence%20is%20very%20important.%20You%20should%20not%20give%20up%20unless%20you%20are%20forced%20to%20give%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
