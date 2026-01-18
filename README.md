@@ -44640,11 +44640,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Money%20is%20only%20a%20tool.%20It%20will%20take%20you%20wherever%20you%20wish%2C%20but%20it%20will%20not%20replace%20you%20as%20the%20driver.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=Intelligence%20is%20the%20ability%20to%20adapt%20to%20change.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
