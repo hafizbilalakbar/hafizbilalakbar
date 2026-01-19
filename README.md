@@ -44728,11 +44728,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Instead%20of%20being%20intimidated%20by%20the%20limitations%2C%20be%20inspired%20to%20find%20new%20ways%20around%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20real%20measure%20of%20your%20wealth%20is%20how%20much%20you'd%20be%20worth%20if%20you%20lost%20all%20your%20money.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
