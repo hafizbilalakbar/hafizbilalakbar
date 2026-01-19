@@ -44732,11 +44732,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=Is%20it%20really%20possible%20to%20tell%20someone%20else%20what%20one%20feels%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=With%20the%20new%20day%20comes%20new%20strength%20and%20new%20thoughts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
