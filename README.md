@@ -44695,11 +44695,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=You%20don't%20have%20to%20control%20your%20thoughts%3B%20you%20just%20have%20to%20stop%20letting%20them%20control%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Successful%20people%20are%20always%20looking%20for%20opportunities%20to%20help%20others.%20Unsuccessful%20people%20are%20always%20asking%2C%20'What's%20in%20it%20for%20me%3F'&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
