@@ -44874,11 +44874,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=If%20you%20are%20not%20living%20each%20day%20with%20excitement%2C%20energy%2C%20and%20passion%2C%20then%20you%20are%20not%20living%20true%20to%20your%20life%20purpose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Darkness%20is%20the%20absence%20of%20light.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
