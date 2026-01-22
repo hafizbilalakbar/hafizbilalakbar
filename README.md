@@ -44867,11 +44867,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=The%20friend%20is%20the%20man%20who%20knows%20all%20about%20you%2C%20and%20still%20likes%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=Observe%20things%20as%20they%20are%20and%20don't%20pay%20attention%20to%20other%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
