@@ -45093,11 +45093,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Dylan&quote=When%20you've%20got%20nothing%2C%20you've%20got%20nothing%20to%20lose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=He%20who%20can%20no%20longer%20pause%20to%20wonder%20and%20stand%20rapt%20in%20awe%2C%20is%20as%20good%20as%20dead%3B%20his%20eyes%20are%20closed.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
