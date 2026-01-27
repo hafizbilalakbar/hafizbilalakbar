@@ -45187,11 +45187,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=You%20will%20never%20do%20anything%20in%20this%20world%20without%20courage.%20It%20is%20the%20greatest%20quality%20of%20the%20mind%20next%20to%20honor.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Just%20do%20what%20must%20be%20done.%20This%20may%20not%20be%20happiness%20but%20it%20is%20greatness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
