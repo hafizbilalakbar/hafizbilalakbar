@@ -45162,11 +45162,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=Make%20peace%20within%2C%20and%20there%20will%20be%20no%20one%20who%20can%20overcome%20you.%20And%20no%20one%20you%20will%20wish%20to%20overcome.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Anything%20you%20may%20hold%20firmly%20in%20your%20imagination%20can%20be%20yours.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
