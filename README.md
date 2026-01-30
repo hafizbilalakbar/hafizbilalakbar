@@ -45319,11 +45319,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=Every%20man's%20work%2C%20whether%20it%20be%20literature%20or%20music%20or%20pictures%20or%20architecture%20or%20anything%20else%2C%20is%20always%20a%20portrait%20of%20himself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Successful%20people%20appreciate%20where%20they%20have%20come%20from%2C%20but%20they%20don't%20let%20their%20past%20set%20the%20tone%20for%20their%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
