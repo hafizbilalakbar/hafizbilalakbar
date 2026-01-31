@@ -45346,11 +45346,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=Why%20fit%20in%20when%20you%20were%20born%20to%20stand%20out%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=Youth%20is%20happy%20because%20it%20has%20the%20ability%20to%20see%20beauty.%20Anyone%20who%20keeps%20the%20ability%20to%20see%20beauty%20never%20grows%20old.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
