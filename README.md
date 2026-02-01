@@ -45421,11 +45421,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=You%20are%20a%20function%20of%20what%20the%20whole%20universe%20is%20doing%20in%20the%20same%20way%20that%20a%20wave%20is%20a%20function%20of%20what%20the%20whole%20ocean%20is%20doing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Quality%20is%20not%20an%20act%2C%20it%20is%20a%20habit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
