@@ -45458,11 +45458,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=What%20we%20call%20the%20beginning%20is%20often%20the%20end.%20And%20to%20make%20an%20end%20is%20to%20make%20a%20beginning.%20The%20end%20is%20where%20we%20start%20from.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=Every%20act%20of%20creation%20is%20first%20an%20act%20of%20destruction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
