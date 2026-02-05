@@ -45523,11 +45523,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=Others%20have%20seen%20what%20is%20and%20asked%20why.%20I%20have%20seen%20what%20could%20be%20and%20asked%20why%20not&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=Just%20throw%20away%20all%20thoughts%20of%20imaginary%20things%2C%20and%20stand%20firm%20in%20that%20which%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
