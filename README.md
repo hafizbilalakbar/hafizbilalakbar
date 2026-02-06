@@ -45577,11 +45577,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=It%20is%20up%20to%20each%20of%20us%20to%20sing%20as%20we%20feel%20moved%20by%20the%20overall%20song%20of%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Excuses%20are%20the%20lies%20you%20convince%20yourself%20are%20true%20to%20avoid%20proving%20you%20are%20worthy%20of%20the%20gift%20you%20were%20given.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
