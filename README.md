@@ -45692,11 +45692,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=The%20man%20who%20asks%20a%20question%20is%20a%20fool%20for%20a%20minute%2C%20the%20man%20who%20does%20not%20ask%20is%20a%20fool%20for%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=He%20who%20cheats%20the%20earth%20will%20be%20cheated%20by%20the%20earth.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
