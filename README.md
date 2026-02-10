@@ -45717,11 +45717,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Washington&quote=Be%20courteous%20to%20all%2C%20but%20intimate%20with%20few%2C%20and%20let%20those%20few%20be%20well%20tried%20before%20you%20give%20them%20your%20confidence.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=Don't%20think%20money%20does%20everything%20or%20you%20are%20going%20to%20end%20up%20doing%20everything%20for%20money.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
