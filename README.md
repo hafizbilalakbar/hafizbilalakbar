@@ -45724,11 +45724,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Life%20is%20a%20challenge%2C%20meet%20it!%20Life%20is%20a%20dream%2C%20realize%20it!%20Life%20is%20a%20game%2C%20play%20it!%20Life%20is%20love%2C%20enjoy%20it!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Better%20a%20diamond%20with%20a%20flaw%20than%20a%20pebble%20without%20one.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
