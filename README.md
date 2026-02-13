@@ -45785,11 +45785,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=It%20is%20the%20power%20of%20the%20mind%20to%20be%20unconquerable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Believe%20in%20yourself!%20Have%20faith%20in%20your%20abilities!%20Without%20a%20humble%20but%20reasonable%20confidence%20in%20your%20own%20powers%20you%20cannot%20be%20successful%20or%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
