@@ -45831,11 +45831,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Do%20not%20ignore%20your%20gift.%20Your%20gift%20is%20the%20thing%20you%20do%20the%20absolute%20best%20with%20the%20least%20amount%20of%20effort.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Sometimes%20success%20isn't%20about%20making%20the%20right%20decision%2C%20it's%20more%20about%20making%20some%20decision.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
