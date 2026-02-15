@@ -45856,11 +45856,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=You%20don't%20need%20to%20be%20better%20than%20anyone%20else%2C%20you%20just%20need%20to%20be%20better%20than%20you%20used%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=To%20seek%20greatness%20is%20the%20only%20righteous%20vengeance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
