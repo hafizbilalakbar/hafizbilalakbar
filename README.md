@@ -45896,11 +45896,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Some%20of%20the%20greater%20things%20in%20life%20are%20unseen%3B%20that's%20why%20you%20close%20your%20eyes%20when%20you%20kiss%2C%20cry%2C%20or%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=The%20older%20you%20get%20the%20stronger%20the%20wind%20gets%20-%20and%20it's%20always%20in%20your%20face.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
