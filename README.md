@@ -45918,11 +45918,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Focus%20on%20how%20far%20you%20have%20come%20in%20life%20rather%20than%20looking%20at%20the%20accomplishments%20of%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=You%20must%20welcome%20change%20as%20the%20rule%20but%20not%20as%20your%20ruler.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
