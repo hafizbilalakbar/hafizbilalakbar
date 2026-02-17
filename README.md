@@ -45941,11 +45941,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=Keep%20your%20friends%20close%2C%20and%20your%20enemies%20closer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Cameron&quote=Hope%20is%20not%20a%20strategy.%20Luck%20is%20not%20a%20factor.%20Fear%20is%20not%20an%20option.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
