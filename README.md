@@ -45942,11 +45942,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Cameron&quote=Hope%20is%20not%20a%20strategy.%20Luck%20is%20not%20a%20factor.%20Fear%20is%20not%20an%20option.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Show%20kindness%20but%20never%20expect%20it.%20Show%20authenticity%20but%20never%20expect%20it.%20Only%20the%20wise%20are%20indifferent%20to%20things%20they%20can't%20control.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
