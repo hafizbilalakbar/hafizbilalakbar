@@ -45956,11 +45956,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=Never%20doubt%20that%20a%20small%20group%20of%20thoughtful%2C%20committed%20citizens%20can%20change%20the%20world%3B%20indeed%2C%20it's%20the%20only%20thing%20that%20ever%20has.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=When%20something%20comes%20from%20within%2C%20when%20it%20is%20a%20part%20of%20you%2C%20you%20have%20no%20choice%20but%20to%20live%20it%2C%20to%20express%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
