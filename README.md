@@ -46009,11 +46009,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=The%20purpose%20of%20life%20is%20the%20life%20of%20purpose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=If%20life%20is%20a%20video%20game%2C%20the%20graphics%20are%20great%2C%20but%20the%20plot%20is%20confusing%20and%20the%20tutorial%20is%20way%20too%20long.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
