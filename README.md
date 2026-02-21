@@ -46051,11 +46051,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=No%20matter%20who%20you%20are%2C%20we're%20creatures%20of%20habit.%20The%20better%20your%20habits%20are%2C%20the%20better%20they%20will%20be%20in%20pressure%20situations.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=St.%20Jerome&quote=Catch%2C%20then%2C%20O%20catch%20the%20transient%20hour%3B%20Improve%20each%20moment%20as%20it%20flies!%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
