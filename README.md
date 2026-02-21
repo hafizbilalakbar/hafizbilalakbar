@@ -46052,11 +46052,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=St.%20Jerome&quote=Catch%2C%20then%2C%20O%20catch%20the%20transient%20hour%3B%20Improve%20each%20moment%20as%20it%20flies!%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20McCandless&quote=When%20you%20want%20something%20in%20life%2C%20you%20just%20gotta%20reach%20out%20and%20grab%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
