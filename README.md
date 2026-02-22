@@ -46138,11 +46138,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=It%20is%20only%20depth%20of%20character%20that%20determines%20the%20profundity%20with%20which%20we%20face%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=The%20most%20difficult%20times%20for%20many%20of%20us%20are%20the%20ones%20we%20give%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
