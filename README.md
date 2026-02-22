@@ -46100,11 +46100,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=It%20is%20easy%20to%20love%20your%20friend%2C%20but%20sometimes%20the%20hardest%20lesson%20to%20learn%20is%20to%20love%20your%20enemy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=In%20order%20to%20control%20myself%20I%20must%20first%20accept%20myself%20by%20going%20with%20and%20not%20against%20my%20nature.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
