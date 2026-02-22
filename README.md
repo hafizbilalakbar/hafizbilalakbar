@@ -46096,11 +46096,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Some%20of%20the%20greater%20things%20in%20life%20are%20unseen%3B%20that's%20why%20you%20close%20your%20eyes%20when%20you%20kiss%2C%20cry%2C%20or%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Some%20changes%20look%20negative%20on%20the%20surface%20but%20you%20will%20soon%20realize%20that%20space%20is%20being%20created%20in%20your%20life%20for%20something%20new%20to%20emerge.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
