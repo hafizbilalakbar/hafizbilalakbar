@@ -46094,11 +46094,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=No%20man%20will%20make%20a%20great%20leader%20who%20wants%20to%20do%20it%20all%20himself%20or%20to%20get%20all%20the%20credit%20for%20doing%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=To%20himself%20everyone%20is%20immortal%3B%20he%20may%20know%20that%20he%20is%20going%20to%20die%2C%20but%20he%20can%20never%20know%20he%20is%20dead.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
