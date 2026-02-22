@@ -46101,11 +46101,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=In%20order%20to%20control%20myself%20I%20must%20first%20accept%20myself%20by%20going%20with%20and%20not%20against%20my%20nature.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=It%20is%20easier%20to%20fight%20for%20one's%20principles%20than%20to%20live%20up%20to%20them.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
