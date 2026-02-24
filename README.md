@@ -46186,11 +46186,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=If%20you%20practiced%20for%20the%20day%2C%20then%20you%20have%20won.%20If%20you%20were%20lazy%20for%20the%20day%2C%20then%20you%20have%20lost.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Every%20adversity%2C%20every%20failure%2C%20every%20heartbreak%2C%20carries%20with%20it%20the%20seed%20of%20an%20equal%20or%20greater%20benefit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
