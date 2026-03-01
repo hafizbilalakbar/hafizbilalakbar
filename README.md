@@ -46357,11 +46357,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Whitman&quote=I%20no%20doubt%20deserved%20my%20enemies%2C%20but%20I%20don't%20believe%20I%20deserved%20my%20friends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=The%20human%20mind%20defines%20things%20in%20relation%20to%20one%20another%20-%20without%20light%20the%20notion%20of%20darkness%20would%20be%20unintelligible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
