@@ -46531,11 +46531,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Heraclitus&quote=No%20man%20ever%20steps%20in%20the%20same%20river%20twice%2C%20for%20it's%20not%20the%20same%20river%20and%20he's%20not%20the%20same%20man.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=The%20truly%20rich%20men%20are%20the%20ones%20who%20have%20health%2C%20loved%20ones%20and%20a%20work%20they%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
