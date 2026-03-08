@@ -46650,11 +46650,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Kerouac&quote=Great%20things%20are%20not%20accomplished%20by%20those%20who%20yield%20to%20trends%20and%20fads%20and%20popular%20opinion.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Toni%20Morrison&quote=If%20there%20is%20a%20book%20that%20you%20want%20to%20read%2C%20but%20it%20hasn't%20been%20written%20yet%2C%20then%20you%20must%20write%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
