@@ -46640,11 +46640,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=If%20you%20think%20adventure%20is%20dangerous%2C%20try%20routine%3B%20it%20is%20lethal.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=It's%20beautiful%20to%20be%20alone.%20To%20be%20alone%20does%20not%20mean%20to%20be%20lonely.%20It%20means%20the%20mind%20is%20not%20influenced%20and%20contaminated%20by%20society.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
