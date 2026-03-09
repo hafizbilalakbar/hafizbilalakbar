@@ -46695,11 +46695,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=No%20valid%20plans%20for%20the%20future%20can%20be%20made%20by%20those%20who%20have%20no%20capacity%20for%20living%20now.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=The%20man%20who%20moved%20the%20mountain%20was%20the%20one%20who%20began%20carrying%20away%20the%20smallest%20stones.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
