@@ -46667,11 +46667,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Life%20is%20a%20gift.%20Never%20forget%20to%20enjoy%20and%20bask%20in%20every%20moment%20you%20are%20in.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=When%20people%20are%20free%20to%20do%20as%20they%20please%2C%20they%20usually%20imitate%20each%20other.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
