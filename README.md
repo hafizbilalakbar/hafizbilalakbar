@@ -46730,11 +46730,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=It%20doesn't%20matter%20where%20you%20are%2C%20you%20are%20nowhere%20compared%20to%20where%20you%20can%20go.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Think%20how%20really%20precious%20is%20the%20time%20you%20have%20to%20spend%2C%20whether%20it's%20at%20work%20or%20with%20your%20family.%20Every%20minute%20should%20be%20enjoyed%20and%20savored.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
