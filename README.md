@@ -46753,11 +46753,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Be%20brave%20enough%20to%20suck%20at%20something%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=We%20have%20to%20walk%20in%20a%20way%20that%20we%20only%20print%20peace%20and%20serenity%20on%20the%20Earth.%20Walk%20as%20if%20you%20are%20kissing%20the%20Earth%20with%20your%20feet.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
