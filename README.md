@@ -46788,11 +46788,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=All%20animals%20except%20man%20know%20that%20the%20principal%20business%20of%20life%20is%20to%20enjoy%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Tukey&quote=An%20approximate%20answer%20to%20the%20right%20question%20is%20worth%20a%20great%20deal%20more%20than%20a%20precise%20answer%20to%20the%20wrong%20question.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
