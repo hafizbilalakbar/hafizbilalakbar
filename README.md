@@ -46822,11 +46822,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=If%20you%20want%20to%20be%20happy%2C%20do%20not%20dwell%20in%20the%20past%2C%20do%20not%20worry%20about%20the%20future%2C%20focus%20on%20living%20fully%20in%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Every%20day%20is%20lost%20in%20which%20we%20do%20not%20learn%20something%20useful.%20Man%20has%20no%20nobler%20or%20more%20valuable%20possession%20than%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
