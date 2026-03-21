@@ -47076,11 +47076,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=You%20were%20put%20on%20this%20earth%20to%20achieve%20your%20greatest%20self%2C%20to%20live%20out%20your%20purpose%2C%20and%20to%20do%20it%20courageously.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Billie%20Jean%20King&quote=Natural%20talent%20only%20determines%20the%20limits%20of%20your%20athletic%20potential.%20It's%20dedication%20and%20a%20willingness%20to%20discipline%20your%20life%20that%20makes%20you%20great.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
