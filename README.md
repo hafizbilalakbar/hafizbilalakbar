@@ -47230,11 +47230,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=The%20constant%20assertion%20of%20belief%20is%20an%20indication%20of%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=Tall%20oaks%20grow%20from%20little%20acorns.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
