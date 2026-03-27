@@ -47240,11 +47240,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=You%20are%20not%20what%20you%20think%20you%20are%2C%20You%20are%20not%20what%20others%20think%20you%20are%2C%20You%20are%20what%20you%20think%20others%20think%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=The%20saddest%20aspect%20of%20life%20is%20that%20there%20is%20no%20one%20on%20earth%20whose%20happiness%20is%20such%20that%20he%20won't%20sometimes%20wish%20he%20were%20dead%20rather%20than%20alive.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
