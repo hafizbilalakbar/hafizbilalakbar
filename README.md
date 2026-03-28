@@ -47268,11 +47268,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Why%20compare%20yourself%20with%20others%3F%20No%20one%20in%20the%20entire%20world%20can%20do%20a%20better%20job%20of%20being%20you%20than%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Always%20show%20more%20kindness%20than%20seems%20necessary%20because%20the%20person%20receiving%20it%20needs%20it%20more%20than%20you%20will%20ever%20know.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
