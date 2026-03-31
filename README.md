@@ -47373,11 +47373,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=No%20man%20is%20free%20who%20is%20not%20master%20of%20himself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=it's%20important%20to%20make%20sure%20that%20we're%20talking%20with%20each%20other%20in%20a%20way%20that%20heals%2C%20not%20in%20a%20way%20that%20wounds.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
