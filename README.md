@@ -47444,11 +47444,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=You%20can%20often%20change%20your%20circumstances%20by%20changing%20your%20attitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rita%20Mae%20Brown&quote=Happiness%20is%20pretty%20simple%3A%20someone%20to%20love%2C%20something%20to%20do%2C%20something%20to%20look%20forward%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
