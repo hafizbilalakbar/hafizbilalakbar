@@ -47538,11 +47538,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20McCandless&quote=Don%C2%B4t%20hesitate%20or%20allow%20yourself%20to%20make%20excuses.%20Just%20get%20out%20and%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=The%20truth%20is%2C%20everyone%20is%20going%20to%20hurt%20you.%20You%20just%20got%20to%20find%20the%20ones%20worth%20suffering%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
