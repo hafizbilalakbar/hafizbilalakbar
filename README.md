@@ -47559,11 +47559,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=The%20secret%20of%20getting%20started%20is%20breaking%20your%20complex%2C%20overwhelming%20tasks%20into%20small%20manageable%20tasks%2C%20and%20then%20starting%20on%20the%20first%20one.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Your%20happiness%20is%20what%20truly%20matters%20most.%20Do%20what%20you%20have%20to%20do%20in%20order%20to%20be%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
