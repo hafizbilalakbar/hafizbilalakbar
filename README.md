@@ -47571,11 +47571,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Woody%20Allen&quote=Men%20learn%20to%20love%20the%20woman%20they%20are%20attracted%20to.%20Women%20learn%20to%20become%20attracted%20to%20the%20man%20they%20fall%20in%20love%20with.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sonia%20Ricotti&quote=Surrender%20to%20what%20is.%20Let%20go%20of%20what%20was.%20Have%20faith%20in%20what%20will%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
