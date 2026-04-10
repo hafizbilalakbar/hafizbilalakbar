@@ -47613,11 +47613,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Williams&quote=The%20world%20is%20open%20for%20play%2C%20everything%20and%20everybody%20is%20mockable%20in%20a%20wonderful%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Respect%20other%20people's%20feelings.%20It%20might%20mean%20nothing%20to%20you%2C%20but%20it%20could%20mean%20everything%20to%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
