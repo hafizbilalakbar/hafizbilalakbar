@@ -47610,11 +47610,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Heraclitus&quote=Life%20has%20the%20name%20of%20life%2C%20but%20in%20reality%20it%20is%20death.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=My%20guiding%20principle%20is%20this%3A%20Guilt%20is%20never%20to%20be%20doubted.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
