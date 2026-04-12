@@ -47667,11 +47667,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=It%20is%20the%20greatest%20of%20all%20mistakes%20to%20do%20nothing%20because%20you%20can%20only%20do%20little%3B%20do%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=The%20future%20will%20be%20shaped%20by%20those%20willing%20to%20commit%20their%20minds%20and%20their%20bodies%20to%20the%20task.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
