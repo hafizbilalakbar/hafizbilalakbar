@@ -47720,11 +47720,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=True%20wisdom%20comes%20to%20each%20of%20us%20when%20we%20realize%20how%20little%20we%20understand%20about%20life%2C%20ourselves%2C%20and%20the%20world%20around%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Your%20vision%20will%20become%20clear%20only%20when%20you%20can%20look%20into%20your%20own%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
