@@ -47748,11 +47748,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Frost&quote=Half%20the%20world%20is%20composed%20of%20people%20who%20have%20something%20to%20say%20and%20can't%2C%20and%20the%20other%20half%20who%20have%20nothing%20to%20say%20and%20keep%20on%20saying%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=Not%20all%20of%20us%20can%20do%20great%20things.%20But%20we%20can%20do%20small%20things%20with%20great%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
