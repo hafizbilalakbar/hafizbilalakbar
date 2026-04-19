@@ -47834,11 +47834,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=What%20the%20eye%20doesn't%20see%20and%20the%20mind%20doesn't%20know%2C%20doesn't%20exist.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Patience%20expands%20your%20options.%20If%20you%20insist%20on%20immediate%20gratification%2C%20your%20choices%20are%20severely%20limited.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
