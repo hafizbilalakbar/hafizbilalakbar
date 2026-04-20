@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/linkedin%20cover.png" alt="MasterHead" style="width: 100%; max-width: 100%;" />
+<img src="[https://raw.githubusercontent.com/malikbilalakbar125/malikbilalakbar125/main/Recient%20Projects/linkedin%20cover.png](https://raw.githubusercontent.com/hafizbilalakbar/hafizbilalakbar/refs/heads/main/Recient%20Projects/linkedin%20cover.jpg)" alt="MasterHead" style="width: 100%; max-width: 100%;" />
 </div>
 
 <h1 align="center" style="font-size: 2em; margin: 0;">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, Welcome to my GitHub!</h1>
