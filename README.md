@@ -47852,11 +47852,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=When%20you%20reach%20the%20top%20of%20the%20mountain%2C%20keep%20climbing.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=Life%20is%20what%20happens%20to%20you%20while%20you're%20busy%20making%20other%20plans.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
