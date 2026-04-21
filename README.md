@@ -47872,11 +47872,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Everything%20that%20is%20made%20beautiful%20and%20fair%20and%20lovely%20is%20made%20for%20the%20eye%20of%20one%20who%20sees.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Hendrixson&quote=Anyone%20who%20has%20ever%20made%20anything%20of%20importance%20was%20disciplined.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
