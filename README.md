@@ -95547,13 +95547,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 <h2 align="center">🤝 Connect With Me 🤝</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hafizbilalakbar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"></a>
-<a href="https://www.facebook.com/hafizbilalakbr/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"></a>
-<a href="https://instagram.com/hafizbilalakbr/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"></a>
-<a href="https://wa.me/923103180385" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/whatsapp-business-icon.png" height="40"></a>
-<a href="https://twitter.com/hafizbilalakbar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40"></a>
-<a href="https://replit.com/@hafizbilalakbar/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMkKd78cldC7LqWfHcXPI7MptFGF4WB8adh_oA46HFb7Yx6h91KNqS0LjqLnp7OfTC8k&usqp=CAU" height="35"></a>
-<a href="mailto:malikbilalakbar1@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40"></a>
+<a href="https://www.linkedin.com/in/hafizbilalakbar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/hafizbilalakbr/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/hafizbilalakbr/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"></a>&nbsp;&nbsp;
+<a href="https://wa.me/923103180385" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/whatsapp-business-icon.png" height="40"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/hafizbilalakbar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40"></a>&nbsp;&nbsp;
+<a href="https://replit.com/@hafizbilalakbar/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMkKd78cldC7LqWfHcXPI7MptFGF4WB8adh_oA46HFb7Yx6h91KNqS0LjqLnp7OfTC8k&usqp=CAU" height="35"></a>&nbsp;&nbsp;
+<a href="mailto:malikbilalakbar1@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@hafizbilalakbar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40"></a>
 </p>
 
