@@ -47911,11 +47911,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=The%20more%20perfect%20a%20person%20is%20on%20the%20outside%2C%20the%20more%20demons%20they%20have%20on%20the%20inside.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Swindoll&quote=We%20are%20all%20faced%20with%20a%20series%20of%20great%20opportunities%20brilliantly%20disguised%20as%20impossible%20situations.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
