@@ -47954,11 +47954,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=Wise%20men%20speak%20because%20they%20have%20something%20to%20say%3B%20Fools%20because%20they%20have%20to%20say%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=The%20man%20who%20asks%20a%20question%20is%20a%20fool%20for%20a%20minute%2C%20the%20man%20who%20does%20not%20ask%20is%20a%20fool%20for%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
