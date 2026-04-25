@@ -47941,11 +47941,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.%20Clement%20Stone&quote=Definiteness%20of%20purpose%20is%20the%20starting%20point%20of%20all%20achievement.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Brown&quote=The%20decisions%20of%20our%20past%20are%20the%20architects%20of%20our%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
