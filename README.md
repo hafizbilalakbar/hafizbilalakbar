@@ -48036,11 +48036,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=If%20you%20try%20to%20get%20rid%20of%20fear%20and%20anger%20without%20knowing%20their%20meaning%2C%20they%20will%20grow%20stronger%20and%20return.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Trust%20is%20the%20glue%20that%20holds%20people%20together%20and%20is%20the%20lubricant%20that%20keeps%20an%20organization%20moving%20forward.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
