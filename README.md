@@ -48040,11 +48040,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Judy%20Garland&quote=If%20you%20have%20to%20be%20in%20a%20soap%20opera%20try%20not%20to%20be%20cast%20in%20the%20worst%20role.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=The%20quicker%20you%20let%20go%20of%20old%20cheese%2C%20the%20sooner%20you%20find%20new%20cheese.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
