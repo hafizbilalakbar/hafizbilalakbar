@@ -48097,11 +48097,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Surround%20yourself%20with%20people%20who%20take%20their%20work%20seriously%2C%20but%20not%20themselves%2C%20those%20who%20work%20hard%20and%20play%20hard.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=When%20obstacles%20arise%2C%20you%20change%20your%20direction%20to%20reach%20your%20goal%3B%20you%20do%20not%20change%20your%20decision%20to%20get%20there.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
