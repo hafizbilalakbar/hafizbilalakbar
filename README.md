@@ -48103,11 +48103,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Collier&quote=Any%20thought%20that%20is%20passed%20on%20to%20the%20subconscious%20often%20enough%20and%20convincingly%20enough%20is%20finally%20accepted.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=Develop%20success%20from%20failures.%20Discouragement%20and%20failure%20are%20two%20of%20the%20surest%20stepping%20stones%20to%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
