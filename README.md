@@ -48279,11 +48279,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Just%20because%20you%20are%20happy%20it%20does%20not%20mean%20that%20the%20day%20is%20perfect%20but%20that%20you%20have%20looked%20beyond%20its%20imperfections.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Your%20purpose%20will%20be%20clear%20only%20when%20you%20listen%20to%20your%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
