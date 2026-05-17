@@ -48305,11 +48305,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=The%20greatest%20discovery%20of%20all%20time%20is%20that%20a%20person%20can%20change%20their%20future%20by%20merely%20changing%20their%20attitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Everyone%20wants%20to%20go%20to%20Heaven%2C%20but%20no%20one%20wants%20to%20die.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
