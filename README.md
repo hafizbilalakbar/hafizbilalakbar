@@ -48320,11 +48320,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=We%20may%20not%20be%20able%20to%20stop%20evil%20in%20the%20world%2C%20but%20how%20we%20treat%20one%20another%20is%20entirely%20up%20to%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=There%20is%20no%20failure%20except%20in%20no%20longer%20trying.%20There%20is%20no%20defeat%20except%20from%20within%2C%20no%20insurmountable%20barrier%20except%20our%20own%20inherent%20weakness%20of%20purpose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
