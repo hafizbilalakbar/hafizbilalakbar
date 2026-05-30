@@ -48454,11 +48454,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=When%20you%20are%20tempted%20to%20give%20up%2C%20your%20breakthrough%20is%20probably%20just%20around%20the%20corner.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Happiness%20is%20an%20effect%20of%20doing%20what%20you%20love%2C%20not%20an%20end%20goal%20to%20be%20achieved.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
