@@ -48480,11 +48480,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Cultivate%20the%20merry%20heart%2C%20develop%20the%20happiness%20habit%2C%20and%20life%20will%20become%20a%20continual%20feast.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=A%20leader%20is%20best%20when%20people%20barely%20know%20he%20exists%2C%20when%20his%20work%20is%20done%2C%20his%20aim%20fulfilled%2C%20they%20will%20say%3A%20we%20did%20it%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
