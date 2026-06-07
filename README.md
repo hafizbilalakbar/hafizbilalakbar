@@ -48525,11 +48525,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=Everything%20you%20look%20at%20can%20become%20a%20fairy%20tale%20and%20you%20can%20get%20a%20story%20from%20everything%20you%20touch.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=A%20flower%20falls%2C%20even%20though%20we%20love%20it%3B%20and%20a%20weed%20grows%2C%20even%20though%20we%20do%20not%20love%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
