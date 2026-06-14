@@ -48605,11 +48605,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=When%20you%20consider%20things%20like%20the%20stars%2C%20our%20affairs%20don't%20seem%20to%20matter%20very%20much%2C%20do%20they%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=My%20actions%20are%20my%20only%20true%20belongings.%20I%20cannot%20escape%20the%20consequences%20of%20my%20actions.%20My%20actions%20are%20the%20ground%20upon%20which%20I%20stand.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
