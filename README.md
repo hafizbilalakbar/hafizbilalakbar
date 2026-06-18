@@ -48629,11 +48629,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=If%20you%20want%20something%20new%2C%20you%20have%20to%20stop%20doing%20something%20old.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=Darkness%20cannot%20drive%20out%20darkness%3B%20only%20light%20can%20do%20that.%20Hate%20cannot%20drive%20out%20hate%3B%20only%20love%20can%20do%20that.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
