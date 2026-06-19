@@ -48636,11 +48636,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=If%20you%20are%20depressed%2C%20you%20are%20living%20in%20the%20past.%20If%20you%20are%20anxious%2C%20you%20are%20living%20in%20the%20future.%20if%20you%20are%20at%20peace%2C%20you%20are%20living%20in%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=Opportunity%20is%20missed%20by%20most%20people%20because%20it%20is%20dressed%20in%20overalls%20and%20looks%20like%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
