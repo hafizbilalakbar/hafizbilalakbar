@@ -48648,11 +48648,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=He%20who%20can%20no%20longer%20pause%20to%20wonder%20and%20stand%20rapt%20in%20awe%2C%20is%20as%20good%20as%20dead%3B%20his%20eyes%20are%20closed.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Your%20happiness%20is%20what%20truly%20matters%20most.%20Do%20what%20you%20have%20to%20do%20in%20order%20to%20be%20happy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
