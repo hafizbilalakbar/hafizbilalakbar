@@ -48646,11 +48646,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Only%20by%20attracting%20the%20best%20people%20will%20you%20accomplish%20great%20deeds.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=You%20are%20the%20only%20problem%20you%20will%20ever%20have%20and%20you%20are%20the%20only%20solution.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
