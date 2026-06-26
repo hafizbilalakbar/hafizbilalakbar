@@ -48709,11 +48709,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=If%20you%20change%20the%20way%20you%20look%20at%20things%2C%20the%20things%20you%20look%20at%20change.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=Living%20a%20life%20that%20has%20a%20greater%20purpose%20and%20living%20up%20to%20it%20is%20the%20ultimate%20degree%20that%20we%20should%20strive%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
