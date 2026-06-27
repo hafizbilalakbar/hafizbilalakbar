@@ -48723,11 +48723,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=True%20wisdom%20comes%20to%20each%20of%20us%20when%20we%20realize%20how%20little%20we%20understand%20about%20life%2C%20ourselves%2C%20and%20the%20world%20around%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=Not%20doing%20it%20is%20certainly%20the%20best%20way%20to%20not%20getting%20it.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
