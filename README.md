@@ -48841,11 +48841,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=Only%20those%20who%20dare%20to%20fail%20greatly%20can%20ever%20achieve%20greatly.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=It's%20easy%20to%20wish%20for%20health%20when%20you're%20sick.%20%20When%20you're%20doing%20well%2C%20you%20need%20just%20as%20much%20vigilance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
