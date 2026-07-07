@@ -48852,11 +48852,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=Just%20as%20true%20humor%20is%20laughter%20at%20oneself%2C%20true%20humanity%20is%20knowledge%20of%20oneself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Presents%20are%20made%20for%20the%20pleasure%20of%20who%20gives%20them%2C%20not%20the%20merits%20of%20who%20receives%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
