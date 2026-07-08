@@ -48865,11 +48865,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=Everything%20starts%20with%20a%20dream.%20A%20particle%20of%20our%20imagination%20that%20teases%20us%20of%20what%20the%20future%20could%20be%20like%2C%20as%20long%20as%20we%20fight%20for%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=Nothing%20you%20do%20is%20going%20to%20matter%20that%20much%20in%20the%20long%20run.%20Don't%20take%20yourself%20so%20seriously.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
