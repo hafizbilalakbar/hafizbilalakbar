@@ -48872,11 +48872,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Most%20people%20dabble%20their%20way%20through%20life%2C%20never%20deciding%20to%20master%20anything%20in%20particular.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=The%20first%20man%20gets%20the%20oyster%2C%20the%20second%20man%20gets%20the%20shell.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
