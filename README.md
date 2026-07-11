@@ -48899,11 +48899,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Sometimes%20success%20isn't%20about%20making%20the%20right%20decision%2C%20it's%20more%20about%20making%20some%20decision.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=The%20idea%20of%20ourselves%20is%20our%20escape%20from%20the%20fact%20of%20what%20we%20really%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
