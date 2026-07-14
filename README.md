@@ -48953,11 +48953,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Spurgeon&quote=Our%20anxiety%20does%20not%20empty%20tomorrow%20of%20its%20sorrows%2C%20but%20only%20empties%20today%20of%20its%20strengths.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Successful%20people%20are%20always%20looking%20for%20opportunities%20to%20help%20others.%20Unsuccessful%20people%20are%20always%20asking%2C%20'What's%20in%20it%20for%20me%3F'&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
