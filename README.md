@@ -48948,11 +48948,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Having%20lots%20of%20money%20while%20not%20having%20inner%20peace%20is%20like%20dying%20of%20thirst%20while%20bathing%20in%20the%20ocean.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=People%20who%20belittle%20people%2C%20will%20be%20LITTLE%20people%2C%20and%20will%20accomplish%20very%20Little&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
