@@ -48979,11 +48979,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rita%20Mae%20Brown&quote=Happiness%20is%20pretty%20simple%3A%20someone%20to%20love%2C%20something%20to%20do%2C%20something%20to%20look%20forward%20to.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gustave%20Flaubert&quote=There%20is%20no%20truth.%20There%20is%20only%20perception.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
