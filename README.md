@@ -49052,11 +49052,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=If%20you%20want%20to%20be%20happy%2C%20do%20not%20dwell%20in%20the%20past%2C%20do%20not%20worry%20about%20the%20future%2C%20focus%20on%20living%20fully%20in%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=Often%20we%20pass%20beside%20happiness%20without%20seeing%20it%2C%20without%20looking%20at%20it%2C%20or%20even%20if%20we%20have%20seen%20and%20looked%20at%20it%2C%20without%20recognizing%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
