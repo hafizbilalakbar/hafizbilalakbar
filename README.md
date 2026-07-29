@@ -49168,11 +49168,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=If%20you%20practiced%20for%20the%20day%2C%20then%20you%20have%20won.%20If%20you%20were%20lazy%20for%20the%20day%2C%20then%20you%20have%20lost.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Memory%20is%20the%20scribe%20of%20the%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
