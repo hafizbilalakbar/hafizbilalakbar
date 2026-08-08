@@ -49330,11 +49330,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Instead%20of%20worrying%20about%20what%20you%20cannot%20control%2C%20shift%20your%20energy%20to%20what%20you%20can%20create.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Find%20the%20game%20where%20you%20can%20win%2C%20and%20then%20commit%20your%20life%20to%20playing%20it%3B%20and%20play%20to%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
