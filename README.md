@@ -49452,11 +49452,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bette%20Midler&quote=Find%20your%20Light%3B%20They%20can't%20love%20you%20if%20they%20can't%20see%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=Dreams%20have%20only%20one%20owner%20at%20a%20time.%20That's%20why%20dreamers%20are%20lonely.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
