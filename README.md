@@ -49451,11 +49451,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Rest%20when%20you're%20weary.%20Refresh%20and%20renew%20yourself%2C%20your%20body%2C%20your%20mind%2C%20your%20spirit.%20Then%20get%20back%20to%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bette%20Midler&quote=Find%20your%20Light%3B%20They%20can't%20love%20you%20if%20they%20can't%20see%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
