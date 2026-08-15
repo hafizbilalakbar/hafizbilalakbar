@@ -49507,11 +49507,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Nothing%20gives%20one%20person%20so%20much%20advantage%20over%20another%20as%20to%20remain%20always%20cool%20and%20unruffled%20under%20all%20circumstances.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Move%20out%20of%20your%20comfort%20zone.%20You%20can%20only%20grow%20if%20you%20are%20willing%20to%20feel%20awkward%20and%20uncomfortable%20when%20you%20try%20something%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
