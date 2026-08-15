@@ -49539,11 +49539,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=If%20you%20realize%20that%20you're%20the%20problem%2C%20then%20you%20can%20change%20yourself%2C%20learn%20something%20and%20grow%20wiser.%20Don't%20blame%20other%20people%20for%20your%20problems.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carol%20Burnett&quote=When%20you%20have%20a%20dream%2C%20you've%20got%20to%20grab%20it%20and%20never%20let%20go.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
