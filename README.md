@@ -49523,11 +49523,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=A%20man%20is%20great%20not%20because%20he%20hasn't%20failed%3B%20a%20man%20is%20great%20because%20failure%20hasn't%20stopped%20him.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=Adventure%20is%20worthwhile%20in%20itself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
