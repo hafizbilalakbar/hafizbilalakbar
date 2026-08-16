@@ -49583,11 +49583,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=Never%20be%20afraid%20to%20raise%20your%20voice%20for%20honesty%20and%20truth%20and%20compassion%20against%20injustice%20and%20lying%20and%20greed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Normality%20is%20a%20paved%20road%3A%20It's%20comfortable%20to%20walk%2C%20but%20no%20flowers%20grow%20on%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
