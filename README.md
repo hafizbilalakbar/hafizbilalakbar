@@ -49670,11 +49670,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Your%20heart%20is%20the%20size%20of%20an%20ocean.%20Go%20find%20yourself%20in%20its%20hidden%20depths.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=All%20men%20who%20have%20achieved%20great%20things%20have%20been%20great%20dreamers.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
