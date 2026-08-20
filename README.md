@@ -49800,11 +49800,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=Be%20kind%2C%20for%20everyone%20you%20meet%20is%20fighting%20a%20harder%20battle.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=When%20a%20man%20is%20penalized%20for%20honesty%20he%20learns%20to%20lie.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
