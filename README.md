@@ -49824,11 +49824,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Move%20out%20of%20your%20comfort%20zone.%20You%20can%20only%20grow%20if%20you%20are%20willing%20to%20feel%20awkward%20and%20uncomfortable%20when%20you%20try%20something%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=Many%20have%20died%3B%20you%20also%20will%20die.%20The%20drum%20of%20death%20is%20being%20beaten.%20The%20world%20has%20fallen%20in%20love%20with%20a%20dream.%20Only%20sayings%20of%20the%20wise%20will%20remain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
