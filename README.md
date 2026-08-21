@@ -49823,11 +49823,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Forget%20mistakes.%20Forget%20failure.%20Forget%20everything%20except%20what%20you%20are%20going%20to%20do%20now%20and%20do%20it.%20Today%20is%20your%20lucky%20day!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Move%20out%20of%20your%20comfort%20zone.%20You%20can%20only%20grow%20if%20you%20are%20willing%20to%20feel%20awkward%20and%20uncomfortable%20when%20you%20try%20something%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
