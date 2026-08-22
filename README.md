@@ -49882,11 +49882,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franklin%20D.%20Roosevelt&quote=When%20you%20reach%20the%20end%20of%20your%20rope%2C%20tie%20a%20knot%20in%20it%20and%20hang%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Mastery%20is%20not%20a%20function%20of%20genius%20or%20talent%2C%20it%20is%20a%20function%20of%20time%20and%20intense%20focus%20applied%20to%20a%20particular%20field%20of%20knowledge.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
