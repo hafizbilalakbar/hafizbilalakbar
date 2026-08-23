@@ -49916,11 +49916,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=Men%20trust%20their%20ears%20less%20than%20their%20eyes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=If%20I%20cannot%20do%20great%20things.%20I%20can%20do%20small%20things%20in%20a%20great%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
