@@ -49989,11 +49989,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=If%20anything%20is%20worth%20doing%2C%20do%20it%20with%20all%20your%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Many%20people%20spend%20more%20time%20looking%20at%20their%20failures%20than%20focusing%20on%20their%20successes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
