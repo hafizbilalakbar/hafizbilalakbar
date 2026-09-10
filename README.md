@@ -50162,11 +50162,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=One%20reason%20so%20few%20of%20us%20achieve%20what%20we%20truly%20want%20is%20that%20we%20never%20direct%20our%20focus%3B%20we%20never%20concentrate%20our%20power.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=I%20didn't%20get%20there%20by%20wishing%20for%20it%20or%20hoping%20for%20it%2C%20but%20by%20working%20for%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
