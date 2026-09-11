@@ -50164,11 +50164,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Wrong%20turns%20are%20as%20important%20as%20right%20turns.%20More%20important%2C%20sometimes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=I%20will%20love%20the%20light%20for%20it%20shows%20me%20the%20way%2C%20yet%20I%20will%20endure%20the%20darkness%20because%20it%20shows%20me%20the%20stars.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
