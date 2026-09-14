@@ -50190,11 +50190,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=You%20can't%20make%20someone%20feel%20good%20about%20themselves%20until%20you%20feel%20good%20about%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kenji%20Miyazawa&quote=We%20must%20embrace%20pain%20and%20burn%20it%20as%20fuel%20for%20our%20journey.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
