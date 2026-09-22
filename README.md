@@ -50242,11 +50242,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20is%20our%20choices%20that%20show%20what%20we%20truly%20are%2C%20far%20more%20than%20our%20abilities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=If%20you%20are%20depressed%2C%20you%20are%20living%20in%20the%20past.%20If%20you%20are%20anxious%2C%20you%20are%20living%20in%20the%20future.%20if%20you%20are%20at%20peace%2C%20you%20are%20living%20in%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
