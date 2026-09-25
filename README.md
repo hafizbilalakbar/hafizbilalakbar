@@ -50260,11 +50260,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=My%20sun%20sets%20to%20rise%20again.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=Death%20is%20as%20sure%20for%20that%20which%20is%20born%2C%20as%20birth%20is%20for%20that%20which%20is%20dead.%20Therefore%20grieve%20not%20for%20what%20is%20inevitable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
