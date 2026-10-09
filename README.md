@@ -50331,11 +50331,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Think%20how%20really%20precious%20is%20the%20time%20you%20have%20to%20spend%2C%20whether%20it's%20at%20work%20or%20with%20your%20family.%20Every%20minute%20should%20be%20enjoyed%20and%20savored.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Your%20time%20is%20limited%2C%20so%20don't%20waste%20it%20living%20someone%20elses.%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
