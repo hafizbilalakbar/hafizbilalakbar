@@ -50383,11 +50383,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=We%20never%20know%20the%20love%20of%20a%20parent%20till%20we%20become%20parents%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Don't%20put%20off%20living%20to%20next%20week%2C%20next%20month%2C%20next%20year%20or%20next%20decade.%20The%20only%20time%20you're%20ever%20living%20is%20in%20this%20moment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
