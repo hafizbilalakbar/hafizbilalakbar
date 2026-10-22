@@ -50406,11 +50406,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=If%20you're%20waiting%20until%20you%20feel%20talented%20enough%20to%20make%20it%2C%20you'll%20never%20make%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=What's%20obvious%20to%20you%20isn't%20obvious%20to%20most%20people.%20Operate%20from%20this%20perspective%20and%20you'll%20help%20more%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
