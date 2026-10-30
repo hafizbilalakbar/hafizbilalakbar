@@ -50454,11 +50454,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=Do%20not%20look%20for%20a%20sanctuary%20in%20anyone%20except%20your%20self.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Every%20traveler%20has%20a%20home%20of%20his%20own%2C%20and%20he%20learns%20to%20appreciate%20it%20the%20more%20from%20his%20wandering.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
