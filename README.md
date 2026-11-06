@@ -50485,11 +50485,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=It%20is%20dangerous%20to%20be%20right%20in%20matters%20on%20which%20the%20established%20authorities%20are%20wrong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Excuses%20are%20the%20lies%20you%20convince%20yourself%20are%20true%20to%20avoid%20proving%20you%20are%20worthy%20of%20the%20gift%20you%20were%20given.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
