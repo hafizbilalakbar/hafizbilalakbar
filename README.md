@@ -50497,11 +50497,13 @@ I am a **Full‑Stack Engineer & E‑Commerce Specialist** with expertise across
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=You%20were%20born%20to%20win%2C%20but%20to%20be%20a%20winner%2C%20you%20must%20plan%20to%20win%2C%20prepare%20to%20win%2C%20expect%20to%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=The%20salvation%20of%20the%20world%20lies%20in%20the%20human%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
